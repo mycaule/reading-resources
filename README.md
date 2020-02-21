@@ -1,5 +1,5 @@
 # reading-resources
-My Favorites for Software Eng.
+My Favorites for Software Eng. Collected from 10 years in the software industry.
 
 #### Things to watch in 2020
 
