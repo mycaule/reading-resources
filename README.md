@@ -25,7 +25,7 @@ Long-term goal to become an open platform for machine learning research based on
 - [x] [ActiveState/gococo](https://github.com/ActiveState/gococo) contains interesting instructions to load a SavedModel directly from a Go application
 - [x] [hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition): latest advances in text detection and recognition with open source implementations
 - [x] Using a similar Tensorflow approach at Airbnb : [1](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3), [2](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
-- [x] [TensorFlow: Data and Deployment DeepLearning.AI specialization](https://www.deeplearning.ai/tensorflow-data-and-deployment/): course #1 on training and running Tensorflow.js is usable for a rearchitecture, course #2, week2 on running TFLite from Kotlin in the JVM is a way we can reuse SavedModels without Tensorflow Serving
+- [x] [TensorFlow: Data and Deployment DeepLearning.AI specialization](https://www.deeplearning.ai/tensorflow-data-and-deployment/): course #1 on training and running Tensorflow.js is usable for a rearchitecture, course #2, week2 on running TFLite from Kotlin in the JVM is a way to reuse SavedModels without Tensorflow Serving
 - [x] [Lex Friedman @ MIT - Deep Learning State of the Art 2020](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 - [x] [Zillow - Improving the home selling & buying experience by containerizing ML deployments](https://www.zillow.com/tech/containerizing-ml-deployments/)
 - [x] [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/learn/data-pipelines-tensorflow)
@@ -40,7 +40,7 @@ Long-term goal to become an open platform for machine learning research based on
 
 ##### November 2019
 
-- [x] [Tencent ML Images / Dictionary and semantic hierarchy](https://github.com/Tencent/tencent-ml-images/blob/master/data/dictionary_and_semantic_hierarchy.txt) lists the categories that can be predicted by the `/v1/image-tags` endpoint
+- [x] [Tencent ML Images / Dictionary and semantic hierarchy](https://github.com/Tencent/tencent-ml-images/blob/master/data/dictionary_and_semantic_hierarchy.txt)
 - [x] [Tensorflow / TensorFlow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker) and [AWS Deep Learning AMI / Tensorflow Serving](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-tfserving.html) to have alternatives ways to run Tensorflow serving locally or on AWS
 - [x] [TensorBoard.dev](https://tensorboard.dev/) to share experiments results with stakeholders and project managers.
 - [x] [Chrome Extension - URL Rewriter](https://chrome.google.com/webstore/detail/url-rewriter/gpbblpbcnjdnnjdcdclojoonfmpoionh)
