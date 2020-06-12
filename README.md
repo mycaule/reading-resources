@@ -4,10 +4,6 @@ Some pointers to read about Software engineering.
 
 Collected over 10 years in the software industry.
 
-#### Things to watch in 2020
-
-##### Online courses
-
 #### Videos and Blog posts collection
 
 ##### June 2020
