@@ -13,7 +13,7 @@ Collected over 10 years in the software industry.
 ##### June 2020
 
 - [x] [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than in details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
-- [ ] [Github actions documentation](https://help.github.com/en/actions): 
+- [ ] [Github actions documentation](https://help.github.com/en/actions): is now very mature can help automate some of the things I collected on GitHub and replace old CI systems
 
 ##### May 2020
 
@@ -22,6 +22,8 @@ Collected over 10 years in the software industry.
 ##### April 2020
 
 - Corey Schafer video tutorials on Python subjects [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
+- [James Powell talks at PyData](https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL) highlights some of the powerful specifics of Python 3, decorators, context manager etc.
+- French research labs INRIA also have interesting courses on techniques they use in biostatistics [Recherche reproductible](https://www.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/info), [Python 3](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/info) emphases research versus software engineering
 
 ##### March 2020
 
