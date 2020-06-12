@@ -17,12 +17,16 @@ Collected over 10 years in the software industry.
 
 ##### May 2020
 
+- [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) covers all the aspects of using Kubernetes in a professional way, has plenty of hands-on labs and code samples to practice.
+
 ##### April 2020
+
+- Corey Schafer video tutorials on Python subjects [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 ##### March 2020
 
 - [Stéphane Mallat @ Collège de France - Modèles multi-échelles et réseaux de neurones convolutifs](https://www.college-de-france.fr/site/stephane-mallat/course-2019-2020.htm): third consecutive year of expert class to be held weekly about Deep Learning
-- Deep Learning courses @ MIT 2020](https://deeplearning.mit.edu/), the introduction course State of the Art is the most interesting one every year
+- [Deep Learning courses @ MIT 2020](https://deeplearning.mit.edu/), the introduction course State of the Art is the most interesting one every year
 
 ##### February 2020
 
