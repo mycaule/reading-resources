@@ -34,7 +34,6 @@ Collected over 10 years in the software industry.
 
 - [`photoprism/photoprism`](https://github.com/photoprism/photoprism): Photo Management app powered by Go and TensorFlow. 
 Long-term goal to become an open platform for machine learning research based on real-world photo collections.
-- [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow)
 
 ##### January 2020
 
