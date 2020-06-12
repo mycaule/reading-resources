@@ -5,10 +5,20 @@ My Favorites for Software Eng. Collected from 10 years in the software industry.
 
 ##### Online courses
 
-- [x] [Stéphane Mallat @ Collège de France - Modèles multi-échelles et réseaux de neurones convolutifs](https://www.college-de-france.fr/site/stephane-mallat/course-2019-2020.htm): third consecutive year of expert class to be held weekly about Deep Learning
-- [x] [Deep Learning courses at MIT 2020](https://deeplearning.mit.edu/), the introduction course State of the Art is the most interesting one every year
-
 #### Videos and Blog posts collection
+
+##### June 2020
+
+- [x] [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than in details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
+
+##### May 2020
+
+##### April 2020
+
+##### March 2020
+
+- [x] [Stéphane Mallat @ Collège de France - Modèles multi-échelles et réseaux de neurones convolutifs](https://www.college-de-france.fr/site/stephane-mallat/course-2019-2020.htm): third consecutive year of expert class to be held weekly about Deep Learning
+- [x] [Deep Learning courses @ MIT 2020](https://deeplearning.mit.edu/), the introduction course State of the Art is the most interesting one every year
 
 ##### February 2020
 
