@@ -8,8 +8,8 @@ Collected over 10 years in the software industry.
 
 ##### June 2020
 
-- [x] [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than in details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
-- [ ] [Github actions documentation](https://help.github.com/en/actions): is now very mature can help automate some of the things I collected on GitHub and replace old CI systems
+- [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than in details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
+- [Github actions documentation](https://help.github.com/en/actions): is now very mature can help automate some of the things I collected on GitHub and replace old CI systems. Especially it can be used for [ML operations](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/)
 
 ##### May 2020
 
