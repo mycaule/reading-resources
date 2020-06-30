@@ -60,7 +60,7 @@ Long-term goal to become an open platform for machine learning research based on
 - [TensorBoard.dev](https://tensorboard.dev/) to share experiments results with stakeholders and project managers.
 - [Chrome Extension - URL Rewriter](https://chrome.google.com/webstore/detail/url-rewriter/gpbblpbcnjdnnjdcdclojoonfmpoionh)
 - [Jonathan Krause / Stanford - Cars dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
-- Inspiring open source initiatives in our area [Deezer](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e), [Google Jigsaw](https://medium.com/the-false-positive/creating-labeled-datasets-and-exploring-the-role-of-human-raters-56367b6db298)
+- Inspiring open source initiatives: [Deezer](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e), [Google Jigsaw](https://medium.com/the-false-positive/creating-labeled-datasets-and-exploring-the-role-of-human-raters-56367b6db298)
 
 ##### September 2019
 - [Pierre Courtiol @ Collège de France - S'attaquer à une compétition de machine learning](https://www.college-de-france.fr/site/stephane-mallat/seminar-2018-02-21-11h15.htm) about tricks to make models perform better and win Kaggle competitions
