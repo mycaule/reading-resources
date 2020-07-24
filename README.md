@@ -10,7 +10,7 @@ Collected over 10 years in the software industry.
 
 ##### July
 
-- Kubeflow on GCP AI Platform: [`GoogleCloudPlatform/mlops-on-gcp/`](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/) has sample bootstrap project of using Kubeflow Pipelines and Argo Workflow. [YouTube cast](https://www.youtube.com/watch?v=qx7MLcbCo5g)
+- [`GoogleCloudPlatform/mlops-on-gcp/`](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/) has sample bootstrap project of using Kubeflow Pipelines and Argo Workflow. See also [YouTube cast](https://www.youtube.com/watch?v=qx7MLcbCo5g) and the [Pipelines SDK](https://www.kubeflow.org/docs/pipelines/sdk/sdk-overview/)
 
 ##### June
 
