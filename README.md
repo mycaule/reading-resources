@@ -10,8 +10,7 @@ Collected over 10 years in the software industry.
 
 ##### July
 
-- [Kubeflow on GCP] https://www.youtube.com/watch?v=qx7MLcbCo5g, https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/kfp-caip-sklearn/lab-02-kfp-pipeline
-
+- Kubeflow on GCP AI Platform: [`GoogleCloudPlatform/mlops-on-gcp/`](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/) has sample bootstrap project of using Kubeflow Pipelines and Argo Workflow. [YouTube cast](https://www.youtube.com/watch?v=qx7MLcbCo5g)
 
 ##### June
 
