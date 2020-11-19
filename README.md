@@ -8,6 +8,16 @@ Collected over 10 years in the software industry.
 
 #### 2020
 
+
+##### November
+
+- [Open Fisca](https://openfisca.org/fr) and [Etalab repository](https://github.com/etalab)
+
+##### October
+
+- BigQuery book
+- a16z [emerging architecture](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+
 ##### July
 
 - [`GoogleCloudPlatform/mlops-on-gcp/`](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/) has sample bootstrap project of using Kubeflow Pipelines and Argo Workflow. See also [YouTube cast](https://www.youtube.com/watch?v=qx7MLcbCo5g) and the [Pipelines SDK](https://www.kubeflow.org/docs/pipelines/sdk/sdk-overview/)
