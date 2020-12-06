@@ -1029,5 +1029,6 @@ Long-term goal to become an open platform for machine learning research based on
 
 ### References
 
-- https://www.goodreads.com
-- https://github.com/mycaule?tab=stars
+- https://www.goodreads.com/api/index#shelves.list
+- https://api.github.com/users/mycaule/starred?page=9&per_page=100
+- https://getpocket.com/developer/docs/v3/retrieve
