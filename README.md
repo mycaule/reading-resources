@@ -82,7 +82,6 @@ Long-term goal to become an open platform for machine learning research based on
 - [Tensorflow / TensorFlow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker) and [AWS Deep Learning AMI / Tensorflow Serving](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-tfserving.html) to have alternatives ways to run Tensorflow serving locally or on AWS
 - [TensorBoard.dev](https://tensorboard.dev/) to share experiments results with stakeholders and project managers.
 - [Chrome Extension - URL Rewriter](https://chrome.google.com/webstore/detail/url-rewriter/gpbblpbcnjdnnjdcdclojoonfmpoionh)
-- [Jonathan Krause / Stanford - Cars dataset](https://ai.stanford.edu/~jkrause/cars/car_dataset.html)
 - Inspiring open source initiatives: [Deezer](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e), [Google Jigsaw](https://medium.com/the-false-positive/creating-labeled-datasets-and-exploring-the-role-of-human-raters-56367b6db298)
 
 ##### September
