@@ -2,7 +2,19 @@
 
 Some useful pointers for Software engineers. Collected over 10 years in the software industry.
 
+### Talks
+
+- https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22
+- https://gist.github.com/mycaule/39356443c267c0743253282044da16c0
+- https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63
+
 ### Posts and Webapps
+
+#### 2021 Objectives
+
+- Follow Lex Fridman Annual state of the art talk
+- Read "Machine Learning Design Patterns", pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
+- Update my blog with [interesting contents](https://mycaule.github.io) based on what is written here and on my gists
 
 #### 2020
 
