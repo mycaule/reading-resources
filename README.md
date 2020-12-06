@@ -107,6 +107,18 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2016
 
+##### December 
+- [Kevin van Zonneveld - Bash best practices](https://kvz.io/bash-best-practices.html)
+
+##### June
+
+- [Vincent Driessen - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Peter Cottle - Learn git branching](https://learngitbranching.js.org)
+
+##### January
+
+- [Jonathan Boyer - Comprendre Git](https://www.grafikart.fr/formations/git)
+
 #### 2015
 
 #### 2014
