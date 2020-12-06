@@ -110,6 +110,7 @@ Long-term goal to become an open platform for machine learning research based on
 ##### June
 
 - [Vincent Driessen - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Peter Cottle - Learn git branching](https://learngitbranching.js.org)
 
 ##### January
 
