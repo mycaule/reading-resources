@@ -117,6 +117,13 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2011
 
+- Steve McConnell - Code complete
+- Martin Fowler - Refactoring
+- Herb Sutter - Exceptional C++
+- Andrew Hunt - The Pragmatic Programmer
+- [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
+- [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
+
 ### Books
 
 <div align="center">
