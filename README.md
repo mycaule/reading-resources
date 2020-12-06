@@ -88,6 +88,22 @@ Long-term goal to become an open platform for machine learning research based on
 - [Guillaume Desgens-Pasanau @ CNAM - Protection des données personnelles](https://www.fun-mooc.fr/courses/course-v1:CNAM+01032+session02/about) about applying GDPR laws as engineers.
 - [Jeroen Janssens - Data science at the command line](https://www.datascienceatthecommandline.com/).
 
+#### 2018
+
+#### 2017
+
+#### 2016
+
+#### 2015
+
+#### 2014
+
+#### 2013
+
+#### 2012
+
+#### 2011
+
 ### Books
 
 <div align="center">
