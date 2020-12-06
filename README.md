@@ -110,6 +110,14 @@ Long-term goal to become an open platform for machine learning research based on
   <a href="https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294497489l/6593810.jpg" width=100 alt="Lipovaca"/></a> 
 </div>
 
+<div align="center">
+  <a href="https://www.goodreads.com/book/show/13541678-functional-programming-in-scala"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331755294l/13541678.jpg" width=100 alt="Bjarnason"/></a>
+  <a href="https://www.goodreads.com/book/show/28129434-les-coulisses-de-la-cr-ation"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449559205l/28129434._SY475_.jpg" width=100 alt="Villani"/></a>
+  <a href="https://www.goodreads.com/book/show/36654771-th-or-me-vivant"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511553346l/36654771._SX318_.jpg" width=100 alt="Villani"/></a>
+  <a href="https://www.goodreads.com/book/show/814670.On_Painting"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327302825l/814670.jpg" width=100 alt="Alberti"/></a>
+  <a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348133732l/627206.jpg" width=100 alt="Edwards"/></a> 
+</div>
+
 ### Interesting GitHub repos
 
 <details>
