@@ -1,6 +1,6 @@
 ## Big reading log
 
-Some pointers to read for Software engineers. Collected over 10 years in the software industry.
+Some useful pointers for Software engineers. Collected over 10 years in the software industry.
 
 ### Posts and Webapps
 
