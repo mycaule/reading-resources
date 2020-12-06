@@ -119,7 +119,7 @@ Long-term goal to become an open platform for machine learning research based on
 </div>
 
 <div align="center">
-  <a href="https://www.goodreads.com/book/show/114841.Innovation_and_Entrepreneurship"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387707623l/114841.jpg" width=100 alt="Drucker"/></a>
+  <a href="https://www.goodreads.com/book/show/48021.Innovation_and_Entrepreneurship"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388250744l/48021.jpg" width=100 alt="Drucker"/></a>
   <a href="https://www.goodreads.com/book/show/1784809.L_il_et_l_Esprit"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356109828l/1784809.jpg" width=100 alt="Merleau-Ponty"/></a>
   <a href="https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415816873l/23463279.jpg" width=100 alt="Kleppman"/></a>
   <a href="https://www.goodreads.com/book/show/17623632-functional-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369869527l/17623632.jpg" width=100 alt="Fogus"/></a>
