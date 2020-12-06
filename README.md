@@ -117,6 +117,11 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2011
 
+- Steve McConnell - Code complete
+- Martin Fowler - Refactoring
+- Herb Sutter - Exceptional C++
+- Andrew Hunt - The Pragmatic Programmer
+
 ### Books
 
 <div align="center">
