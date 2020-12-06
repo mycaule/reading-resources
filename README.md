@@ -2,6 +2,11 @@
 
 Some useful pointers for Software engineers. Collected over 10 years in the software industry.
 
+### Why?
+
+- To keep track of helpful resources I have referred to during my career
+- To help my fellow young colleagues learn quickly
+
 ### Talks
 
 - https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22
@@ -102,6 +107,8 @@ Long-term goal to become an open platform for machine learning research based on
 - [Jeroen Janssens - Data science at the command line](https://www.datascienceatthecommandline.com/).
 
 #### 2018
+
+[Spotify Engineering Culture](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/) ([part1](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part2](https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/))
 
 #### 2017
 
