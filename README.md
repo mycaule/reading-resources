@@ -91,6 +91,13 @@ Long-term goal to become an open platform for machine learning research based on
 - [Guillaume Desgens-Pasanau @ CNAM - Protection des données personnelles](https://www.fun-mooc.fr/courses/course-v1:CNAM+01032+session02/about) about applying GDPR laws as engineers.
 - [Jeroen Janssens - Data science at the command line](https://www.datascienceatthecommandline.com/).
 
+### Books for Software Engineers
+
+<div align="center">
+  <a href="https://www.goodreads.com/book/show/1633.Getting_Things_Done"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633.jpg" width=150 alt="Allen"/></a>
+</div>
+
+
 ### Interesting GitHub repos
 
 <details>
