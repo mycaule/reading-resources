@@ -8,14 +8,19 @@ Collected over 10 years in the software industry.
 
 #### 2020
 
+##### December
+
+- [Google Analytics academy](https://analytics.google.com/analytics/academy/) online course to keep on track with Google Analytics
+- [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 
 ##### November
 
-- [Open Fisca](https://openfisca.org/fr) and [Etalab repository](https://github.com/etalab)
+- [Open Fisca](https://openfisca.org/fr), [Etalab repository](https://github.com/etalab) and [Github for governments](https://government.github.com/community/) has plenty of resources for checking open source governmental algorithms
 
 ##### October
 
-- BigQuery book
+- [BigQuery book](https://www.goodreads.com/book/show/50204627-google-bigquery)
+- [dbt](https://www.getdbt.com) is a cool modern tool to manage datawarehouse pipelines saving nights of headaches
 - a16z [emerging architecture](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ##### July
