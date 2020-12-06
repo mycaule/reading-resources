@@ -2,7 +2,7 @@
 
 Some pointers to read for Software engineers. Collected over 10 years in the software industry.
 
-### Videos and Blog posts
+### Posts and Webapps
 
 #### 2020
 
@@ -164,7 +164,15 @@ Long-term goal to become an open platform for machine learning research based on
   <a href="https://www.goodreads.com/book/show/9744812-flourish"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435373984l/9744812._SX318_.jpg" width=100 alt="Seligman"/></a> 
 </div>
 
-### GitHub repos
+### Repos
+
+#### JavaScript
+
+#### Spark
+
+#### Tensorflow
+
+#### CLI
 
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
