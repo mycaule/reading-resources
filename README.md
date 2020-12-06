@@ -118,6 +118,30 @@ Long-term goal to become an open platform for machine learning research based on
   <a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348133732l/627206.jpg" width=100 alt="Edwards"/></a> 
 </div>
 
+<div align="center">
+  <a href="https://www.goodreads.com/book/show/114841.Innovation_and_Entrepreneurship"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387707623l/114841.jpg" width=100 alt="Drucker"/></a>
+  <a href="https://www.goodreads.com/book/show/1784809.L_il_et_l_Esprit"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356109828l/1784809.jpg" width=100 alt="Merleau-Ponty"/></a>
+  <a href="https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415816873l/23463279.jpg" width=100 alt="Kleppman"/></a>
+  <a href="https://www.goodreads.com/book/show/17623632-functional-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369869527l/17623632.jpg" width=100 alt="Fogus"/></a>
+  <a href="https://www.goodreads.com/book/show/36264010-l-art"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766677l/36264010._SX318_.jpg" width=100 alt="Rodin"/></a> 
+</div>
+
+<div align="center">
+  <a href="https://www.goodreads.com/book/show/6654728-de-la-division-du-travail-social"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377449262l/6654728.jpg" width=100 alt="Durkheim"/></a>
+  <a href="https://www.goodreads.com/book/show/27968891-site-reliability-engineering"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459115220l/27968891.jpg" width=100 alt="Beyer"/></a>
+  <a href="https://www.goodreads.com/book/show/11095533-lost-in-management"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330373890l/11095533.jpg" width=100 alt="Dupuy"/></a>
+  <a href="https://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738602l/8913542.jpg" width=100 alt="Chang"/></a>
+  <a href="https://www.goodreads.com/book/show/36502238-le-ons-de-danse-le-ons-de-vie"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509357303l/36502238._SY475_.jpg" width=100 alt="Byars"/></a> 
+</div>
+
+<div align="center">
+  <a href="https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072.jpg" width=100 alt="Covey"/></a>
+  <a href="https://www.goodreads.com/book/show/32296102-advanced-analytics-with-spark"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489056291l/32296102.jpg" width=100 alt="Ryza"/></a>
+  <a href="https://www.goodreads.com/book/show/29094511-amazon-web-services-in-action"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455470628l/29094511._SX318_.jpg" width=100 alt="Wittig"/></a>
+  <a href="https://www.goodreads.com/book/show/17573570-java-se8-for-the-really-impatient"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387767521l/17573570.jpg" width=100 alt="Horstmann"/></a>
+  <a href="https://www.goodreads.com/book/show/36647421-learning-how-to-learn"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511443712l/36647421._SY475_.jpg" width=100 alt="Oakley"/></a> 
+</div>
+
 ### Interesting GitHub repos
 
 <details>
