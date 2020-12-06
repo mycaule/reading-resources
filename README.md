@@ -1,4 +1,4 @@
-## Favorite reading resources
+## Big reading log
 
 Some pointers to read for Software engineers. Collected over 10 years in the software industry.
 
