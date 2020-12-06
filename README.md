@@ -113,6 +113,8 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2013
 
+- [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics)
+
 #### 2012
 
 #### 2011
