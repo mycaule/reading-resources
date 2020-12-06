@@ -97,10 +97,17 @@ Long-term goal to become an open platform for machine learning research based on
   <a href="https://www.goodreads.com/book/show/1633.Getting_Things_Done"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633.jpg" width=100 alt="Allen"/></a>
   <a href="https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431877962l/22404360._SX318_.jpg" width=100 alt="Hunt"/></a>
   <a href="https://www.goodreads.com/book/show/955406.Exceptional_C_"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348375990l/955406.jpg" width=100 alt="Sutter"/></a>
-  <a href="https://www.goodreads.com/book/show/2028395.Applied_Geometry_for_Computer_Graphics_and_CAD"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348778346l/2028395.jpg" width=100 alt="Sutter"/></a>
-  <a href="https://www.goodreads.com/book/show/8910666-eloquent-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308260856l/8910666.jpg" width=100 alt="Sutter"/></a>
-  
-  
+  <a href="https://www.goodreads.com/book/show/2028395.Applied_Geometry_for_Computer_Graphics_and_CAD"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348778346l/2028395.jpg" width=100 alt="Marsh"/></a>
+  <a href="https://www.goodreads.com/book/show/8910666-eloquent-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308260856l/8910666.jpg" width=100 alt="Haverbeke"/></a> 
+</div>
+
+
+<div align="center">
+  <a href="https://www.goodreads.com/book/show/8520610-quiet"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610.jpg" width=100 alt="Cain"/></a>
+  <a href="https://www.goodreads.com/book/show/44936.Refactoring"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg" width=100 alt="Fowler"/></a>
+  <a href="https://www.goodreads.com/book/show/4845.Code_Complete"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845.jpg" width=100 alt="McConnell"/></a>
+  <a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442460745l/840._SY475_.jpg" width=100 alt="Norman"/></a>
+  <a href="https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294497489l/6593810.jpg" width=100 alt="Lipovaca"/></a> 
 </div>
 
 ### Interesting GitHub repos
