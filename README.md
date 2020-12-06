@@ -7,6 +7,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22
 - https://gist.github.com/mycaule/39356443c267c0743253282044da16c0
 - https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63
+- https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69
 
 ### Posts and Webapps
 
