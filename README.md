@@ -1,10 +1,8 @@
-# Favorite reading resources
+## Favorite reading resources
 
-Some pointers to read about Software engineering. 
+Some pointers to read for Software engineers. Collected over 10 years in the software industry.
 
-Collected over 10 years in the software industry.
-
-### Videos and Blog posts collection
+### Videos and Blog posts
 
 #### 2020
 
@@ -90,7 +88,7 @@ Long-term goal to become an open platform for machine learning research based on
 - [Guillaume Desgens-Pasanau @ CNAM - Protection des données personnelles](https://www.fun-mooc.fr/courses/course-v1:CNAM+01032+session02/about) about applying GDPR laws as engineers.
 - [Jeroen Janssens - Data science at the command line](https://www.datascienceatthecommandline.com/).
 
-### Books for Software Engineers
+### Books
 
 <div align="center">
   <a href="https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401077636l/20821304.jpg" width=100 alt="Oettingen"/></a>
@@ -153,9 +151,11 @@ Long-term goal to become an open platform for machine learning research based on
   <a href="https://www.goodreads.com/book/show/9744812-flourish"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435373984l/9744812._SX318_.jpg" width=100 alt="Seligman"/></a> 
 </div>
 
-### Interesting GitHub repos
+### GitHub repos
 
-<details>
-Clean some of the 600+ links already collected
-Extract using the GitHub API https://github.com/mycaule?tab=stars
-</details>
+
+
+### References
+
+- https://www.goodreads.com
+- https://github.com/mycaule?tab=stars
