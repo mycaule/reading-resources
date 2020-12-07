@@ -144,12 +144,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [SvgCharts4Xsl](http://franklinefrancis.github.com/SvgCharts4Xsl/), one of the first charting library for the web, it doesn't use JavaScript!
 - Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 - [Generating Word documents](http://sebsauvage.net/wiki/doku.php?id=word_document_generation) from XML was one of my concern, I also had to deal with [RTF files](http://latex2rtf.sourceforge.net/rtfspec_6.html)
-- Some civil engineering softwares that were inspirational but that I never really used [Straticad](https://www.terrasol.fr/catalogue/straticad-v2), [Code ASTER]http://www.code-aster.org/V2/spip.php?article180), [GDM](http://gdm.brgm.fr/)
+- Some civil engineering softwares that were inspirational but that I never really used [Straticad](https://www.terrasol.fr/catalogue/straticad-v2), [Code ASTER](http://www.code-aster.org/V2/spip.php?article180), [GDM](http://gdm.brgm.fr/)
 - [French - English](http://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/) translations for EXCEL formulas, helpful as finding help in English is far more easier, and if your employer locks you with a French operating system
 - Some online dictionary for STEM: [Dico BTP](http://www.editions-eyrolles.com/Dico-BTP), [Grand dictionnaire terminologique](http://www.granddictionnaire.com/)
 - [Wolfram Alpha](http://www.wolframalpha.com/) was the most impressive website for me as I was from a STEM background and it was one of the first computation intensive cloud experience
 - [RATP](http://www.ratp.fr/itineraires/fr/ratp/quartier/plan) had lightweight maps for Paris. Very cool if you didn't want to use Google Maps or Mappy.
-- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheel [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html)
+- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheels [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html)
 - [Secure share](https://securesha.re/) interesting 0-server file-sharing website
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
 
