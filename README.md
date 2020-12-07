@@ -15,7 +15,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 - Follow Lex Fridman Annual state of the art talk
 - Read "Machine Learning Design Patterns", pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
-- Update my blog with [interesting contents](https://mycaule.github.io) based on what is written here and on my gists
+- Update my blog with interesting contents based on what is written here and on my gists
 
 #### 2020
 
