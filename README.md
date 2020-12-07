@@ -27,7 +27,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 ##### December
 
 - [Google Analytics academy](https://analytics.google.com/analytics/academy/) online course to keep on track with Google Analytics
-- [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), there is also a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [Slack Deletron](https://slackdeletron.com)
 
 ##### November
 
