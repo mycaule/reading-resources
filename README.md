@@ -19,7 +19,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 #### 2021 Objectives
 
 - Follow Lex Fridman Annual state of the art talk
-- Read "Machine Learning Design Patterns", pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
+- Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is written here and on my gists
 
 #### 2020
