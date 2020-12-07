@@ -123,55 +123,39 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2014
 
-http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
-http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html
-http://steve-yegge.blogspot.fr/2006/09/good-agile-bad-agile_27.html
-http://paulgraham.com/ambitious.html
-http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake+on+lan
-
-http://benchmarksgame.alioth.debian.org/
-http://dofactory.com/Patterns/Patterns.aspx
-http://epplus.codeplex.com/
-http://ethanschoonover.com/solarized
-http://explainshell.com/
-http://franklinefrancis.github.com/SvgCharts4Xsl/
-http://gdm.brgm.fr/
-http://latex2rtf.sourceforge.net/rtfspec_6.html
-http://laurent.champaney.free.fr/perso/cours.html
-http://learnyouahaskell.com/modules
-http://mms2.ensmp.fr/ressources/ens_polycopies.php
-http://rvelthuis.de/articles/articles-cppobjs.html
-http://sebsauvage.net/wiki/doku.php?id=word_document_generation
-http://simpledesktops.com/
-http://www.altays-progiciels.com/clicnjob/SNCF/
-http://www.code-aster.org/V2/spip.php?article180
-http://www.colorschemer.com/online.html
-http://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/
-http://www.delphibasics.co.uk/
-http://www.editions-eyrolles.com/Dico-BTP/index.html
-http://www.granddictionnaire.com/btml/fra/r_motclef/index800_1.asp
-http://www.mathtools.net/
-http://www.merriam-webster.com/
-http://www.ratp.fr/itineraires/fr/ratp/quartier/plan
-http://www.sessions.edu/color-calculator
-http://www.terrasol.fr/fr/logiciels/logiciels-dao/straticad
-http://www.w3schools.com/
-http://www.wolframalpha.com/
-https://gomockingbird.com/
-https://securesha.re/
+- [Steve Yegge - Good Agile, Bad Agile](http://steve-yegge.blogspot.fr/2006/09/good-agile-bad-agile_27.html) on the trend companies using Agile as a buzzword and not doing it seriously
+- [Paul Graham](http://paulgraham.com/ambitious.html) from Y Combinator wrote a list of startup ideas
+- [WakeOnLAN](http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake+on+lan) is useful for desktop computers you want to use as servers or screenboards only at business hours, you can combine it with `crontab`.
+- [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) compares language and tells who has the fastest implementations of different classical algorithms
+- [Solarized theme](http://ethanschoonover.com/solarized) is awesome, at that time screen were more eye aggressive, using this and [f.lux](https://justgetflux.com) helped a lot. [Simple Desktops](http://simpledesktops.com/) had cool distraction-free wallpapers.
+- [Explain shell](http://explainshell.com/) provides explanation for Bash one liners
+- [SvgCharts4Xsl](http://franklinefrancis.github.com/SvgCharts4Xsl/), one of the first charting library for the web, it doesn't use JavaScript!
+- Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
+- [Generating Word documents](http://sebsauvage.net/wiki/doku.php?id=word_document_generation) from XML was one of my concern, I also had to deal with [RTF files](http://latex2rtf.sourceforge.net/rtfspec_6.html)
+- Some civil engineering softwares that were inspirational but that I never really used [Straticad](https://www.terrasol.fr/catalogue/straticad-v2), [Code ASTER]http://www.code-aster.org/V2/spip.php?article180), [GDM](http://gdm.brgm.fr/)
+- [French - English](http://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/) translations for EXCEL formulas, helpful as finding help in English is far more easier, and if your employer locks you with a French operating system
+- Some online dictionary for STEM: [Dico BTP](http://www.editions-eyrolles.com/Dico-BTP), [Grand dictionnaire terminologique](http://www.granddictionnaire.com/)
+- [Wolfram Alpha](http://www.wolframalpha.com/) was the most impressive website for me as I was from a STEM background and it was one of the first computation intensive cloud experience
+- [RATP](http://www.ratp.fr/itineraires/fr/ratp/quartier/plan) had lightweight maps for Paris. Very cool if you didn't want to use Google Maps or Mappy.
+- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheel [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html)
+- [Secure share](https://securesha.re/) interesting 0-server file-sharing website
+- [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
 
 #### 2013
 
-- [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics)
+- Two articles on the difficulty on being a software engineer, at that time I didn't really want to choose a software career path. [Patrick McKenzie - Don't Call Yourself A Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), [Jeff Atwood - So You Don't Want to be a Programmer After All](http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html).
+- Some Delphi links for the musuem, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
+- [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 
 #### 2012
+
+- Martin Fowler - Refactoring
+- Andrew Hunt - The Pragmatic Programmer
 
 #### 2011
 
 - Steve McConnell - Code complete
-- Martin Fowler - Refactoring
 - Herb Sutter - Exceptional C++
-- Andrew Hunt - The Pragmatic Programmer
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
 
