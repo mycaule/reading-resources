@@ -20,14 +20,14 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 - Follow Lex Fridman Annual state of the art talk
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
-- Update my blog with interesting contents based on what is written here and on my gists
+- Update my blog with interesting contents based on what is here and my gists
 
 #### 2020
 
 ##### December
 
 - [Google Analytics academy](https://analytics.google.com/analytics/academy/) online course to keep on track with Google Analytics
-- [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), there is also a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 
 ##### November
 
@@ -37,7 +37,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 - [BigQuery book](https://www.goodreads.com/book/show/50204627-google-bigquery)
 - [dbt](https://www.getdbt.com) is a cool modern tool to manage datawarehouse pipelines saving nights of headaches
-- a16z [emerging architecture](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+- a16z [emerging data architectures](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
 ##### July
 
@@ -45,17 +45,17 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 ##### June
 
-- [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than in details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
+- [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than the details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
 - [Github actions documentation](https://help.github.com/en/actions): is now very mature can help automate some of the things I collected on GitHub and replace old CI systems. Especially it can be used for [ML operations](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/) see [YouTube cast](https://www.youtube.com/watch?v=Ll50l3fsoYs) and [`actions-ml-cicd`](https://github.com/machine-learning-apps/actions-ml-cicd)
 
 ##### May
 
-- [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) covers all the aspects of using Kubernetes in a professional way, has plenty of hands-on labs and code samples to practice.
+- [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) covers all the aspects of using Kubernetes in a professional context, has plenty of hands-on labs and code samples to practice.
 
 ##### April
 
 - Corey Schafer video tutorials on Python subjects [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
-- [James Powell talks at PyData](https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL) highlights some of the powerful specifics of Python 3, decorators, context manager etc.
+- [James Powell talks at PyData](https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL) highlights some of the powerful specifics of Python 3, decorators, context managers etc.
 - French research labs INRIA also have interesting courses on techniques they use in biostatistics [Recherche reproductible](https://www.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/info), [Python 3](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/info) emphases research versus software engineering
 
 ##### March
@@ -66,7 +66,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 ##### February
 
 - [`photoprism/photoprism`](https://github.com/photoprism/photoprism): Photo Management app powered by Go and TensorFlow. 
-Long-term goal to become an open platform for machine learning research based on real-world photo collections.
+Their long-term goal is to become an open platform for machine learning research based on real-world photo collections.
 
 ##### January
 
