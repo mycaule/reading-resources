@@ -121,6 +121,11 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2015
 
+- Node.js resources: [nodejs.org](http://nodejs.org/), [Lodash](http://lodash.com/), [Passport](http://passportjs.org/)
+- [Twitter Bootstrap](http://getbootstrap.com/)
+- Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
+- French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
+
 #### 2014
 
 #### 2013
