@@ -108,7 +108,7 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2018
 
-[Spotify Engineering Culture](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/) ([part1](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part2](https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/))
+- Spotify Engineering Culture ([part1](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part2](https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/))
 
 #### 2017
 
