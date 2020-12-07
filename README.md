@@ -21,6 +21,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - Follow Lex Fridman Annual state of the art talk
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
+- Write a small project in Go language using one of the libraries below
 
 #### 2020
 
@@ -248,9 +249,11 @@ TODO: mind map for when to use what languages
 - [`ant-design/ant-design`](https://github.com/ant-design/ant-design)
 - [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
 - [`appbaseio/reactivesearch`](https://github.com/appbaseio/reactivesearch)
+- [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
+- [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -272,6 +275,7 @@ TODO: mind map for when to use what languages
 - [`Algiras/Game-Sandbox`](https://github.com/Algiras/Game-Sandbox)
 - [`alvinj/ScalaApacheAccessLogParser`](https://github.com/alvinj/ScalaApacheAccessLogParser)
 - [`amplab/succinct`](https://github.com/amplab/succinct)
+- [`ashwinbhaskar/functional-way`](https://github.com/ashwinbhaskar/functional-way)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -280,6 +284,10 @@ TODO: mind map for when to use what languages
 - [`aliyun/aliyun-emapreduce-datasources`](https://github.com/aliyun/aliyun-emapreduce-datasources)
 - [`apache/predictionio`](https://github.com/apache/predictionio)
 - [`apache/spark`](https://github.com/apache/spark)
+- [`awesome-spark/learn-by-examples`](https://github.com/awesome-spark/learn-by-examples)
+- [`awesome-spark/spark-gotchas`](https://github.com/awesome-spark/spark-gotchas)
+- [`awslabs/deequ`](https://github.com/awslabs/deequ)
+- [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
 
 #### Python
 - [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
@@ -293,17 +301,29 @@ TODO: mind map for when to use what languages
 - [`apache/incubator-mxnet`](https://github.com/apache/incubator-mxnet)
 - [`apache/incubator-superset`](https://github.com/apache/incubator-superset)
 - [`argman/EAST`](https://github.com/argman/EAST)
+- [`astronomer/airflow-guides`](https://github.com/astronomer/airflow-guides)
+- [`austin-taylor/code-vault`](https://github.com/austin-taylor/code-vault)
+- [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
+- [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
+- [`aws/chalice`](https://github.com/aws/chalice)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
 - [`ahkarami/Deep-Learning-in-Production`](https://github.com/ahkarami/Deep-Learning-in-Production)
 - [`Amin-Tgz/awesome-tensorflow-2`](https://github.com/Amin-Tgz/awesome-tensorflow-2)
+- [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
 
 #### Go and other hot languages
 
 - [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
 - [`ActiveState/gococo`](https://github.com/ActiveState/gococo)
 - [`alda-lang/alda`](https://github.com/alda-lang/alda)
+- [`argoproj/argo`](https://github.com/argoproj/argo)
+- [`arschles/go-in-5-minutes`](https://github.com/arschles/go-in-5-minutes)
+- [`astaxie/beego`](https://github.com/astaxie/beego)
+- [`atom-archive/xray`](https://github.com/atom-archive/xray)
+- [`avelino/awesome-go`](https://github.com/avelino/awesome-go)
+- [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
 
 #### Java
 - [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
@@ -312,6 +332,10 @@ TODO: mind map for when to use what languages
 - [`apache/druid`](https://github.com/apache/druid)
 - [`apache/incubator-pinot`](https://github.com/apache/incubator-pinot)
 - [`apache/tinkerpop`](https://github.com/apache/tinkerpop)
+- [`aws/aws-sdk-java`](https://github.com/aws/aws-sdk-java)
+- [`aws/aws-sdk-java-v2`](https://github.com/aws/aws-sdk-java-v2)
+- [`awslabs/multi-model-server`](https://github.com/awslabs/multi-model-server)
+- [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
 
 #### Self-development
 
@@ -321,12 +345,23 @@ TODO: mind map for when to use what languages
 
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
+- [`astralapp/astral`](https://github.com/astralapp/astral)
 
 #### DevOps
 
 - [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
 - [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
 - [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
+- [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [`aws-samples/ecs-refarch-cloudformation`](https://github.com/aws-samples/ecs-refarch-cloudformation)
+- [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
+- [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
+- [`aws/aws-sam-cli`](https://github.com/aws/aws-sam-cli)
+- [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
+- [`awsdocs/aws-doc-sdk-examples`](https://github.com/awsdocs/aws-doc-sdk-examples)
+- [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
+- [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
+- [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
 
 #### CLI
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
@@ -336,47 +371,9 @@ TODO: mind map for when to use what languages
 - [`alex000kim/nsfw_data_scraper`](https://github.com/alex000kim/nsfw_data_scraper)
 - [`alexellis/mine-with-docker`](https://github.com/alexellis/mine-with-docker)
 - [`andmarti1424/sc-im`](https://github.com/andmarti1424/sc-im)
-
-A trier.
-
-- [`argoproj/argo`](https://github.com/argoproj/argo)
 - [`aria2/aria2`](https://github.com/aria2/aria2)
-- [`arschles/go-in-5-minutes`](https://github.com/arschles/go-in-5-minutes)
-- [`ashwinbhaskar/functional-way`](https://github.com/ashwinbhaskar/functional-way)
-- [`astaxie/beego`](https://github.com/astaxie/beego)
-- [`astralapp/astral`](https://github.com/astralapp/astral)
-- [`astronomer/airflow-guides`](https://github.com/astronomer/airflow-guides)
-- [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
-- [`atom-archive/xray`](https://github.com/atom-archive/xray)
-- [`austin-taylor/code-vault`](https://github.com/austin-taylor/code-vault)
-- [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
-- [`avelino/awesome-go`](https://github.com/avelino/awesome-go)
-- [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [`awesome-spark/learn-by-examples`](https://github.com/awesome-spark/learn-by-examples)
-- [`awesome-spark/spark-gotchas`](https://github.com/awesome-spark/spark-gotchas)
-- [`aws-samples/ecs-refarch-cloudformation`](https://github.com/aws-samples/ecs-refarch-cloudformation)
-- [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
-- [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
-- [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
-- [`aws/aws-sam-cli`](https://github.com/aws/aws-sam-cli)
-- [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
-- [`aws/aws-sdk-java-v2`](https://github.com/aws/aws-sdk-java-v2)
-- [`aws/aws-sdk-java`](https://github.com/aws/aws-sdk-java)
-- [`aws/chalice`](https://github.com/aws/chalice)
-- [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
-- [`awsdocs/aws-doc-sdk-examples`](https://github.com/awsdocs/aws-doc-sdk-examples)
-- [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
 - [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
-- [`awslabs/deequ`](https://github.com/awslabs/deequ)
-- [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
 - [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
-- [`awslabs/multi-model-server`](https://github.com/awslabs/multi-model-server)
-- [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
-- [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
-- [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
-- [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
-- [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
- 
   
 <details>
   
