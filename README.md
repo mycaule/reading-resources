@@ -21,6 +21,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - Follow Lex Fridman Annual state of the art talk
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
+- Write a small project in Go language using one of the libraries below
 
 #### 2020
 
@@ -233,124 +234,149 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/9744812-flourish"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435373984l/9744812._SX318_.jpg" width=100 alt="Seligman"/></a> 
 </div>
 
-### Repos
+### Repos, toolbox for work-related problems
+
+TODO: mind map for when to use what languages
 
 #### JavaScript
 
-#### Spark
+- [`aerogear/create-graphql`](https://github.com/aerogear/create-graphql)
+- [`agenda/agenda`](https://github.com/agenda/agenda)
+- [`alexpate/awesome-design-systems`](https://github.com/alexpate/awesome-design-systems)
+- [`algolia/places`](https://github.com/algolia/places)
+- [`AmirTugi/tea-school`](https://github.com/AmirTugi/tea-school)
+- [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
+- [`ant-design/ant-design`](https://github.com/ant-design/ant-design)
+- [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
+- [`appbaseio/reactivesearch`](https://github.com/appbaseio/reactivesearch)
+- [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
 
-#### Tensorflow
+###### Tensorflow.js
+- [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
+- [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 
-#### CLI
-
-A trier.
-
-<details>
-  
-- [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
+##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
-- [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
+- [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
+
+##### Medias
+- [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
+- [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
+
+#### Scala
 - [`47degrees/fetch`](https://github.com/47degrees/fetch)
 - [`47degrees/sbt-microsites`](https://github.com/47degrees/sbt-microsites)
-- [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
-- [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
-- [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
-- [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
 - [`ACINQ/eclair`](https://github.com/ACINQ/eclair)
-- [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
-- [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
-- [`ActiveState/gococo`](https://github.com/ActiveState/gococo)
-- [`addok/addok`](https://github.com/addok/addok)
-- [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
-- [`adornes/spark_scala_ml_examples`](https://github.com/adornes/spark_scala_ml_examples)
-- [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
-- [`aerogear/create-graphql`](https://github.com/aerogear/create-graphql)
-- [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
-- [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
-- [`agenda/agenda`](https://github.com/agenda/agenda)
-- [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
-- [`ahkarami/Deep-Learning-in-Production`](https://github.com/ahkarami/Deep-Learning-in-Production)
-- [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
-- [`akavel/up`](https://github.com/akavel/up)
 - [`akka/akka-http-quickstart-scala.g8`](https://github.com/akka/akka-http-quickstart-scala.g8)
 - [`akka/alpakka`](https://github.com/akka/alpakka)
-- [`albumentations-team/albumentations`](https://github.com/albumentations-team/albumentations)
-- [`alda-lang/alda`](https://github.com/alda-lang/alda)
-- [`AlDanial/cloc`](https://github.com/AlDanial/cloc)
-- [`alebcay/awesome-shell`](https://github.com/alebcay/awesome-shell)
-- [`alegrand/SMPE`](https://github.com/alegrand/SMPE)
-- [`alex000kim/nsfw_data_scraper`](https://github.com/alex000kim/nsfw_data_scraper)
 - [`alexandru/scala-best-practices`](https://github.com/alexandru/scala-best-practices)
-- [`alexarchambault/ammonite-spark`](https://github.com/alexarchambault/ammonite-spark)
 - [`alexarchambault/plotly-scala`](https://github.com/alexarchambault/plotly-scala)
 - [`alexarchambault/scalacheck-shapeless`](https://github.com/alexarchambault/scalacheck-shapeless)
-- [`alexellis/mine-with-docker`](https://github.com/alexellis/mine-with-docker)
-- [`alexjc/neural-enhance`](https://github.com/alexjc/neural-enhance)
-- [`alexpate/awesome-design-systems`](https://github.com/alexpate/awesome-design-systems)
 - [`Algiras/Game-Sandbox`](https://github.com/Algiras/Game-Sandbox)
-- [`algolia/places`](https://github.com/algolia/places)
-- [`aliyun/aliyun-emapreduce-datasources`](https://github.com/aliyun/aliyun-emapreduce-datasources)
-- [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
 - [`alvinj/ScalaApacheAccessLogParser`](https://github.com/alvinj/ScalaApacheAccessLogParser)
-- [`Amin-Tgz/awesome-tensorflow-2`](https://github.com/Amin-Tgz/awesome-tensorflow-2)
-- [`AmirTugi/tea-school`](https://github.com/AmirTugi/tea-school)
 - [`amplab/succinct`](https://github.com/amplab/succinct)
-- [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
-- [`andmarti1424/sc-im`](https://github.com/andmarti1424/sc-im)
-- [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
+- [`ashwinbhaskar/functional-way`](https://github.com/ashwinbhaskar/functional-way)
+
+##### Spark and Hadoop
+- [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
+- [`adornes/spark_scala_ml_examples`](https://github.com/adornes/spark_scala_ml_examples)
+- [`alexarchambault/ammonite-spark`](https://github.com/alexarchambault/ammonite-spark)
+- [`aliyun/aliyun-emapreduce-datasources`](https://github.com/aliyun/aliyun-emapreduce-datasources)
+- [`apache/predictionio`](https://github.com/apache/predictionio)
+- [`apache/spark`](https://github.com/apache/spark)
+- [`awesome-spark/learn-by-examples`](https://github.com/awesome-spark/learn-by-examples)
+- [`awesome-spark/spark-gotchas`](https://github.com/awesome-spark/spark-gotchas)
+- [`awslabs/deequ`](https://github.com/awslabs/deequ)
+- [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
+
+#### Python
+- [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
+- [`addok/addok`](https://github.com/addok/addok)
+- [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
+- [`albumentations-team/albumentations`](https://github.com/albumentations-team/albumentations)
+- [`alegrand/SMPE`](https://github.com/alegrand/SMPE)
+- [`alexjc/neural-enhance`](https://github.com/alexjc/neural-enhance)
 - [`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)
-- [`ant-design/ant-design`](https://github.com/ant-design/ant-design)
-- [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`apache/airflow`](https://github.com/apache/airflow)
+- [`apache/incubator-mxnet`](https://github.com/apache/incubator-mxnet)
+- [`apache/incubator-superset`](https://github.com/apache/incubator-superset)
+- [`argman/EAST`](https://github.com/argman/EAST)
+- [`astronomer/airflow-guides`](https://github.com/astronomer/airflow-guides)
+- [`austin-taylor/code-vault`](https://github.com/austin-taylor/code-vault)
+- [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
+- [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
+- [`aws/chalice`](https://github.com/aws/chalice)
+
+##### Tensorflow
+- [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
+- [`ahkarami/Deep-Learning-in-Production`](https://github.com/ahkarami/Deep-Learning-in-Production)
+- [`Amin-Tgz/awesome-tensorflow-2`](https://github.com/Amin-Tgz/awesome-tensorflow-2)
+- [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
+
+#### Go and other hot languages
+
+- [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
+- [`ActiveState/gococo`](https://github.com/ActiveState/gococo)
+- [`alda-lang/alda`](https://github.com/alda-lang/alda)
+- [`argoproj/argo`](https://github.com/argoproj/argo)
+- [`arschles/go-in-5-minutes`](https://github.com/arschles/go-in-5-minutes)
+- [`astaxie/beego`](https://github.com/astaxie/beego)
+- [`atom-archive/xray`](https://github.com/atom-archive/xray)
+- [`avelino/awesome-go`](https://github.com/avelino/awesome-go)
+- [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
+
+#### Java
+- [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
 - [`apache/beam`](https://github.com/apache/beam)
 - [`apache/calcite`](https://github.com/apache/calcite)
 - [`apache/druid`](https://github.com/apache/druid)
-- [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
-- [`apache/incubator-mxnet`](https://github.com/apache/incubator-mxnet)
 - [`apache/incubator-pinot`](https://github.com/apache/incubator-pinot)
-- [`apache/incubator-superset`](https://github.com/apache/incubator-superset)
-- [`apache/predictionio`](https://github.com/apache/predictionio)
-- [`apache/spark`](https://github.com/apache/spark)
 - [`apache/tinkerpop`](https://github.com/apache/tinkerpop)
-- [`appbaseio/reactivesearch`](https://github.com/appbaseio/reactivesearch)
-- [`argman/EAST`](https://github.com/argman/EAST)
-- [`argoproj/argo`](https://github.com/argoproj/argo)
-- [`aria2/aria2`](https://github.com/aria2/aria2)
-- [`arschles/go-in-5-minutes`](https://github.com/arschles/go-in-5-minutes)
-- [`ashwinbhaskar/functional-way`](https://github.com/ashwinbhaskar/functional-way)
-- [`astaxie/beego`](https://github.com/astaxie/beego)
+- [`aws/aws-sdk-java`](https://github.com/aws/aws-sdk-java)
+- [`aws/aws-sdk-java-v2`](https://github.com/aws/aws-sdk-java-v2)
+- [`awslabs/multi-model-server`](https://github.com/awslabs/multi-model-server)
+- [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
+
+#### Self-development
+
+- [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
+
+#### Museum
+
+- [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
+- [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`astralapp/astral`](https://github.com/astralapp/astral)
-- [`astronomer/airflow-guides`](https://github.com/astronomer/airflow-guides)
-- [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
-- [`atom-archive/xray`](https://github.com/atom-archive/xray)
-- [`austin-taylor/code-vault`](https://github.com/austin-taylor/code-vault)
-- [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
-- [`avelino/awesome-go`](https://github.com/avelino/awesome-go)
+
+#### DevOps
+
+- [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
+- [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
+- [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
 - [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [`awesome-spark/learn-by-examples`](https://github.com/awesome-spark/learn-by-examples)
-- [`awesome-spark/spark-gotchas`](https://github.com/awesome-spark/spark-gotchas)
 - [`aws-samples/ecs-refarch-cloudformation`](https://github.com/aws-samples/ecs-refarch-cloudformation)
 - [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
 - [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
-- [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
 - [`aws/aws-sam-cli`](https://github.com/aws/aws-sam-cli)
-- [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
-- [`aws/aws-sdk-java-v2`](https://github.com/aws/aws-sdk-java-v2)
-- [`aws/aws-sdk-java`](https://github.com/aws/aws-sdk-java)
-- [`aws/chalice`](https://github.com/aws/chalice)
 - [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
 - [`awsdocs/aws-doc-sdk-examples`](https://github.com/awsdocs/aws-doc-sdk-examples)
 - [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
-- [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
-- [`awslabs/deequ`](https://github.com/awslabs/deequ)
 - [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
-- [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
-- [`awslabs/multi-model-server`](https://github.com/awslabs/multi-model-server)
 - [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
-- [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
-- [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
-- [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
-- [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
+
+#### CLI
+- [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
+- [`akavel/up`](https://github.com/akavel/up)
+- [`AlDanial/cloc`](https://github.com/AlDanial/cloc)
+- [`alebcay/awesome-shell`](https://github.com/alebcay/awesome-shell)
+- [`alex000kim/nsfw_data_scraper`](https://github.com/alex000kim/nsfw_data_scraper)
+- [`alexellis/mine-with-docker`](https://github.com/alexellis/mine-with-docker)
+- [`andmarti1424/sc-im`](https://github.com/andmarti1424/sc-im)
+- [`aria2/aria2`](https://github.com/aria2/aria2)
+- [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
+- [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
+  
+<details>
+  
 - [`Baeldung/scala-tutorials`](https://github.com/Baeldung/scala-tutorials)
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
