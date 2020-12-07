@@ -214,6 +214,7 @@ Long-term goal to become an open platform for machine learning research based on
 #### CLI
 
 <details>
+  
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
 - [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
@@ -1090,6 +1091,7 @@ Long-term goal to become an open platform for machine learning research based on
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
+
 </details>
 
 ### References
