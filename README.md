@@ -153,6 +153,7 @@ Long-term goal to become an open platform for machine learning research based on
 ### Books
 
 <div align="center">
+  <a href="https://www.goodreads.com/book/show/50204627-google-bigquery"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572263929l/50204627._SX318_SY475_.jpg" width=100 alt="Lakshmanan"/></a>
   <a href="https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401077636l/20821304.jpg" width=100 alt="Oettingen"/></a>
   <a href="https://www.goodreads.com/book/show/1633.Getting_Things_Done"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633.jpg" width=100 alt="Allen"/></a>
   <a href="https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431877962l/22404360._SX318_.jpg" width=100 alt="Hunt"/></a>
