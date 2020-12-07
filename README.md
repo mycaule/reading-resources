@@ -121,16 +121,10 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2015
 
-http://asciiflow.com/
-http://docwiki.embarcadero.com/RADStudio/fr/Mappage_des_types_Delphi_en_types_C%2B%2B
-http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html
-http://forum.alsacreations.com/topic-2-61763-1-Compatibilite-avec-IE.html
-http://getbootstrap.com/components/
-http://lodash.com/docs
-http://nodejs.org/api/fs.html#fs_fs_statsync_path
-http://p72sdeige1r:8080/share/page
-http://passportjs.org/guide/configure/
-https://www.websequencediagrams.com/
+- Node.js resources: [nodejs.org](http://nodejs.org/), [Lodash](http://lodash.com/), [Passport](http://passportjs.org/)
+- [Twitter Bootstrap](http://getbootstrap.com/)
+- Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
+- French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
 
 #### 2014
 
