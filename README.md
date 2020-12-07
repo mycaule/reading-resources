@@ -237,19 +237,25 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### JavaScript
 
+##### File formats
+- [`11ways/json-dry`](https://github.com/11ways/json-dry)
+
+##### Medias
+- [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
+
 #### Spark
 
 #### Tensorflow
+
+#### Sexy languages
+
+- [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
 
 #### CLI
 
 A trier.
 
-<details>
-  
-- [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
-- [`11ways/json-dry`](https://github.com/11ways/json-dry)
-- [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
+
 - [`47degrees/fetch`](https://github.com/47degrees/fetch)
 - [`47degrees/sbt-microsites`](https://github.com/47degrees/sbt-microsites)
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -351,6 +357,9 @@ A trier.
 - [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
 - [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
 - [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
+  
+  
+<details>
 - [`Baeldung/scala-tutorials`](https://github.com/Baeldung/scala-tutorials)
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
