@@ -123,61 +123,42 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### 2014
 
+http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
+http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html
+http://steve-yegge.blogspot.fr/2006/09/good-agile-bad-agile_27.html
+http://paulgraham.com/ambitious.html
+http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake+on+lan
+
 http://benchmarksgame.alioth.debian.org/
-http://cashmoneylife.com/career-planning-change-new-job/
-http://cathalscorner.blogspot.fr/2009/10/converting-docx-into-doc-pdf-html.html
 http://dofactory.com/Patterns/Patterns.aspx
 http://epplus.codeplex.com/
 http://ethanschoonover.com/solarized
 http://explainshell.com/
-http://fenetresur.sncf.com/files/index.php
-http://fgeorges.blogspot.fr/2008/04/simple-svg-chart-generation-with-xslt.html
-http://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil
 http://franklinefrancis.github.com/SvgCharts4Xsl/
 http://gdm.brgm.fr/
 http://latex2rtf.sourceforge.net/rtfspec_6.html
 http://laurent.champaney.free.fr/perso/cours.html
 http://learnyouahaskell.com/modules
-
-http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html
-http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake+on+lan
-http://steve-yegge.blogspot.fr/2006/09/good-agile-bad-agile_27.html
-
 http://mms2.ensmp.fr/ressources/ens_polycopies.php
-http://paulgraham.com/ambitious.html
-http://ram-0000.developpez.com/tutoriels/Programme/PatchVer/
 http://rvelthuis.de/articles/articles-cppobjs.html
 http://sebsauvage.net/wiki/doku.php?id=word_document_generation
 http://simpledesktops.com/
-
 http://www.altays-progiciels.com/clicnjob/SNCF/
 http://www.code-aster.org/V2/spip.php?article180
-
 http://www.colorschemer.com/online.html
 http://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/
 http://www.delphibasics.co.uk/
 http://www.editions-eyrolles.com/Dico-BTP/index.html
-http://www.forbes.com/pictures/efkk45gigj/10-ways-to-be-more-confident-at-work/#gallerycontent
-http://www.forbes.com/sites/dailymuse/2013/06/12/4-sneaky-ways-to-determine-company-culture-in-an-interview/
-http://www.forbes.com/sites/dailymuse/2014/03/26/only-woman-on-the-team-4-communication-tips-you-need-to-know/
 http://www.granddictionnaire.com/btml/fra/r_motclef/index800_1.asp
-http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 http://www.mathtools.net/
 http://www.merriam-webster.com/
 http://www.ratp.fr/itineraires/fr/ratp/quartier/plan
 http://www.sessions.edu/color-calculator
 http://www.terrasol.fr/fr/logiciels/logiciels-dao/straticad
-http://www.thedailymuse.com/career/time-to-jump-ship-6-signs-you-need-to-leave-your-job/
-http://www.thedailymuse.com/careeradvice/45-pieces-of-career-advice-that-will-get-you-to-the-top/
 http://www.w3schools.com/
-http://www.wisebread.com/6-crucial-job-searching-steps-most-people-skip
 http://www.wolframalpha.com/
-http://www.wordreference.com/enfr/
-https://educnet.enpc.fr/course/view.php?id=237&userid=guest
 https://gomockingbird.com/
 https://securesha.re/
-https://viseo.talent-soft.com/LoginPage.aspx
-
 
 #### 2013
 
