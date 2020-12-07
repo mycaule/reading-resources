@@ -213,6 +213,8 @@ Long-term goal to become an open platform for machine learning research based on
 
 #### CLI
 
+A trier.
+
 <details>
   
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
