@@ -235,9 +235,44 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/9744812-flourish"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435373984l/9744812._SX318_.jpg" width=100 alt="Seligman"/></a> 
 </div>
 
-### Repos, toolbox for work-related problems
+### Blogs and Podcasts
 
-TODO: mind map for when to use what languages
+#### Old ones
+- http://all-about-airbnb.com/
+- http://bimandbeam.typepad.com/bim_beam/
+- https://medium.com/@maximebeauchemin
+- https://medium.com/javascript-scene
+- http://blog.bouygues-construction.com
+- http://blogs.solidworks.com/solidworksblog
+- http://cpptruths.blogspot.com/
+- http://love-python.blogspot.com/
+- https://developers.facebook.com/blog/
+- https://eng.uber.com
+- https://engineeringblog.yelp.com
+- https://githubengineering.com
+- https://blog.google
+- https://www.ibm.com/blogs/research/
+- http://joegebbia.com/blog
+- https://www.joelonsoftware.com/
+- http://civilfrance.typepad.com/blog/
+- http://dwf.blogs.com/beyond_the_paper/
+- http://ellipsis-autodesk.typepad.com/blog/
+- http://images.math.cnrs.fr/
+- http://lucbouchareuaikido.blogspot.com/
+- http://main-ho-lee-won-sik.over-blog.com
+- http://marathonblog.blog.lemonde.fr
+- http://making.duolingo.com/
+- http://martinfowler.com/
+- http://perspectives.3ds.com
+- http://through-the-interface.typepad.com/through_the_interface/
+- http://structurebim.typepad.com/blog/
+- http://www.codinghorror.com/blog/
+- http://www.industrie.com/it/
+- http://www.nouvellefabrique.fr/blog
+
+#### Current
+
+### Repos, toolbox for work-related problems
 
 #### JavaScript
 
@@ -251,6 +286,14 @@ TODO: mind map for when to use what languages
 - [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
 - [`appbaseio/reactivesearch`](https://github.com/appbaseio/reactivesearch)
 - [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
+- [`Baremetrics/calendar`](https://github.com/Baremetrics/calendar)
+- [`caiogondim/fast-memoize.js`](https://github.com/caiogondim/fast-memoize.js)
+- [`bdickason/node-goodreads`](https://github.com/bdickason/node-goodreads)
+- [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
+- [`bevacqua/dragula`](https://github.com/bevacqua/dragula)
+- [`bigskysoftware/intercooler-js`](https://github.com/bigskysoftware/intercooler-js)
+- [`brave/browser-laptop`](https://github.com/brave/browser-laptop)
+- [`breejs/bree`](https://github.com/breejs/bree)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -308,6 +351,12 @@ TODO: mind map for when to use what languages
 - [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
 - [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
 - [`aws/chalice`](https://github.com/aws/chalice)
+- [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [`BasPH/data-pipelines-with-apache-airflow`](https://github.com/BasPH/data-pipelines-with-apache-airflow)
+- [`benoitc/gunicorn`](https://github.com/benoitc/gunicorn)
+- [`berdario/pew`](https://github.com/berdario/pew)
+- [`biubug6/Face-Detector-1MB-with-landmark`](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
+- [`bokeh/bokeh`](https://github.com/bokeh/bokeh)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -326,6 +375,8 @@ TODO: mind map for when to use what languages
 - [`atom-archive/xray`](https://github.com/atom-archive/xray)
 - [`avelino/awesome-go`](https://github.com/avelino/awesome-go)
 - [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
+- [`bitly/go-simplejson`](https://github.com/bitly/go-simplejson)
+- [`bjorng/wings`](https://github.com/bjorng/wings)
 
 #### Java
 - [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
@@ -338,6 +389,7 @@ TODO: mind map for when to use what languages
 - [`aws/aws-sdk-java-v2`](https://github.com/aws/aws-sdk-java-v2)
 - [`awslabs/multi-model-server`](https://github.com/awslabs/multi-model-server)
 - [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
+- [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 
 #### Self-development
 
@@ -348,6 +400,7 @@ TODO: mind map for when to use what languages
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`astralapp/astral`](https://github.com/astralapp/astral)
+- [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
 
 #### DevOps
 
@@ -364,6 +417,9 @@ TODO: mind map for when to use what languages
 - [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
 - [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
 - [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
+- [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
+- [`balena-io/etcher`](https://github.com/balena-io/etcher)
+- [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
 
 #### CLI
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
@@ -376,40 +432,17 @@ TODO: mind map for when to use what languages
 - [`aria2/aria2`](https://github.com/aria2/aria2)
 - [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
 - [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
-
-
-- [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
-- [`balena-io/etcher`](https://github.com/balena-io/etcher)
-- [`Baremetrics/calendar`](https://github.com/Baremetrics/calendar)
-- [`BasPH/data-pipelines-with-apache-airflow`](https://github.com/BasPH/data-pipelines-with-apache-airflow)
-- [`bclozel/issues-dashboard`](https://github.com/bclozel/issues-dashboard)
-- [`bdickason/node-goodreads`](https://github.com/bdickason/node-goodreads)
 - [`benibela/xidel`](https://github.com/benibela/xidel)
-- [`benoitc/gunicorn`](https://github.com/benoitc/gunicorn)
-- [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
-- [`berdario/pew`](https://github.com/berdario/pew)
-- [`bevacqua/dragula`](https://github.com/bevacqua/dragula)
-- [`bigskysoftware/intercooler-js`](https://github.com/bigskysoftware/intercooler-js)
-- [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
-- [`bitly/go-simplejson`](https://github.com/bitly/go-simplejson)
-- [`biubug6/Face-Detector-1MB-with-landmark`](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
-- [`bjorng/wings`](https://github.com/bjorng/wings)
-- [`bokeh/bokeh`](https://github.com/bokeh/bokeh)
-- [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
-- [`brave/browser-laptop`](https://github.com/brave/browser-laptop)
-- [`breejs/bree`](https://github.com/breejs/bree)
-- [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
-- [`brouberol/marcel`](https://github.com/brouberol/marcel)
 - [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
 - [`BurntSushi/xsv`](https://github.com/BurntSushi/xsv)
 - [`bzg/org-mode`](https://github.com/bzg/org-mode)
 
+#### Security
+- [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
+- [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
 <details>
 
-- [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
-- [`caiogondim/fast-memoize.js`](https://github.com/caiogondim/fast-memoize.js)
-- [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [`caroljmcdonald/sparkmldecisiontree`](https://github.com/caroljmcdonald/sparkmldecisiontree)
 - [`cb372/sbt-client`](https://github.com/cb372/sbt-client)
 - [`cdleon/ui-frameworks`](https://github.com/cdleon/ui-frameworks)
