@@ -30,10 +30,12 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - [Google Analytics academy](https://analytics.google.com/analytics/academy/) online course to keep on track with Google Analytics
 - [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - [Slack Deletron](https://slackdeletron.com)
+- https://github.com/forter/security-101-for-saas-startups/
 
 ##### November
 
 - [Open Fisca](https://openfisca.org/fr), [Etalab repository](https://github.com/etalab) and [Github for governments](https://government.github.com/community/) has plenty of resources for checking open source governmental algorithms
+- Deepmind : https://www.youtube.com/watch?v=WXuK6gekU1Y, https://www.youtube.com/watch?v=W7wJDJ56c88
 
 ##### October
 
