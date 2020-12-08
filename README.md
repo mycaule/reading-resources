@@ -22,6 +22,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
 - Write a small project in Go language using one of the libraries below
+- Write part of a book using https://bookdown.org/yihui/rmarkdown/tufte-handouts.html or https://github.com/scalameta/mdoc
 
 #### 2020
 
