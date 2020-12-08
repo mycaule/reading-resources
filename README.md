@@ -276,6 +276,7 @@ TODO: mind map for when to use what languages
 - [`alvinj/ScalaApacheAccessLogParser`](https://github.com/alvinj/ScalaApacheAccessLogParser)
 - [`amplab/succinct`](https://github.com/amplab/succinct)
 - [`ashwinbhaskar/functional-way`](https://github.com/ashwinbhaskar/functional-way)
+- [`Baeldung/scala-tutorials`](https://github.com/Baeldung/scala-tutorials)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -374,10 +375,8 @@ TODO: mind map for when to use what languages
 - [`aria2/aria2`](https://github.com/aria2/aria2)
 - [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
 - [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
-  
-<details>
-  
-- [`Baeldung/scala-tutorials`](https://github.com/Baeldung/scala-tutorials)
+
+
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
 - [`Baremetrics/calendar`](https://github.com/Baremetrics/calendar)
@@ -403,6 +402,10 @@ TODO: mind map for when to use what languages
 - [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
 - [`BurntSushi/xsv`](https://github.com/BurntSushi/xsv)
 - [`bzg/org-mode`](https://github.com/bzg/org-mode)
+
+
+<details>
+
 - [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
 - [`caiogondim/fast-memoize.js`](https://github.com/caiogondim/fast-memoize.js)
 - [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -1144,8 +1147,6 @@ TODO: mind map for when to use what languages
 - [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
 - [`zalandoresearch/fashion-mnist`](https://github.com/zalandoresearch/fashion-mnist)
 - [`zenazn/goji`](https://github.com/zenazn/goji)
-- [`zendesk/sunshine-conversations-conversation-extension-examples`](https://github.com/zendesk/sunshine-conversations-conversation-extension-examples)
-- [`zendesk/sunshine-conversations-webview-date-picker`](https://github.com/zendesk/sunshine-conversations-webview-date-picker)
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
