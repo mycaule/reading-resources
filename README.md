@@ -238,6 +238,8 @@ Their long-term goal is to become an open platform for machine learning research
 ### Blogs and Podcasts
 
 #### Old ones
+
+<details>
 - http://all-about-airbnb.com/
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
@@ -269,8 +271,9 @@ Their long-term goal is to become an open platform for machine learning research
 - http://www.codinghorror.com/blog/
 - http://www.industrie.com/it/
 - http://www.nouvellefabrique.fr/blog
+</details>
 
-#### Current
+#### New ones
 
 ### Repos, toolbox for work-related problems
 
