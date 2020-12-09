@@ -140,7 +140,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Martin Odersky, Heather Miller - Functional programming in Scala Specialization](https://www.coursera.org/specializations/scala)
 - [Heather Miller - Distributed Programming](http://dist-prog-book.com/chapter/1/rpc.html)
 - Some Scala resources: [Alvin Alexander - Scala cookbook](https://alvinalexander.com/scala), , [47 Degrees - Scala exercises](https://www.scala-exercises.org/), [Homegrown Scala collections](https://www.youtube.com/playlist?list%3DPLJGDHERh23x-4bTASKbtwhhAuP6rYQJqE)
-- Playing with Spark EMR and Zeppelin, [Spark SQL Partition discovery](https://spark.apache.org/docs/2.3.1/sql-programming-guide.html%23partition-discovery), [AWS EMR releases](https://docs.aws.amazon.com/en_en/emr/latest/ReleaseGuide/emr-release-5x.html)(https://databricks.com/blog/2018/11/08/introducing-apache-spark-2-4.html), [gallery of Zeppelin Notebooks](https://github.com/hortonworks-gallery/zeppelin-notebooks)
+- Playing with Spark EMR and Zeppelin, [Spark SQL Partition discovery](https://spark.apache.org/docs/2.3.1/sql-programming-guide.html%23partition-discovery), [AWS EMR releases](https://docs.aws.amazon.com/en_en/emr/latest/ReleaseGuide/emr-release-5x.html), [gallery of Zeppelin Notebooks](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 
 ##### January
 - [Kelsey Hightower, Carter Morgan - Scalable microservices](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -319,7 +319,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 - [Scott Hanselman](https://www.hanselman.com/blog/)
 - [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
-
 - [Uber Engineering](https://eng.uber.com/)
 - [Algolia Engineering](https://blog.algolia.com/)
 - [Yelp Engineering](https://engineeringblog.yelp.com/)
