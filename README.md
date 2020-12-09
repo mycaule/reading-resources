@@ -416,6 +416,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 - [`date-fns/date-fns`](https://github.com/date-fns/date-fns)
 - [`denoland/deno`](https://github.com/denoland/deno)
+- [`dinerojs/dinero.js`](https://github.com/dinerojs/dinero.js)
+- [`dominictarr/JSONStream`](https://github.com/dominictarr/JSONStream)
+- [`dvajs/dva`](https://github.com/dvajs/dva)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -510,6 +513,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Delgan/loguru`](https://github.com/Delgan/loguru)
 - [`dennybritz/nn-from-scratch`](https://github.com/dennybritz/nn-from-scratch)
 - [`devitrylouis/imaging_time_series`](https://github.com/devitrylouis/imaging_time_series)
+- [`dmlc/gluon-cv`](https://github.com/dmlc/gluon-cv)
+- [`dmlc/treelite`](https://github.com/dmlc/treelite)
+- [`dmlc/xgboost`](https://github.com/dmlc/xgboost)
+- [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [`duolingo/halflife-regression`](https://github.com/duolingo/halflife-regression)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -554,6 +562,8 @@ Their long-term goal is to become an open platform for machine learning research
 [back to TOC](#table-of-contents)
 
 - [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
+- [`dreamingechoes/awesome-mental-health`](https://github.com/dreamingechoes/awesome-mental-health)
+- [`dylanrees/citizen-science`](https://github.com/dylanrees/citizen-science)
 
 #### Museum
 [back to TOC](#table-of-contents)
@@ -564,6 +574,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
 - [`chronoxor/FastBinaryEncoding`](https://github.com/chronoxor/FastBinaryEncoding)
 - [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
+- [`dotnet/aspnetcore`](https://github.com/dotnet/aspnetcore)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -586,12 +597,16 @@ Their long-term goal is to become an open platform for machine learning research
 - [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
 - [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
 - [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
+- [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
+- [`dokku/dokku`](https://github.com/dokku/dokku)
+- [`donnemartin/awesome-aws`](https://github.com/donnemartin/awesome-aws)
 
 #### Databases
 [back to TOC](#table-of-contents)
 
 - [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
 - [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
+- [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -625,26 +640,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
-#### D letter
-
-- [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
-- [`dinerojs/dinero.js`](https://github.com/dinerojs/dinero.js)
-- [`dmlc/gluon-cv`](https://github.com/dmlc/gluon-cv)
-- [`dmlc/treelite`](https://github.com/dmlc/treelite)
-- [`dmlc/xgboost`](https://github.com/dmlc/xgboost)
-- [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
-- [`dokku/dokku`](https://github.com/dokku/dokku)
-- [`dominictarr/JSONStream`](https://github.com/dominictarr/JSONStream)
-- [`donnemartin/awesome-aws`](https://github.com/donnemartin/awesome-aws)
-- [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
-- [`dotnet/aspnetcore`](https://github.com/dotnet/aspnetcore)
-- [`dreamingechoes/awesome-mental-health`](https://github.com/dreamingechoes/awesome-mental-health)
-- [`duolingo/halflife-regression`](https://github.com/duolingo/halflife-regression)
-- [`dvajs/dva`](https://github.com/dvajs/dva)
-- [`dylanrees/citizen-science`](https://github.com/dylanrees/citizen-science)
-
-
-<details>
+#### E letter
 
 - [`e-oj/grabity`](https://github.com/e-oj/grabity)
 - [`eatkins/scala-build-watch-performance`](https://github.com/eatkins/scala-build-watch-performance)
@@ -677,6 +673,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`explosion/spaCy`](https://github.com/explosion/spaCy)
 - [`expo/expo`](https://github.com/expo/expo)
 - [`ExtendLord/DeezLoader-Reborn`](https://github.com/ExtendLord/DeezLoader-Reborn)
+
+#### F letter
+
 - [`facebook/buck`](https://github.com/facebook/buck)
 - [`facebook/create-react-app`](https://github.com/facebook/create-react-app)
 - [`facebook/prophet`](https://github.com/facebook/prophet)
@@ -704,6 +703,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`foundweekends/giter8`](https://github.com/foundweekends/giter8)
 - [`fpinscala/fpinscala`](https://github.com/fpinscala/fpinscala)
 - [`framiere/a-kafka-story`](https://github.com/framiere/a-kafka-story)
+
+#### G letter
+
 - [`gabgoh/gabgoh.github.io`](https://github.com/gabgoh/gabgoh.github.io)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
 - [`gatsbyjs/gatsby`](https://github.com/gatsbyjs/gatsby)
@@ -765,6 +767,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`guardian/goo`](https://github.com/guardian/goo)
 - [`guess-js/guess`](https://github.com/guess-js/guess)
 - [`guildai/guildai`](https://github.com/guildai/guildai)
+
+#### H letter
+
 - [`h2non/videoshow`](https://github.com/h2non/videoshow)
 - [`h2o/h2o`](https://github.com/h2o/h2o)
 - [`hackerkid/Mind-Expanding-Books`](https://github.com/hackerkid/Mind-Expanding-Books)
@@ -794,6 +799,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`hwalsuklee/awesome-deep-text-detection-recognition`](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 - [`hybridgroup/gocv`](https://github.com/hybridgroup/gocv)
 - [`Hydrospheredata/typed-sql`](https://github.com/Hydrospheredata/typed-sql)
+
+#### I, J letter
+
 - [`iamadamdev/bypass-paywalls-chrome`](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - [`idank/explainshell`](https://github.com/idank/explainshell)
 - [`idealo/image-super-resolution`](https://github.com/idealo/image-super-resolution)
@@ -846,6 +854,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
 - [`justadudewhohacks/opencv4nodejs`](https://github.com/justadudewhohacks/opencv4nodejs)
 - [`jvican/sbt-release-early`](https://github.com/jvican/sbt-release-early)
+
+#### K, L letter
 - [`kabbi159/awesome-image-tagging`](https://github.com/kabbi159/awesome-image-tagging)
 - [`kailuowang/henkan`](https://github.com/kailuowang/henkan)
 - [`kaituoxu/Conv-TasNet`](https://github.com/kaituoxu/Conv-TasNet)
@@ -903,6 +913,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`lovell/sharp`](https://github.com/lovell/sharp)
 - [`lucidsoftware/relate`](https://github.com/lucidsoftware/relate)
 - [`lukechilds/keyv`](https://github.com/lukechilds/keyv)
+
+#### M letter
 - [`m2dsupsdlclass/lectures-labs`](https://github.com/m2dsupsdlclass/lectures-labs)
 - [`machine-learning-apps/actions-ml-cicd`](https://github.com/machine-learning-apps/actions-ml-cicd)
 - [`machine-learning-projects/machine-learning-recipes`](https://github.com/machine-learning-projects/machine-learning-recipes)
@@ -971,6 +983,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`mrvautin/expressCart`](https://github.com/mrvautin/expressCart)
 - [`mvdan/sh`](https://github.com/mvdan/sh)
 - [`mysticatea/npm-run-all`](https://github.com/mysticatea/npm-run-all)
+
+#### N letter
+
 - [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
 - [`Narthorn/ctf`](https://github.com/Narthorn/ctf)
 - [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
@@ -1004,6 +1019,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`nteract/nteract`](https://github.com/nteract/nteract)
 - [`nuxt/nuxt.js`](https://github.com/nuxt/nuxt.js)
 - [`NVIDIA/vid2vid`](https://github.com/NVIDIA/vid2vid)
+
+#### O letter
+
 - [`oclif/oclif`](https://github.com/oclif/oclif)
 - [`octobox/octobox`](https://github.com/octobox/octobox)
 - [`official-stockfish/Stockfish`](https://github.com/official-stockfish/Stockfish)
@@ -1079,6 +1097,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`pytorch/fairseq`](https://github.com/pytorch/fairseq)
 - [`pytorch/serve`](https://github.com/pytorch/serve)
 - [`pyupio/safety`](https://github.com/pyupio/safety)
+
+#### R letter
 - [`ralsina/rst-cheatsheet`](https://github.com/ralsina/rst-cheatsheet)
 - [`random-forests/tutorials`](https://github.com/random-forests/tutorials)
 - [`ranger/ranger`](https://github.com/ranger/ranger)
@@ -1200,6 +1220,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`surveyjs/survey-library`](https://github.com/surveyjs/survey-library)
 - [`swagger-api/swagger-codegen`](https://github.com/swagger-api/swagger-codegen)
 - [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
+
+#### T letter
 - [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
 - [`takari/maven-wrapper`](https://github.com/takari/maven-wrapper)
 - [`takezoe/parallelizer`](https://github.com/takezoe/parallelizer)
@@ -1263,6 +1285,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Unity-Technologies/unitysimulation-coronavirus-example`](https://github.com/Unity-Technologies/unitysimulation-coronavirus-example)
 - [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
 - [`usefathom/fathom`](https://github.com/usefathom/fathom)
+
+#### V letter
 - [`validatorjs/validator.js`](https://github.com/validatorjs/validator.js)
 - [`valyala/fasthttp`](https://github.com/valyala/fasthttp)
 - [`VBA-tools/VBA-Web`](https://github.com/VBA-tools/VBA-Web)
@@ -1310,8 +1334,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
-
-</details>
 
 ### References
 [back to TOC](#table-of-contents)
