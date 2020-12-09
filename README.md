@@ -254,6 +254,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
 
+
+#### 2010
+
+- [Laurent Champaney - Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf)
+
 ### Books
 [back to TOC](#table-of-contents)
 
