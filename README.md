@@ -253,11 +253,11 @@ Their long-term goal is to become an open platform for machine learning research
 - Herb Sutter - Exceptional C++
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
-
+- Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), 
 
 #### 2010
 
-- [Laurent Champaney - Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf)
+- Enjoyed reading [Laurent Champaney] books on mechanics, [Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf) and [Méthodes numériques pour la mécanique](https://savoir.ensam.eu/moodle/pluginfile.php/15241/mod_resource/content/2/MEF_Champaney.pdf), and Olivier Gagliardini's "Cours de béton armé" on [reinforced concrete](http://pp.ige-grenoble.fr/pageperso/gagliaro/enseignement/polyBA_IUP3.pdf). I used these book at my last year internship and my first full-time job
 
 ### Books
 [back to TOC](#table-of-contents)
