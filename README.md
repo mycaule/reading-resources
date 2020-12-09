@@ -221,7 +221,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [Solarized theme](http://ethanschoonover.com/solarized) is awesome, at that time screen were more eye aggressive, using this and [f.lux](https://justgetflux.com) helped a lot. [Simple Desktops](http://simpledesktops.com/) had cool distraction-free wallpapers.
 - [Explain shell](http://explainshell.com/) provides explanation for Bash one liners
 - [SvgCharts4Xsl](http://franklinefrancis.github.com/SvgCharts4Xsl/), one of the first charting library for the web, it doesn't use JavaScript!
-- Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 - [Generating Word documents](http://sebsauvage.net/wiki/doku.php?id=word_document_generation) from XML was one of my concern, I also had to deal with [RTF files](http://latex2rtf.sourceforge.net/rtfspec_6.html)
 - Some civil engineering softwares that were inspirational but that I never really used [Straticad](https://www.terrasol.fr/catalogue/straticad-v2), [Code ASTER](http://www.code-aster.org/V2/spip.php?article180), [GDM](http://gdm.brgm.fr/)
 - [French - English](http://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/) translations for EXCEL formulas, helpful as finding help in English is far more easier, and if your employer locks you with a French operating system
@@ -246,6 +245,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Andrew Hunt - The Pragmatic Programmer
 - Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/, [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 - [Gérard Degoutte - Aide mémoire de mécanique des sols](http://graduateschool.agroparistech.fr/site.php?id=44&fileid=88)
+- Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 
 #### 2011
 [back to TOC](#table-of-contents)
@@ -258,7 +258,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### 2010
 
-- Enjoyed reading [Laurent Champaney] books on mechanics, [Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf) and [Méthodes numériques pour la mécanique](https://savoir.ensam.eu/moodle/pluginfile.php/15241/mod_resource/content/2/MEF_Champaney.pdf), and Olivier Gagliardini's "Cours de béton armé" on [reinforced concrete](http://pp.ige-grenoble.fr/pageperso/gagliaro/enseignement/polyBA_IUP3.pdf). I used these book at my last year internship and my first full-time job
+- Enjoyed reading Laurent Champaney books on mechanics, [Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf) and [Méthodes numériques pour la mécanique](https://savoir.ensam.eu/moodle/pluginfile.php/15241/mod_resource/content/2/MEF_Champaney.pdf), and Olivier Gagliardini's "Cours de béton armé" on [reinforced concrete](http://pp.ige-grenoble.fr/pageperso/gagliaro/enseignement/polyBA_IUP3.pdf). I used these book at my last year internship and my first full-time job
 
 ### Books
 [back to TOC](#table-of-contents)
