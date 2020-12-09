@@ -520,8 +520,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
-<details>
 
+##### C Letter
 - [`caroljmcdonald/sparkmldecisiontree`](https://github.com/caroljmcdonald/sparkmldecisiontree)
 - [`cb372/sbt-client`](https://github.com/cb372/sbt-client)
 - [`cdleon/ui-frameworks`](https://github.com/cdleon/ui-frameworks)
@@ -555,6 +555,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
 - [`cstate/cstate`](https://github.com/cstate/cstate)
 - [`CUTR-at-USF/awesome-transit`](https://github.com/CUTR-at-USF/awesome-transit)
+
+
+<details>
+
 - [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 - [`danburkert/continuum`](https://github.com/danburkert/continuum)
 - [`dask/dask-tutorial`](https://github.com/dask/dask-tutorial)
