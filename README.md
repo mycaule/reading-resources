@@ -879,7 +879,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`MarkCLewis/BigDataAnalyticswithSpark`](https://github.com/MarkCLewis/BigDataAnalyticswithSpark)
 - [`martin-gorner/tensorflow-mnist-tutorial`](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 - [`martin-gorner/tensorflow-rnn-shakespeare`](https://github.com/martin-gorner/tensorflow-rnn-shakespeare)
-- [`martin1keogh/Coinche`](https://github.com/martin1keogh/Coinche)
 - [`mathjax/MathJax`](https://github.com/mathjax/MathJax)
 - [`maticzav/emma-cli`](https://github.com/maticzav/emma-cli)
 - [`mattermost/mattermost-server`](https://github.com/mattermost/mattermost-server)
