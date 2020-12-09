@@ -22,6 +22,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
   - [Java](#java)
   - [Python](#python)
   - [CLI](#cli)
+  - [DevOps](#devops)
+  - [Security](#security)
 
 ### Talks
 
@@ -31,6 +33,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69
 
 ### Posts and Webapps
+[Back to TOC](#table-of-contents)
 
 #### 2021 Objectives
 
@@ -41,6 +44,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - Write part of a book using https://bookdown.org/yihui/rmarkdown/tufte-handouts.html or https://github.com/scalameta/mdoc
 
 #### 2020
+[Back to TOC](#table-of-contents)
 
 ##### December
 
@@ -106,6 +110,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Vox - AI can help find illegal opioid sellers online](https://www.vox.com/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies)
 
 #### 2019
+[Back to TOC](#table-of-contents)
 
 ##### December
 
@@ -141,6 +146,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Doing data engineering on Microsoft environment: [glances](https://github.com/nicolargo/glances), [mssql-scripter](https://github.com/Microsoft/mssql-scripter), [mssql-tools](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view%3Dsql-server-2017), [visidata](https://github.com/saulpw/visidata/), [Azure Data Studio](https://github.com/Microsoft/azuredatastudio), [DBeaver](https://dbeaver.io/)
 
 #### 2018
+[Back to TOC](#table-of-contents)
 
 ##### December
 - [AWS Labs - SageMaker examples](https://github.com/awslabs/amazon-sagemaker-examples)
@@ -163,6 +169,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Resources for using Nginx: [Diego Plentz - Nginx configuration for improved security and performance](https://gist.github.com/plentz/6737338), [awesome Nginx](https://github.com/agile6v/awesome-nginx)
 
 #### 2017
+[Back to TOC](#table-of-contents)
 
 ##### December
 - [Joshua Thijssen - REST Cookbook](http://restcookbook.com/)
@@ -176,6 +183,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Postman](https://www.getpostman.com/)
 
 #### 2016
+[Back to TOC](#table-of-contents)
 
 ##### December 
 - [Kevin van Zonneveld - Bash best practices](https://kvz.io/bash-best-practices.html)
@@ -190,6 +198,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Jonathan Boyer - Comprendre Git](https://www.grafikart.fr/formations/git)
 
 #### 2015
+[Back to TOC](#table-of-contents)
 
 - Node.js resources: [nodejs.org](http://nodejs.org/), [Lodash](http://lodash.com/), [Passport](http://passportjs.org/)
 - [Twitter Bootstrap](http://getbootstrap.com/)
@@ -197,6 +206,7 @@ Their long-term goal is to become an open platform for machine learning research
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
 
 #### 2014
+[Back to TOC](#table-of-contents)
 
 - [Steve Yegge - Good Agile, Bad Agile](http://steve-yegge.blogspot.fr/2006/09/good-agile-bad-agile_27.html) on the trend companies using Agile as a buzzword and not doing it seriously
 - [Paul Graham](http://paulgraham.com/ambitious.html) from Y Combinator wrote a list of startup ideas
@@ -217,17 +227,20 @@ Their long-term goal is to become an open platform for machine learning research
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
 
 #### 2013
+[Back to TOC](#table-of-contents)
 
 - Two articles on the difficulty on being a software engineer, at that time I didn't really want to choose a software career path. [Patrick McKenzie - Don't Call Yourself A Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), [Jeff Atwood - So You Don't Want to be a Programmer After All](http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html).
 - Some Delphi links for the musuem, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 
 #### 2012
+[Back to TOC](#table-of-contents)
 
 - Martin Fowler - Refactoring
 - Andrew Hunt - The Pragmatic Programmer
 
 #### 2011
+[Back to TOC](#table-of-contents)
 
 - Steve McConnell - Code complete
 - Herb Sutter - Exceptional C++
@@ -235,6 +248,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
 
 ### Books
+[Back to TOC](#table-of-contents)
 
 <div align="center">
   <a href="https://www.goodreads.com/book/show/50204627-google-bigquery"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572263929l/50204627._SX318_SY475_.jpg" width=100 alt="Lakshmanan"/></a>
@@ -296,6 +310,7 @@ Their long-term goal is to become an open platform for machine learning research
 </div>
 
 ### Blogs and Podcasts
+[Back to TOC](#table-of-contents)
 
 #### Old ones
 
@@ -368,8 +383,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [Webops Weekly](https://webopsweekly.com/)
 
 ### Repos, toolbox for work-related problems
+[Back to TOC](#table-of-contents)
 
 #### JavaScript
+[Back to TOC](#table-of-contents)
 
 - [`aerogear/create-graphql`](https://github.com/aerogear/create-graphql)
 - [`agenda/agenda`](https://github.com/agenda/agenda)
@@ -410,6 +427,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
 
 #### Scala
+[Back to TOC](#table-of-contents)
+
 - [`47degrees/fetch`](https://github.com/47degrees/fetch)
 - [`47degrees/sbt-microsites`](https://github.com/47degrees/sbt-microsites)
 - [`ACINQ/eclair`](https://github.com/ACINQ/eclair)
@@ -440,6 +459,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
 
 #### Python
+[Back to TOC](#table-of-contents)
+
 - [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
 - [`addok/addok`](https://github.com/addok/addok)
 - [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
@@ -477,6 +498,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
 
 #### Go and other hot languages
+[Back to TOC](#table-of-contents)
 
 - [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
 - [`ActiveState/gococo`](https://github.com/ActiveState/gococo)
@@ -493,6 +515,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cstate/cstate`](https://github.com/cstate/cstate)
 
 #### Java
+[Back to TOC](#table-of-contents)
+
 - [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
 - [`apache/beam`](https://github.com/apache/beam)
 - [`apache/calcite`](https://github.com/apache/calcite)
@@ -506,10 +530,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 
 #### Self-development
+[Back to TOC](#table-of-contents)
 
 - [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
 
 #### Museum
+[Back to TOC](#table-of-contents)
 
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
@@ -519,6 +545,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
 
 #### DevOps
+[Back to TOC](#table-of-contents)
 
 - [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
 - [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
@@ -539,10 +566,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
 
 #### Databases
+[Back to TOC](#table-of-contents)
+
 - [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
 - [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
 
 #### CLI
+[Back to TOC](#table-of-contents)
+
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
 - [`akavel/up`](https://github.com/akavel/up)
 - [`AlDanial/cloc`](https://github.com/AlDanial/cloc)
@@ -563,6 +594,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
 
 #### Security
+[Back to TOC](#table-of-contents)
+
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
@@ -1277,6 +1310,7 @@ Their long-term goal is to become an open platform for machine learning research
 </details>
 
 ### References
+[Back to TOC](#table-of-contents)
 
 - https://www.goodreads.com/api/index#shelves.list
 - https://api.github.com/users/mycaule/starred?page=9&per_page=100
