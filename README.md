@@ -17,10 +17,11 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - [Books](#books)
 - [Blogs](#blogs-and-podcasts)
 - [Repos](#repos-toolbox-for-work-related-problems)
-  - [JavaScript](#javascript)
+  - [Node.js](#javascript)
   - [Scala](#scala)
   - [Java](#java)
   - [Python](#python)
+  - [Go](go-and-other-hot-languages)
   - [CLI](#cli)
   - [DevOps](#devops)
   - [Security](#security)
@@ -414,6 +415,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`CUTR-at-USF/awesome-transit`](https://github.com/CUTR-at-USF/awesome-transit)
 - [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 - [`date-fns/date-fns`](https://github.com/date-fns/date-fns)
+- [`denoland/deno`](https://github.com/denoland/deno)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -448,6 +450,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`coursier/coursier`](https://github.com/coursier/coursier)
 - [`databricks/koalas`](https://github.com/databricks/koalas)
 - [`databricks/scala-style-guide`](https://github.com/databricks/scala-style-guide)
+- [`DevInsideYou/credit-card-generator-and-validator`](https://github.com/DevInsideYou/credit-card-generator-and-validator)
+- [`dghubble/sling`](https://github.com/dghubble/sling)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -462,6 +466,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
 - [`databricks/learning-spark`](https://github.com/databricks/learning-spark)
 - [`databricks/tensorframes`](https://github.com/databricks/tensorframes)
+- [`delta-io/delta`](https://github.com/delta-io/delta)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -497,6 +502,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cquest/dvf_as_api`](https://github.com/cquest/dvf_as_api)
 - [`dask/dask-tutorial`](https://github.com/dask/dask-tutorial)
 - [`dask/dask`](https://github.com/dask/dask)
+- [`DaveParr/snakes_and_lambdas`](https://github.com/DaveParr/snakes_and_lambdas)
+- [`davidsandberg/facenet`](https://github.com/davidsandberg/facenet)
+- [`dbader/schedule`](https://github.com/dbader/schedule)
+- [`deepmind/kinetics-i3d`](https://github.com/deepmind/kinetics-i3d)
+- [`deezer/spleeter`](https://github.com/deezer/spleeter)
+- [`Delgan/loguru`](https://github.com/Delgan/loguru)
+- [`dennybritz/nn-from-scratch`](https://github.com/dennybritz/nn-from-scratch)
+- [`devitrylouis/imaging_time_series`](https://github.com/devitrylouis/imaging_time_series)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -520,6 +533,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`bjorng/wings`](https://github.com/bjorng/wings)
 - [`chrislusf/gleam`](https://github.com/chrislusf/gleam)
 - [`cstate/cstate`](https://github.com/cstate/cstate)
+- [`dgomesbr/ScalaNginxLogParser`](https://github.com/dgomesbr/ScalaNginxLogParser)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -571,6 +585,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
 - [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
 - [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
+- [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -599,6 +614,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`clvv/fasd`](https://github.com/clvv/fasd)
 - [`cmatsuoka/figlet`](https://github.com/cmatsuoka/figlet)
 - [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
+- [`dbcli/mssql-cli`](https://github.com/dbcli/mssql-cli)
+- [`dbcli/pgcli`](https://github.com/dbcli/pgcli)
+- [`dbohdan/structured-text-tools`](https://github.com/dbohdan/structured-text-tools)
+- [`dflemstr/rq`](https://github.com/dflemstr/rq)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -608,25 +627,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### D letter
 
-- [`DaveParr/snakes_and_lambdas`](https://github.com/DaveParr/snakes_and_lambdas)
-- [`davidsandberg/facenet`](https://github.com/davidsandberg/facenet)
-- [`dbader/schedule`](https://github.com/dbader/schedule)
-- [`dbcli/mssql-cli`](https://github.com/dbcli/mssql-cli)
-- [`dbcli/pgcli`](https://github.com/dbcli/pgcli)
-- [`dbohdan/structured-text-tools`](https://github.com/dbohdan/structured-text-tools)
-- [`deepmind/kinetics-i3d`](https://github.com/deepmind/kinetics-i3d)
-- [`deezer/spleeter`](https://github.com/deezer/spleeter)
-- [`Delgan/loguru`](https://github.com/Delgan/loguru)
-- [`delta-io/delta`](https://github.com/delta-io/delta)
-- [`dennybritz/nn-from-scratch`](https://github.com/dennybritz/nn-from-scratch)
-- [`denoland/deno`](https://github.com/denoland/deno)
-- [`derikon/awesome-human-motion`](https://github.com/derikon/awesome-human-motion)
-- [`DevInsideYou/credit-card-generator-and-validator`](https://github.com/DevInsideYou/credit-card-generator-and-validator)
-- [`devitrylouis/imaging_time_series`](https://github.com/devitrylouis/imaging_time_series)
-- [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
-- [`dflemstr/rq`](https://github.com/dflemstr/rq)
-- [`dghubble/sling`](https://github.com/dghubble/sling)
-- [`dgomesbr/ScalaNginxLogParser`](https://github.com/dgomesbr/ScalaNginxLogParser)
 - [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
 - [`dinerojs/dinero.js`](https://github.com/dinerojs/dinero.js)
 - [`dmlc/gluon-cv`](https://github.com/dmlc/gluon-cv)
