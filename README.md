@@ -243,6 +243,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 - Martin Fowler - Refactoring
 - Andrew Hunt - The Pragmatic Programmer
+- Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/, [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 
 #### 2011
 [back to TOC](#table-of-contents)
