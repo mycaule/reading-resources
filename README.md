@@ -121,6 +121,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Andrew Ng @ Deeplearning.AI - Structuring Machine Learning Projects](https://www.youtube.com/watch?v=M3qpIzy4MQk&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&index=5) videos 5 to 7 on train/dev/test sets. The [Deep learning specialization](https://www.deeplearning.ai/deep-learning-specialization/) tries to be framework agnostic, but you might be interested to do the online courses from Google about using [Tensorflow in production as well after](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp).
 - [Andrew Ng @ Stanford - Full-Cycle Deep Learning Projects](https://www.youtube.com/watch?v=JUJNGv_sb4Y)
 - [Kubeflow on AWS](https://www.kubeflow.org/docs/aws/)
+- [Daily Calm calendar](https://blog.calm.com/blog/2020-daily-calm-calendar), if you haven't tried meditation I suggest you doing the Daily Calm challenge on their smartphone app or directly on [their Youtube channel](https://www.youtube.com/playlist?list=PLgdxvG3Ulbifdn2AAEAKohcNV0w_uIStj).
 
 ##### November
 
@@ -253,7 +254,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Herb Sutter - Exceptional C++
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
-- Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), 
+- Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), [Dave Child on Regular expressions](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), [Design patterns](http://www.webdeveloperjuice.com/demos/cheatsheets/design_pattern_cheatsheet_v1.pdf), [Allen Holub on UML](https://holub.com/uml/). I could also print them in one single piece of paper, which was handy.
 
 #### 2010
 
