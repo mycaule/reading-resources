@@ -13,7 +13,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 - [Posts](#posts-and-webapps): [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011)
 - [Books](#books)
-- [Posts](#posts-and-webapps)
+- [Blogs](#blogs)
+- [Repos](#posts-and-webapps)
   - [JavaScript](#javascript)
   - [Scala](#scala)
   - [Java](#java)
