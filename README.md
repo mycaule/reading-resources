@@ -156,6 +156,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [AWS Labs - SageMaker examples](https://github.com/awslabs/amazon-sagemaker-examples)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Google Research - Seedbank](https://research.google.com/seedbank/)
+- Useful notes for Spark: [Tips to Debug Apache Spark](https://databricks.com/blog/2016/10/18/7-tips-to-debug-apache-spark-code-faster-with-databricks.html), [Apache Spark Visualization](https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html), [Submitting User Applications with `spark-submit`](https://aws.amazon.com/fr/blogs/big-data/submitting-user-applications-with-spark-submit/), [Managing memory for Apache Spark](https://aws.amazon.com/fr/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/), [`ammonite-spark` EMR tutorial](https://gist.github.com/alexarchambault/8e1eec124f00b1c5576a29899ae39569)
 
 ##### August
 - Spotify Engineering Culture ([part1](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part2](https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/))
