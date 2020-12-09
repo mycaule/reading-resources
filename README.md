@@ -16,6 +16,9 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
 - [Blogs](#blogs-and-podcasts)
+  - [Following](#following)
+  - [Archives](#archives)
+- [Newsletters](#newsletters)
 - [Repos](#repos-toolbox-for-work-related-problems)
   - [Node.js](#javascript)
   - [Scala](#scala)
@@ -313,10 +316,24 @@ Their long-term goal is to become an open platform for machine learning research
 ### Blogs and Podcasts
 [back to TOC](#table-of-contents)
 
-#### Old ones
+#### Following
+[back to TOC](#table-of-contents)
 
-<details>
-- http://all-about-airbnb.com/
+- [Scott Hanselman](https://www.hanselman.com/blog/)
+- [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
+- [Uber Engineering](https://eng.uber.com/)
+- [Duolingo](http://making.duolingo.com/)
+- [GitHub Engineering](https://githubengineering.com/)
+- [Google Web Team](https://developers.google.com/web/updates/)
+- [Datadog](https://www.datadoghq.com/blog/)
+- [Andreessen Horowitz](https://a16z.com/)
+- [Yann Le Tilly](https://transid.blogspot.com/)
+- [Rude Baguette](http://www.rudebaguette.com/)
+- [Usine Digitale](https://www.usine-digitale.fr/)
+
+#### Archives
+[back to TOC](#table-of-contents)
+
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
 - https://medium.com/javascript-scene
@@ -330,15 +347,11 @@ Their long-term goal is to become an open platform for machine learning research
 - https://githubengineering.com
 - https://blog.google
 - https://www.ibm.com/blogs/research/
-- http://joegebbia.com/blog
 - https://www.joelonsoftware.com/
 - http://civilfrance.typepad.com/blog/
 - http://dwf.blogs.com/beyond_the_paper/
 - http://ellipsis-autodesk.typepad.com/blog/
 - http://images.math.cnrs.fr/
-- http://lucbouchareuaikido.blogspot.com/
-- http://main-ho-lee-won-sik.over-blog.com
-- http://marathonblog.blog.lemonde.fr
 - http://making.duolingo.com/
 - http://martinfowler.com/
 - http://perspectives.3ds.com
@@ -347,38 +360,27 @@ Their long-term goal is to become an open platform for machine learning research
 - http://www.codinghorror.com/blog/
 - http://www.industrie.com/it/
 - http://www.nouvellefabrique.fr/blog
-</details>
-
-- [Scott Hanselman](https://www.hanselman.com/blog/)
-- [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
-- [Uber Engineering](https://eng.uber.com/)
+- http://all-about-airbnb.com/
+- http://joegebbia.com/blog
+- [Airbnb News](https://blog.atairbnb.com/)
+- [Airbnb Engineering](https://medium.com/airbnb-engineering)
+- [Meilleurs Agents News](https://www.meilleursagents.com/actualite-immobilier/)
+- [Meilleurs Agents Engineering](https://medium.com/meilleursagents-engineering)
+- [Zillow Porchlight](https://www.zillow.com/blog/)
+- [Zillow Research](https://www.zillow.com/research/)
+- [Immobilier Danger](https://www.immobilier-danger.com/)
 - [Algolia Engineering](https://blog.algolia.com/)
 - [Yelp Engineering](https://engineeringblog.yelp.com/)
-- [Duolingo](http://making.duolingo.com/)
-- [GitHub Engineering](https://githubengineering.com/)
-- [Google Web Team](https://developers.google.com/web/updates/)
 - [Joel Spolsky](https://www.joelonsoftware.com/)
 - [Atlassian](http://confluence.seloger.com/atlassianblog.wpengine.com/)
 - [Li Haoyi](http://www.lihaoyi.com/)
 - [IntelliJ Scala Plugin](https://blog.jetbrains.com/scala/)
-- [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
-- [Datadog](https://www.datadoghq.com/blog/)
-- [Andreessen Horowitz](https://a16z.com/)
 - [Henri Verdier](http://www.henriverdier.com/)
-- [Yann Le Tilly](https://transid.blogspot.com/)
-- [Rude Baguette](http://www.rudebaguette.com/)
-- [Usine Digitale](https://www.usine-digitale.fr/)
-
-##### PropTech
-- [Actualité](https://blog.atairbnb.com/)
-- [Engineering](https://medium.com/airbnb-engineering)
-- [Actualité](https://www.meilleursagents.com/actualite-immobilier/)
-- [Engineering](https://medium.com/meilleursagents-engineering)
-- [Porchlight](https://www.zillow.com/blog/)
-- [Research](https://www.zillow.com/research/)
-- [David Lelong - Immobilier Danger](https://www.immobilier-danger.com/)
+- [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
 
 ##### Newsletters
+[back to TOC](#table-of-contents)
+
 - [Database Weekly](https://dbweekly.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Webops Weekly](https://webopsweekly.com/)
