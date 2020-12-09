@@ -121,6 +121,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Andrew Ng @ Deeplearning.AI - Structuring Machine Learning Projects](https://www.youtube.com/watch?v=M3qpIzy4MQk&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b&index=5) videos 5 to 7 on train/dev/test sets. The [Deep learning specialization](https://www.deeplearning.ai/deep-learning-specialization/) tries to be framework agnostic, but you might be interested to do the online courses from Google about using [Tensorflow in production as well after](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp).
 - [Andrew Ng @ Stanford - Full-Cycle Deep Learning Projects](https://www.youtube.com/watch?v=JUJNGv_sb4Y)
 - [Kubeflow on AWS](https://www.kubeflow.org/docs/aws/)
+- [Daily Calm calendar](https://blog.calm.com/blog/2020-daily-calm-calendar), if you haven't tried meditation I suggest you doing the Daily Calm challenge on their smartphone app or directly on [their Youtube channel](https://www.youtube.com/playlist?list=PLgdxvG3Ulbifdn2AAEAKohcNV0w_uIStj).
 
 ##### November
 
@@ -220,7 +221,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [Solarized theme](http://ethanschoonover.com/solarized) is awesome, at that time screen were more eye aggressive, using this and [f.lux](https://justgetflux.com) helped a lot. [Simple Desktops](http://simpledesktops.com/) had cool distraction-free wallpapers.
 - [Explain shell](http://explainshell.com/) provides explanation for Bash one liners
 - [SvgCharts4Xsl](http://franklinefrancis.github.com/SvgCharts4Xsl/), one of the first charting library for the web, it doesn't use JavaScript!
-- Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 - [Generating Word documents](http://sebsauvage.net/wiki/doku.php?id=word_document_generation) from XML was one of my concern, I also had to deal with [RTF files](http://latex2rtf.sourceforge.net/rtfspec_6.html)
 - Some civil engineering softwares that were inspirational but that I never really used [Straticad](https://www.terrasol.fr/catalogue/straticad-v2), [Code ASTER](http://www.code-aster.org/V2/spip.php?article180), [GDM](http://gdm.brgm.fr/)
 - [French - English](http://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/) translations for EXCEL formulas, helpful as finding help in English is far more easier, and if your employer locks you with a French operating system
@@ -245,6 +245,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Andrew Hunt - The Pragmatic Programmer
 - Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/, [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 - [Gérard Degoutte - Aide mémoire de mécanique des sols](http://graduateschool.agroparistech.fr/site.php?id=44&fileid=88)
+- Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 
 #### 2011
 [back to TOC](#table-of-contents)
@@ -253,6 +254,11 @@ Their long-term goal is to become an open platform for machine learning research
 - Herb Sutter - Exceptional C++
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
+- Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), [Dave Child on Regular expressions](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), [Design patterns](http://www.webdeveloperjuice.com/demos/cheatsheets/design_pattern_cheatsheet_v1.pdf), [Allen Holub on UML](https://holub.com/uml/). I could also print them in one single piece of paper, which was handy.
+
+#### 2010
+
+- Enjoyed reading Laurent Champaney books on mechanics, [Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf) and [Méthodes numériques pour la mécanique](https://savoir.ensam.eu/moodle/pluginfile.php/15241/mod_resource/content/2/MEF_Champaney.pdf), and Olivier Gagliardini's "Cours de béton armé" on [reinforced concrete](http://pp.ige-grenoble.fr/pageperso/gagliaro/enseignement/polyBA_IUP3.pdf). I used these book at my last year internship and my first full-time job
 
 ### Books
 [back to TOC](#table-of-contents)
