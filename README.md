@@ -7,6 +7,19 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - To keep track of helpful resources I have referred to during my career
 - To help my fellow young colleagues learn quickly
 
+------------------------------
+
+### Table of Contents
+
+- [Posts](#posts-and-webapps): [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017), [2016](#2016), [2015](#2015), [2014](#2014), [2013](#2013), [2012](#2012), [2011](#2011)
+- [Books](#books)
+- [Posts](#posts-and-webapps)
+  - [JavaScript](#javascript)
+  - [Scala](#scala)
+  - [Java](#java)
+  - [Python](#python)
+  - [CLI](#cli)
+
 ### Talks
 
 - https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22
@@ -373,6 +386,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [`bigskysoftware/intercooler-js`](https://github.com/bigskysoftware/intercooler-js)
 - [`brave/browser-laptop`](https://github.com/brave/browser-laptop)
 - [`breejs/bree`](https://github.com/breejs/bree)
+- [`chentsulin/awesome-graphql`](https://github.com/chentsulin/awesome-graphql)
+- [`choojs/choo`](https://github.com/choojs/choo)
+- [`clintonwoo/hackernews-react-graphql`](https://github.com/clintonwoo/hackernews-react-graphql)
+- [`cmseaton42/task-easy`](https://github.com/cmseaton42/task-easy)
+- [`copy/v86`](https://github.com/copy/v86)
+- [`CUTR-at-USF/awesome-transit`](https://github.com/CUTR-at-USF/awesome-transit)
+- [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -400,6 +420,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`amplab/succinct`](https://github.com/amplab/succinct)
 - [`ashwinbhaskar/functional-way`](https://github.com/ashwinbhaskar/functional-way)
 - [`Baeldung/scala-tutorials`](https://github.com/Baeldung/scala-tutorials)
+- [`cne1x/sfseize`](https://github.com/cne1x/sfseize)
+- [`danburkert/continuum`](https://github.com/danburkert/continuum)
+- [`coursier/coursier`](https://github.com/coursier/coursier)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -436,6 +459,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [`berdario/pew`](https://github.com/berdario/pew)
 - [`biubug6/Face-Detector-1MB-with-landmark`](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 - [`bokeh/bokeh`](https://github.com/bokeh/bokeh)
+- [`celery/celery`](https://github.com/celery/celery)
+- [`clovaai/CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch)
+- [`clovaai/deep-text-recognition-benchmark`](https://github.com/clovaai/deep-text-recognition-benchmark)
+- [`codelucas/newspaper`](https://github.com/codelucas/newspaper)
+- [`connorferster/handcalcs`](https://github.com/connorferster/handcalcs)
+- [`CoreyMSchafer/code_snippets`](https://github.com/CoreyMSchafer/code_snippets)
+- [`cquest/dvf_as_api`](https://github.com/cquest/dvf_as_api)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -456,6 +486,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
 - [`bitly/go-simplejson`](https://github.com/bitly/go-simplejson)
 - [`bjorng/wings`](https://github.com/bjorng/wings)
+- [`chrislusf/gleam`](https://github.com/chrislusf/gleam)
+- [`cstate/cstate`](https://github.com/cstate/cstate)
 
 #### Java
 - [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
@@ -480,6 +512,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`astralapp/astral`](https://github.com/astralapp/astral)
 - [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
+- [`chronoxor/FastBinaryEncoding`](https://github.com/chronoxor/FastBinaryEncoding)
+- [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
 
 #### DevOps
 
@@ -499,6 +533,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
 - [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
+- [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
+
+#### Databases
+- [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
+- [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
 
 #### CLI
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
@@ -515,52 +554,17 @@ Their long-term goal is to become an open platform for machine learning research
 - [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
 - [`BurntSushi/xsv`](https://github.com/BurntSushi/xsv)
 - [`bzg/org-mode`](https://github.com/bzg/org-mode)
+- [`clibs/entr`](https://github.com/clibs/entr)
+- [`clvv/fasd`](https://github.com/clvv/fasd)
+- [`cmatsuoka/figlet`](https://github.com/cmatsuoka/figlet)
+- [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
 
 #### Security
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
-
-##### C Letter
-- [`caroljmcdonald/sparkmldecisiontree`](https://github.com/caroljmcdonald/sparkmldecisiontree)
-- [`cb372/sbt-client`](https://github.com/cb372/sbt-client)
-- [`cdleon/ui-frameworks`](https://github.com/cdleon/ui-frameworks)
-- [`celery/celery`](https://github.com/celery/celery)
-- [`chentsulin/awesome-graphql`](https://github.com/chentsulin/awesome-graphql)
-- [`chibuk/simple-cnn-keras-colaboratory`](https://github.com/chibuk/simple-cnn-keras-colaboratory)
-- [`choojs/choo`](https://github.com/choojs/choo)
-- [`chrislusf/gleam`](https://github.com/chrislusf/gleam)
-- [`chronoxor/FastBinaryEncoding`](https://github.com/chronoxor/FastBinaryEncoding)
-- [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
-- [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
-- [`clibs/entr`](https://github.com/clibs/entr)
-- [`clintonwoo/hackernews-react-graphql`](https://github.com/clintonwoo/hackernews-react-graphql)
-- [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
-- [`clovaai/CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch)
-- [`clovaai/deep-text-recognition-benchmark`](https://github.com/clovaai/deep-text-recognition-benchmark)
-- [`clvv/fasd`](https://github.com/clvv/fasd)
-- [`cmatsuoka/figlet`](https://github.com/cmatsuoka/figlet)
-- [`cmseaton42/task-easy`](https://github.com/cmseaton42/task-easy)
-- [`cne1x/sfseize`](https://github.com/cne1x/sfseize)
-- [`codelucas/newspaper`](https://github.com/codelucas/newspaper)
-- [`coldbrewcloud/coldbrew-cli`](https://github.com/coldbrewcloud/coldbrew-cli)
-- [`colindean/enigma-simulation`](https://github.com/colindean/enigma-simulation)
-- [`connorferster/handcalcs`](https://github.com/connorferster/handcalcs)
-- [`ContinualAI/colab`](https://github.com/ContinualAI/colab)
-- [`copy/v86`](https://github.com/copy/v86)
-- [`CoreyMSchafer/code_snippets`](https://github.com/CoreyMSchafer/code_snippets)
-- [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
-- [`coursier/coursier`](https://github.com/coursier/coursier)
-- [`cquest/dvf_as_api`](https://github.com/cquest/dvf_as_api)
-- [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
-- [`cstate/cstate`](https://github.com/cstate/cstate)
-- [`CUTR-at-USF/awesome-transit`](https://github.com/CUTR-at-USF/awesome-transit)
-
-
 <details>
 
-- [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
-- [`danburkert/continuum`](https://github.com/danburkert/continuum)
 - [`dask/dask-tutorial`](https://github.com/dask/dask-tutorial)
 - [`dask/dask`](https://github.com/dask/dask)
 - [`databricks/koalas`](https://github.com/databricks/koalas)
