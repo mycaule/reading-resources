@@ -439,6 +439,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`electron/fiddle`](https://github.com/electron/fiddle)
 - [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
 - [`enquirer/enquirer`](https://github.com/enquirer/enquirer)
+- [`ethereum/web3.js`](https://github.com/ethereum/web3.js)
+- [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
+- [`expo/expo`](https://github.com/expo/expo)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -475,6 +478,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`databricks/scala-style-guide`](https://github.com/databricks/scala-style-guide)
 - [`DevInsideYou/credit-card-generator-and-validator`](https://github.com/DevInsideYou/credit-card-generator-and-validator)
 - [`dghubble/sling`](https://github.com/dghubble/sling)
+- [`dgomesbr/ScalaNginxLogParser`](https://github.com/dgomesbr/ScalaNginxLogParser)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -539,6 +543,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [`duolingo/halflife-regression`](https://github.com/duolingo/halflife-regression)
 - [`emilwallner/Coloring-greyscale-images`](https://github.com/emilwallner/Coloring-greyscale-images)
+- [`explosion/spaCy`](https://github.com/explosion/spaCy)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -562,7 +567,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`bjorng/wings`](https://github.com/bjorng/wings)
 - [`chrislusf/gleam`](https://github.com/chrislusf/gleam)
 - [`cstate/cstate`](https://github.com/cstate/cstate)
-- [`dgomesbr/ScalaNginxLogParser`](https://github.com/dgomesbr/ScalaNginxLogParser)
+- [`ethereum/go-ethereum`](https://github.com/ethereum/go-ethereum)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -579,6 +584,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 - [`eclipse/deeplearning4j`](https://github.com/eclipse/deeplearning4j)
+- [`eugenp/tutorials`](https://github.com/eugenp/tutorials)
 
 #### Self-development
 [back to TOC](#table-of-contents)
@@ -598,6 +604,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
 - [`dotnet/aspnetcore`](https://github.com/dotnet/aspnetcore)
 - [`edx/edx-platform`](https://github.com/edx/edx-platform)
+- [`etalab/calculette-impots-m-language-parser`](https://github.com/etalab/calculette-impots-m-language-parser)
+- [`etalab/covid19-dashboard`](https://github.com/etalab/covid19-dashboard)
+- [`etalab/dvf`](https://github.com/etalab/dvf)
+- [`ethereum/wiki`](https://github.com/ethereum/wiki)
+- [`ethereumbook/ethereumbook`](https://github.com/ethereumbook/ethereumbook)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -657,29 +668,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`dbcli/pgcli`](https://github.com/dbcli/pgcli)
 - [`dbohdan/structured-text-tools`](https://github.com/dbohdan/structured-text-tools)
 - [`dflemstr/rq`](https://github.com/dflemstr/rq)
+- [`ericchiang/pup`](https://github.com/ericchiang/pup)
+- [`EverythingMe/ncdu-s3`](https://github.com/EverythingMe/ncdu-s3)
+- [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
 
 #### Security
 [back to TOC](#table-of-contents)
 
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
-
-#### E letter
-
-- [`ericchiang/pup`](https://github.com/ericchiang/pup)
-- [`etalab/calculette-impots-m-language-parser`](https://github.com/etalab/calculette-impots-m-language-parser)
-- [`etalab/covid19-dashboard`](https://github.com/etalab/covid19-dashboard)
-- [`etalab/dvf`](https://github.com/etalab/dvf)
-- [`ethereum/go-ethereum`](https://github.com/ethereum/go-ethereum)
-- [`ethereum/web3.js`](https://github.com/ethereum/web3.js)
-- [`ethereum/wiki`](https://github.com/ethereum/wiki)
-- [`ethereumbook/ethereumbook`](https://github.com/ethereumbook/ethereumbook)
-- [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
-- [`eugenp/tutorials`](https://github.com/eugenp/tutorials)
-- [`EverythingMe/ncdu-s3`](https://github.com/EverythingMe/ncdu-s3)
-- [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
-- [`explosion/spaCy`](https://github.com/explosion/spaCy)
-- [`expo/expo`](https://github.com/expo/expo)
 
 #### F letter
 
