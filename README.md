@@ -430,6 +430,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`dinerojs/dinero.js`](https://github.com/dinerojs/dinero.js)
 - [`dominictarr/JSONStream`](https://github.com/dominictarr/JSONStream)
 - [`dvajs/dva`](https://github.com/dvajs/dva)
+- [`e-oj/grabity`](https://github.com/e-oj/grabity)
+- [`ebradyjobory/finance.js`](https://github.com/ebradyjobory/finance.js)
+- [`ehmicky/cross-platform-node-guide`](https://github.com/ehmicky/cross-platform-node-guide)
+- [`eladnava/mailgen`](https://github.com/eladnava/mailgen)
+- [`electrode-io/electrode`](https://github.com/electrode-io/electrode)
+- [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
+- [`electron/fiddle`](https://github.com/electron/fiddle)
+- [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
+- [`enquirer/enquirer`](https://github.com/enquirer/enquirer)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -529,6 +538,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`dmlc/xgboost`](https://github.com/dmlc/xgboost)
 - [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [`duolingo/halflife-regression`](https://github.com/duolingo/halflife-regression)
+- [`emilwallner/Coloring-greyscale-images`](https://github.com/emilwallner/Coloring-greyscale-images)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -568,6 +578,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`awslabs/multi-model-server`](https://github.com/awslabs/multi-model-server)
 - [`axeleroy/commechezsoi`](https://github.com/axeleroy/commechezsoi)
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
+- [`eclipse/deeplearning4j`](https://github.com/eclipse/deeplearning4j)
 
 #### Self-development
 [back to TOC](#table-of-contents)
@@ -586,6 +597,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`chronoxor/FastBinaryEncoding`](https://github.com/chronoxor/FastBinaryEncoding)
 - [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
 - [`dotnet/aspnetcore`](https://github.com/dotnet/aspnetcore)
+- [`edx/edx-platform`](https://github.com/edx/edx-platform)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -618,6 +630,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
 - [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
 - [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
+- [`ept/ddia-references`](https://github.com/ept/ddia-references)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -653,22 +666,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### E letter
 
-- [`e-oj/grabity`](https://github.com/e-oj/grabity)
-- [`eatkins/scala-build-watch-performance`](https://github.com/eatkins/scala-build-watch-performance)
-- [`ebradyjobory/finance.js`](https://github.com/ebradyjobory/finance.js)
-- [`EclairJS/eclairjs-node`](https://github.com/EclairJS/eclairjs-node)
-- [`eclipse/deeplearning4j`](https://github.com/eclipse/deeplearning4j)
-- [`edx/edx-platform`](https://github.com/edx/edx-platform)
-- [`ehmicky/cross-platform-node-guide`](https://github.com/ehmicky/cross-platform-node-guide)
-- [`eladnava/mailgen`](https://github.com/eladnava/mailgen)
-- [`electrode-io/electrode`](https://github.com/electrode-io/electrode)
-- [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
-- [`electron/fiddle`](https://github.com/electron/fiddle)
-- [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
-- [`emilwallner/Coloring-greyscale-images`](https://github.com/emilwallner/Coloring-greyscale-images)
-- [`enquirer/enquirer`](https://github.com/enquirer/enquirer)
-- [`ept/ddia-references`](https://github.com/ept/ddia-references)
-- [`EragonJ/Kaku`](https://github.com/EragonJ/Kaku)
 - [`ericchiang/pup`](https://github.com/ericchiang/pup)
 - [`etalab/calculette-impots-m-language-parser`](https://github.com/etalab/calculette-impots-m-language-parser)
 - [`etalab/covid19-dashboard`](https://github.com/etalab/covid19-dashboard)
@@ -683,7 +680,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
 - [`explosion/spaCy`](https://github.com/explosion/spaCy)
 - [`expo/expo`](https://github.com/expo/expo)
-- [`ExtendLord/DeezLoader-Reborn`](https://github.com/ExtendLord/DeezLoader-Reborn)
 
 #### F letter
 
