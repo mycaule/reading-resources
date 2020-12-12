@@ -343,6 +343,41 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archives
 [back to TOC](#table-of-contents)
 
+https://www.lemondeinformatique.fr/
+https://erikbern.com/
+http://making.duolingo.com
+http://images.math.cnrs.fr/
+https://interstices.info
+http://www.lemonde.fr/big-browser
+http://www.kottke.org/
+https://developers.google.com/web/
+https://www.etalab.gouv.fr
+https://blog.datawrapper.de
+https://www.usine-digitale.fr/french-tech
+http://developers.facebook.com/blog/
+http://blog.google
+http://a16z.com/
+http://eng.uber.com/
+http://www.rudebaguette.com/
+https://aws.amazon.com/blogs/big-data/
+https://code.fb.com/
+https://githubengineering.com/
+http://www.lihaoyi.com/
+https://engineering.linkedin.com/
+https://medium.com/@Pinterest_Engineering
+https://scalac.io/
+http://cloudblog.withgoogle.com/products/data-analytics
+https://www.zillow.com/tech/ai-ml/
+https://engineering.atspotify.com/
+http://www.hanselman.com/scotthanselman
+http://www.techinasia.com/
+http://engineeringblog.yelp.com/
+http://joelonsoftware.com
+http://blog.bouygues-construction.com/
+http://transid.blogspot.com/
+http://transports.blog.lemonde.fr/
+http://uninvitedredesigns.com
+
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
 - https://medium.com/javascript-scene
