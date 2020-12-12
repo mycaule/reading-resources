@@ -442,6 +442,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ethereum/web3.js`](https://github.com/ethereum/web3.js)
 - [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
 - [`expo/expo`](https://github.com/expo/expo)
+- [`facebook/create-react-app`](https://github.com/facebook/create-react-app)
+- [`firebase/functions-samples`](https://github.com/firebase/functions-samples)
+- [`formium/formik`](https://github.com/formium/formik)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -479,6 +482,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`DevInsideYou/credit-card-generator-and-validator`](https://github.com/DevInsideYou/credit-card-generator-and-validator)
 - [`dghubble/sling`](https://github.com/dghubble/sling)
 - [`dgomesbr/ScalaNginxLogParser`](https://github.com/dgomesbr/ScalaNginxLogParser)
+- [`fedragon/sbt-todolist`](https://github.com/fedragon/sbt-todolist)
+- [`foundweekends/giter8`](https://github.com/foundweekends/giter8)
+- [`fpinscala/fpinscala`](https://github.com/fpinscala/fpinscala)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -544,6 +550,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`duolingo/halflife-regression`](https://github.com/duolingo/halflife-regression)
 - [`emilwallner/Coloring-greyscale-images`](https://github.com/emilwallner/Coloring-greyscale-images)
 - [`explosion/spaCy`](https://github.com/explosion/spaCy)
+- [`facebook/prophet`](https://github.com/facebook/prophet)
+- [`facebookresearch/hydra`](https://github.com/facebookresearch/hydra)
+- [`facebookresearch/semi-supervised-ImageNet1K-models`](https://github.com/facebookresearch/semi-supervised-ImageNet1K-models)
+- [`facebookresearch/VideoPose3D`](https://github.com/facebookresearch/VideoPose3D)
+- [`fastai/fastai`](https://github.com/fastai/fastai)
+- [`fastai/fastpages`](https://github.com/fastai/fastpages)
+- [`fivethirtyeight/data`](https://github.com/fivethirtyeight/data)
+- [`flairNLP/flair`](https://github.com/flairNLP/flair)
+- [`flotpython/course`](https://github.com/flotpython/course)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -585,6 +600,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 - [`eclipse/deeplearning4j`](https://github.com/eclipse/deeplearning4j)
 - [`eugenp/tutorials`](https://github.com/eugenp/tutorials)
+- [`facebook/buck`](https://github.com/facebook/buck)
+- [`framiere/a-kafka-story`](https://github.com/framiere/a-kafka-story)
 
 #### Self-development
 [back to TOC](#table-of-contents)
@@ -609,6 +626,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`etalab/dvf`](https://github.com/etalab/dvf)
 - [`ethereum/wiki`](https://github.com/ethereum/wiki)
 - [`ethereumbook/ethereumbook`](https://github.com/ethereumbook/ethereumbook)
+- [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss)
+- [`facebookresearch/fastText`](https://github.com/facebookresearch/fastText)
+- [`facebookresearch/wav2letter`](https://github.com/facebookresearch/wav2letter)
+- [`fchollet/ARC`](https://github.com/fchollet/ARC)
+- [`felixrieseberg/windows95`](https://github.com/felixrieseberg/windows95)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -642,6 +664,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
 - [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
 - [`ept/ddia-references`](https://github.com/ept/ddia-references)
+- [`fastogt/fastonosql`](https://github.com/fastogt/fastonosql)
+- [`fishtown-analytics/dbt`](https://github.com/fishtown-analytics/dbt)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -677,36 +701,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
-
-#### F letter
-
-- [`facebook/buck`](https://github.com/facebook/buck)
-- [`facebook/create-react-app`](https://github.com/facebook/create-react-app)
-- [`facebook/prophet`](https://github.com/facebook/prophet)
-- [`facebookincubator/Polygames`](https://github.com/facebookincubator/Polygames)
-- [`facebookresearch/detectron2`](https://github.com/facebookresearch/detectron2)
-- [`facebookresearch/faiss`](https://github.com/facebookresearch/faiss)
-- [`facebookresearch/fastText`](https://github.com/facebookresearch/fastText)
-- [`facebookresearch/hydra`](https://github.com/facebookresearch/hydra)
-- [`facebookresearch/semi-supervised-ImageNet1K-models`](https://github.com/facebookresearch/semi-supervised-ImageNet1K-models)
-- [`facebookresearch/VideoPose3D`](https://github.com/facebookresearch/VideoPose3D)
-- [`facebookresearch/wav2letter`](https://github.com/facebookresearch/wav2letter)
-- [`fairlearn/fairlearn`](https://github.com/fairlearn/fairlearn)
-- [`fastai/fastai`](https://github.com/fastai/fastai)
-- [`fastai/fastpages`](https://github.com/fastai/fastpages)
-- [`fastogt/fastonosql`](https://github.com/fastogt/fastonosql)
-- [`fchollet/ARC`](https://github.com/fchollet/ARC)
-- [`fedragon/sbt-todolist`](https://github.com/fedragon/sbt-todolist)
-- [`felixrieseberg/windows95`](https://github.com/felixrieseberg/windows95)
-- [`firebase/functions-samples`](https://github.com/firebase/functions-samples)
-- [`fishtown-analytics/dbt`](https://github.com/fishtown-analytics/dbt)
-- [`fivethirtyeight/data`](https://github.com/fivethirtyeight/data)
-- [`flairNLP/flair`](https://github.com/flairNLP/flair)
-- [`flotpython/course`](https://github.com/flotpython/course)
-- [`formium/formik`](https://github.com/formium/formik)
-- [`foundweekends/giter8`](https://github.com/foundweekends/giter8)
-- [`fpinscala/fpinscala`](https://github.com/fpinscala/fpinscala)
-- [`framiere/a-kafka-story`](https://github.com/framiere/a-kafka-story)
 
 #### G letter
 
