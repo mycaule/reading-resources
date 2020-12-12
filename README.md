@@ -24,7 +24,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
   - [Scala](#scala)
   - [Java](#java)
   - [Python](#python)
-  - [Go](go-and-other-hot-languages)
+  - [Go](#go-and-other-hot-languages)
   - [CLI](#cli)
   - [DevOps](#devops)
   - [Security](#security)
@@ -756,8 +756,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
-#### H letter
 
+------
 - [`h2non/videoshow`](https://github.com/h2non/videoshow)
 - [`h2o/h2o`](https://github.com/h2o/h2o)
 - [`hackerkid/Mind-Expanding-Books`](https://github.com/hackerkid/Mind-Expanding-Books)
