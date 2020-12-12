@@ -24,7 +24,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
   - [Scala](#scala)
   - [Java](#java)
   - [Python](#python)
-  - [Go](go-and-other-hot-languages)
+  - [Go](#go-and-other-hot-languages)
   - [CLI](#cli)
   - [DevOps](#devops)
   - [Security](#security)
@@ -457,11 +457,17 @@ Their long-term goal is to become an open platform for machine learning research
 - [`gothinkster/realworld`](https://github.com/gothinkster/realworld)
 - [`guess-js/guess`](https://github.com/guess-js/guess)
 - [`googleworkspace/apps-script-samples`](https://github.com/googleworkspace/apps-script-samples)
+- [`h2non/videoshow`](https://github.com/h2non/videoshow)
+- [`hasura/graphqurl`](https://github.com/hasura/graphqurl)
+- [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
+- [`hodgef/simple-keyboard`](https://github.com/hodgef/simple-keyboard)
+- [`hql287/Manta`](https://github.com/hql287/Manta)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
+- [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -498,6 +504,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`fedragon/sbt-todolist`](https://github.com/fedragon/sbt-todolist)
 - [`foundweekends/giter8`](https://github.com/foundweekends/giter8)
 - [`fpinscala/fpinscala`](https://github.com/fpinscala/fpinscala)
+- [`Hydrospheredata/typed-sql`](https://github.com/Hydrospheredata/typed-sql)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -514,6 +521,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`databricks/tensorframes`](https://github.com/databricks/tensorframes)
 - [`delta-io/delta`](https://github.com/delta-io/delta)
 - [`GoogleCloudDataproc/initialization-actions`](https://github.com/GoogleCloudDataproc/initialization-actions)
+- [`holdenk/spark-testing-base`](https://github.com/holdenk/spark-testing-base)
+- [`hortonworks-gallery/zeppelin-notebooks`](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -582,6 +591,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`GoogleCloudPlatform/realtime-embeddings-matching`](https://github.com/GoogleCloudPlatform/realtime-embeddings-matching)
 - [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations)
 - [`grycap/scar`](https://github.com/grycap/scar)
+- [`hill-a/stable-baselines`](https://github.com/hill-a/stable-baselines)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -590,6 +600,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
 - [`google-research/bert`](https://github.com/google-research/bert)
 - [`GoogleCloudPlatform/tensorflow-without-a-phd`](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)
+- [`hainan89/3DHumanPoseEstimation`](https://github.com/hainan89/3DHumanPoseEstimation)
+- [`huggingface/awesome-papers`](https://github.com/huggingface/awesome-papers)
+- [`huggingface/tflite-android-transformers`](https://github.com/huggingface/tflite-android-transformers)
+- [`huggingface/transformers`](https://github.com/huggingface/transformers)
+- [`hwalsuklee/awesome-deep-text-detection-recognition`](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+- [`horovod/horovod`](https://github.com/horovod/horovod)
 
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
@@ -615,6 +631,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`gohugoio/hugo`](https://github.com/gohugoio/hugo)
 - [`golang/go`](https://github.com/golang/go)
 - [`googleforgames/open-match`](https://github.com/googleforgames/open-match)
+- [`hybridgroup/gocv`](https://github.com/hybridgroup/gocv)
+- [`harlow/kinesis-consumer`](https://github.com/harlow/kinesis-consumer)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -636,6 +654,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`framiere/a-kafka-story`](https://github.com/framiere/a-kafka-story)
 - [`google/guava`](https://github.com/google/guava)
 - [`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos)
+- [`haifengl/smile`](https://github.com/haifengl/smile)
 
 ##### Apache Beam
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
@@ -649,6 +668,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
 - [`dreamingechoes/awesome-mental-health`](https://github.com/dreamingechoes/awesome-mental-health)
 - [`dylanrees/citizen-science`](https://github.com/dylanrees/citizen-science)
+- [`hackerkid/Mind-Expanding-Books`](https://github.com/hackerkid/Mind-Expanding-Books)
 
 #### Museum
 [back to TOC](#table-of-contents)
@@ -676,6 +696,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`google/wwwbasic`](https://github.com/google/wwwbasic)
 - [`gregoiredavid/france-geojson`](https://github.com/gregoiredavid/france-geojson)
 - [`googlecreativelab/quickdraw-dataset`](https://github.com/googlecreativelab/quickdraw-dataset)
+- [`h2o/h2o`](https://github.com/h2o/h2o)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -704,6 +725,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`GoogleCloudPlatform/gcsfuse`](https://github.com/GoogleCloudPlatform/gcsfuse)
 - [`GoogleCloudPlatform/mlops-on-gcp`](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
 - [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
+- [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -717,6 +739,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`getredash/redash`](https://github.com/getredash/redash)
 - [`GoogleCloudPlatform/bigquery-oreilly-book`](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book)
 - [`GoogleCloudPlatform/bigquery-utils`](https://github.com/GoogleCloudPlatform/bigquery-utils)
+- [`heathermiller/dist-prog-book`](https://github.com/heathermiller/dist-prog-book)
+- [`HTTPArchive/bigquery`](https://github.com/HTTPArchive/bigquery)
+- [`HTTPArchive/httparchive.org`](https://github.com/HTTPArchive/httparchive.org)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -749,44 +774,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
 - [`github/hub`](https://github.com/github/hub)
 - [`github/semantic`](https://github.com/github/semantic)
+- [`HazyResearch/pdftotree`](https://github.com/HazyResearch/pdftotree)
+- [`herrbischoff/awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
+- [`holman/spark`](https://github.com/holman/spark)
 
 #### Security
 [back to TOC](#table-of-contents)
 
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
-
-#### H letter
-
-- [`h2non/videoshow`](https://github.com/h2non/videoshow)
-- [`h2o/h2o`](https://github.com/h2o/h2o)
-- [`hackerkid/Mind-Expanding-Books`](https://github.com/hackerkid/Mind-Expanding-Books)
-- [`haifengl/smile`](https://github.com/haifengl/smile)
-- [`hainan89/3DHumanPoseEstimation`](https://github.com/hainan89/3DHumanPoseEstimation)
-- [`harlow/kinesis-consumer`](https://github.com/harlow/kinesis-consumer)
-- [`hasura/graphqurl`](https://github.com/hasura/graphqurl)
-- [`HazyResearch/pdftotree`](https://github.com/HazyResearch/pdftotree)
-- [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
-- [`heathermiller/dist-prog-book`](https://github.com/heathermiller/dist-prog-book)
-- [`herrbischoff/awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
-- [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
-- [`hill-a/stable-baselines`](https://github.com/hill-a/stable-baselines)
-- [`hiproxy/hiproxy`](https://github.com/hiproxy/hiproxy)
-- [`hodgef/simple-keyboard`](https://github.com/hodgef/simple-keyboard)
-- [`holdenk/spark-testing-base`](https://github.com/holdenk/spark-testing-base)
-- [`holman/spark`](https://github.com/holman/spark)
-- [`horovod/horovod`](https://github.com/horovod/horovod)
-- [`hortonworks-gallery/zeppelin-notebooks`](https://github.com/hortonworks-gallery/zeppelin-notebooks)
-- [`hql287/Manta`](https://github.com/hql287/Manta)
-- [`HTTPArchive/bigquery`](https://github.com/HTTPArchive/bigquery)
-- [`HTTPArchive/httparchive.org`](https://github.com/HTTPArchive/httparchive.org)
-- [`huggingface/awesome-papers`](https://github.com/huggingface/awesome-papers)
-- [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
-- [`huggingface/tflite-android-transformers`](https://github.com/huggingface/tflite-android-transformers)
-- [`huggingface/transformers`](https://github.com/huggingface/transformers)
-- [`hwalsuklee/awesome-deep-text-detection-recognition`](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
-- [`hybridgroup/gocv`](https://github.com/hybridgroup/gocv)
-- [`Hydrospheredata/typed-sql`](https://github.com/Hydrospheredata/typed-sql)
 
 #### I, J letter
 
