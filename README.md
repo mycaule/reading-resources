@@ -216,7 +216,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 - [Steve Yegge - Good Agile, Bad Agile](http://steve-yegge.blogspot.fr/2006/09/good-agile-bad-agile_27.html) on the trend companies using Agile as a buzzword and not doing it seriously
 - [Paul Graham](http://paulgraham.com/ambitious.html) from Y Combinator wrote a list of startup ideas
-- [WakeOnLAN](http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake+on+lan) is useful for desktop computers you want to use as servers or screenboards only at business hours, you can combine it with `crontab`.
+- [WakeOnLAN](http://lifehacker.com/348197/access-your-computer-anytime-and-save-energy-with-wake+on+lan) is useful for desktop computers you want to use as servers or screenboards only at business hours, you can combine it with `crontab`, check also this [stackoverflow post](https://stackoverflow.com/questions/31588035/bash-one-line-command-to-send-wake-on-lan-magic-packet-without-specific-tool)
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) compares language and tells who has the fastest implementations of different classical algorithms
 - [Solarized theme](http://ethanschoonover.com/solarized) is awesome, at that time screen were more eye aggressive, using this and [f.lux](https://justgetflux.com) helped a lot. [Simple Desktops](http://simpledesktops.com/) had cool distraction-free wallpapers.
 - [Explain shell](http://explainshell.com/) provides explanation for Bash one liners
