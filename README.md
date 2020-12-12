@@ -445,10 +445,23 @@ Their long-term goal is to become an open platform for machine learning research
 - [`facebook/create-react-app`](https://github.com/facebook/create-react-app)
 - [`firebase/functions-samples`](https://github.com/firebase/functions-samples)
 - [`formium/formik`](https://github.com/formium/formik)
+- [`gatsbyjs/gatsby`](https://github.com/gatsbyjs/gatsby)
+- [`getgauge/taiko`](https://github.com/getgauge/taiko)
+- [`github/hotkey`](https://github.com/github/hotkey)
+- [`gnab/remark`](https://github.com/gnab/remark)
+- [`goldbergyoni/nodebestpractices`](https://github.com/goldbergyoni/nodebestpractices)
+- [`googleapis/nodejs-translate`](https://github.com/googleapis/nodejs-translate)
+- [`googleapis/nodejs-video-intelligence`](https://github.com/googleapis/nodejs-video-intelligence)
+- [`googleapis/nodejs-vision`](https://github.com/googleapis/nodejs-vision)
+- [`GoogleCloudPlatform/nodejs-docs-samples`](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
+- [`gothinkster/realworld`](https://github.com/gothinkster/realworld)
+- [`guess-js/guess`](https://github.com/guess-js/guess)
+- [`googleworkspace/apps-script-samples`](https://github.com/googleworkspace/apps-script-samples)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
+- [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -500,6 +513,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`databricks/learning-spark`](https://github.com/databricks/learning-spark)
 - [`databricks/tensorframes`](https://github.com/databricks/tensorframes)
 - [`delta-io/delta`](https://github.com/delta-io/delta)
+- [`GoogleCloudDataproc/initialization-actions`](https://github.com/GoogleCloudDataproc/initialization-actions)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -559,12 +573,23 @@ Their long-term goal is to become an open platform for machine learning research
 - [`fivethirtyeight/data`](https://github.com/fivethirtyeight/data)
 - [`flairNLP/flair`](https://github.com/flairNLP/flair)
 - [`flotpython/course`](https://github.com/flotpython/course)
+- [`google/python-fire`](https://github.com/google/python-fire)
+- [`GoogleCloudPlatform/ai-platform-samples`](https://github.com/GoogleCloudPlatform/ai-platform-samples)
+- [`GoogleCloudPlatform/data-science-on-gcp`](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
+- [`GoogleCloudPlatform/getting-started-python`](https://github.com/GoogleCloudPlatform/getting-started-python)
+- [`GoogleCloudPlatform/ml-design-patterns`](https://github.com/GoogleCloudPlatform/ml-design-patterns)
+- [`GoogleCloudPlatform/python-docs-samples`](https://github.com/GoogleCloudPlatform/python-docs-samples)
+- [`GoogleCloudPlatform/realtime-embeddings-matching`](https://github.com/GoogleCloudPlatform/realtime-embeddings-matching)
+- [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations)
+- [`grycap/scar`](https://github.com/grycap/scar)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
 - [`ahkarami/Deep-Learning-in-Production`](https://github.com/ahkarami/Deep-Learning-in-Production)
 - [`Amin-Tgz/awesome-tensorflow-2`](https://github.com/Amin-Tgz/awesome-tensorflow-2)
 - [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
+- [`google-research/bert`](https://github.com/google-research/bert)
+- [`GoogleCloudPlatform/tensorflow-without-a-phd`](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)
 
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
@@ -583,6 +608,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [`chrislusf/gleam`](https://github.com/chrislusf/gleam)
 - [`cstate/cstate`](https://github.com/cstate/cstate)
 - [`ethereum/go-ethereum`](https://github.com/ethereum/go-ethereum)
+- [`go-jira/jira`](https://github.com/go-jira/jira)
+- [`go-redis/redis`](https://github.com/go-redis/redis)
+- [`gobuffalo/buffalo`](https://github.com/gobuffalo/buffalo)
+- [`gobuffalo/pop`](https://github.com/gobuffalo/pop)
+- [`gohugoio/hugo`](https://github.com/gohugoio/hugo)
+- [`golang/go`](https://github.com/golang/go)
+- [`googleforgames/open-match`](https://github.com/googleforgames/open-match)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -602,6 +634,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`eugenp/tutorials`](https://github.com/eugenp/tutorials)
 - [`facebook/buck`](https://github.com/facebook/buck)
 - [`framiere/a-kafka-story`](https://github.com/framiere/a-kafka-story)
+- [`google/guava`](https://github.com/google/guava)
+- [`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos)
+
+##### Apache Beam
+- [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
+- [`GoogleCloudPlatform/dataflow-opinion-analysis`](https://github.com/GoogleCloudPlatform/dataflow-opinion-analysis)
+- [`GoogleCloudPlatform/DataflowTemplates`](https://github.com/GoogleCloudPlatform/DataflowTemplates)
+- [`GoogleCloudPlatform/df-ml-anomaly-detection`](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection)
 
 #### Self-development
 [back to TOC](#table-of-contents)
@@ -631,6 +671,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`facebookresearch/wav2letter`](https://github.com/facebookresearch/wav2letter)
 - [`fchollet/ARC`](https://github.com/fchollet/ARC)
 - [`felixrieseberg/windows95`](https://github.com/felixrieseberg/windows95)
+- [`google/filament`](https://github.com/google/filament)
+- [`google/or-tools`](https://github.com/google/or-tools)
+- [`google/wwwbasic`](https://github.com/google/wwwbasic)
+- [`gregoiredavid/france-geojson`](https://github.com/gregoiredavid/france-geojson)
+- [`googlecreativelab/quickdraw-dataset`](https://github.com/googlecreativelab/quickdraw-dataset)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -656,6 +701,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
 - [`dokku/dokku`](https://github.com/dokku/dokku)
 - [`donnemartin/awesome-aws`](https://github.com/donnemartin/awesome-aws)
+- [`GoogleCloudPlatform/gcsfuse`](https://github.com/GoogleCloudPlatform/gcsfuse)
+- [`GoogleCloudPlatform/mlops-on-gcp`](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
+- [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -666,6 +714,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ept/ddia-references`](https://github.com/ept/ddia-references)
 - [`fastogt/fastonosql`](https://github.com/fastogt/fastonosql)
 - [`fishtown-analytics/dbt`](https://github.com/fishtown-analytics/dbt)
+- [`getredash/redash`](https://github.com/getredash/redash)
+- [`GoogleCloudPlatform/bigquery-oreilly-book`](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book)
+- [`GoogleCloudPlatform/bigquery-utils`](https://github.com/GoogleCloudPlatform/bigquery-utils)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -695,76 +746,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ericchiang/pup`](https://github.com/ericchiang/pup)
 - [`EverythingMe/ncdu-s3`](https://github.com/EverythingMe/ncdu-s3)
 - [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
+- [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
+- [`github/hub`](https://github.com/github/hub)
+- [`github/semantic`](https://github.com/github/semantic)
 
 #### Security
 [back to TOC](#table-of-contents)
 
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
-
-#### G letter
-
-- [`gabgoh/gabgoh.github.io`](https://github.com/gabgoh/gabgoh.github.io)
-- [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
-- [`gatsbyjs/gatsby`](https://github.com/gatsbyjs/gatsby)
-- [`getgauge/taiko`](https://github.com/getgauge/taiko)
-- [`getredash/redash`](https://github.com/getredash/redash)
-- [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
-- [`GitbookIO/gitbook`](https://github.com/GitbookIO/gitbook)
-- [`GitHawkApp/GitHawk`](https://github.com/GitHawkApp/GitHawk)
-- [`github/hotkey`](https://github.com/github/hotkey)
-- [`github/hub`](https://github.com/github/hub)
-- [`github/semantic`](https://github.com/github/semantic)
-- [`gnab/remark`](https://github.com/gnab/remark)
-- [`go-jira/jira`](https://github.com/go-jira/jira)
-- [`go-redis/redis`](https://github.com/go-redis/redis)
-- [`gobuffalo/buffalo`](https://github.com/gobuffalo/buffalo)
-- [`gobuffalo/pop`](https://github.com/gobuffalo/pop)
-- [`gohugoio/hugo`](https://github.com/gohugoio/hugo)
-- [`golang/go`](https://github.com/golang/go)
-- [`goldbergyoni/nodebestpractices`](https://github.com/goldbergyoni/nodebestpractices)
-- [`google-research/bert`](https://github.com/google-research/bert)
-- [`google/filament`](https://github.com/google/filament)
-- [`google/guava`](https://github.com/google/guava)
-- [`google/inception`](https://github.com/google/inception)
-- [`google/node-h2-auto-push`](https://github.com/google/node-h2-auto-push)
-- [`google/or-tools`](https://github.com/google/or-tools)
-- [`google/python-fire`](https://github.com/google/python-fire)
-- [`google/wwwbasic`](https://github.com/google/wwwbasic)
-- [`googleapis/nodejs-translate`](https://github.com/googleapis/nodejs-translate)
-- [`googleapis/nodejs-video-intelligence`](https://github.com/googleapis/nodejs-video-intelligence)
-- [`googleapis/nodejs-vision`](https://github.com/googleapis/nodejs-vision)
-- [`GoogleCloudDataproc/initialization-actions`](https://github.com/GoogleCloudDataproc/initialization-actions)
-- [`GoogleCloudPlatform/bigquery-oreilly-book`](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book)
-- [`GoogleCloudPlatform/bigquery-utils`](https://github.com/GoogleCloudPlatform/bigquery-utils)
-- [`GoogleCloudPlatform/cloudml-samples`](https://github.com/GoogleCloudPlatform/cloudml-samples)
-- [`GoogleCloudPlatform/data-science-on-gcp`](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
-- [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
-- [`GoogleCloudPlatform/dataflow-opinion-analysis`](https://github.com/GoogleCloudPlatform/dataflow-opinion-analysis)
-- [`GoogleCloudPlatform/DataflowTemplates`](https://github.com/GoogleCloudPlatform/DataflowTemplates)
-- [`GoogleCloudPlatform/df-ml-anomaly-detection`](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection)
-- [`GoogleCloudPlatform/gcsfuse`](https://github.com/GoogleCloudPlatform/gcsfuse)
-- [`GoogleCloudPlatform/getting-started-python`](https://github.com/GoogleCloudPlatform/getting-started-python)
-- [`GoogleCloudPlatform/ml-design-patterns`](https://github.com/GoogleCloudPlatform/ml-design-patterns)
-- [`GoogleCloudPlatform/mlops-on-gcp`](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
-- [`GoogleCloudPlatform/nodejs-docs-samples`](https://github.com/GoogleCloudPlatform/nodejs-docs-samples)
-- [`GoogleCloudPlatform/pontem`](https://github.com/GoogleCloudPlatform/pontem)
-- [`GoogleCloudPlatform/python-docs-samples`](https://github.com/GoogleCloudPlatform/python-docs-samples)
-- [`GoogleCloudPlatform/realtime-embeddings-matching`](https://github.com/GoogleCloudPlatform/realtime-embeddings-matching)
-- [`GoogleCloudPlatform/tensorflow-without-a-phd`](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)
-- [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
-- [`googlecreativelab/quickdraw-dataset`](https://github.com/googlecreativelab/quickdraw-dataset)
-- [`googledatalab/datalab`](https://github.com/googledatalab/datalab)
-- [`googleforgames/open-match`](https://github.com/googleforgames/open-match)
-- [`googleworkspace/apps-script-samples`](https://github.com/googleworkspace/apps-script-samples)
-- [`gothinkster/realworld`](https://github.com/gothinkster/realworld)
-- [`graalvm/graalvm-demos`](https://github.com/graalvm/graalvm-demos)
-- [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations)
-- [`gregoiredavid/france-geojson`](https://github.com/gregoiredavid/france-geojson)
-- [`grycap/scar`](https://github.com/grycap/scar)
-- [`guardian/goo`](https://github.com/guardian/goo)
-- [`guess-js/guess`](https://github.com/guess-js/guess)
-- [`guildai/guildai`](https://github.com/guildai/guildai)
 
 #### H letter
 
@@ -832,7 +822,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`jarun/googler`](https://github.com/jarun/googler)
 - [`jasperes/bash-yaml`](https://github.com/jasperes/bash-yaml)
 - [`jaspervz/todo-http4s-doobie`](https://github.com/jaspervz/todo-http4s-doobie)
-- [`jbmohler/mortgage`](https://github.com/jbmohler/mortgage)
 - [`jeffbski/wait-on`](https://github.com/jeffbski/wait-on)
 - [`jehiah/json2csv`](https://github.com/jehiah/json2csv)
 - [`jeroenjanssens/data-science-at-the-command-line`](https://github.com/jeroenjanssens/data-science-at-the-command-line)
