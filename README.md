@@ -56,6 +56,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - [Slack Deletron](https://slackdeletron.com)
 - [Tips on how to secure](https://github.com/forter/security-101-for-saas-startups/blob/english/security.md) your company quickly
+- Great post on how to do [code reviews the right way](https://mtlynch.io/code-review-love/)
 
 ##### November
 
