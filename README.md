@@ -343,6 +343,8 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archives
 [back to TOC](#table-of-contents)
 
+https://www.courrierinternational.com
+https://www.lemonde.fr/videos
 https://www.lemondeinformatique.fr/
 https://erikbern.com/
 http://making.duolingo.com
