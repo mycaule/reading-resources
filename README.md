@@ -57,6 +57,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - [Slack Deletron](https://slackdeletron.com)
 - [Tips on how to secure](https://github.com/forter/security-101-for-saas-startups/blob/english/security.md) your company quickly
 - Great post on how to do [code reviews the right way](https://mtlynch.io/code-review-love/)
+- [Financial Times - Visual Vocabulary](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
 
 ##### November
 
