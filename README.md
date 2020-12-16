@@ -464,12 +464,17 @@ Their long-term goal is to become an open platform for machine learning research
 - [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
 - [`hodgef/simple-keyboard`](https://github.com/hodgef/simple-keyboard)
 - [`hql287/Manta`](https://github.com/hql287/Manta)
+- [`imbrn/v8n`](https://github.com/imbrn/v8n)
+- [`indutny/elliptic`](https://github.com/indutny/elliptic)
+- [`inorganik/countUp.js`](https://github.com/inorganik/countUp.js)
+- [`jakesgordon/javascript-state-machine`](https://github.com/jakesgordon/javascript-state-machine)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
 - [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
+- [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -507,6 +512,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`foundweekends/giter8`](https://github.com/foundweekends/giter8)
 - [`fpinscala/fpinscala`](https://github.com/fpinscala/fpinscala)
 - [`Hydrospheredata/typed-sql`](https://github.com/Hydrospheredata/typed-sql)
+- [`iheartradio/ficus`](https://github.com/iheartradio/ficus)
+- [`input-output-hk/mantis`](https://github.com/input-output-hk/mantis)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -594,6 +601,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations)
 - [`grycap/scar`](https://github.com/grycap/scar)
 - [`hill-a/stable-baselines`](https://github.com/hill-a/stable-baselines)
+- [`idealo/image-super-resolution`](https://github.com/idealo/image-super-resolution)
+- [`idealo/imagededup`](https://github.com/idealo/imagededup)
+- [`irmen/Pyrolite`](https://github.com/irmen/Pyrolite)
+- [`ismir/mir-datasets`](https://github.com/ismir/mir-datasets)
+- [`jakevdp/PythonDataScienceHandbook`](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -608,6 +620,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`huggingface/transformers`](https://github.com/huggingface/transformers)
 - [`hwalsuklee/awesome-deep-text-detection-recognition`](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
 - [`horovod/horovod`](https://github.com/horovod/horovod)
+- [`ina-foss/inaSpeechSegmenter`](https://github.com/ina-foss/inaSpeechSegmenter)
 
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
@@ -671,6 +684,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`dreamingechoes/awesome-mental-health`](https://github.com/dreamingechoes/awesome-mental-health)
 - [`dylanrees/citizen-science`](https://github.com/dylanrees/citizen-science)
 - [`hackerkid/Mind-Expanding-Books`](https://github.com/hackerkid/Mind-Expanding-Books)
+- [`iamadamdev/bypass-paywalls-chrome`](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
 #### Museum
 [back to TOC](#table-of-contents)
@@ -699,6 +713,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`gregoiredavid/france-geojson`](https://github.com/gregoiredavid/france-geojson)
 - [`googlecreativelab/quickdraw-dataset`](https://github.com/googlecreativelab/quickdraw-dataset)
 - [`h2o/h2o`](https://github.com/h2o/h2o)
+- [`igorbarinov/awesome-bitcoin`](https://github.com/igorbarinov/awesome-bitcoin)
+- [`imposters-handbook/sample-code`](https://github.com/imposters-handbook/sample-code)
+- [`intoli/intoli-article-materials`](https://github.com/intoli/intoli-article-materials)
+- [`invideu/invid-verification-plugin`](https://github.com/invideu/invid-verification-plugin)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -728,6 +746,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`GoogleCloudPlatform/mlops-on-gcp`](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
 - [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
 - [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
+- [`imgproxy/imgproxy`](https://github.com/imgproxy/imgproxy)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -744,6 +763,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`heathermiller/dist-prog-book`](https://github.com/heathermiller/dist-prog-book)
 - [`HTTPArchive/bigquery`](https://github.com/HTTPArchive/bigquery)
 - [`HTTPArchive/httparchive.org`](https://github.com/HTTPArchive/httparchive.org)
+- [`influxdata/influxdb`](https://github.com/influxdata/influxdb)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -779,6 +799,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`HazyResearch/pdftotree`](https://github.com/HazyResearch/pdftotree)
 - [`herrbischoff/awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
 - [`holman/spark`](https://github.com/holman/spark)
+- [`idank/explainshell`](https://github.com/idank/explainshell)
+- [`iterative/dvc`](https://github.com/iterative/dvc)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -786,34 +808,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 
-#### I, J letter
 
-- [`iamadamdev/bypass-paywalls-chrome`](https://github.com/iamadamdev/bypass-paywalls-chrome)
-- [`idank/explainshell`](https://github.com/idank/explainshell)
-- [`idealo/image-super-resolution`](https://github.com/idealo/image-super-resolution)
-- [`idealo/imagededup`](https://github.com/idealo/imagededup)
-- [`igorbarinov/awesome-bitcoin`](https://github.com/igorbarinov/awesome-bitcoin)
-- [`iheartradio/ficus`](https://github.com/iheartradio/ficus)
-- [`imbrn/v8n`](https://github.com/imbrn/v8n)
-- [`imgproxy/imgproxy`](https://github.com/imgproxy/imgproxy)
-- [`imposters-handbook/sample-code`](https://github.com/imposters-handbook/sample-code)
-- [`ina-foss/inaSpeechSegmenter`](https://github.com/ina-foss/inaSpeechSegmenter)
-- [`indutny/elliptic`](https://github.com/indutny/elliptic)
-- [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
-- [`influxdata/influxdb`](https://github.com/influxdata/influxdb)
-- [`infoculture/awesome-datajournalism`](https://github.com/infoculture/awesome-datajournalism)
-- [`inorganik/countUp.js`](https://github.com/inorganik/countUp.js)
-- [`input-output-hk/mantis`](https://github.com/input-output-hk/mantis)
-- [`intoli/intoli-article-materials`](https://github.com/intoli/intoli-article-materials)
-- [`invideu/invid-verification-plugin`](https://github.com/invideu/invid-verification-plugin)
-- [`irmen/Pyrolite`](https://github.com/irmen/Pyrolite)
-- [`ismir/mir-datasets`](https://github.com/ismir/mir-datasets)
-- [`iterative/dvc`](https://github.com/iterative/dvc)
-- [`jacobgil/Ambrosio-Tortorelli-Minimizer`](https://github.com/jacobgil/Ambrosio-Tortorelli-Minimizer)
-- [`jakerella/jquery-mockjax`](https://github.com/jakerella/jquery-mockjax)
-- [`jakesgordon/javascript-state-machine`](https://github.com/jakesgordon/javascript-state-machine)
-- [`jakevdp/JupyterWorkflow`](https://github.com/jakevdp/JupyterWorkflow)
-- [`jakevdp/PythonDataScienceHandbook`](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [`jamesramsay/hercule`](https://github.com/jamesramsay/hercule)
 - [`jared-nelsen/LeetCode-Problems`](https://github.com/jared-nelsen/LeetCode-Problems)
 - [`jarun/ddgr`](https://github.com/jarun/ddgr)
