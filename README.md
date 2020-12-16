@@ -1028,7 +1028,6 @@ http://uninvitedredesigns.com
 - [`nicolas-van/sonant-x-live`](https://github.com/nicolas-van/sonant-x-live)
 - [`nileshkulkarni/csm`](https://github.com/nileshkulkarni/csm)
 - [`nk412/optparse`](https://github.com/nk412/optparse)
-- [`node-gh/gh`](https://github.com/node-gh/gh)
 - [`node-red/node-red`](https://github.com/node-red/node-red)
 - [`nok/sklearn-porter`](https://github.com/nok/sklearn-porter)
 - [`nolanlawson/optimize-js`](https://github.com/nolanlawson/optimize-js)
