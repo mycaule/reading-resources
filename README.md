@@ -32,7 +32,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 ### About Me
 
-[About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](files/resume.2021.pdf).
+[About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](resume.2021.pdf).
 
 [A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0) (French), [Productivity tips](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63) (French), [Using deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69) (French)
 
@@ -245,7 +245,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 - Martin Fowler - Refactoring
 - Andrew Hunt - The Pragmatic Programmer
-- Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers/, [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
+- Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers), [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 - [Gérard Degoutte - Aide mémoire de mécanique des sols](http://graduateschool.agroparistech.fr/site.php?id=44&fileid=88)
 - Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 
@@ -1298,6 +1298,12 @@ http://uninvitedredesigns.com
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
+
+### Quotes
+
+> "_Thus, I thought dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities_" Richard Bellman
+
+> "_A mathematician is a device for turning coffee into theorems._" Paul Erdos
 
 ### References
 [back to TOC](#table-of-contents)
