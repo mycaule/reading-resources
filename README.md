@@ -345,6 +345,43 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archives
 [back to TOC](#table-of-contents)
 
+https://www.courrierinternational.com
+https://www.lemonde.fr/videos
+https://www.lemondeinformatique.fr/
+https://erikbern.com/
+http://making.duolingo.com
+http://images.math.cnrs.fr/
+https://interstices.info
+http://www.lemonde.fr/big-browser
+http://www.kottke.org/
+https://developers.google.com/web/
+https://www.etalab.gouv.fr
+https://blog.datawrapper.de
+https://www.usine-digitale.fr/french-tech
+http://developers.facebook.com/blog/
+http://blog.google
+http://a16z.com/
+http://eng.uber.com/
+http://www.rudebaguette.com/
+https://aws.amazon.com/blogs/big-data/
+https://code.fb.com/
+https://githubengineering.com/
+http://www.lihaoyi.com/
+https://engineering.linkedin.com/
+https://medium.com/@Pinterest_Engineering
+https://scalac.io/
+http://cloudblog.withgoogle.com/products/data-analytics
+https://www.zillow.com/tech/ai-ml/
+https://engineering.atspotify.com/
+http://www.hanselman.com/scotthanselman
+http://www.techinasia.com/
+http://engineeringblog.yelp.com/
+http://joelonsoftware.com
+http://blog.bouygues-construction.com/
+http://transid.blogspot.com/
+http://transports.blog.lemonde.fr/
+http://uninvitedredesigns.com
+
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
 - https://medium.com/javascript-scene
@@ -893,6 +930,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
 - [`BurntSushi/xsv`](https://github.com/BurntSushi/xsv)
 - [`bzg/org-mode`](https://github.com/bzg/org-mode)
+- [`cli/cli`](https://github.com/cli/cli)
 - [`clibs/entr`](https://github.com/clibs/entr)
 - [`clvv/fasd`](https://github.com/clvv/fasd)
 - [`cmatsuoka/figlet`](https://github.com/cmatsuoka/figlet)
@@ -905,7 +943,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`EverythingMe/ncdu-s3`](https://github.com/EverythingMe/ncdu-s3)
 - [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
 - [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
-- [`github/hub`](https://github.com/github/hub)
 - [`github/semantic`](https://github.com/github/semantic)
 - [`HazyResearch/pdftotree`](https://github.com/HazyResearch/pdftotree)
 - [`herrbischoff/awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
@@ -967,7 +1004,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`nicolas-van/sonant-x-live`](https://github.com/nicolas-van/sonant-x-live)
 - [`nileshkulkarni/csm`](https://github.com/nileshkulkarni/csm)
 - [`nk412/optparse`](https://github.com/nk412/optparse)
-- [`node-gh/gh`](https://github.com/node-gh/gh)
 - [`node-red/node-red`](https://github.com/node-red/node-red)
 - [`nok/sklearn-porter`](https://github.com/nok/sklearn-porter)
 - [`nolanlawson/optimize-js`](https://github.com/nolanlawson/optimize-js)
