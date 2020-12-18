@@ -540,6 +540,15 @@ http://uninvitedredesigns.com
 - [`mobxjs/mobx`](https://github.com/mobxjs/mobx)
 - [`mourner/flatbush`](https://github.com/mourner/flatbush)
 - [`mrvautin/expressCart`](https://github.com/mrvautin/expressCart)
+- [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
+- [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
+- [`neherlab/covid19_scenarios`](https://github.com/neherlab/covid19_scenarios)
+- [`nemtsov/json-mask`](https://github.com/nemtsov/json-mask)
+- [`Netflix/falcor`](https://github.com/Netflix/falcor)
+- [`Netflix/pollyjs`](https://github.com/Netflix/pollyjs)
+- [`nicolas-van/sonant-x-live`](https://github.com/nicolas-van/sonant-x-live)
+- [`nhn/tui.calendar`](https://github.com/nhn/tui.calendar)
+- [`nuxt/nuxt.js`](https://github.com/nuxt/nuxt.js)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -604,6 +613,8 @@ http://uninvitedredesigns.com
 - [`marcus-nl/scala-impatient-2nd-ed`](https://github.com/marcus-nl/scala-impatient-2nd-ed)
 - [`marcuslonnberg/sbt-docker`](https://github.com/marcuslonnberg/sbt-docker)
 - [`mdr/ascii-graphs`](https://github.com/mdr/ascii-graphs)
+- [`Netflix/atlas`](https://github.com/Netflix/atlas)
+- [`novakov-alexey/scala-service.g8`](https://github.com/novakov-alexey/scala-service.g8)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -624,6 +635,7 @@ http://uninvitedredesigns.com
 - [`hortonworks-gallery/zeppelin-notebooks`](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 - [`KKBOX/spark-deployer`](https://github.com/KKBOX/spark-deployer)
 - [`MarkCLewis/BigDataAnalyticswithSpark`](https://github.com/MarkCLewis/BigDataAnalyticswithSpark)
+- [`nchammas/flintrock`](https://github.com/nchammas/flintrock)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -715,6 +727,11 @@ http://uninvitedredesigns.com
 - [`microsoft/recommenders`](https://github.com/microsoft/recommenders)
 - [`mittagessen/kraken`](https://github.com/mittagessen/kraken)
 - [`mlflow/mlflow`](https://github.com/mlflow/mlflow)
+- [`Netflix/metaflow`](https://github.com/Netflix/metaflow)
+- [`norvig/pytudes`](https://github.com/norvig/pytudes)
+- [`nok/sklearn-porter`](https://github.com/nok/sklearn-porter)
+- [`nteract/hydrogen`](https://github.com/nteract/hydrogen)
+- [`nteract/nteract`](https://github.com/nteract/nteract)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -739,6 +756,8 @@ http://uninvitedredesigns.com
 - [`martin-gorner/tensorflow-mnist-tutorial`](https://github.com/martin-gorner/tensorflow-mnist-tutorial)
 - [`martin-gorner/tensorflow-rnn-shakespeare`](https://github.com/martin-gorner/tensorflow-rnn-shakespeare)
 - [`mbadry1/DeepLearning.ai-Summary`](https://github.com/mbadry1/DeepLearning.ai-Summary)
+- [`nileshkulkarni/csm`](https://github.com/nileshkulkarni/csm)
+- [`NVIDIA/vid2vid`](https://github.com/NVIDIA/vid2vid)
 
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
@@ -769,6 +788,7 @@ http://uninvitedredesigns.com
 - [`kasvith/kache`](https://github.com/kasvith/kache)
 - [`labstack/echo`](https://github.com/labstack/echo)
 - [`MontFerret/ferret`](https://github.com/MontFerret/ferret)
+- [`nsqio/nsq`](https://github.com/nsqio/nsq)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -793,6 +813,7 @@ http://uninvitedredesigns.com
 - [`haifengl/smile`](https://github.com/haifengl/smile)
 - [`keycloak/keycloak`](https://github.com/keycloak/keycloak)
 - [`lmonkiewicz/spring-rest-validation`](https://github.com/lmonkiewicz/spring-rest-validation)
+- [`neo4j-contrib/neo4j-graph-algorithms`](https://github.com/neo4j-contrib/neo4j-graph-algorithms)
 
 ##### Apache Beam
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
@@ -850,6 +871,7 @@ http://uninvitedredesigns.com
 - [`microsoft/QuantumKatas`](https://github.com/microsoft/QuantumKatas)
 - [`magenta/magenta-studio`](https://github.com/magenta/magenta-studio)
 - [`matze/mtheme`](https://github.com/matze/mtheme)
+- [`neutraltone/awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -891,6 +913,10 @@ http://uninvitedredesigns.com
 - [`machine-learning-apps/actions-ml-cicd`](https://github.com/machine-learning-apps/actions-ml-cicd)
 - [`machine-learning-projects/machine-learning-recipes`](https://github.com/machine-learning-projects/machine-learning-recipes)
 - [`minio/minio`](https://github.com/minio/minio)
+- [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
+- [`nektos/act`](https://github.com/nektos/act)
+- [`nextcloud/nextcloudpi`](https://github.com/nextcloud/nextcloudpi)
+- [`nicolargo/glances`](https://github.com/nicolargo/glances)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -970,6 +996,8 @@ http://uninvitedredesigns.com
 - [`mikefarah/yq`](https://github.com/mikefarah/yq)
 - [`mithrandie/csvq`](https://github.com/mithrandie/csvq)
 - [`mptre/yank`](https://github.com/mptre/yank)
+- [`neovim/neovim`](https://github.com/neovim/neovim)
+- [`nk412/optparse`](https://github.com/nk412/optparse)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -978,42 +1006,6 @@ http://uninvitedredesigns.com
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 - [`lastpass/lastpass-cli`](https://github.com/lastpass/lastpass-cli)
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
-
-
-#### N letter
-
-- [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
-- [`Narthorn/ctf`](https://github.com/Narthorn/ctf)
-- [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
-- [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
-- [`nchammas/flintrock`](https://github.com/nchammas/flintrock)
-- [`neherlab/covid19_scenarios`](https://github.com/neherlab/covid19_scenarios)
-- [`nektos/act`](https://github.com/nektos/act)
-- [`nemo/scrape`](https://github.com/nemo/scrape)
-- [`nemtsov/json-mask`](https://github.com/nemtsov/json-mask)
-- [`neo4j-contrib/neo4j-graph-algorithms`](https://github.com/neo4j-contrib/neo4j-graph-algorithms)
-- [`neovim/neovim`](https://github.com/neovim/neovim)
-- [`Netflix/atlas`](https://github.com/Netflix/atlas)
-- [`Netflix/falcor`](https://github.com/Netflix/falcor)
-- [`Netflix/metaflow`](https://github.com/Netflix/metaflow)
-- [`Netflix/pollyjs`](https://github.com/Netflix/pollyjs)
-- [`neutraltone/awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
-- [`nextcloud/nextcloudpi`](https://github.com/nextcloud/nextcloudpi)
-- [`nhn/tui.calendar`](https://github.com/nhn/tui.calendar)
-- [`nicolargo/glances`](https://github.com/nicolargo/glances)
-- [`nicolas-van/sonant-x-live`](https://github.com/nicolas-van/sonant-x-live)
-- [`nileshkulkarni/csm`](https://github.com/nileshkulkarni/csm)
-- [`nk412/optparse`](https://github.com/nk412/optparse)
-- [`node-red/node-red`](https://github.com/node-red/node-red)
-- [`nok/sklearn-porter`](https://github.com/nok/sklearn-porter)
-- [`nolanlawson/optimize-js`](https://github.com/nolanlawson/optimize-js)
-- [`norvig/pytudes`](https://github.com/norvig/pytudes)
-- [`novakov-alexey/scala-service.g8`](https://github.com/novakov-alexey/scala-service.g8)
-- [`nsqio/nsq`](https://github.com/nsqio/nsq)
-- [`nteract/hydrogen`](https://github.com/nteract/hydrogen)
-- [`nteract/nteract`](https://github.com/nteract/nteract)
-- [`nuxt/nuxt.js`](https://github.com/nuxt/nuxt.js)
-- [`NVIDIA/vid2vid`](https://github.com/NVIDIA/vid2vid)
 
 #### O letter
 
