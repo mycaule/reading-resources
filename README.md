@@ -563,6 +563,9 @@ http://uninvitedredesigns.com
 - [`ProseMirror/prosemirror`](https://github.com/ProseMirror/prosemirror)
 - [`przemyslawpluta/node-youtube-dl`](https://github.com/przemyslawpluta/node-youtube-dl)
 - [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
+- [`rough-stuff/wired-elements`](https://github.com/rough-stuff/wired-elements)
+- [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
+- [`salsita/node-pg-migrate`](https://github.com/salsita/node-pg-migrate)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -572,6 +575,7 @@ http://uninvitedredesigns.com
 - [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
 - [`justadudewhohacks/opencv4nodejs`](https://github.com/justadudewhohacks/opencv4nodejs)
+- [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -657,6 +661,7 @@ http://uninvitedredesigns.com
 - [`KKBOX/spark-deployer`](https://github.com/KKBOX/spark-deployer)
 - [`MarkCLewis/BigDataAnalyticswithSpark`](https://github.com/MarkCLewis/BigDataAnalyticswithSpark)
 - [`nchammas/flintrock`](https://github.com/nchammas/flintrock)
+- [`NVIDIA/spark-xgboost-examples`](https://github.com/NVIDIA/spark-xgboost-examples)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -770,6 +775,12 @@ http://uninvitedredesigns.com
 - [`pypa/pipenv`](https://github.com/pypa/pipenv)
 - [`pytorch/fairseq`](https://github.com/pytorch/fairseq)
 - [`pytorch/serve`](https://github.com/pytorch/serve)
+- [`random-forests/tutorials`](https://github.com/random-forests/tutorials)
+- [`richzhang/colorization`](https://github.com/richzhang/colorization)
+- [`riddhishb/ipython-notebooks`](https://github.com/riddhishb/ipython-notebooks)
+- [`rohitrango/automatic-watermark-detection`](https://github.com/rohitrango/automatic-watermark-detection)
+- [`Rudrabha/Lip2Wav`](https://github.com/Rudrabha/Lip2Wav)
+- [`ryansmcgee/seirsplus`](https://github.com/ryansmcgee/seirsplus)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -856,6 +867,7 @@ http://uninvitedredesigns.com
 - [`neo4j-contrib/neo4j-graph-algorithms`](https://github.com/neo4j-contrib/neo4j-graph-algorithms)
 - [`oracle/graal`](https://github.com/oracle/graal)
 - [`plantuml/plantuml`](https://github.com/plantuml/plantuml)
+- [`RichardWarburton/java-8-lambdas-exercises`](https://github.com/RichardWarburton/java-8-lambdas-exercises)
 
 ##### Apache Beam
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
@@ -873,6 +885,8 @@ http://uninvitedredesigns.com
 - [`iamadamdev/bypass-paywalls-chrome`](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - [`LappleApple/awesome-leading-and-managing`](https://github.com/LappleApple/awesome-leading-and-managing)
 - [`papers-we-love/papers-we-love`](https://github.com/papers-we-love/papers-we-love)
+- [`robbie-cao/awesome-slides`](https://github.com/robbie-cao/awesome-slides)
+- [`rossant/awesome-math`](https://github.com/rossant/awesome-math)
 
 #### Museum
 [back to TOC](#table-of-contents)
@@ -965,6 +979,8 @@ http://uninvitedredesigns.com
 - [`osquery/osquery`](https://github.com/osquery/osquery)
 - [`pcottle/learnGitBranching`](https://github.com/pcottle/learnGitBranching)
 - [`petervanderdoes/gitflow-avh`](https://github.com/petervanderdoes/gitflow-avh)
+- [`rgburke/grv`](https://github.com/rgburke/grv)
+- [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -988,6 +1004,8 @@ http://uninvitedredesigns.com
 - [`mindsdb/mindsdb`](https://github.com/mindsdb/mindsdb)
 - [`PostgREST/postgrest`](https://github.com/PostgREST/postgrest)
 - [`prestodb/presto`](https://github.com/prestodb/presto)
+- [`rethinkdb/rethinkdb`](https://github.com/rethinkdb/rethinkdb)
+- [`roaldnefs/awesome-prometheus`](https://github.com/roaldnefs/awesome-prometheus)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -1053,6 +1071,8 @@ http://uninvitedredesigns.com
 - [`philc/vimium`](https://github.com/philc/vimium)
 - [`pimutils/khal`](https://github.com/pimutils/khal)
 - [`pstadler/ticker.sh`](https://github.com/pstadler/ticker.sh)
+- [`ranger/ranger`](https://github.com/ranger/ranger)
+- [`rofl0r/ncdu`](https://github.com/rofl0r/ncdu)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -1063,29 +1083,8 @@ http://uninvitedredesigns.com
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 
-#### R letter
-- [`ralsina/rst-cheatsheet`](https://github.com/ralsina/rst-cheatsheet)
-- [`random-forests/tutorials`](https://github.com/random-forests/tutorials)
-- [`ranger/ranger`](https://github.com/ranger/ranger)
-- [`rapidsai/spark-examples`](https://github.com/rapidsai/spark-examples)
-- [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
-- [`rethinkdb/rethinkdb`](https://github.com/rethinkdb/rethinkdb)
-- [`rgburke/grv`](https://github.com/rgburke/grv)
-- [`RichardWarburton/java-8-lambdas-exercises`](https://github.com/RichardWarburton/java-8-lambdas-exercises)
-- [`richzhang/colorization`](https://github.com/richzhang/colorization)
-- [`riddhishb/ipython-notebooks`](https://github.com/riddhishb/ipython-notebooks)
-- [`roaldnefs/awesome-prometheus`](https://github.com/roaldnefs/awesome-prometheus)
-- [`robbie-cao/awesome-slides`](https://github.com/robbie-cao/awesome-slides)
-- [`rofl0r/ncdu`](https://github.com/rofl0r/ncdu)
-- [`rohitrango/automatic-watermark-detection`](https://github.com/rohitrango/automatic-watermark-detection)
-- [`ropensci/wikitaxa`](https://github.com/ropensci/wikitaxa)
-- [`rossant/awesome-math`](https://github.com/rossant/awesome-math)
-- [`rough-stuff/wired-elements`](https://github.com/rough-stuff/wired-elements)
-- [`Rudrabha/Lip2Wav`](https://github.com/Rudrabha/Lip2Wav)
-- [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
-- [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
-- [`ryansmcgee/seirsplus`](https://github.com/ryansmcgee/seirsplus)
-- [`salsita/node-pg-migrate`](https://github.com/salsita/node-pg-migrate)
+#### S letter
+
 - [`SamVerschueren/listr`](https://github.com/SamVerschueren/listr)
 - [`santinic/how2`](https://github.com/santinic/how2)
 - [`sapegin/shipit`](https://github.com/sapegin/shipit)
