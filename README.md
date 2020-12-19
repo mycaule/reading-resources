@@ -567,6 +567,21 @@ http://uninvitedredesigns.com
 - [`rough-stuff/wired-elements`](https://github.com/rough-stuff/wired-elements)
 - [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
 - [`salsita/node-pg-migrate`](https://github.com/salsita/node-pg-migrate)
+- [`sindresorhus/awesome-electron`](https://github.com/sindresorhus/awesome-electron)
+- [`sindresorhus/cli-spinners`](https://github.com/sindresorhus/cli-spinners)
+- [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
+- [`sindresorhus/fkill-cli`](https://github.com/sindresorhus/fkill-cli)
+- [`sindresorhus/on-change`](https://github.com/sindresorhus/on-change)
+- [`sindresorhus/pageres`](https://github.com/sindresorhus/pageres)
+- [`sindresorhus/Plash`](https://github.com/sindresorhus/Plash)
+- [`sindresorhus/refined-github`](https://github.com/sindresorhus/refined-github)
+- [`spotify/annoy`](https://github.com/spotify/annoy)
+- [`SamVerschueren/listr`](https://github.com/SamVerschueren/listr)
+- [`SBoudrias/Inquirer.js`](https://github.com/SBoudrias/Inquirer.js)
+- [`Schmavery/facebook-chat-api`](https://github.com/Schmavery/facebook-chat-api)
+- [`serialport/node-serialport`](https://github.com/serialport/node-serialport)
+- [`segmentio/nightmare`](https://github.com/segmentio/nightmare)
+- [`shelljs/shelljs`](https://github.com/shelljs/shelljs)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -641,6 +656,21 @@ http://uninvitedredesigns.com
 - [`prisma/graphcool-framework`](https://github.com/prisma/graphcool-framework)
 - [`prisma/prisma1`](https://github.com/prisma/prisma1)
 - [`pureconfig/pureconfig`](https://github.com/pureconfig/pureconfig)
+- [`sbt/junit-interface`](https://github.com/sbt/junit-interface)
+- [`sbt/sbt-native-packager`](https://github.com/sbt/sbt-native-packager)
+- [`sbt/sbt-pom-reader`](https://github.com/sbt/sbt-pom-reader)
+- [`sbt/sbt-release`](https://github.com/sbt/sbt-release)
+- [`sbt/sbt-site`](https://github.com/sbt/sbt-site)
+- [`sbt/sbt-unidoc`](https://github.com/sbt/sbt-unidoc)
+- [`scala-android/sbt-android`](https://github.com/scala-android/sbt-android)
+- [`scala-exercises/exercises-stdlib`](https://github.com/scala-exercises/exercises-stdlib)
+- [`scalacenter/scastie`](https://github.com/scalacenter/scastie)
+- [`scalanlp/breeze`](https://github.com/scalanlp/breeze)
+- [`scalatra/scalatra-in-action`](https://github.com/scalatra/scalatra-in-action)
+- [`spotify/big-data-rosetta-code`](https://github.com/spotify/big-data-rosetta-code)
+- [`spotify/featran`](https://github.com/spotify/featran)
+- [`ScorexFoundation/Scorex`](https://github.com/ScorexFoundation/Scorex)
+- [`seratch/AWScala`](https://github.com/seratch/AWScala)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -663,6 +693,7 @@ http://uninvitedredesigns.com
 - [`MarkCLewis/BigDataAnalyticswithSpark`](https://github.com/MarkCLewis/BigDataAnalyticswithSpark)
 - [`nchammas/flintrock`](https://github.com/nchammas/flintrock)
 - [`NVIDIA/spark-xgboost-examples`](https://github.com/NVIDIA/spark-xgboost-examples)
+- [`spotify/scio`](https://github.com/spotify/scio)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -782,6 +813,7 @@ http://uninvitedredesigns.com
 - [`rohitrango/automatic-watermark-detection`](https://github.com/rohitrango/automatic-watermark-detection)
 - [`Rudrabha/Lip2Wav`](https://github.com/Rudrabha/Lip2Wav)
 - [`ryansmcgee/seirsplus`](https://github.com/ryansmcgee/seirsplus)
+- [`saulpw/visidata`](https://github.com/saulpw/visidata)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -808,6 +840,8 @@ http://uninvitedredesigns.com
 - [`mbadry1/DeepLearning.ai-Summary`](https://github.com/mbadry1/DeepLearning.ai-Summary)
 - [`nileshkulkarni/csm`](https://github.com/nileshkulkarni/csm)
 - [`NVIDIA/vid2vid`](https://github.com/NVIDIA/vid2vid)
+- [`sayakpaul/Data-Pipelines-with-TensorFlow-Data-Services-Exercises`](https://github.com/sayakpaul/Data-Pipelines-with-TensorFlow-Data-Services-Exercises)
+- [`sebastianruder/NLP-progress`](https://github.com/sebastianruder/NLP-progress)
 
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
@@ -841,6 +875,7 @@ http://uninvitedredesigns.com
 - [`nsqio/nsq`](https://github.com/nsqio/nsq)
 - [`oneapi-src/oneDNN`](https://github.com/oneapi-src/oneDNN)
 - [`photoprism/photoprism`](https://github.com/photoprism/photoprism)
+- [`Shopify/sarama`](https://github.com/Shopify/sarama)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -869,6 +904,8 @@ http://uninvitedredesigns.com
 - [`oracle/graal`](https://github.com/oracle/graal)
 - [`plantuml/plantuml`](https://github.com/plantuml/plantuml)
 - [`RichardWarburton/java-8-lambdas-exercises`](https://github.com/RichardWarburton/java-8-lambdas-exercises)
+- [`spotify/apollo`](https://github.com/spotify/apollo)
+- [`spotify/zoltar`](https://github.com/spotify/zoltar)
 
 ##### Apache Beam
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
@@ -888,6 +925,7 @@ http://uninvitedredesigns.com
 - [`papers-we-love/papers-we-love`](https://github.com/papers-we-love/papers-we-love)
 - [`robbie-cao/awesome-slides`](https://github.com/robbie-cao/awesome-slides)
 - [`rossant/awesome-math`](https://github.com/rossant/awesome-math)
+- [`SocialGouv/code-du-travail-numerique`](https://github.com/SocialGouv/code-du-travail-numerique)
 
 #### Museum
 [back to TOC](#table-of-contents)
@@ -982,6 +1020,11 @@ http://uninvitedredesigns.com
 - [`petervanderdoes/gitflow-avh`](https://github.com/petervanderdoes/gitflow-avh)
 - [`rgburke/grv`](https://github.com/rgburke/grv)
 - [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
+- [`serverless/examples`](https://github.com/serverless/examples)
+- [`serverless/plugins`](https://github.com/serverless/plugins)
+- [`serverless/serverless-graphql-blog`](https://github.com/serverless/serverless-graphql-blog)
+- [`serverless/serverless`](https://github.com/serverless/serverless)
+- [`spotify/styx`](https://github.com/spotify/styx)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -1074,6 +1117,11 @@ http://uninvitedredesigns.com
 - [`pstadler/ticker.sh`](https://github.com/pstadler/ticker.sh)
 - [`ranger/ranger`](https://github.com/ranger/ranger)
 - [`rofl0r/ncdu`](https://github.com/rofl0r/ncdu)
+- [`santinic/how2`](https://github.com/santinic/how2)
+- [`sapegin/shipit`](https://github.com/sapegin/shipit)
+- [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
+- [`sharkdp/bat`](https://github.com/sharkdp/bat)
+- [`sharkdp/fd`](https://github.com/sharkdp/fd)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -1086,66 +1134,19 @@ http://uninvitedredesigns.com
 
 #### S letter
 
-- [`SamVerschueren/listr`](https://github.com/SamVerschueren/listr)
-- [`santinic/how2`](https://github.com/santinic/how2)
-- [`sapegin/shipit`](https://github.com/sapegin/shipit)
-- [`sararob/ml-talk-demos`](https://github.com/sararob/ml-talk-demos)
-- [`saulpw/visidata`](https://github.com/saulpw/visidata)
-- [`sayakpaul/Data-Pipelines-with-TensorFlow-Data-Services-Exercises`](https://github.com/sayakpaul/Data-Pipelines-with-TensorFlow-Data-Services-Exercises)
-- [`SBoudrias/Inquirer.js`](https://github.com/SBoudrias/Inquirer.js)
-- [`sbt/junit-interface`](https://github.com/sbt/junit-interface)
-- [`sbt/sbt-native-packager`](https://github.com/sbt/sbt-native-packager)
-- [`sbt/sbt-pom-reader`](https://github.com/sbt/sbt-pom-reader)
-- [`sbt/sbt-release`](https://github.com/sbt/sbt-release)
-- [`sbt/sbt-site`](https://github.com/sbt/sbt-site)
-- [`sbt/sbt-unidoc`](https://github.com/sbt/sbt-unidoc)
-- [`scala-android/sbt-android`](https://github.com/scala-android/sbt-android)
-- [`scala-exercises/exercises-stdlib`](https://github.com/scala-exercises/exercises-stdlib)
-- [`scalacenter/scastie`](https://github.com/scalacenter/scastie)
-- [`scalanlp/breeze`](https://github.com/scalanlp/breeze)
-- [`scalatra/scalatra-in-action`](https://github.com/scalatra/scalatra-in-action)
-- [`schibsted/strongbox`](https://github.com/schibsted/strongbox)
-- [`Schmavery/facebook-chat-api`](https://github.com/Schmavery/facebook-chat-api)
-- [`scoofy/wxStocks`](https://github.com/scoofy/wxStocks)
-- [`ScorexFoundation/Scorex`](https://github.com/ScorexFoundation/Scorex)
-- [`sebastianruder/NLP-progress`](https://github.com/sebastianruder/NLP-progress)
-- [`segmentio/nightmare`](https://github.com/segmentio/nightmare)
-- [`seratch/AWScala`](https://github.com/seratch/AWScala)
-- [`sergiodxa/grial`](https://github.com/sergiodxa/grial)
-- [`serialport/node-serialport`](https://github.com/serialport/node-serialport)
-- [`serverless/examples`](https://github.com/serverless/examples)
-- [`serverless/plugins`](https://github.com/serverless/plugins)
-- [`serverless/serverless-graphql-blog`](https://github.com/serverless/serverless-graphql-blog)
-- [`serverless/serverless`](https://github.com/serverless/serverless)
 - [`sgratzl/slack_cleaner2`](https://github.com/sgratzl/slack_cleaner2)
 - [`shadaj/slinky`](https://github.com/shadaj/slinky)
 - [`sharetribe/sharetribe`](https://github.com/sharetribe/sharetribe)
-- [`sharkdp/bat`](https://github.com/sharkdp/bat)
-- [`sharkdp/fd`](https://github.com/sharkdp/fd)
-- [`shelljs/shelljs`](https://github.com/shelljs/shelljs)
-- [`Shopify/sarama`](https://github.com/Shopify/sarama)
 - [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 - [`simdjson/simdjson`](https://github.com/simdjson/simdjson)
 - [`simeji/jid`](https://github.com/simeji/jid)
 - [`simonepri/country-iso`](https://github.com/simonepri/country-iso)
 - [`simonw/datasette`](https://github.com/simonw/datasette)
 - [`SimulatedGREG/nginx-cheatsheet`](https://github.com/SimulatedGREG/nginx-cheatsheet)
-- [`sindresorhus/awesome-electron`](https://github.com/sindresorhus/awesome-electron)
-- [`sindresorhus/cli-spinners`](https://github.com/sindresorhus/cli-spinners)
-- [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
-- [`sindresorhus/fkill-cli`](https://github.com/sindresorhus/fkill-cli)
-- [`sindresorhus/macos-lock`](https://github.com/sindresorhus/macos-lock)
-- [`sindresorhus/macos-trash`](https://github.com/sindresorhus/macos-trash)
-- [`sindresorhus/on-change`](https://github.com/sindresorhus/on-change)
-- [`sindresorhus/onetime`](https://github.com/sindresorhus/onetime)
-- [`sindresorhus/pageres`](https://github.com/sindresorhus/pageres)
-- [`sindresorhus/Plash`](https://github.com/sindresorhus/Plash)
-- [`sindresorhus/refined-github`](https://github.com/sindresorhus/refined-github)
 - [`sksamuel/avro4s`](https://github.com/sksamuel/avro4s)
 - [`sksamuel/scrimage`](https://github.com/sksamuel/scrimage)
 - [`snapcore/snapcraft`](https://github.com/snapcore/snapcraft)
 - [`snowplow/iglu-central`](https://github.com/snowplow/iglu-central)
-- [`SocialGouv/code-du-travail-numerique`](https://github.com/SocialGouv/code-du-travail-numerique)
 - [`softwaremill/retry`](https://github.com/softwaremill/retry)
 - [`softwaremill/sttp`](https://github.com/softwaremill/sttp)
 - [`space10-community/conversational-form`](https://github.com/space10-community/conversational-form)
@@ -1154,13 +1155,6 @@ http://uninvitedredesigns.com
 - [`spinnaker/spinnaker`](https://github.com/spinnaker/spinnaker)
 - [`splicemachine/spliceengine`](https://github.com/splicemachine/spliceengine)
 - [`sporto/awesome-elm`](https://github.com/sporto/awesome-elm)
-- [`spotify/annoy`](https://github.com/spotify/annoy)
-- [`spotify/apollo`](https://github.com/spotify/apollo)
-- [`spotify/big-data-rosetta-code`](https://github.com/spotify/big-data-rosetta-code)
-- [`spotify/featran`](https://github.com/spotify/featran)
-- [`spotify/scio`](https://github.com/spotify/scio)
-- [`spotify/styx`](https://github.com/spotify/styx)
-- [`spotify/zoltar`](https://github.com/spotify/zoltar)
 - [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
 - [`spring-projects/spring-boot`](https://github.com/spring-projects/spring-boot)
 - [`sql-js/sql.js`](https://github.com/sql-js/sql.js)
@@ -1184,7 +1178,7 @@ http://uninvitedredesigns.com
 - [`superruzafa/visual-scala-reference`](https://github.com/superruzafa/visual-scala-reference)
 - [`surveyjs/survey-library`](https://github.com/surveyjs/survey-library)
 - [`swagger-api/swagger-codegen`](https://github.com/swagger-api/swagger-codegen)
-- [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
+
 
 #### T letter
 - [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
@@ -1301,6 +1295,7 @@ http://uninvitedredesigns.com
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
 ### Quotes
+[back to TOC](#table-of-contents)
 
 > "_Thus, I thought dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities_" Richard Bellman
 
