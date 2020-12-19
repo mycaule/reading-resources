@@ -17,7 +17,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - [Books](#books)
 - [Blogs](#blogs-and-podcasts)
   - [Following](#following)
-  - [Archives](#archives)
+  - [General news](#general-news)
+  - [Archive](#archive)
 - [Newsletters](#newsletters)
 - [Repositories](#repos-toolbox-for-work-related-problems)
   - [Node.js](#javascript)
@@ -341,46 +342,40 @@ Their long-term goal is to become an open platform for machine learning research
 - [Yann Le Tilly](https://transid.blogspot.com/)
 - [Rude Baguette](http://www.rudebaguette.com/)
 - [Usine Digitale](https://www.usine-digitale.fr/)
+- https://erikbern.com/
+- https://www.lemondeinformatique.fr/
+- http://images.math.cnrs.fr/
+- https://interstices.info
+- http://www.kottke.org/
+- https://developers.google.com/web/
+- https://www.etalab.gouv.fr
+- https://blog.datawrapper.de
+- http://blog.google
+- http://a16z.com/
+- http://eng.uber.com/
+- http://www.rudebaguette.com/
+- https://aws.amazon.com/blogs/big-data/
+- https://code.fb.com/
+- https://githubengineering.com/
+- https://engineering.linkedin.com/
+- https://medium.com/@Pinterest_Engineering
+- https://scalac.io/
+- http://cloudblog.withgoogle.com/products/data-analytics
+- https://engineering.atspotify.com/
+- http://www.techinasia.com/
+- http://transid.blogspot.com/
+- http://transports.blog.lemonde.fr/
+- http://uninvitedredesigns.com
 
-#### Archives
+#### General News
 [back to TOC](#table-of-contents)
 
-https://www.courrierinternational.com
-https://www.lemonde.fr/videos
-https://www.lemondeinformatique.fr/
-https://erikbern.com/
-http://making.duolingo.com
-http://images.math.cnrs.fr/
-https://interstices.info
-http://www.lemonde.fr/big-browser
-http://www.kottke.org/
-https://developers.google.com/web/
-https://www.etalab.gouv.fr
-https://blog.datawrapper.de
-https://www.usine-digitale.fr/french-tech
-http://developers.facebook.com/blog/
-http://blog.google
-http://a16z.com/
-http://eng.uber.com/
-http://www.rudebaguette.com/
-https://aws.amazon.com/blogs/big-data/
-https://code.fb.com/
-https://githubengineering.com/
-http://www.lihaoyi.com/
-https://engineering.linkedin.com/
-https://medium.com/@Pinterest_Engineering
-https://scalac.io/
-http://cloudblog.withgoogle.com/products/data-analytics
-https://www.zillow.com/tech/ai-ml/
-https://engineering.atspotify.com/
-http://www.hanselman.com/scotthanselman
-http://www.techinasia.com/
-http://engineeringblog.yelp.com/
-http://joelonsoftware.com
-http://blog.bouygues-construction.com/
-http://transid.blogspot.com/
-http://transports.blog.lemonde.fr/
-http://uninvitedredesigns.com
+- https://www.courrierinternational.com
+- https://www.lemonde.fr/videos
+- http://www.lemonde.fr/big-browser
+
+#### Archive
+[back to TOC](#table-of-contents)
 
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
@@ -400,7 +395,6 @@ http://uninvitedredesigns.com
 - http://dwf.blogs.com/beyond_the_paper/
 - http://ellipsis-autodesk.typepad.com/blog/
 - http://images.math.cnrs.fr/
-- http://making.duolingo.com/
 - http://martinfowler.com/
 - http://perspectives.3ds.com
 - http://through-the-interface.typepad.com/through_the_interface/
@@ -582,6 +576,17 @@ http://uninvitedredesigns.com
 - [`serialport/node-serialport`](https://github.com/serialport/node-serialport)
 - [`segmentio/nightmare`](https://github.com/segmentio/nightmare)
 - [`shelljs/shelljs`](https://github.com/shelljs/shelljs)
+- [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
+- [`space10-community/conversational-form`](https://github.com/space10-community/conversational-form)
+- [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
+- [`spencermountain/spacetime`](https://github.com/spencermountain/spacetime)
+- [`sql-js/sql.js`](https://github.com/sql-js/sql.js)
+- [`sqreen/awesome-nodejs-projects`](https://github.com/sqreen/awesome-nodejs-projects)
+- [`statsd/statsd`](https://github.com/statsd/statsd)
+- [`stefanbuck/awesome-browser-extensions-for-github`](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [`stimulusjs/stimulus`](https://github.com/stimulusjs/stimulus)
+- [`substack/stream-handbook`](https://github.com/substack/stream-handbook)
+- [`surveyjs/survey-library`](https://github.com/surveyjs/survey-library)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -592,6 +597,8 @@ http://uninvitedredesigns.com
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
 - [`justadudewhohacks/opencv4nodejs`](https://github.com/justadudewhohacks/opencv4nodejs)
 - [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
+- [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
+- [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -671,6 +678,25 @@ http://uninvitedredesigns.com
 - [`spotify/featran`](https://github.com/spotify/featran)
 - [`ScorexFoundation/Scorex`](https://github.com/ScorexFoundation/Scorex)
 - [`seratch/AWScala`](https://github.com/seratch/AWScala)
+- [`shadaj/slinky`](https://github.com/shadaj/slinky)
+- [`sksamuel/avro4s`](https://github.com/sksamuel/avro4s)
+- [`sksamuel/scrimage`](https://github.com/sksamuel/scrimage)
+- [`softwaremill/retry`](https://github.com/softwaremill/retry)
+- [`softwaremill/sttp`](https://github.com/softwaremill/sttp)
+- [`stripe/bonsai`](https://github.com/stripe/bonsai)
+- [`stripe/dagon`](https://github.com/stripe/dagon)
+- [`stripe/rainier`](https://github.com/stripe/rainier)
+- [`supermanue/example-library`](https://github.com/supermanue/example-library)
+- [`superruzafa/visual-scala-reference`](https://github.com/superruzafa/visual-scala-reference)
+- [`takezoe/parallelizer`](https://github.com/takezoe/parallelizer)
+- [`takezoe/picocli-scala-example`](https://github.com/takezoe/picocli-scala-example)
+- [`ThoughtWorksInc/Binding.scala`](https://github.com/ThoughtWorksInc/Binding.scala)
+- [`ThoughtWorksInc/DeepLearning.scala`](https://github.com/ThoughtWorksInc/DeepLearning.scala)
+- [`triplequote/sbt-scalabench`](https://github.com/triplequote/sbt-scalabench)
+- [`tpolecat/doobie`](https://github.com/tpolecat/doobie)
+- [`tpolecat/tut`](https://github.com/tpolecat/tut)
+- [`typelevel/spire`](https://github.com/typelevel/spire)
+- [`typelevel/squants`](https://github.com/typelevel/squants)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -694,6 +720,7 @@ http://uninvitedredesigns.com
 - [`nchammas/flintrock`](https://github.com/nchammas/flintrock)
 - [`NVIDIA/spark-xgboost-examples`](https://github.com/NVIDIA/spark-xgboost-examples)
 - [`spotify/scio`](https://github.com/spotify/scio)
+- [`sryza/aas`](https://github.com/sryza/aas)
 
 #### Python
 [Bbck to TOC](#table-of-contents)
@@ -814,6 +841,11 @@ http://uninvitedredesigns.com
 - [`Rudrabha/Lip2Wav`](https://github.com/Rudrabha/Lip2Wav)
 - [`ryansmcgee/seirsplus`](https://github.com/ryansmcgee/seirsplus)
 - [`saulpw/visidata`](https://github.com/saulpw/visidata)
+- [`sgratzl/slack_cleaner2`](https://github.com/sgratzl/slack_cleaner2)
+- [`simonw/datasette`](https://github.com/simonw/datasette)
+- [`statsmodels/statsmodels`](https://github.com/statsmodels/statsmodels)
+- [`STIXProject/python-stix`](https://github.com/STIXProject/python-stix)
+- [`streamlit/streamlit`](https://github.com/streamlit/streamlit)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -842,6 +874,16 @@ http://uninvitedredesigns.com
 - [`NVIDIA/vid2vid`](https://github.com/NVIDIA/vid2vid)
 - [`sayakpaul/Data-Pipelines-with-TensorFlow-Data-Services-Exercises`](https://github.com/sayakpaul/Data-Pipelines-with-TensorFlow-Data-Services-Exercises)
 - [`sebastianruder/NLP-progress`](https://github.com/sebastianruder/NLP-progress)
+- [`tensorflow/adanet`](https://github.com/tensorflow/adanet)
+- [`tensorflow/docs`](https://github.com/tensorflow/docs)
+- [`tensorflow/federated`](https://github.com/tensorflow/federated)
+- [`tensorflow/graphics`](https://github.com/tensorflow/graphics)
+- [`tensorflow/models`](https://github.com/tensorflow/models)
+- [`tensorflow/playground`](https://github.com/tensorflow/playground)
+- [`tensorflow/privacy`](https://github.com/tensorflow/privacy)
+- [`tensorflow/serving`](https://github.com/tensorflow/serving)
+- [`tensorflow/tensorflow`](https://github.com/tensorflow/tensorflow)
+- [`tensorflow/tfx`](https://github.com/tensorflow/tfx)
 
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
@@ -876,6 +918,7 @@ http://uninvitedredesigns.com
 - [`oneapi-src/oneDNN`](https://github.com/oneapi-src/oneDNN)
 - [`photoprism/photoprism`](https://github.com/photoprism/photoprism)
 - [`Shopify/sarama`](https://github.com/Shopify/sarama)
+- [`stretchr/testify`](https://github.com/stretchr/testify)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -906,6 +949,11 @@ http://uninvitedredesigns.com
 - [`RichardWarburton/java-8-lambdas-exercises`](https://github.com/RichardWarburton/java-8-lambdas-exercises)
 - [`spotify/apollo`](https://github.com/spotify/apollo)
 - [`spotify/zoltar`](https://github.com/spotify/zoltar)
+- [`splicemachine/spliceengine`](https://github.com/splicemachine/spliceengine)
+- [`spring-projects/spring-boot`](https://github.com/spring-projects/spring-boot)
+- [`swagger-api/swagger-codegen`](https://github.com/swagger-api/swagger-codegen)
+- [`tedyoung/awesome-java8`](https://github.com/tedyoung/awesome-java8)
+- [`takari/maven-wrapper`](https://github.com/takari/maven-wrapper)
 
 ##### Apache Beam
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
@@ -969,6 +1017,10 @@ http://uninvitedredesigns.com
 - [`matze/mtheme`](https://github.com/matze/mtheme)
 - [`neutraltone/awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`official-stockfish/Stockfish`](https://github.com/official-stockfish/Stockfish)
+- [`sharetribe/sharetribe`](https://github.com/sharetribe/sharetribe)
+- [`simdjson/simdjson`](https://github.com/simdjson/simdjson)
+- [`sporto/awesome-elm`](https://github.com/sporto/awesome-elm)
+- [`stan-dev/math`](https://github.com/stan-dev/math)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -1025,6 +1077,10 @@ http://uninvitedredesigns.com
 - [`serverless/serverless-graphql-blog`](https://github.com/serverless/serverless-graphql-blog)
 - [`serverless/serverless`](https://github.com/serverless/serverless)
 - [`spotify/styx`](https://github.com/spotify/styx)
+- [`SimulatedGREG/nginx-cheatsheet`](https://github.com/SimulatedGREG/nginx-cheatsheet)
+- [`snapcore/snapcraft`](https://github.com/snapcore/snapcraft)
+- [`spinnaker/spinnaker`](https://github.com/spinnaker/spinnaker)
+- [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -1050,6 +1106,8 @@ http://uninvitedredesigns.com
 - [`prestodb/presto`](https://github.com/prestodb/presto)
 - [`rethinkdb/rethinkdb`](https://github.com/rethinkdb/rethinkdb)
 - [`roaldnefs/awesome-prometheus`](https://github.com/roaldnefs/awesome-prometheus)
+- [`snowplow/iglu-central`](https://github.com/snowplow/iglu-central)
+- [`sqlpad/sqlpad`](https://github.com/sqlpad/sqlpad)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -1122,6 +1180,9 @@ http://uninvitedredesigns.com
 - [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
 - [`sharkdp/bat`](https://github.com/sharkdp/bat)
 - [`sharkdp/fd`](https://github.com/sharkdp/fd)
+- [`simeji/jid`](https://github.com/simeji/jid)
+- [`sstephenson/bats`](https://github.com/sstephenson/bats)
+- [`tats/w3m`](https://github.com/tats/w3m)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -1132,82 +1193,16 @@ http://uninvitedredesigns.com
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 
-#### S letter
-
-- [`sgratzl/slack_cleaner2`](https://github.com/sgratzl/slack_cleaner2)
-- [`shadaj/slinky`](https://github.com/shadaj/slinky)
-- [`sharetribe/sharetribe`](https://github.com/sharetribe/sharetribe)
-- [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
-- [`simdjson/simdjson`](https://github.com/simdjson/simdjson)
-- [`simeji/jid`](https://github.com/simeji/jid)
-- [`simonepri/country-iso`](https://github.com/simonepri/country-iso)
-- [`simonw/datasette`](https://github.com/simonw/datasette)
-- [`SimulatedGREG/nginx-cheatsheet`](https://github.com/SimulatedGREG/nginx-cheatsheet)
-- [`sksamuel/avro4s`](https://github.com/sksamuel/avro4s)
-- [`sksamuel/scrimage`](https://github.com/sksamuel/scrimage)
-- [`snapcore/snapcraft`](https://github.com/snapcore/snapcraft)
-- [`snowplow/iglu-central`](https://github.com/snowplow/iglu-central)
-- [`softwaremill/retry`](https://github.com/softwaremill/retry)
-- [`softwaremill/sttp`](https://github.com/softwaremill/sttp)
-- [`space10-community/conversational-form`](https://github.com/space10-community/conversational-form)
-- [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
-- [`spencermountain/spacetime`](https://github.com/spencermountain/spacetime)
-- [`spinnaker/spinnaker`](https://github.com/spinnaker/spinnaker)
-- [`splicemachine/spliceengine`](https://github.com/splicemachine/spliceengine)
-- [`sporto/awesome-elm`](https://github.com/sporto/awesome-elm)
-- [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
-- [`spring-projects/spring-boot`](https://github.com/spring-projects/spring-boot)
-- [`sql-js/sql.js`](https://github.com/sql-js/sql.js)
-- [`sqlpad/sqlpad`](https://github.com/sqlpad/sqlpad)
-- [`sqreen/awesome-nodejs-projects`](https://github.com/sqreen/awesome-nodejs-projects)
-- [`sryza/aas`](https://github.com/sryza/aas)
-- [`sstephenson/bats`](https://github.com/sstephenson/bats)
-- [`stan-dev/math`](https://github.com/stan-dev/math)
-- [`statsd/statsd`](https://github.com/statsd/statsd)
-- [`statsmodels/statsmodels`](https://github.com/statsmodels/statsmodels)
-- [`stefanbuck/awesome-browser-extensions-for-github`](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-- [`stimulusjs/stimulus`](https://github.com/stimulusjs/stimulus)
-- [`STIXProject/python-stix`](https://github.com/STIXProject/python-stix)
-- [`streamlit/streamlit`](https://github.com/streamlit/streamlit)
-- [`stretchr/testify`](https://github.com/stretchr/testify)
-- [`stripe/bonsai`](https://github.com/stripe/bonsai)
-- [`stripe/dagon`](https://github.com/stripe/dagon)
-- [`stripe/rainier`](https://github.com/stripe/rainier)
-- [`substack/stream-handbook`](https://github.com/substack/stream-handbook)
-- [`supermanue/example-library`](https://github.com/supermanue/example-library)
-- [`superruzafa/visual-scala-reference`](https://github.com/superruzafa/visual-scala-reference)
-- [`surveyjs/survey-library`](https://github.com/surveyjs/survey-library)
-- [`swagger-api/swagger-codegen`](https://github.com/swagger-api/swagger-codegen)
-
-
 #### T letter
+
 - [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
-- [`takari/maven-wrapper`](https://github.com/takari/maven-wrapper)
-- [`takezoe/parallelizer`](https://github.com/takezoe/parallelizer)
-- [`takezoe/picocli-scala-example`](https://github.com/takezoe/picocli-scala-example)
 - [`taoufik07/responder`](https://github.com/taoufik07/responder)
-- [`tats/w3m`](https://github.com/tats/w3m)
 - [`techjacker/appsync-realtime-vanillajs`](https://github.com/techjacker/appsync-realtime-vanillajs)
 - [`technosophos/moniker`](https://github.com/technosophos/moniker)
-- [`tedyoung/awesome-java8`](https://github.com/tedyoung/awesome-java8)
-- [`tensorflow/adanet`](https://github.com/tensorflow/adanet)
-- [`tensorflow/docs`](https://github.com/tensorflow/docs)
-- [`tensorflow/federated`](https://github.com/tensorflow/federated)
-- [`tensorflow/graphics`](https://github.com/tensorflow/graphics)
-- [`tensorflow/models`](https://github.com/tensorflow/models)
-- [`tensorflow/playground`](https://github.com/tensorflow/playground)
-- [`tensorflow/privacy`](https://github.com/tensorflow/privacy)
-- [`tensorflow/serving`](https://github.com/tensorflow/serving)
-- [`tensorflow/tensorflow`](https://github.com/tensorflow/tensorflow)
-- [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
-- [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
-- [`tensorflow/tfx`](https://github.com/tensorflow/tfx)
 - [`terryum/awesome-deep-learning-papers`](https://github.com/terryum/awesome-deep-learning-papers)
 - [`thedevs-network/kutt`](https://github.com/thedevs-network/kutt)
 - [`thekevinscott/ml-classifier-ui`](https://github.com/thekevinscott/ml-classifier-ui)
 - [`ThilinaRajapakse/simpletransformers`](https://github.com/ThilinaRajapakse/simpletransformers)
-- [`ThoughtWorksInc/Binding.scala`](https://github.com/ThoughtWorksInc/Binding.scala)
-- [`ThoughtWorksInc/DeepLearning.scala`](https://github.com/ThoughtWorksInc/DeepLearning.scala)
 - [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
 - [`timescale/timescaledb`](https://github.com/timescale/timescaledb)
 - [`tj/node-prune`](https://github.com/tj/node-prune)
@@ -1218,13 +1213,10 @@ http://uninvitedredesigns.com
 - [`tomnomnom/gron`](https://github.com/tomnomnom/gron)
 - [`tomslee/airbnb-data-collection`](https://github.com/tomslee/airbnb-data-collection)
 - [`toniov/gcal-cli`](https://github.com/toniov/gcal-cli)
-- [`tpolecat/doobie`](https://github.com/tpolecat/doobie)
-- [`tpolecat/tut`](https://github.com/tpolecat/tut)
 - [`transcendent-ai-labs/DynaML`](https://github.com/transcendent-ai-labs/DynaML)
 - [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
 - [`traviscross/mtr`](https://github.com/traviscross/mtr)
 - [`trimstray/test-your-sysadmin-skills`](https://github.com/trimstray/test-your-sysadmin-skills)
-- [`triplequote/sbt-scalabench`](https://github.com/triplequote/sbt-scalabench)
 - [`trufflesuite/truffle`](https://github.com/trufflesuite/truffle)
 - [`tsenart/vegeta`](https://github.com/tsenart/vegeta)
 - [`tstack/lnav`](https://github.com/tstack/lnav)
@@ -1234,8 +1226,6 @@ http://uninvitedredesigns.com
 - [`twitter/bijection`](https://github.com/twitter/bijection)
 - [`twosigma/flint`](https://github.com/twosigma/flint)
 - [`TylerBrock/saw`](https://github.com/TylerBrock/saw)
-- [`typelevel/spire`](https://github.com/typelevel/spire)
-- [`typelevel/squants`](https://github.com/typelevel/squants)
 - [`typicode/json-server`](https://github.com/typicode/json-server)
 - [`tzutalin/labelImg`](https://github.com/tzutalin/labelImg)
 - [`uber/ludwig`](https://github.com/uber/ludwig)
