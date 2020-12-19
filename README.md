@@ -432,6 +432,7 @@ http://uninvitedredesigns.com
 - [Database Weekly](https://dbweekly.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Webops Weekly](https://webopsweekly.com/)
+- [Scala Times](https://scalatimes.com)
 
 ### Repos, toolbox for work-related problems
 [back to TOC](#table-of-contents)
