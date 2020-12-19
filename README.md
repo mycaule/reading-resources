@@ -433,7 +433,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### V, W, X, Y, Z letters
 - [`validatorjs/validator.js`](https://github.com/validatorjs/validator.js)
-- [`valyala/fasthttp`](https://github.com/valyala/fasthttp)
 - [`VBA-tools/VBA-Web`](https://github.com/VBA-tools/VBA-Web)
 - [`vega/vega-lite`](https://github.com/vega/vega-lite)
 - [`vegas-viz/Vegas`](https://github.com/vegas-viz/Vegas)
@@ -462,23 +461,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wtfutil/wtf`](https://github.com/wtfutil/wtf)
 - [`wting/autojump`](https://github.com/wting/autojump)
 - [`wvlet/airframe`](https://github.com/wvlet/airframe)
-- [`xbpeng/DeepMimic`](https://github.com/xbpeng/DeepMimic)
-- [`xdotai/diff`](https://github.com/xdotai/diff)
-- [`xmlking/nifi-examples`](https://github.com/xmlking/nifi-examples)
-- [`xtermjs/xterm.js`](https://github.com/xtermjs/xterm.js)
-- [`Y2Z/monolith`](https://github.com/Y2Z/monolith)
-- [`yahoo/open_nsfw`](https://github.com/yahoo/open_nsfw)
-- [`yai333/pythonserverlesssample`](https://github.com/yai333/pythonserverlesssample)
-- [`Yomguithereal/mnemonist`](https://github.com/Yomguithereal/mnemonist)
-- [`you-dont-need/You-Dont-Need-Momentjs`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-- [`yudai/gotty`](https://github.com/yudai/gotty)
-- [`z-pattern-matching/z`](https://github.com/z-pattern-matching/z)
-- [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
-- [`zalandoresearch/fashion-mnist`](https://github.com/zalandoresearch/fashion-mnist)
-- [`zenazn/goji`](https://github.com/zenazn/goji)
-- [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
-- [`zotero/zotero`](https://github.com/zotero/zotero)
-- [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
+
 
 #### JavaScript
 [back to TOC](#table-of-contents)
@@ -645,6 +628,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Unitech/pm2`](https://github.com/Unitech/pm2)
 - [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
 - [`trufflesuite/truffle`](https://github.com/trufflesuite/truffle)
+- [`xtermjs/xterm.js`](https://github.com/xtermjs/xterm.js)
+- [`Yomguithereal/mnemonist`](https://github.com/Yomguithereal/mnemonist)
+- [`you-dont-need/You-Dont-Need-Momentjs`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- [`z-pattern-matching/z`](https://github.com/z-pattern-matching/z)
+- [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
+- [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
+- [`zotero/zotero`](https://github.com/zotero/zotero)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -759,6 +749,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`twosigma/flint`](https://github.com/twosigma/flint)
 - [`underscoreio/shapeless-guide`](https://github.com/underscoreio/shapeless-guide)
 - [`transcendent-ai-labs/DynaML`](https://github.com/transcendent-ai-labs/DynaML)
+- [`xdotai/diff`](https://github.com/xdotai/diff)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -916,6 +907,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
 - [`tzutalin/labelImg`](https://github.com/tzutalin/labelImg)
 - [`uber/ludwig`](https://github.com/uber/ludwig)
+- [`zalandoresearch/fashion-mnist`](https://github.com/zalandoresearch/fashion-mnist)
+- [`yahoo/open_nsfw`](https://github.com/yahoo/open_nsfw)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -991,6 +984,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`stretchr/testify`](https://github.com/stretchr/testify)
 - [`tmaiaroto/aegis`](https://github.com/tmaiaroto/aegis)
 - [`TylerBrock/saw`](https://github.com/TylerBrock/saw)
+- [`valyala/fasthttp`](https://github.com/valyala/fasthttp)
+- [`zenazn/goji`](https://github.com/zenazn/goji)
+- [`Y2Z/monolith`](https://github.com/Y2Z/monolith)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -1095,6 +1091,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`stan-dev/math`](https://github.com/stan-dev/math)
 - [`tum-vision/fastms`](https://github.com/tum-vision/fastms)
 - [`Unity-Technologies/unitysimulation-coronavirus-example`](https://github.com/Unity-Technologies/unitysimulation-coronavirus-example)
+- [`xbpeng/DeepMimic`](https://github.com/xbpeng/DeepMimic)
 
 #### DevOps
 [back to TOC](#table-of-contents)
@@ -1265,6 +1262,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
 - [`tsenart/vegeta`](https://github.com/tsenart/vegeta)
 - [`tstack/lnav`](https://github.com/tstack/lnav)
+- [`yudai/gotty`](https://github.com/yudai/gotty)
+- [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
 #### Security
 [back to TOC](#table-of-contents)
