@@ -431,20 +431,14 @@ Their long-term goal is to become an open platform for machine learning research
 ### Repos, toolbox for work-related problems
 [back to TOC](#table-of-contents)
 
-#### V, W, X, Y, Z letters
-- [`validatorjs/validator.js`](https://github.com/validatorjs/validator.js)
-- [`VBA-tools/VBA-Web`](https://github.com/VBA-tools/VBA-Web)
-- [`vega/vega-lite`](https://github.com/vega/vega-lite)
+#### V, W letters
+
 - [`vegas-viz/Vegas`](https://github.com/vegas-viz/Vegas)
-- [`vercel/hyper`](https://github.com/vercel/hyper)
-- [`vercel/micro`](https://github.com/vercel/micro)
-- [`vercel/vercel`](https://github.com/vercel/vercel)
-- [`verekia/js-stack-from-scratch`](https://github.com/verekia/js-stack-from-scratch)
-- [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
+
+
+
 - [`vim-syntastic/syntastic`](https://github.com/vim-syntastic/syntastic)
 - [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
-- [`vkostyukov/scalacaster`](https://github.com/vkostyukov/scalacaster)
-- [`vuejs/awesome-vue`](https://github.com/vuejs/awesome-vue)
 - [`wagoodman/dive`](https://github.com/wagoodman/dive)
 - [`wallabag/wallabag`](https://github.com/wallabag/wallabag)
 - [`wallix/awless`](https://github.com/wallix/awless)
@@ -452,7 +446,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wartremover/wartremover`](https://github.com/wartremover/wartremover)
 - [`watsonbox/exportify`](https://github.com/watsonbox/exportify)
 - [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
-- [`wg/wrk`](https://github.com/wg/wrk)
 - [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
@@ -628,6 +621,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Unitech/pm2`](https://github.com/Unitech/pm2)
 - [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
 - [`trufflesuite/truffle`](https://github.com/trufflesuite/truffle)
+- [`validatorjs/validator.js`](https://github.com/validatorjs/validator.js)
+- [`vega/vega-lite`](https://github.com/vega/vega-lite)
+- [`vercel/micro`](https://github.com/vercel/micro)
 - [`xtermjs/xterm.js`](https://github.com/xtermjs/xterm.js)
 - [`Yomguithereal/mnemonist`](https://github.com/Yomguithereal/mnemonist)
 - [`you-dont-need/You-Dont-Need-Momentjs`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
@@ -647,6 +643,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
 - [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
+- [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -748,6 +745,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`twitter/bijection`](https://github.com/twitter/bijection)
 - [`twosigma/flint`](https://github.com/twosigma/flint)
 - [`underscoreio/shapeless-guide`](https://github.com/underscoreio/shapeless-guide)
+- [`vkostyukov/scalacaster`](https://github.com/vkostyukov/scalacaster)
 - [`transcendent-ai-labs/DynaML`](https://github.com/transcendent-ai-labs/DynaML)
 - [`xdotai/diff`](https://github.com/xdotai/diff)
 
@@ -1091,6 +1089,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`stan-dev/math`](https://github.com/stan-dev/math)
 - [`tum-vision/fastms`](https://github.com/tum-vision/fastms)
 - [`Unity-Technologies/unitysimulation-coronavirus-example`](https://github.com/Unity-Technologies/unitysimulation-coronavirus-example)
+- [`VBA-tools/VBA-Web`](https://github.com/VBA-tools/VBA-Web)
 - [`xbpeng/DeepMimic`](https://github.com/xbpeng/DeepMimic)
 
 #### DevOps
@@ -1262,6 +1261,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
 - [`tsenart/vegeta`](https://github.com/tsenart/vegeta)
 - [`tstack/lnav`](https://github.com/tstack/lnav)
+- [`wg/wrk`](https://github.com/wg/wrk)
 - [`yudai/gotty`](https://github.com/yudai/gotty)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
