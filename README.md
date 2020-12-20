@@ -443,6 +443,9 @@ Their long-term goal is to become an open platform for machine learning research
 #### JavaScript
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+
 - [`aerogear/create-graphql`](https://github.com/aerogear/create-graphql)
 - [`agenda/agenda`](https://github.com/agenda/agenda)
 - [`alexpate/awesome-design-systems`](https://github.com/alexpate/awesome-design-systems)
@@ -618,7 +621,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 
-###### Tensorflow.js
+</details>
+
+<details>
+<summary><b>Tensorflow.js</b></summary><br>
+  
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
@@ -631,6 +638,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
 - [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
+
+</details>
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
