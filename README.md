@@ -1353,6 +1353,6 @@ Their long-term goal is to become an open platform for machine learning research
 ### References
 [back to TOC](#table-of-contents)
 
-- https://www.goodreads.com/api/index#shelves.list
-- https://api.github.com/users/mycaule/starred?page=9&per_page=100
-- https://getpocket.com/developer/docs/v3/retrieve
+- https://api.github.com/users/mycaule/starred?page=1&per_page=100
+- https://www.goodreads.com/review/import
+- https://getpocket.com/export
