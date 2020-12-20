@@ -141,6 +141,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 ##### September
 - [Pierre Courtiol @ Collège de France - S'attaquer à une compétition de machine learning](https://www.college-de-france.fr/site/stephane-mallat/seminar-2018-02-21-11h15.htm) about tricks to make models perform better and win Kaggle competitions
+- [NHK World - 10 Years with Hayao Miyazaki](https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/10yearshayaomiyazaki/)
 
 ##### March
 
