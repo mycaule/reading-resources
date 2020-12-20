@@ -455,7 +455,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`Baremetrics/calendar`](https://github.com/Baremetrics/calendar)
 - [`caiogondim/fast-memoize.js`](https://github.com/caiogondim/fast-memoize.js)
 - [`bdickason/node-goodreads`](https://github.com/bdickason/node-goodreads)
-- [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
 - [`bevacqua/dragula`](https://github.com/bevacqua/dragula)
 - [`bigskysoftware/intercooler-js`](https://github.com/bigskysoftware/intercooler-js)
 - [`brave/browser-laptop`](https://github.com/brave/browser-laptop)
@@ -621,6 +620,7 @@ Their long-term goal is to become an open platform for machine learning research
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
+- [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
 - [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
 - [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
