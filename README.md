@@ -440,6 +440,25 @@ Their long-term goal is to become an open platform for machine learning research
 ### Repos, toolbox for work-related problems
 [back to TOC](#table-of-contents)
 
+#### New, SORT-ME
+
+- [`edwardtufte/tufte-css`](https://github.com/edwardtufte/tufte-css)
+- [`facebook/flow`](https://github.com/facebook/flow)
+- [`facebook/rocksdb`](https://github.com/facebook/rocksdb)
+- [`FishermansEnemy/bucket_finder`](https://github.com/FishermansEnemy/bucket_finder)
+- [`ft-interactive/chart-doctor`](https://github.com/ft-interactive/chart-doctor)
+- [`full-stack-deep-learning/course-gitbook`](https://github.com/full-stack-deep-learning/course-gitbook)
+- [`GoogleCloudPlatform/bigquery-geo-viz`](https://github.com/GoogleCloudPlatform/bigquery-geo-viz)
+- [`GoogleCloudPlatform/functions-framework-ruby`](https://github.com/GoogleCloudPlatform/functions-framework-ruby)
+- [`jf-tech/omniparser`](https://github.com/jf-tech/omniparser)
+- [`keycastr/keycastr`](https://github.com/keycastr/keycastr)
+- [`mercari/ml-system-design-pattern`](https://github.com/mercari/ml-system-design-pattern)
+- [`OpenCTI-Platform/opencti`](https://github.com/OpenCTI-Platform/opencti)
+- [`openfaas/faas`](https://github.com/openfaas/faas)
+- [`ray-project/ray`](https://github.com/ray-project/ray)
+- [`rstudio/tufte`](https://github.com/rstudio/tufte)
+- [`sa7mon/S3Scanner`](https://github.com/sa7mon/S3Scanner)
+
 #### JavaScript
 [back to TOC](#table-of-contents)
 
@@ -616,6 +635,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
+- [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
+- [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
+- [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
+- [`google/mediapipe`](https://github.com/google/mediapipe)
+- [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
+- [`microsoft/playwright`](https://github.com/microsoft/playwright)
+- [`RussCoder/djvujs`](https://github.com/RussCoder/djvujs)
+- [`PrismJS/prism`](https://github.com/PrismJS/prism)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -631,6 +658,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
 - [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
+- [`alibaba/pipcook`](https://github.com/alibaba/pipcook)
+- [`yemount/pose-animator`](https://github.com/yemount/pose-animator)
 
 ##### File formats
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
@@ -739,6 +768,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wartremover/wartremover`](https://github.com/wartremover/wartremover)
 - [`winitzki/sofp`](https://github.com/winitzki/sofp)
 - [`wvlet/airframe`](https://github.com/wvlet/airframe)
+- [`scalameta/mdoc`](https://github.com/scalameta/mdoc)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -902,6 +932,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
 - [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
 - [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
+- [`vijishmadhavan/ArtLine`](https://github.com/vijishmadhavan/ArtLine)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -1149,6 +1180,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`trimstray/test-your-sysadmin-skills`](https://github.com/trimstray/test-your-sysadmin-skills)
 - [`wagoodman/dive`](https://github.com/wagoodman/dive)
 - [`wallabag/wallabag`](https://github.com/wallabag/wallabag)
+- [`swanson/stringer`](https://github.com/swanson/stringer)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -1252,6 +1284,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`sharkdp/fd`](https://github.com/sharkdp/fd)
 - [`simeji/jid`](https://github.com/simeji/jid)
 - [`sstephenson/bats`](https://github.com/sstephenson/bats)
+- [`stedolan/jq`](https://github.com/stedolan/jq)
 - [`tats/w3m`](https://github.com/tats/w3m)
 - [`tldr-pages/tldr`](https://github.com/tldr-pages/tldr)
 - [`tomnomnom/gron`](https://github.com/tomnomnom/gron)
@@ -1276,6 +1309,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 - [`traviscross/mtr`](https://github.com/traviscross/mtr)
+- [`clario-tech/s3-inspector`](https://github.com/clario-tech/s3-inspector)
 
 ### Quotes
 [back to TOC](#table-of-contents)
