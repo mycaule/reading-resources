@@ -20,6 +20,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
   - [General news](#general-news)
   - [Archive](#archive)
 - [Newsletters](#newsletters)
+- [Online courses](#online-courses)
 - [Repositories](#repos-toolbox-for-work-related-problems)
   - [Node.js](#javascript)
   - [Scala](#scala)
@@ -35,7 +36,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 [About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](resume.2021.pdf).
 
-[A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0) (French), [Productivity tips](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63) (French), [Using deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69) (French)
+[A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0) (French), [Productivity tips and decluttering](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63) (French), [Deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69) (French)
 
 ### Posts and Webapps
 [back to TOC](#table-of-contents)
@@ -45,8 +46,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - Follow Lex Fridman Annual state of the art talk
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
-- Write a small project in Go language using one of the libraries below
-- Write part of a book using https://bookdown.org/yihui/rmarkdown/tufte-handouts.html or https://github.com/scalameta/mdoc
+- Write a small project in Go language using one of [the libraries below]((#go-and-other-hot-languages))
+- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 
 #### 2020
 [back to TOC](#table-of-contents)
@@ -428,33 +429,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [Webops Weekly](https://webopsweekly.com/)
 - [Scala Times](https://scalatimes.com)
 
-### Repos, toolbox for work-related problems
+### Online courses
 [back to TOC](#table-of-contents)
 
-#### V, W letters
-
-- [`vegas-viz/Vegas`](https://github.com/vegas-viz/Vegas)
-
-
-
-- [`vim-syntastic/syntastic`](https://github.com/vim-syntastic/syntastic)
-- [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
-- [`wagoodman/dive`](https://github.com/wagoodman/dive)
-- [`wallabag/wallabag`](https://github.com/wallabag/wallabag)
-- [`wallix/awless`](https://github.com/wallix/awless)
-- [`wangzheallen/awesome-human-pose-estimation`](https://github.com/wangzheallen/awesome-human-pose-estimation)
-- [`wartremover/wartremover`](https://github.com/wartremover/wartremover)
-- [`watsonbox/exportify`](https://github.com/watsonbox/exportify)
-- [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
-- [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
-- [`williamngan/pts`](https://github.com/williamngan/pts)
-- [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
-- [`winitzki/sofp`](https://github.com/winitzki/sofp)
-- [`wooorm/franc`](https://github.com/wooorm/franc)
-- [`wtfutil/wtf`](https://github.com/wtfutil/wtf)
-- [`wting/autojump`](https://github.com/wting/autojump)
-- [`wvlet/airframe`](https://github.com/wvlet/airframe)
-
+### Repos, toolbox for work-related problems
+[back to TOC](#table-of-contents)
 
 #### JavaScript
 [back to TOC](#table-of-contents)
@@ -624,6 +603,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`validatorjs/validator.js`](https://github.com/validatorjs/validator.js)
 - [`vega/vega-lite`](https://github.com/vega/vega-lite)
 - [`vercel/micro`](https://github.com/vercel/micro)
+- [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
 - [`xtermjs/xterm.js`](https://github.com/xtermjs/xterm.js)
 - [`Yomguithereal/mnemonist`](https://github.com/Yomguithereal/mnemonist)
 - [`you-dont-need/You-Dont-Need-Momentjs`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
@@ -631,6 +611,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
+- [`williamngan/pts`](https://github.com/williamngan/pts)
+- [`wooorm/franc`](https://github.com/wooorm/franc)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -745,9 +727,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [`twitter/bijection`](https://github.com/twitter/bijection)
 - [`twosigma/flint`](https://github.com/twosigma/flint)
 - [`underscoreio/shapeless-guide`](https://github.com/underscoreio/shapeless-guide)
+- [`vegas-viz/Vegas`](https://github.com/vegas-viz/Vegas)
 - [`vkostyukov/scalacaster`](https://github.com/vkostyukov/scalacaster)
 - [`transcendent-ai-labs/DynaML`](https://github.com/transcendent-ai-labs/DynaML)
 - [`xdotai/diff`](https://github.com/xdotai/diff)
+- [`wartremover/wartremover`](https://github.com/wartremover/wartremover)
+- [`winitzki/sofp`](https://github.com/winitzki/sofp)
+- [`wvlet/airframe`](https://github.com/wvlet/airframe)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -907,6 +893,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`uber/ludwig`](https://github.com/uber/ludwig)
 - [`zalandoresearch/fashion-mnist`](https://github.com/zalandoresearch/fashion-mnist)
 - [`yahoo/open_nsfw`](https://github.com/yahoo/open_nsfw)
+- [`wangzheallen/awesome-human-pose-estimation`](https://github.com/wangzheallen/awesome-human-pose-estimation)
+- [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
+- [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
+- [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
 
 ##### Tensorflow
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
@@ -1152,6 +1142,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`spinnaker/spinnaker`](https://github.com/spinnaker/spinnaker)
 - [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
 - [`trimstray/test-your-sysadmin-skills`](https://github.com/trimstray/test-your-sysadmin-skills)
+- [`wagoodman/dive`](https://github.com/wagoodman/dive)
+- [`wallabag/wallabag`](https://github.com/wallabag/wallabag)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -1261,6 +1253,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
 - [`tsenart/vegeta`](https://github.com/tsenart/vegeta)
 - [`tstack/lnav`](https://github.com/tstack/lnav)
+- [`vim-syntastic/syntastic`](https://github.com/vim-syntastic/syntastic)
+- [`wallix/awless`](https://github.com/wallix/awless)
+- [`watsonbox/exportify`](https://github.com/watsonbox/exportify)
+- [`wtfutil/wtf`](https://github.com/wtfutil/wtf)
+- [`wting/autojump`](https://github.com/wting/autojump)
 - [`wg/wrk`](https://github.com/wg/wrk)
 - [`yudai/gotty`](https://github.com/yudai/gotty)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
