@@ -7,6 +7,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - To keep track of helpful resources I have referred to during my career
 - To help my fellow young colleagues learn quickly
 
+Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com)
+
 ------------------------------
 
 ### Table of Contents
@@ -36,7 +38,9 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 
 [About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](resume.2021.pdf).
 
-[A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0) (French), [Productivity tips and decluttering](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63) (French), [Deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69) (French)
+Some talks I have done recently, mostly in French: [A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0), [Productivity tips and decluttering](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63), [Deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69)
+
+Subjects I am researching
 
 ### Posts and Webapps
 [back to TOC](#table-of-contents)
