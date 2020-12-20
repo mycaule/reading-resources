@@ -641,17 +641,27 @@ Their long-term goal is to become an open platform for machine learning research
 
 </details>
 
-##### File formats
+<details>
+<summary><b>File formats</b></summary><br>
+  
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
 - [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
 
-##### Medias
+</details>
+
+<details>
+<summary><b>Multimedia</b></summary><br>
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
+
+</details>
 
 #### Scala
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`47degrees/fetch`](https://github.com/47degrees/fetch)
 - [`47degrees/sbt-microsites`](https://github.com/47degrees/sbt-microsites)
 - [`ACINQ/eclair`](https://github.com/ACINQ/eclair)
@@ -749,7 +759,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`winitzki/sofp`](https://github.com/winitzki/sofp)
 - [`wvlet/airframe`](https://github.com/wvlet/airframe)
 
-##### Spark and Hadoop
+</detail>
+
+<details>
+<summary><b>Spark and Hadoop</b></summary><br>
+
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
 - [`adornes/spark_scala_ml_examples`](https://github.com/adornes/spark_scala_ml_examples)
 - [`alexarchambault/ammonite-spark`](https://github.com/alexarchambault/ammonite-spark)
@@ -773,9 +787,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`spotify/scio`](https://github.com/spotify/scio)
 - [`sryza/aas`](https://github.com/sryza/aas)
 
+</details>
+
 #### Python
 [Bbck to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
 - [`addok/addok`](https://github.com/addok/addok)
 - [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
@@ -912,7 +931,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
 - [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
 
-##### Tensorflow
+</details>
+
+
+<details>
+<summary><b>Tensorflow</b></summary><br>
+
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
 - [`ahkarami/Deep-Learning-in-Production`](https://github.com/ahkarami/Deep-Learning-in-Production)
 - [`Amin-Tgz/awesome-tensorflow-2`](https://github.com/Amin-Tgz/awesome-tensorflow-2)
@@ -950,9 +974,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tensorflow/tensorflow`](https://github.com/tensorflow/tensorflow)
 - [`tensorflow/tfx`](https://github.com/tensorflow/tfx)
 
+</details>
+
 #### Go and other hot languages
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
 - [`ActiveState/gococo`](https://github.com/ActiveState/gococo)
 - [`alda-lang/alda`](https://github.com/alda-lang/alda)
@@ -990,9 +1019,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`zenazn/goji`](https://github.com/zenazn/goji)
 - [`Y2Z/monolith`](https://github.com/Y2Z/monolith)
 
+</details>
+
 #### Java
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
 - [`apache/beam`](https://github.com/apache/beam)
 - [`apache/calcite`](https://github.com/apache/calcite)
@@ -1025,15 +1059,24 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tedyoung/awesome-java8`](https://github.com/tedyoung/awesome-java8)
 - [`takari/maven-wrapper`](https://github.com/takari/maven-wrapper)
 
-##### Apache Beam
+</details>
+
+<details>
+<summary><b>Apache Beam</b></summary><br>
+
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
 - [`GoogleCloudPlatform/dataflow-opinion-analysis`](https://github.com/GoogleCloudPlatform/dataflow-opinion-analysis)
 - [`GoogleCloudPlatform/DataflowTemplates`](https://github.com/GoogleCloudPlatform/DataflowTemplates)
 - [`GoogleCloudPlatform/df-ml-anomaly-detection`](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection)
 
+</details>
+
 #### Self-development
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General</b></summary><br>
+  
 - [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
 - [`dreamingechoes/awesome-mental-health`](https://github.com/dreamingechoes/awesome-mental-health)
 - [`dylanrees/citizen-science`](https://github.com/dylanrees/citizen-science)
@@ -1045,9 +1088,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`rossant/awesome-math`](https://github.com/rossant/awesome-math)
 - [`SocialGouv/code-du-travail-numerique`](https://github.com/SocialGouv/code-du-travail-numerique)
 
+</details>
+
 #### Museum
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`astralapp/astral`](https://github.com/astralapp/astral)
@@ -1096,9 +1144,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`VBA-tools/VBA-Web`](https://github.com/VBA-tools/VBA-Web)
 - [`xbpeng/DeepMimic`](https://github.com/xbpeng/DeepMimic)
 
+</details>
+
 #### DevOps
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
 - [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
 - [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
@@ -1159,9 +1212,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wagoodman/dive`](https://github.com/wagoodman/dive)
 - [`wallabag/wallabag`](https://github.com/wallabag/wallabag)
 
+</details>
+
 #### Databases
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General</b></summary><br>
+  
 - [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
 - [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
 - [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
@@ -1188,9 +1246,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`usefathom/fathom`](https://github.com/usefathom/fathom)
 - [`timescale/timescaledb`](https://github.com/timescale/timescaledb)
 
+</details>
+
 #### CLI
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General (unsorted)</b></summary><br>
+  
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
 - [`akavel/up`](https://github.com/akavel/up)
 - [`AlDanial/cloc`](https://github.com/AlDanial/cloc)
@@ -1276,15 +1339,22 @@ Their long-term goal is to become an open platform for machine learning research
 - [`yudai/gotty`](https://github.com/yudai/gotty)
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
+</details>
+
 #### Security
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>General</b></summary><br>
+  
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 - [`lastpass/lastpass-cli`](https://github.com/lastpass/lastpass-cli)
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 - [`traviscross/mtr`](https://github.com/traviscross/mtr)
+
+</details>
 
 ### Quotes
 [back to TOC](#table-of-contents)
