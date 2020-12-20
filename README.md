@@ -651,6 +651,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 <details>
 <summary><b>Multimedia</b></summary><br>
+
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
 
@@ -759,7 +760,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`winitzki/sofp`](https://github.com/winitzki/sofp)
 - [`wvlet/airframe`](https://github.com/wvlet/airframe)
 
-</detail>
+</details>
 
 <details>
 <summary><b>Spark and Hadoop</b></summary><br>
@@ -1366,6 +1367,11 @@ Their long-term goal is to become an open platform for machine learning research
 ### References
 [back to TOC](#table-of-contents)
 
+<details>
+<summary><b>APIs</b></summary><br>
+  
 - https://www.goodreads.com/api/index#shelves.list
-- https://api.github.com/users/mycaule/starred?page=9&per_page=100
+- https://api.github.com/users/mycaule/starred?page=1&per_page=100
 - https://getpocket.com/developer/docs/v3/retrieve
+
+</details>
