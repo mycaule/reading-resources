@@ -24,11 +24,12 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
 - [Newsletters](#newsletters)
 - [Online courses](#online-courses)
 - [Repositories](#repos-toolbox-for-work-related-problems)
+  - [CSS](#css)
   - [Node.js](#javascript)
   - [Scala](#scala)
   - [Java](#java)
   - [Python](#python)
-  - [Go](#go-and-other-hot-languages)
+  - [Go](#go-and-native-languages)
   - [CLI](#cli)
   - [DevOps](#devops)
   - [Security](#security)
@@ -282,7 +283,6 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/8910666-eloquent-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308260856l/8910666.jpg" width=100 alt="Haverbeke"/></a> 
 </div>
 
-
 <div align="center">
   <a href="https://www.goodreads.com/book/show/8520610-quiet"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610.jpg" width=100 alt="Cain"/></a>
   <a href="https://www.goodreads.com/book/show/44936.Refactoring"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg" width=100 alt="Fowler"/></a>
@@ -440,6 +440,15 @@ Their long-term goal is to become an open platform for machine learning research
 ### Repos, toolbox for work-related problems
 [back to TOC](#table-of-contents)
 
+#### CSS
+[back to TOC](#table-of-contents)
+
+- [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
+- [`edwardtufte/tufte-css`](https://github.com/edwardtufte/tufte-css)
+- [`ft-interactive/chart-doctor`](https://github.com/ft-interactive/chart-doctor)
+- [`jgthms/bulma`](https://github.com/jgthms/bulma)
+- [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
+
 #### JavaScript
 [back to TOC](#table-of-contents)
 
@@ -479,7 +488,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`electrode-io/electrode`](https://github.com/electrode-io/electrode)
 - [`electron/electron-api-demos`](https://github.com/electron/electron-api-demos)
 - [`electron/fiddle`](https://github.com/electron/fiddle)
-- [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
 - [`enquirer/enquirer`](https://github.com/enquirer/enquirer)
 - [`ethereum/web3.js`](https://github.com/ethereum/web3.js)
 - [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
@@ -491,7 +499,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`getgauge/taiko`](https://github.com/getgauge/taiko)
 - [`github/hotkey`](https://github.com/github/hotkey)
 - [`gnab/remark`](https://github.com/gnab/remark)
-- [`goldbergyoni/nodebestpractices`](https://github.com/goldbergyoni/nodebestpractices)
 - [`googleapis/nodejs-translate`](https://github.com/googleapis/nodejs-translate)
 - [`googleapis/nodejs-video-intelligence`](https://github.com/googleapis/nodejs-video-intelligence)
 - [`googleapis/nodejs-vision`](https://github.com/googleapis/nodejs-vision)
@@ -508,7 +515,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`indutny/elliptic`](https://github.com/indutny/elliptic)
 - [`inorganik/countUp.js`](https://github.com/inorganik/countUp.js)
 - [`jakesgordon/javascript-state-machine`](https://github.com/jakesgordon/javascript-state-machine)
-- [`jgthms/bulma`](https://github.com/jgthms/bulma)
 - [`josdejong/mathjs`](https://github.com/josdejong/mathjs)
 - [`js13kGames/resources`](https://github.com/js13kGames/resources)
 - [`juliuste/projections`](https://github.com/juliuste/projections)
@@ -538,7 +544,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`mikeal/r2`](https://github.com/mikeal/r2)
 - [`mixu/markdown-styles`](https://github.com/mixu/markdown-styles)
 - [`mkdocs/mkdocs`](https://github.com/mkdocs/mkdocs)
-- [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
 - [`mljs/savitzky-golay`](https://github.com/mljs/savitzky-golay)
 - [`mobxjs/mobx`](https://github.com/mobxjs/mobx)
 - [`mourner/flatbush`](https://github.com/mourner/flatbush)
@@ -567,24 +572,20 @@ Their long-term goal is to become an open platform for machine learning research
 - [`przemyslawpluta/node-youtube-dl`](https://github.com/przemyslawpluta/node-youtube-dl)
 - [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
 - [`rough-stuff/wired-elements`](https://github.com/rough-stuff/wired-elements)
-- [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
 - [`salsita/node-pg-migrate`](https://github.com/salsita/node-pg-migrate)
 - [`sindresorhus/awesome-electron`](https://github.com/sindresorhus/awesome-electron)
 - [`sindresorhus/cli-spinners`](https://github.com/sindresorhus/cli-spinners)
-- [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
 - [`sindresorhus/fkill-cli`](https://github.com/sindresorhus/fkill-cli)
 - [`sindresorhus/on-change`](https://github.com/sindresorhus/on-change)
 - [`sindresorhus/pageres`](https://github.com/sindresorhus/pageres)
 - [`sindresorhus/Plash`](https://github.com/sindresorhus/Plash)
 - [`sindresorhus/refined-github`](https://github.com/sindresorhus/refined-github)
-- [`spotify/annoy`](https://github.com/spotify/annoy)
 - [`SamVerschueren/listr`](https://github.com/SamVerschueren/listr)
 - [`SBoudrias/Inquirer.js`](https://github.com/SBoudrias/Inquirer.js)
 - [`Schmavery/facebook-chat-api`](https://github.com/Schmavery/facebook-chat-api)
 - [`serialport/node-serialport`](https://github.com/serialport/node-serialport)
 - [`segmentio/nightmare`](https://github.com/segmentio/nightmare)
 - [`shelljs/shelljs`](https://github.com/shelljs/shelljs)
-- [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 - [`space10-community/conversational-form`](https://github.com/space10-community/conversational-form)
 - [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
 - [`spencermountain/spacetime`](https://github.com/spencermountain/spacetime)
@@ -617,6 +618,23 @@ Their long-term goal is to become an open platform for machine learning research
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
+- [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
+- [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
+- [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
+- [`google/mediapipe`](https://github.com/google/mediapipe)
+- [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
+- [`microsoft/playwright`](https://github.com/microsoft/playwright)
+- [`RussCoder/djvujs`](https://github.com/RussCoder/djvujs)
+- [`PrismJS/prism`](https://github.com/PrismJS/prism)
+
+###### Safer JS
+
+- [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
+- [`goldbergyoni/nodebestpractices`](https://github.com/goldbergyoni/nodebestpractices)
+- [`facebook/flow`](https://github.com/facebook/flow)
+- [`microsoft/TypeScript-Node-Starter`](https://github.com/microsoft/TypeScript-Node-Starter)
+- [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
+- [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -627,16 +645,21 @@ Their long-term goal is to become an open platform for machine learning research
 - [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
 - [`justadudewhohacks/opencv4nodejs`](https://github.com/justadudewhohacks/opencv4nodejs)
+- [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
 - [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
 - [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
 - [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
+- [`alibaba/pipcook`](https://github.com/alibaba/pipcook)
+- [`yemount/pose-animator`](https://github.com/yemount/pose-animator)
 
 ##### File formats
+
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
 - [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
 
-##### Medias
+##### Multimedia
+
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
 
@@ -739,6 +762,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wartremover/wartremover`](https://github.com/wartremover/wartremover)
 - [`winitzki/sofp`](https://github.com/winitzki/sofp)
 - [`wvlet/airframe`](https://github.com/wvlet/airframe)
+- [`scalameta/mdoc`](https://github.com/scalameta/mdoc)
 
 ##### Spark and Hadoop
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
@@ -769,8 +793,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 - [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
 - [`addok/addok`](https://github.com/addok/addok)
-- [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
-- [`albumentations-team/albumentations`](https://github.com/albumentations-team/albumentations)
 - [`alegrand/SMPE`](https://github.com/alegrand/SMPE)
 - [`alexjc/neural-enhance`](https://github.com/alexjc/neural-enhance)
 - [`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)
@@ -785,7 +807,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`aws/chalice`](https://github.com/aws/chalice)
 - [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [`BasPH/data-pipelines-with-apache-airflow`](https://github.com/BasPH/data-pipelines-with-apache-airflow)
-- [`benoitc/gunicorn`](https://github.com/benoitc/gunicorn)
 - [`berdario/pew`](https://github.com/berdario/pew)
 - [`biubug6/Face-Detector-1MB-with-landmark`](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 - [`bokeh/bokeh`](https://github.com/bokeh/bokeh)
@@ -809,7 +830,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`dmlc/gluon-cv`](https://github.com/dmlc/gluon-cv)
 - [`dmlc/treelite`](https://github.com/dmlc/treelite)
 - [`dmlc/xgboost`](https://github.com/dmlc/xgboost)
-- [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [`duolingo/halflife-regression`](https://github.com/duolingo/halflife-regression)
 - [`emilwallner/Coloring-greyscale-images`](https://github.com/emilwallner/Coloring-greyscale-images)
 - [`explosion/spaCy`](https://github.com/explosion/spaCy)
@@ -822,7 +842,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`fivethirtyeight/data`](https://github.com/fivethirtyeight/data)
 - [`flairNLP/flair`](https://github.com/flairNLP/flair)
 - [`flotpython/course`](https://github.com/flotpython/course)
-- [`google/python-fire`](https://github.com/google/python-fire)
 - [`GoogleCloudPlatform/ai-platform-samples`](https://github.com/GoogleCloudPlatform/ai-platform-samples)
 - [`GoogleCloudPlatform/data-science-on-gcp`](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 - [`GoogleCloudPlatform/getting-started-python`](https://github.com/GoogleCloudPlatform/getting-started-python)
@@ -837,7 +856,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`irmen/Pyrolite`](https://github.com/irmen/Pyrolite)
 - [`ismir/mir-datasets`](https://github.com/ismir/mir-datasets)
 - [`jakevdp/PythonDataScienceHandbook`](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [`jupyterlab/jupyterlab`](https://github.com/jupyterlab/jupyterlab)
 - [`karpathy/neuraltalk2`](https://github.com/karpathy/neuraltalk2)
 - [`krishnaik06/Kaggle-Competitions`](https://github.com/krishnaik06/Kaggle-Competitions)
 - [`kvfrans/deepcolor`](https://github.com/kvfrans/deepcolor)
@@ -869,25 +887,22 @@ Their long-term goal is to become an open platform for machine learning research
 - [`openfisca/openfisca-france`](https://github.com/openfisca/openfisca-france)
 - [`openfisca/openfisca-paris`](https://github.com/openfisca/openfisca-paris)
 - [`optimizely/hyperloglog`](https://github.com/optimizely/hyperloglog)
-- [`pnxtech/hydra`](https://github.com/pnxtech/hydra)
 - [`postmanlabs/httpbin`](https://github.com/postmanlabs/httpbin)
 - [`PrefectHQ/prefect`](https://github.com/PrefectHQ/prefect)
-- [`PyCQA/bandit`](https://github.com/PyCQA/bandit)
 - [`pypa/pipenv`](https://github.com/pypa/pipenv)
 - [`pytorch/fairseq`](https://github.com/pytorch/fairseq)
 - [`pytorch/serve`](https://github.com/pytorch/serve)
 - [`random-forests/tutorials`](https://github.com/random-forests/tutorials)
 - [`richzhang/colorization`](https://github.com/richzhang/colorization)
-- [`riddhishb/ipython-notebooks`](https://github.com/riddhishb/ipython-notebooks)
 - [`rohitrango/automatic-watermark-detection`](https://github.com/rohitrango/automatic-watermark-detection)
 - [`Rudrabha/Lip2Wav`](https://github.com/Rudrabha/Lip2Wav)
 - [`ryansmcgee/seirsplus`](https://github.com/ryansmcgee/seirsplus)
 - [`saulpw/visidata`](https://github.com/saulpw/visidata)
 - [`sgratzl/slack_cleaner2`](https://github.com/sgratzl/slack_cleaner2)
 - [`simonw/datasette`](https://github.com/simonw/datasette)
+- [`spotify/annoy`](https://github.com/spotify/annoy)
 - [`statsmodels/statsmodels`](https://github.com/statsmodels/statsmodels)
 - [`STIXProject/python-stix`](https://github.com/STIXProject/python-stix)
-- [`streamlit/streamlit`](https://github.com/streamlit/streamlit)
 - [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
 - [`taoufik07/responder`](https://github.com/taoufik07/responder)
 - [`terryum/awesome-deep-learning-papers`](https://github.com/terryum/awesome-deep-learning-papers)
@@ -895,17 +910,37 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ThilinaRajapakse/simpletransformers`](https://github.com/ThilinaRajapakse/simpletransformers)
 - [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
 - [`tzutalin/labelImg`](https://github.com/tzutalin/labelImg)
-- [`uber/ludwig`](https://github.com/uber/ludwig)
 - [`zalandoresearch/fashion-mnist`](https://github.com/zalandoresearch/fashion-mnist)
 - [`yahoo/open_nsfw`](https://github.com/yahoo/open_nsfw)
 - [`wangzheallen/awesome-human-pose-estimation`](https://github.com/wangzheallen/awesome-human-pose-estimation)
 - [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
 - [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
+- [`vijishmadhavan/ArtLine`](https://github.com/vijishmadhavan/ArtLine)
+- [`ray-project/ray`](https://github.com/ray-project/ray)
+
+##### Notebooks
+
+- [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
+- [`jupyterlab/jupyterlab`](https://github.com/jupyterlab/jupyterlab)
+- [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [`riddhishb/ipython-notebooks`](https://github.com/riddhishb/ipython-notebooks)
+- [`streamlit/streamlit`](https://github.com/streamlit/streamlit)
 - [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
 
+##### Safer Python
+
+- [`benoitc/gunicorn`](https://github.com/benoitc/gunicorn)
+- [`google/python-fire`](https://github.com/google/python-fire)
+- [`google/yapf`](https://github.com/google/yapf)
+- [`pnxtech/hydra`](https://github.com/pnxtech/hydra)
+- [`psf/black`](https://github.com/psf/black)
+- [`PyCQA/bandit`](https://github.com/PyCQA/bandit)
+
 ##### Tensorflow
+
 - [`ageron/handson-ml`](https://github.com/ageron/handson-ml)
 - [`ahkarami/Deep-Learning-in-Production`](https://github.com/ahkarami/Deep-Learning-in-Production)
+- [`albumentations-team/albumentations`](https://github.com/albumentations-team/albumentations)
 - [`Amin-Tgz/awesome-tensorflow-2`](https://github.com/Amin-Tgz/awesome-tensorflow-2)
 - [`aymericdamien/TensorFlow-Examples`](https://github.com/aymericdamien/TensorFlow-Examples)
 - [`google-research/bert`](https://github.com/google-research/bert)
@@ -941,7 +976,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tensorflow/tensorflow`](https://github.com/tensorflow/tensorflow)
 - [`tensorflow/tfx`](https://github.com/tensorflow/tfx)
 
-#### Go and other hot languages
+#### Go and native languages
 [back to TOC](#table-of-contents)
 
 - [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
@@ -980,6 +1015,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`valyala/fasthttp`](https://github.com/valyala/fasthttp)
 - [`zenazn/goji`](https://github.com/zenazn/goji)
 - [`Y2Z/monolith`](https://github.com/Y2Z/monolith)
+- [`jf-tech/omniparser`](https://github.com/jf-tech/omniparser)
+- [`keycastr/keycastr`](https://github.com/keycastr/keycastr)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -1035,6 +1072,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`robbie-cao/awesome-slides`](https://github.com/robbie-cao/awesome-slides)
 - [`rossant/awesome-math`](https://github.com/rossant/awesome-math)
 - [`SocialGouv/code-du-travail-numerique`](https://github.com/SocialGouv/code-du-travail-numerique)
+- [`rstudio/tufte`](https://github.com/rstudio/tufte)
 
 #### Museum
 [back to TOC](#table-of-contents)
@@ -1090,44 +1128,19 @@ Their long-term goal is to become an open platform for machine learning research
 #### DevOps
 [back to TOC](#table-of-contents)
 
-- [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
-- [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
-- [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
 - [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [`aws-samples/ecs-refarch-cloudformation`](https://github.com/aws-samples/ecs-refarch-cloudformation)
-- [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
-- [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
 - [`aws/aws-sam-cli`](https://github.com/aws/aws-sam-cli)
-- [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
 - [`awsdocs/aws-doc-sdk-examples`](https://github.com/awsdocs/aws-doc-sdk-examples)
-- [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
 - [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
-- [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
-- [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
 - [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
 - [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
 - [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
-- [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
-- [`dokku/dokku`](https://github.com/dokku/dokku)
 - [`donnemartin/awesome-aws`](https://github.com/donnemartin/awesome-aws)
 - [`GoogleCloudPlatform/gcsfuse`](https://github.com/GoogleCloudPlatform/gcsfuse)
-- [`GoogleCloudPlatform/mlops-on-gcp`](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
-- [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
-- [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
 - [`imgproxy/imgproxy`](https://github.com/imgproxy/imgproxy)
-- [`jorgebastida/awslogs`](https://github.com/jorgebastida/awslogs)
-- [`kubeflow/kubeflow`](https://github.com/kubeflow/kubeflow)
-- [`kelseyhightower/kubernetes-the-hard-way`](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [`libfuse/sshfs`](https://github.com/libfuse/sshfs)
 - [`mattermost/mattermost-server`](https://github.com/mattermost/mattermost-server)
-- [`ml874/Data-Engineering-on-GCP-Cheatsheet`](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet)
-- [`monitoringartist/grafana-aws-cloudwatch-dashboards`](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
-- [`MonsantoCo/cloudformation-template-generator`](https://github.com/MonsantoCo/cloudformation-template-generator)
-- [`machine-learning-apps/actions-ml-cicd`](https://github.com/machine-learning-apps/actions-ml-cicd)
-- [`machine-learning-projects/machine-learning-recipes`](https://github.com/machine-learning-projects/machine-learning-recipes)
-- [`minio/minio`](https://github.com/minio/minio)
-- [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
 - [`nektos/act`](https://github.com/nektos/act)
 - [`nextcloud/nextcloudpi`](https://github.com/nextcloud/nextcloudpi)
 - [`nicolargo/glances`](https://github.com/nicolargo/glances)
@@ -1137,18 +1150,64 @@ Their long-term goal is to become an open platform for machine learning research
 - [`petervanderdoes/gitflow-avh`](https://github.com/petervanderdoes/gitflow-avh)
 - [`rgburke/grv`](https://github.com/rgburke/grv)
 - [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
-- [`serverless/examples`](https://github.com/serverless/examples)
-- [`serverless/plugins`](https://github.com/serverless/plugins)
-- [`serverless/serverless-graphql-blog`](https://github.com/serverless/serverless-graphql-blog)
-- [`serverless/serverless`](https://github.com/serverless/serverless)
 - [`spotify/styx`](https://github.com/spotify/styx)
 - [`SimulatedGREG/nginx-cheatsheet`](https://github.com/SimulatedGREG/nginx-cheatsheet)
 - [`snapcore/snapcraft`](https://github.com/snapcore/snapcraft)
 - [`spinnaker/spinnaker`](https://github.com/spinnaker/spinnaker)
-- [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
 - [`trimstray/test-your-sysadmin-skills`](https://github.com/trimstray/test-your-sysadmin-skills)
-- [`wagoodman/dive`](https://github.com/wagoodman/dive)
 - [`wallabag/wallabag`](https://github.com/wallabag/wallabag)
+- [`swanson/stringer`](https://github.com/swanson/stringer)
+
+##### Monitoring
+
+- [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
+- [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
+- [`monitoringartist/grafana-aws-cloudwatch-dashboards`](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
+- [`jorgebastida/awslogs`](https://github.com/jorgebastida/awslogs)
+
+##### Continuous Integration
+
+- [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
+- [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
+- [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
+- [`aws-samples/ecs-refarch-cloudformation`](https://github.com/aws-samples/ecs-refarch-cloudformation)
+- [`MonsantoCo/cloudformation-template-generator`](https://github.com/MonsantoCo/cloudformation-template-generator)
+- [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
+
+###### Docker and Kubernetes
+
+- [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
+- [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
+- [`dokku/dokku`](https://github.com/dokku/dokku)
+- [`kelseyhightower/kubernetes-the-hard-way`](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
+- [`wagoodman/dive`](https://github.com/wagoodman/dive)
+
+###### Functions
+
+- [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
+- [`GoogleCloudPlatform/functions-framework-ruby`](https://github.com/GoogleCloudPlatform/functions-framework-ruby)
+- [`openfaas/faas`](https://github.com/openfaas/faas)
+- [`serverless/examples`](https://github.com/serverless/examples)
+- [`serverless/plugins`](https://github.com/serverless/plugins)
+- [`serverless/serverless-graphql-blog`](https://github.com/serverless/serverless-graphql-blog)
+- [`serverless/serverless`](https://github.com/serverless/serverless)
+- [`minio/minio`](https://github.com/minio/minio)
+
+##### MLOps
+
+- [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
+- [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
+- [`full-stack-deep-learning/course-gitbook`](https://github.com/full-stack-deep-learning/course-gitbook)
+- [`GoogleCloudPlatform/mlops-on-gcp/`](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/)
+- [`mercari/ml-system-design-pattern`](https://github.com/mercari/ml-system-design-pattern)
+- [`GoogleCloudPlatform/mlops-on-gcp`](https://github.com/GoogleCloudPlatform/mlops-on-gcp)
+- [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
+- [`kubeflow/kubeflow`](https://github.com/kubeflow/kubeflow)
+- [`ml874/Data-Engineering-on-GCP-Cheatsheet`](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet)
+- [`machine-learning-apps/actions-ml-cicd`](https://github.com/machine-learning-apps/actions-ml-cicd)
+- [`machine-learning-projects/machine-learning-recipes`](https://github.com/machine-learning-projects/machine-learning-recipes)
+- [`uber/ludwig`](https://github.com/uber/ludwig)
 
 #### Databases
 [back to TOC](#table-of-contents)
@@ -1178,6 +1237,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`sqlpad/sqlpad`](https://github.com/sqlpad/sqlpad)
 - [`usefathom/fathom`](https://github.com/usefathom/fathom)
 - [`timescale/timescaledb`](https://github.com/timescale/timescaledb)
+- [`facebook/rocksdb`](https://github.com/facebook/rocksdb)
+- [`GoogleCloudPlatform/bigquery-geo-viz`](https://github.com/GoogleCloudPlatform/bigquery-geo-viz)
 
 #### CLI
 [back to TOC](#table-of-contents)
@@ -1252,6 +1313,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`sharkdp/fd`](https://github.com/sharkdp/fd)
 - [`simeji/jid`](https://github.com/simeji/jid)
 - [`sstephenson/bats`](https://github.com/sstephenson/bats)
+- [`stedolan/jq`](https://github.com/stedolan/jq)
 - [`tats/w3m`](https://github.com/tats/w3m)
 - [`tldr-pages/tldr`](https://github.com/tldr-pages/tldr)
 - [`tomnomnom/gron`](https://github.com/tomnomnom/gron)
@@ -1265,7 +1327,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wting/autojump`](https://github.com/wting/autojump)
 - [`wg/wrk`](https://github.com/wg/wrk)
 - [`yudai/gotty`](https://github.com/yudai/gotty)
-- [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
 #### Security
 [back to TOC](#table-of-contents)
@@ -1276,6 +1337,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 - [`traviscross/mtr`](https://github.com/traviscross/mtr)
+- [`clario-tech/s3-inspector`](https://github.com/clario-tech/s3-inspector)
+- [`FishermansEnemy/bucket_finder`](https://github.com/FishermansEnemy/bucket_finder)
+- [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
+- [`OpenCTI-Platform/opencti`](https://github.com/OpenCTI-Platform/opencti)
+- [`sa7mon/S3Scanner`](https://github.com/sa7mon/S3Scanner)
 
 ### Quotes
 [back to TOC](#table-of-contents)
