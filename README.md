@@ -40,7 +40,7 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
 
 Some talks I have done recently, mostly in French: [A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0), [Productivity tips and decluttering](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63), [Deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69)
 
-Subjects I am researching about: [3D Pose applications](https://gist.github.com/mycaule/070965966d39d3ae5cd1b2fb86fe92ff), [Data journalism](https://gist.github.com/mycaule/883f01c67cb6be5112fe25408016517a), technical writing and editing.
+Subjects I am researching about: [3D Pose applications](https://gist.github.com/mycaule/070965966d39d3ae5cd1b2fb86fe92ff), [Data journalism](https://gist.github.com/mycaule/883f01c67cb6be5112fe25408016517a), technical writing and editing. My past [micro-entrepreurial ideas](https://gist.github.com/mycaule/886aa10c08d68e4f85bfa49e5456f92e).
 
 ### Posts and Webapps
 [back to TOC](#table-of-contents)
