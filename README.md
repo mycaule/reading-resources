@@ -449,6 +449,69 @@ Their long-term goal is to become an open platform for machine learning research
 - [`jgthms/bulma`](https://github.com/jgthms/bulma)
 - [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 
+#### Old NPM and GitHub links I used at SNCF
+
+- https://www.npmjs.com/package/david
+- https://www.npmjs.com/package/express-jwt
+- https://www.npmjs.com/package/gulp-apidocjs
+- https://www.npmjs.com/package/gulp-uncss
+- https://www.npmjs.com/package/jscpd
+- https://www.npmjs.com/package/jscs
+- https://www.npmjs.com/package/json-markup
+- https://www.npmjs.com/package/node-windows
+- https://www.npmjs.com/package/nsp
+- https://www.npmjs.com/package/plato
+- https://www.npmjs.com/package/supertest
+- https://www.npmjs.org/package/browserify
+- https://www.npmjs.org/package/checkdns
+- https://www.npmjs.org/package/forever-monitor
+- https://www.npmjs.org/package/ghost
+- https://www.npmjs.org/package/istanbul
+- https://www.npmjs.org/package/node-pushserver
+- https://www.npmjs.org/package/plato
+- https://www.npmjs.org/package/ssml
+- https://www.npmjs.org/package/urban-airship
+- [`airbnb/javascript`](https://github.com/airbnb/javascript)
+- [`andris9/Nodemailer`](https://github.com/andris9/Nodemailer)
+- [`angular-ui/ui-router`](https://github.com/angular-ui/ui-router)
+- [`angular/angular.js`](https://github.com/angular/angular.js)
+- [`babel/babelify`](https://github.com/babel/babelify)
+- [`browserstate/history.js`](https://github.com/browserstate/history.js)
+- [`btford/angular-markdown-directive`](https://github.com/btford/angular-markdown-directive)
+- [`CanalTP/navitia`](https://github.com/CanalTP/navitia)
+- [`cpbotha/nvpy`](https://github.com/cpbotha/nvpy)
+- [`cucumber/cucumber-js`](https://github.com/cucumber/cucumber-js)
+- [`dmajda/pegjs`](https://github.com/dmajda/pegjs)
+- [`firebase/firechat`](https://github.com/firebase/firechat)
+- [`getify/You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS)
+- [`gulpjs`](https://github.com/gulpjs)
+- [`igorbarinov/awesome-data-engineering`](https://github.com/igorbarinov/awesome-data-engineering)
+- [`jgthms/juketube`](https://github.com/jgthms/juketube)
+- [`jshint/jshint`](https://github.com/jshint/jshint)
+- [`krakenjs/lusca`](https://github.com/krakenjs/lusca)
+- [`kriskowal/q`](https://github.com/kriskowal/q)
+- [`ligurio/free-software-testing-books`](https://github.com/ligurio/free-software-testing-books)
+- [`likeastore/ngDialog`](https://github.com/likeastore/ngDialog)
+- [`mattinsler/longjohn`](https://github.com/mattinsler/longjohn)
+- [`mgechev/angularjs-in-patterns`](https://github.com/mgechev/angularjs-in-patterns)
+- [`mmcgrana/services-engineering`](https://github.com/mmcgrana/services-engineering)
+- [`mochajs/mocha/wiki`](https://github.com/mochajs/mocha/wiki)
+- [`opfl/google-speech-full-duplex`](https://github.com/opfl/google-speech-full-duplex)
+- [`Q42/TrelloScrum`](https://github.com/Q42/TrelloScrum)
+- [`rogerpadilla/angular2-minimalist-starter`](https://github.com/rogerpadilla/angular2-minimalist-starter)
+- [`samu/angular-table`](https://github.com/samu/angular-table)
+- [`seanhaufler/banned-bluebook`](https://github.com/seanhaufler/banned-bluebook)
+- [`senchalabs/connect`](https://github.com/senchalabs/connect)
+- [`shift-js/shift-js`](https://github.com/shift-js/shift-js)
+- [`shipitjs/shipit`](https://github.com/shipitjs/shipit)
+- [`showcases/data-visualization`](https://github.com/showcases/data-visualization)
+- [`showcases/open-journalism`](https://github.com/showcases/open-journalism)
+- [`sindresorhus/awesome`](https://github.com/sindresorhus/awesome)
+- [`substance/data`](https://github.com/substance/data)
+- [`thoughtbot/design-sprint`](https://github.com/thoughtbot/design-sprint)
+- [`urish/angular-moment`](https://github.com/urish/angular-moment)
+- [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
+
 #### JavaScript
 [back to TOC](#table-of-contents)
 
