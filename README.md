@@ -265,6 +265,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
 - Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), [Dave Child on Regular expressions](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), [Design patterns](http://www.webdeveloperjuice.com/demos/cheatsheets/design_pattern_cheatsheet_v1.pdf), [Allen Holub on UML](https://holub.com/uml/). I could also print them in one single piece of paper, which was handy.
+- Travelling with train in Europe : [Railteam search engine](http://www.railteam.fr/).
 
 #### 2010
 
@@ -383,6 +384,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- http://www.alternatives-economiques.fr/
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
 - https://medium.com/javascript-scene
