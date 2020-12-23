@@ -385,6 +385,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://zenhabits.net
 - http://www.alternatives-economiques.fr/
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
