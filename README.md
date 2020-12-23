@@ -1080,7 +1080,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`astralapp/astral`](https://github.com/astralapp/astral)
-- [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
 - [`chronoxor/FastBinaryEncoding`](https://github.com/chronoxor/FastBinaryEncoding)
 - [`cran/ElemStatLearn`](https://github.com/cran/ElemStatLearn)
 - [`dotnet/aspnetcore`](https://github.com/dotnet/aspnetcore)
@@ -1134,12 +1133,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
 - [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
-- [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
 - [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
 - [`donnemartin/awesome-aws`](https://github.com/donnemartin/awesome-aws)
-- [`GoogleCloudPlatform/gcsfuse`](https://github.com/GoogleCloudPlatform/gcsfuse)
 - [`imgproxy/imgproxy`](https://github.com/imgproxy/imgproxy)
-- [`libfuse/sshfs`](https://github.com/libfuse/sshfs)
 - [`mattermost/mattermost-server`](https://github.com/mattermost/mattermost-server)
 - [`nektos/act`](https://github.com/nektos/act)
 - [`nextcloud/nextcloudpi`](https://github.com/nextcloud/nextcloudpi)
@@ -1149,7 +1145,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`pcottle/learnGitBranching`](https://github.com/pcottle/learnGitBranching)
 - [`petervanderdoes/gitflow-avh`](https://github.com/petervanderdoes/gitflow-avh)
 - [`rgburke/grv`](https://github.com/rgburke/grv)
-- [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
 - [`spotify/styx`](https://github.com/spotify/styx)
 - [`SimulatedGREG/nginx-cheatsheet`](https://github.com/SimulatedGREG/nginx-cheatsheet)
 - [`snapcore/snapcraft`](https://github.com/snapcore/snapcraft)
@@ -1171,8 +1166,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
 - [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
 - [`aws-samples/ecs-refarch-cloudformation`](https://github.com/aws-samples/ecs-refarch-cloudformation)
+- [`cloudtools/troposphere`](https://github.com/cloudtools/troposphere)
 - [`MonsantoCo/cloudformation-template-generator`](https://github.com/MonsantoCo/cloudformation-template-generator)
 - [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
+- [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
 
 ###### Docker and Kubernetes
 
@@ -1182,6 +1179,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`kelseyhightower/kubernetes-the-hard-way`](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [`spotty-cloud/spotty`](https://github.com/spotty-cloud/spotty)
 - [`wagoodman/dive`](https://github.com/wagoodman/dive)
+
+###### Site Reliability
+
+- [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
 
 ###### Functions
 
@@ -1267,7 +1268,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`dbohdan/structured-text-tools`](https://github.com/dbohdan/structured-text-tools)
 - [`dflemstr/rq`](https://github.com/dflemstr/rq)
 - [`ericchiang/pup`](https://github.com/ericchiang/pup)
-- [`EverythingMe/ncdu-s3`](https://github.com/EverythingMe/ncdu-s3)
 - [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
 - [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
 - [`github/semantic`](https://github.com/github/semantic)
@@ -1304,8 +1304,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`philc/vimium`](https://github.com/philc/vimium)
 - [`pimutils/khal`](https://github.com/pimutils/khal)
 - [`pstadler/ticker.sh`](https://github.com/pstadler/ticker.sh)
-- [`ranger/ranger`](https://github.com/ranger/ranger)
-- [`rofl0r/ncdu`](https://github.com/rofl0r/ncdu)
 - [`santinic/how2`](https://github.com/santinic/how2)
 - [`sapegin/shipit`](https://github.com/sapegin/shipit)
 - [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
@@ -1327,6 +1325,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wting/autojump`](https://github.com/wting/autojump)
 - [`wg/wrk`](https://github.com/wg/wrk)
 - [`yudai/gotty`](https://github.com/yudai/gotty)
+
+##### Filesytem
+
+- [`ranger/ranger`](https://github.com/ranger/ranger)
+- [`rofl0r/ncdu`](https://github.com/rofl0r/ncdu)
+- [`EverythingMe/ncdu-s3`](https://github.com/EverythingMe/ncdu-s3)
+- [`GoogleCloudPlatform/gcsfuse`](https://github.com/GoogleCloudPlatform/gcsfuse)
+- [`libfuse/sshfs`](https://github.com/libfuse/sshfs)
 
 #### Security
 [back to TOC](#table-of-contents)
