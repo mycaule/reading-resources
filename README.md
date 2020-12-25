@@ -240,6 +240,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheels [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html)
 - [Secure share](https://securesha.re/) interesting 0-server file-sharing website
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
+- [enable cross-origin resource sharing](https://enable-cors.org/)
 
 #### 2013
 [back to TOC](#table-of-contents)
@@ -383,6 +384,8 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://99u.com
+- https://betterexplained.com
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
 - https://medium.com/javascript-scene
