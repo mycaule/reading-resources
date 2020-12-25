@@ -221,6 +221,10 @@ Their long-term goal is to become an open platform for machine learning research
 - Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
 
+##### January
+
+- [The Twelve-Factor App](https://12factor.net/)
+
 #### 2014
 [back to TOC](#table-of-contents)
 
@@ -245,9 +249,12 @@ Their long-term goal is to become an open platform for machine learning research
 #### 2013
 [back to TOC](#table-of-contents)
 
+##### December
+
 - Two articles on the difficulty on being a software engineer, at that time I didn't really want to choose a software career path. [Patrick McKenzie - Don't Call Yourself A Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), [Jeff Atwood - So You Don't Want to be a Programmer After All](http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html).
 - Some Delphi links for the museum, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
+- Blake Masters notes on Peter Thiel course [Zero to One](https://blakemasters.com/peter-thiels-cs183-startup)
 
 #### 2012
 [back to TOC](#table-of-contents)
@@ -387,6 +394,8 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://blog.simplyhired.com
+- http://www.paulgraham.com
 - https://michaelfeathers.typepad.com
 - https://99u.com
 - https://betterexplained.com
