@@ -256,7 +256,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 ##### April
 
-- Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book
+- Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book. Julie Zhuo (Facebook) post [was also a must see](https://medium.com/the-year-of-the-looking-glass/the-future-of-design-in-technology-fe1697e5826).
 
 #### 2012
 [back to TOC](#table-of-contents)
