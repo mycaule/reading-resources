@@ -248,6 +248,10 @@ Their long-term goal is to become an open platform for machine learning research
 - Some Delphi links for the museum, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 
+##### February
+
+- [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks.
+
 #### 2012
 [back to TOC](#table-of-contents)
 
