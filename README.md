@@ -262,6 +262,10 @@ Their long-term goal is to become an open platform for machine learning research
 ###### September
 - Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
 
+###### June
+
+- On Richard Stallman, [lifestyle](https://framablog.org/2013/06/03/stallman-style-de-vie/), [reasons not to use Google](https://stallman.org/google.html)
+
 #### 2012
 [back to TOC](#table-of-contents)
 
