@@ -221,6 +221,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Twitter Bootstrap](http://getbootstrap.com/)
 - Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
+- David Graeber [post on "bullshit jobs"](https://www.strikemag.org/bullshit-jobs/)
 
 #### 2014
 [back to TOC](#table-of-contents)
@@ -384,6 +385,8 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://www.stitcher.com/podcast/the-tim-ferriss-show
+- https://paulocoelhoblog.com
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
 - https://medium.com/javascript-scene
