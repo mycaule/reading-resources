@@ -403,6 +403,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://techcrunch.com/
 - https://www.theverge.com
 - https://www.forbes.com/sites/dailymuse/
 - https://lifehacker.com/
