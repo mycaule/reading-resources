@@ -17,4 +17,4 @@ jobs:
 
       - name: Looking for duplicates
         run: |
-          grep ^(.*)(\n\1)+$ README.md
+          grep "^(.*)(\n\1)+$" README.md
