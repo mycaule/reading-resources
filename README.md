@@ -7,7 +7,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - To keep track of helpful resources I have referred to during my career
 - To help my fellow young colleagues learn quickly
 
-Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com)
+Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com), [Leo Babauta](https://leobabauta.com)
 
 ------------------------------
 
