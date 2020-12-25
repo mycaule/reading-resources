@@ -381,7 +381,7 @@ Their long-term goal is to become an open platform for machine learning research
 - http://www.techinasia.com/
 - http://transid.blogspot.com/
 - http://transports.blog.lemonde.fr/
-- http://uninvitedredesigns.com
+- http://uninvitedredesigns.com/
 
 #### General News
 [back to TOC](#table-of-contents)
@@ -413,7 +413,6 @@ Their long-term goal is to become an open platform for machine learning research
 - http://civilfrance.typepad.com/blog/
 - http://dwf.blogs.com/beyond_the_paper/
 - http://ellipsis-autodesk.typepad.com/blog/
-- http://images.math.cnrs.fr/
 - http://martinfowler.com/
 - http://perspectives.3ds.com
 - http://through-the-interface.typepad.com/through_the_interface/
@@ -434,7 +433,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [Algolia Engineering](https://blog.algolia.com/)
 - [Yelp Engineering](https://engineeringblog.yelp.com/)
 - [Joel Spolsky](https://www.joelonsoftware.com/)
-- [Atlassian](http://confluence.seloger.com/atlassianblog.wpengine.com/)
 - [Li Haoyi](http://www.lihaoyi.com/)
 - [IntelliJ Scala Plugin](https://blog.jetbrains.com/scala/)
 - [Henri Verdier](http://www.henriverdier.com/)
@@ -637,7 +635,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
-- [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
 - [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
 - [`google/mediapipe`](https://github.com/google/mediapipe)
 - [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
