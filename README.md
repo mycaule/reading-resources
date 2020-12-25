@@ -210,6 +210,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [Vincent Driessen - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Peter Cottle - Learn git branching](https://learngitbranching.js.org)
 
+##### March
+
+- [Scala Exercises](https://www.scala-exercises.org/) is a good website to learn Scala interactively.
+
 ##### January
 
 - [Jonathan Boyer - Comprendre Git](https://www.grafikart.fr/formations/git)
