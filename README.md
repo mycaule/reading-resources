@@ -254,6 +254,10 @@ Their long-term goal is to become an open platform for machine learning research
 - Some Delphi links for the museum, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 
+##### April
+
+- Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book
+
 #### 2012
 [back to TOC](#table-of-contents)
 
@@ -389,6 +393,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://99u.com
 - https://www.stitcher.com/podcast/the-tim-ferriss-show
 - https://paulocoelhoblog.com
 - http://bimandbeam.typepad.com/bim_beam/
