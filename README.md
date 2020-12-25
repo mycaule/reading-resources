@@ -597,8 +597,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`JustServerless/awesome-serverless`](https://github.com/JustServerless/awesome-serverless)
 - [`jwaterfaucett/awesome-foss-apps`](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [`kakoni/awesome-healthcare`](https://github.com/kakoni/awesome-healthcare)
-- [`kasvith/kache`](https://github.com/kasvith/kache)
-- [`KaTeX/KaTeX`](https://github.com/KaTeX/KaTeX)
 - [`keleshev/schema`](https://github.com/keleshev/schema)
 - [`kensho/ng-describe`](https://github.com/kensho/ng-describe)
 - [`Kickball/awesome-selfhosted`](https://github.com/Kickball/awesome-selfhosted)
