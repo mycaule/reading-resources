@@ -203,6 +203,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 ##### December 
 - [Kevin van Zonneveld - Bash best practices](https://kvz.io/bash-best-practices.html)
+- Paulo Coelho [advices for entrepreneurs](https://paulocoelhoblog.com/2016/11/30/10-success-lessons-from-paulo-coelho-the-alchemist-for-entrepreneurs/)
 
 ##### June
 
