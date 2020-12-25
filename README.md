@@ -414,6 +414,7 @@ Their long-term goal is to become an open platform for machine learning research
 - http://www.nouvellefabrique.fr/blog
 - http://all-about-airbnb.com/
 - http://joegebbia.com/blog
+- https://zenhabits.net/
 - [Airbnb News](https://blog.atairbnb.com/)
 - [Airbnb Engineering](https://medium.com/airbnb-engineering)
 - [Meilleurs Agents News](https://www.meilleursagents.com/actualite-immobilier/)
