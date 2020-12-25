@@ -256,10 +256,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 - Blake Masters notes on Peter Thiel course [Zero to One](https://blakemasters.com/peter-thiels-cs183-startup)
 
+###### September
+- Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
+
 #### 2012
 [back to TOC](#table-of-contents)
 
-- Martin Fowler - Refactoring
 - Andrew Hunt - The Pragmatic Programmer
 - Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers), [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 - [Gérard Degoutte - Aide mémoire de mécanique des sols](http://graduateschool.agroparistech.fr/site.php?id=44&fileid=88)
