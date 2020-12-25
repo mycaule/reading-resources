@@ -437,6 +437,10 @@ Their long-term goal is to become an open platform for machine learning research
 ### Online courses
 [back to TOC](#table-of-contents)
 
+- [Pixar in a box](https://www.khanacademy.org/computing/pixar)
+- [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [The science of well being](https://www.coursera.org/learn/the-science-of-well-being)
+
 ### Repos, toolbox for work-related problems
 [back to TOC](#table-of-contents)
 
