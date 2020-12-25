@@ -256,6 +256,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 - Blake Masters notes on Peter Thiel course [Zero to One](https://blakemasters.com/peter-thiels-cs183-startup)
 
+###### October
+- [C++ FAQ](https://isocpp.org/faq)
+
 ###### September
 - Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
 
