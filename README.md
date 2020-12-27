@@ -222,6 +222,7 @@ Their long-term goal is to become an open platform for machine learning research
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
 - [AWS Architecture center](https://aws.amazon.com/architecture/)
 - [Firebase](https://www.firebase.com/docs/)
+- [10 Things Paul Irish learned from the jQuery source](https://vimeo.com/12529436)
 
 ##### January
 
