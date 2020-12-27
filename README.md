@@ -261,7 +261,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers), [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 - [Gérard Degoutte - Aide mémoire de mécanique des sols](http://graduateschool.agroparistech.fr/site.php?id=44&fileid=88)
 - Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
-- Two HBR articles annoucing the trend of Big Data that made me change careers [Big Data revolution](https://hbr.org/2012/10/big-data-the-management-revolution), [The sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)
+- Two HBR articles annoucing the trend of Big Data that made me change careers [Big Data revolution](https://hbr.org/2012/10/big-data-the-management-revolution), [The sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), [The Economist - The data deluge](https://www.economist.com/node/15579717)
 
 #### 2011
 [back to TOC](#table-of-contents)
