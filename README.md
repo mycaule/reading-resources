@@ -966,6 +966,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`microsoft/TypeScript-Node-Starter`](https://github.com/microsoft/TypeScript-Node-Starter)
 - [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
 - [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
+- [`immutable-js/immutable-js`](https://github.com/immutable-js/immutable-js)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
