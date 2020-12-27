@@ -401,6 +401,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://milessabin.com/blog/
 - https://hackernoon.com/
 - https://99u.com
 - https://www.stitcher.com/podcast/the-tim-ferriss-show
