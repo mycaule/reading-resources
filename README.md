@@ -221,6 +221,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
 - [AWS Architecture center](https://aws.amazon.com/architecture/)
+- [Firebase](https://www.firebase.com/docs/)
 
 ##### January
 
