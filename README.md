@@ -457,6 +457,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Webops Weekly](https://webopsweekly.com/)
 - [Scala Times](https://scalatimes.com)
+- [Golang Weekly](https://golangweekly.com/)
 
 ### Online courses
 [back to TOC](#table-of-contents)
