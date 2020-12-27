@@ -397,6 +397,7 @@ Their long-term goal is to become an open platform for machine learning research
 - https://hackernoon.com/
 - https://99u.com
 - https://www.stitcher.com/podcast/the-tim-ferriss-show
+- https://www.fourhourworkweek.com/blog/
 - https://paulocoelhoblog.com
 - http://bimandbeam.typepad.com/bim_beam/
 - https://medium.com/@maximebeauchemin
