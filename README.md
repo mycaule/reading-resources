@@ -503,8 +503,8 @@ Their long-term goal is to become an open platform for machine learning research
 ##### Entrepreneurship
 
 - https://www.fastcompany.com
-- http://www.paulgraham.com
-- https://www.fourhourworkweek.com/blog/
+- https://www.paulgraham.com
+- https://tim.blog/
 - https://techcrunch.com/
 
 ##### Research
