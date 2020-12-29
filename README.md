@@ -247,7 +247,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Some online dictionary for STEM: [Dico BTP](http://www.editions-eyrolles.com/Dico-BTP), [Grand dictionnaire terminologique](http://www.granddictionnaire.com/)
 - [Wolfram Alpha](http://www.wolframalpha.com/) was the most impressive website for me as I was from a STEM background and it was one of the first computation intensive cloud experience
 - [RATP](http://www.ratp.fr/itineraires/fr/ratp/quartier/plan) had lightweight maps for Paris. Very cool if you didn't want to use Google Maps or Mappy.
-- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheels [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html)
+- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheels [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html) and JavaScript, [How jQuery works](https://learn.jquery.com/about-jquery/how-jquery-works/)
 - [Secure share](https://securesha.re/) interesting 0-server file-sharing website
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
 - [enable cross-origin resource sharing](https://enable-cors.org/)
