@@ -419,13 +419,8 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
-- https://webdesign.tutsplus.com/
 - https://calnewport.com/blog/
-- https://www.fastcompany.com
 - https://alistapart.com/
-- http://smai.emath.fr/
-- https://www.roadef.org/
-- https://www.audeladeslignes.com/
 - https://www.smashingmagazine.com/articles/
 - https://www.brainpickings.org/
 - https://www.ted.com/talks/
@@ -434,37 +429,53 @@ Their long-term goal is to become an open platform for machine learning research
 - https://www.forbes.com/sites/dailymuse/
 - https://lifehacker.com/
 - https://blog.simplyhired.com
-- http://www.paulgraham.com
 - https://michaelfeathers.typepad.com
 - https://99u.com
 - https://betterexplained.com
-- https://zenhabits.net
-- http://www.alternatives-economiques.fr/
-- http://bimandbeam.typepad.com/bim_beam/
-- https://medium.com/@maximebeauchemin
-- https://medium.com/javascript-scene
+
+##### Entrepreneurship
+- https://www.fastcompany.com
+- http://www.paulgraham.com
+
+##### Research labs
+- http://images.math.cnrs.fr/
+- https://www.ibm.com/blogs/research/
+- http://smai.emath.fr/
+- https://www.roadef.org/
+
+##### Civil engineering
+
+- http://civilfrance.typepad.com/blog/
+- http://dwf.blogs.com/beyond_the_paper/
+- http://ellipsis-autodesk.typepad.com/blog/
+- http://perspectives.3ds.com
+- http://through-the-interface.typepad.com/through_the_interface/
+- http://structurebim.typepad.com/blog/
 - http://blog.bouygues-construction.com
 - http://blogs.solidworks.com/solidworksblog
-- http://cpptruths.blogspot.com/
-- http://love-python.blogspot.com/
+- https://www.audeladeslignes.com/
+- http://bimandbeam.typepad.com/bim_beam/
+
+##### Software engineering
+- http://www.codinghorror.com/blog/
+- http://www.industrie.com/it/
+- http://www.nouvellefabrique.fr/blog
+- [Algolia Engineering](https://blog.algolia.com/)
+- [Yelp Engineering](https://engineeringblog.yelp.com/)
+- [Joel Spolsky](https://www.joelonsoftware.com/)
+- http://martinfowler.com/
 - https://developers.facebook.com/blog/
 - https://eng.uber.com
 - https://engineeringblog.yelp.com
 - https://githubengineering.com
 - https://blog.google
-- https://www.ibm.com/blogs/research/
-- https://www.joelonsoftware.com/
-- http://civilfrance.typepad.com/blog/
-- http://dwf.blogs.com/beyond_the_paper/
-- http://ellipsis-autodesk.typepad.com/blog/
-- http://images.math.cnrs.fr/
-- http://martinfowler.com/
-- http://perspectives.3ds.com
-- http://through-the-interface.typepad.com/through_the_interface/
-- http://structurebim.typepad.com/blog/
-- http://www.codinghorror.com/blog/
-- http://www.industrie.com/it/
-- http://www.nouvellefabrique.fr/blog
+
+##### Programming languages
+- http://cpptruths.blogspot.com/
+- http://love-python.blogspot.com/
+- https://medium.com/javascript-scene
+
+##### PropTech
 - http://all-about-airbnb.com/
 - http://joegebbia.com/blog
 - [Airbnb News](https://blog.atairbnb.com/)
@@ -474,14 +485,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [Zillow Porchlight](https://www.zillow.com/blog/)
 - [Zillow Research](https://www.zillow.com/research/)
 - [Immobilier Danger](https://www.immobilier-danger.com/)
-- [Algolia Engineering](https://blog.algolia.com/)
-- [Yelp Engineering](https://engineeringblog.yelp.com/)
-- [Joel Spolsky](https://www.joelonsoftware.com/)
-- [Atlassian](http://confluence.seloger.com/atlassianblog.wpengine.com/)
+
+##### Data engineering
+- [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
 - [Li Haoyi](http://www.lihaoyi.com/)
 - [IntelliJ Scala Plugin](https://blog.jetbrains.com/scala/)
-- [Henri Verdier](http://www.henriverdier.com/)
-- [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
+
+##### Web design
+- https://thenextweb.com/
+- https://webdesign.tutsplus.com/
 
 ##### Newsletters
 [back to TOC](#table-of-contents)
