@@ -227,6 +227,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Made How, How products are made](http://www.madehow.com)
 - How Microsoft's [How Old robot](https://how-old.net/themagic) works
 - [Achemine](https://brunobernard.com/work/achemine/), SNCF font in train stations
+- According to CNRS, [Maths are doping the French economy](https://lejournal.cnrs.fr/articles/les-maths-dopent-leconomie-francaise)
 
 ##### January
 
@@ -418,6 +419,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://calnewport.com/blog/
 - https://www.fastcompany.com
 - https://alistapart.com/
 - http://smai.emath.fr/
