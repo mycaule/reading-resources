@@ -35,6 +35,8 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
   - [Security](#security)
 - [Quotes](#quotes)
 
+------------------------------
+
 ### About Me
 
 [About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](resume.2021.pdf).
