@@ -415,6 +415,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://alistapart.com/
 - http://smai.emath.fr/
 - https://www.roadef.org/
 - https://www.audeladeslignes.com/
