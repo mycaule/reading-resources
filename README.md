@@ -7,7 +7,7 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - To keep track of helpful resources I have referred to during my career
 - To help my fellow young colleagues learn quickly
 
-Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com)
+Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com), [Leo Babauta](https://leobabauta.com)
 
 ------------------------------
 
@@ -221,6 +221,17 @@ Their long-term goal is to become an open platform for machine learning research
 - Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
 - [AWS Architecture center](https://aws.amazon.com/architecture/)
+- [Firebase](https://www.firebase.com/docs/)
+- [10 Things Paul Irish learned from the jQuery source](https://vimeo.com/12529436)
+- [PowerShell and Bash compared](http://xahlee.info/powershell/PowerShell_for_unixer.html), [UNIX for DOS users](http://www.yolinux.com/TUTORIALS/unix_for_dos_users.html)
+- [Made How, How products are made](http://www.madehow.com)
+- How Microsoft's [How Old robot](https://how-old.net/themagic) works
+- [Achemine](https://brunobernard.com/work/achemine/), SNCF font in train stations
+- According to CNRS, [Maths are doping the French economy](https://lejournal.cnrs.fr/articles/les-maths-dopent-leconomie-francaise)
+
+##### January
+
+- [The Twelve-Factor App](https://12factor.net/)
 
 #### 2014
 [back to TOC](#table-of-contents)
@@ -238,25 +249,85 @@ Their long-term goal is to become an open platform for machine learning research
 - Some online dictionary for STEM: [Dico BTP](http://www.editions-eyrolles.com/Dico-BTP), [Grand dictionnaire terminologique](http://www.granddictionnaire.com/)
 - [Wolfram Alpha](http://www.wolframalpha.com/) was the most impressive website for me as I was from a STEM background and it was one of the first computation intensive cloud experience
 - [RATP](http://www.ratp.fr/itineraires/fr/ratp/quartier/plan) had lightweight maps for Paris. Very cool if you didn't want to use Google Maps or Mappy.
-- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheels [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html)
+- [W3Schools](http://www.w3schools.com/) gave me the basics of modern web layout, I was also interested in colorwheels [1](http://www.sessions.edu/color-calculator), [2](http://www.colorschemer.com/online.html) and JavaScript, [How jQuery works](https://learn.jquery.com/about-jquery/how-jquery-works/)
 - [Secure share](https://securesha.re/) interesting 0-server file-sharing website
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
+- [enable cross-origin resource sharing](https://enable-cors.org/)
+- [Inside DuckDuckGo](https://www.fastcompany.com/3026698/inside-duckduckgo-googles-tiniest-fiercest-competitor)
 
 #### 2013
 [back to TOC](#table-of-contents)
 
+##### December
+
 - Two articles on the difficulty on being a software engineer, at that time I didn't really want to choose a software career path. [Patrick McKenzie - Don't Call Yourself A Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), [Jeff Atwood - So You Don't Want to be a Programmer After All](http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html).
 - Some Delphi links for the museum, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
+- Blake Masters notes on Peter Thiel course [Zero to One](https://blakemasters.com/peter-thiels-cs183-startup)
+
+###### October
+- [C++ FAQ](https://isocpp.org/faq), [Bjarne Stroustrup](https://www.stroustrup.com) FAQs
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)
+
+###### September
+- Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
+
+###### June
+
+- On Richard Stallman, [lifestyle](https://framablog.org/2013/06/03/stallman-style-de-vie/), [reasons not to use Google](https://stallman.org/google.html)
 
 ##### February
 
 - [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks.
 
+#### SORT-ME 2010 - 2015
+
+- https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, 1425291426, How we built the new BBC Homepage
+- https://poetsandquants.com/2013/07/24/10-unpredictable-questions-harvard-asks/, 1374841799, 10 Unpredictable Questions HBS Asks
+- https://online.wsj.com/article/SB10000872396390443537404577579033271214626.html, 1346240357, How to Be a Better Procrastinator
+- https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/, 1397733636, Amazon and Google are in an epic battle to dominate the cloud
+- https://www.kaikkonendesign.fi/typography/, 1363453594, Interactive Guide to Blog Typography
+- https://bradfrost.github.com/this-is-responsive/patterns.html, 1362326917
+- https://www.sessions.edu/color-calculator, 1370328386, Color Wheel
+- https://www.synthesiagame.com/, 1441017098, Synthesia, Piano for Everyone
+- https://www.theperfectpalette.com/, 1370342365, The Perfect Palette
+- https://www.imagemagick.org/Usage/, 1364216408, ImageMagick v6 Examples
+- https://www.freepascal.org/, 1368433302, Free Pascal - Advanced open source Pascal compiler for Pascal
+- https://university.mongodb.com/, 1399966314, MongoDB University
+- https://cookbook.mongodb.org/index.html, 1411113549, The MongoDB Cookbook
+- https://cordova.apache.org/, 1416324964, Apache Cordova
+- https://livereload.com/, 1433166612, LiveReload
+- https://datatables.net/, 1407916289, Restore state of selected rows
+- https://socket.io/, 1412452264, Socket.IO — Docs
+- https://heliumhq.com/, 1453299136, Web Testing and Automation
+- https://www.invisionapp.com/, 1441016660, In Vision
+- https://marvelapp.com/, 1441101173, Marvel App
+- https://www.cop21.gouv.fr/, 1430138222, COP21 - Conférence des Nations unies sur les changements climatiques
+- https://37signals.com/svn/posts/2666-the-story-of-polaroid-inventor-edwin-land-one-of-steve-jobs-biggest-heroes, 1386687789, The story of Polaroid inventor Edwin Land
+- https://aurelienb.pagesperso-orange.fr/HTML/transports/obli_UIC.htm, 1403972277, SECTION TRANSPORTS FRANCILIENS
+- https://play.elevatorsaga.com/, 1422959391, Elevator Saga
+- https://webcomponents.org/, 1418979397, WebComponents.org
+- https://tails.boum.org/, 1456902924, Tails - Confidentialité et anonymat, pour tous et partout
+- https://www.balsamiq.com/products/mockups, 1361520643, Balsamiq Mockups | Balsamiq
+- https://dribbble.com/, 1368783717, Dribbble
+- https://floating-point-gui.de/errors/comparison/, 1405428046, The Floating-Point Guide - Comparison
+- https://gitolite.com/gcs/index.html, 1382516944, git concepts simplified
+- https://navitia.io/, 1452181365, navitia.io
+- https://projecteuler.net/, 1382361642, Project Euler
+- https://sikuli.org/, 1332407580, Project SIKULI
+- https://www.billboard.com/articles/columns/pop-shop/6605833/2015-10-best-music-videos-taylor-swift-maroon-5-sia, 1436475843, The 10 Best Music Videos of 2015
+- https://www.boston.com/bigpicture/, 1325493226, The Big Picture - Boston.com
+- https://www.bpmn.org/, 1415964583, BPMN Specification
+- https://www.browsersync.io/, 1430204677, BrowserSync
+- https://www.developpez.net/forums/d1332555/debats-developpement-best-of/freins-externalisation-du-developpement-logiciel/, 1369982863, Les freins de l'externalisation du développement logiciel
+- https://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html, 1439671953, What's the Go language really good for
+- https://www.justinaguilar.com/animations/, 1378765122, Justin Aguilar
+- https://www.nngroup.com/articles/which-ux-research-methods/, 1365749005, When to Use Which User Experience Research Methods
+
+
 #### 2012
 [back to TOC](#table-of-contents)
 
-- Martin Fowler - Refactoring
 - Andrew Hunt - The Pragmatic Programmer
 - Other book recommendations from professionals: [Jeff Atwood](https://blog.codinghorror.com/recommended-reading-for-developers), [George Stocker](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list), [Scott Hanselman](https://www.hanselman.com/blog/six-essential-language-agnostic-programming-books)
 - [Gérard Degoutte - Aide mémoire de mécanique des sols](http://graduateschool.agroparistech.fr/site.php?id=44&fileid=88)
@@ -266,11 +337,14 @@ Their long-term goal is to become an open platform for machine learning research
 #### 2011
 [back to TOC](#table-of-contents)
 
+##### September
+
 - Steve McConnell - Code complete
 - Herb Sutter - Exceptional C++
 - [Hamish Whittal - Shell scripting](http://www.learnlinux.org.za/courses/build/shell-scripting/shell-scripting.pdf)
 - [Eric Pement - Useful one-line scripts for sed](http://sed.sourceforge.net/sed1line.txt)
 - Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), [Dave Child on Regular expressions](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), [Design patterns](http://www.webdeveloperjuice.com/demos/cheatsheets/design_pattern_cheatsheet_v1.pdf), [Allen Holub on UML](https://holub.com/uml/). I could also print them in one single piece of paper, which was handy.
+- [Microsoft online documentation](https://msdn.microsoft.com/en-us/library/) for learning about Windows subjects such as MFC, DLL, COM, XML etc. [Excel documentation](https://support.microsoft.com/en-us/excel) was also helpful for quick prototyping.
 - Travelling with train in Europe : [Railteam search engine](http://www.railteam.fr/).
 
 #### 2010
@@ -390,33 +464,64 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
-- https://zenhabits.net
-- http://www.alternatives-economiques.fr/
-- http://bimandbeam.typepad.com/bim_beam/
-- https://medium.com/@maximebeauchemin
-- https://medium.com/javascript-scene
+- https://threatpost.com
+- https://calnewport.com/blog/
+- https://alistapart.com/
+- https://www.smashingmagazine.com/articles/
+- https://www.brainpickings.org/
+- https://www.ted.com/talks/
+- https://techcrunch.com/
+- https://www.theverge.com
+- https://www.forbes.com/sites/dailymuse/
+- https://lifehacker.com/
+- https://blog.simplyhired.com
+- https://michaelfeathers.typepad.com
+- https://99u.com
+- https://betterexplained.com
+
+##### Entrepreneurship
+- https://www.fastcompany.com
+- http://www.paulgraham.com
+
+##### Research labs
+- http://images.math.cnrs.fr/
+- https://www.ibm.com/blogs/research/
+- http://smai.emath.fr/
+- https://www.roadef.org/
+
+##### Civil engineering
+
+- http://civilfrance.typepad.com/blog/
+- http://dwf.blogs.com/beyond_the_paper/
+- http://ellipsis-autodesk.typepad.com/blog/
+- http://perspectives.3ds.com
+- http://through-the-interface.typepad.com/through_the_interface/
+- http://structurebim.typepad.com/blog/
 - http://blog.bouygues-construction.com
 - http://blogs.solidworks.com/solidworksblog
-- http://cpptruths.blogspot.com/
-- http://love-python.blogspot.com/
+- https://www.audeladeslignes.com/
+- http://bimandbeam.typepad.com/bim_beam/
+
+##### Software engineering
+- http://www.codinghorror.com/blog/
+- http://www.industrie.com/it/
+- http://www.nouvellefabrique.fr/blog
+- [Algolia Engineering](https://blog.algolia.com/)
+- [Yelp Engineering](https://engineeringblog.yelp.com/)
+- [Joel Spolsky](https://www.joelonsoftware.com/)
+- http://martinfowler.com/
 - https://developers.facebook.com/blog/
 - https://eng.uber.com
 - https://engineeringblog.yelp.com
 - https://githubengineering.com
 - https://blog.google
-- https://www.ibm.com/blogs/research/
-- https://www.joelonsoftware.com/
-- http://civilfrance.typepad.com/blog/
-- http://dwf.blogs.com/beyond_the_paper/
-- http://ellipsis-autodesk.typepad.com/blog/
-- http://images.math.cnrs.fr/
-- http://martinfowler.com/
-- http://perspectives.3ds.com
-- http://through-the-interface.typepad.com/through_the_interface/
-- http://structurebim.typepad.com/blog/
-- http://www.codinghorror.com/blog/
-- http://www.industrie.com/it/
-- http://www.nouvellefabrique.fr/blog
+
+##### Programming languages
+- http://cpptruths.blogspot.com/
+- http://love-python.blogspot.com/
+- https://medium.com/javascript-scene
+
+##### PropTech
 - http://all-about-airbnb.com/
 - http://joegebbia.com/blog
 - [Airbnb News](https://blog.atairbnb.com/)
@@ -426,14 +531,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [Zillow Porchlight](https://www.zillow.com/blog/)
 - [Zillow Research](https://www.zillow.com/research/)
 - [Immobilier Danger](https://www.immobilier-danger.com/)
-- [Algolia Engineering](https://blog.algolia.com/)
-- [Yelp Engineering](https://engineeringblog.yelp.com/)
-- [Joel Spolsky](https://www.joelonsoftware.com/)
-- [Atlassian](http://confluence.seloger.com/atlassianblog.wpengine.com/)
+
+##### Data engineering
+- [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
 - [Li Haoyi](http://www.lihaoyi.com/)
 - [IntelliJ Scala Plugin](https://blog.jetbrains.com/scala/)
-- [Henri Verdier](http://www.henriverdier.com/)
-- [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
+
+##### Web design
+- https://thenextweb.com/
+- https://webdesign.tutsplus.com/
 
 ##### Newsletters
 [back to TOC](#table-of-contents)
