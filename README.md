@@ -223,6 +223,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [AWS Architecture center](https://aws.amazon.com/architecture/)
 - [Firebase](https://www.firebase.com/docs/)
 - [10 Things Paul Irish learned from the jQuery source](https://vimeo.com/12529436)
+- [PowerShell and Bash compared](http://xahlee.info/powershell/PowerShell_for_unixer.html), [UNIX for DOS users](http://www.yolinux.com/TUTORIALS/unix_for_dos_users.html)
+- [Made How, How products are made](http://www.madehow.com)
 
 ##### January
 
@@ -260,7 +262,8 @@ Their long-term goal is to become an open platform for machine learning research
 - Blake Masters notes on Peter Thiel course [Zero to One](https://blakemasters.com/peter-thiels-cs183-startup)
 
 ###### October
-- [C++ FAQ](https://isocpp.org/faq)
+- [C++ FAQ](https://isocpp.org/faq), [Bjarne Stroustrup](https://www.stroustrup.com) FAQs
+- [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)
 
 ###### September
 - Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
