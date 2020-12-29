@@ -252,6 +252,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Secure share](https://securesha.re/) interesting 0-server file-sharing website
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
 - [enable cross-origin resource sharing](https://enable-cors.org/)
+- [Inside DuckDuckGo](https://www.fastcompany.com/3026698/inside-duckduckgo-googles-tiniest-fiercest-competitor)
 
 #### 2013
 [back to TOC](#table-of-contents)
@@ -417,6 +418,7 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://www.fastcompany.com
 - https://alistapart.com/
 - http://smai.emath.fr/
 - https://www.roadef.org/
