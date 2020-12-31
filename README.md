@@ -200,6 +200,85 @@ Their long-term goal is to become an open platform for machine learning research
 - [Franz](https://meetfranz.com/)
 - [Postman](https://www.getpostman.com/)
 
+
+#### SORT-ME
+
+- https://students.brown.edu/seeing-theory/, 1489506001
+- https://addyosmani.com/, 1515411727
+- https://apiary.io/, 1466527945
+- https://datajournalismhandbook.net/, 1556267576
+- https://datarunsdeep.com.au/blog/cool-things-you-can-do-using-window-functions-bigquery
+- https://dilbert.com/, 1422055620
+- https://ec.haxx.se/cmdline/cmdline-options, 1586613010
+- https://flywaydb.org/, 1479899469
+- https://goaccess.io/, 1535403666
+- https://hellohappy.org/beautiful-web-type/, 1361310352
+- https://nerds.airbnb.com/tech-talks/, 1387394971
+- https://informationisbeautiful.net/, 1575477795
+- https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes, 1538384020
+- https://www.concept2.com/files/pdf/us/training/Training_Guide.pdf, 1455485706
+- https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie, 1605364802
+- https://longuevieauxobjets.gouv.fr/, 1607788874
+- https://learnpythonthehardway.org/book/, 1376248036
+- https://learnvimscriptthehardway.stevelosh.com/, 1391873875
+- https://london2cape.com/adventure-travel/the-hardest-part-of-travelling/, 1467724567
+- https://aosabook.org/en/index.html, 1508154432
+- https://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel, 1558787254
+- https://idf.direccte.gouv.fr/sites/idf.direccte.gouv.fr/IMG/pdf/une_aide_au_questionnement_rps_v2a_2_.pdf
+- https://math.stackexchange.com/questions/1308054/oberwolfach-problem-30-people-at-dinner-on-3-tables-of-10-seats-each
+- https://math.stackexchange.com/questions/947442/what-makes-a-theorem-fundamental/947466, 1474566482
+- https://movement.uber.com/, 1578163952
+- https://nerds.airbnb.com/, 1467039612
+- https://parquet.apache.org/presentations/, 1527541600
+- https://passwordless.net/, 1416071470
+- https://programmers.stackexchange.com/questions/134118/why-are-shortcuts-like-x-y-considered-good-practice, 1432316401
+- https://programmers.stackexchange.com/questions/74913/what-stressors-do-programmers-encounter-on-the-job-and-how-do-you-deal-with-the, 1468256841
+- https://qz.com/527652/parents-let-your-kids-fail-youll-be-doing-them-a-favor/, 1483014479
+- https://qz.com/698943/whatever-you-do-dont-quit-your-job-to-pursue-your-passion/, 1465889092
+- https://qz.com/704723/to-be-more-self-reliant-children-need-boring-summers/, 1466141379
+- https://superuser.com/questions/315202/terminal-in-os-x-lion-cant-write-%C3%A5%C3%A4%C3%B6-on-remote-machine
+- https://taskwarrior.org/, 1507910361
+- https://tasvideos.org/Movies-SNES.html, 1347052443
+- https://tuhin.co/great-designers.html, 1388483567
+- https://welcometocanalsaintmartin.tumblr.com/, 1440885881
+- https://weslash.co/, 1457000675
+- https://wvlet.org/airframe/, 1547656006
+- https://www.blackboard.com/teaching-learning/collaboration-web-conferencing/blackboard-collaborate
+- https://www.colorlisa.com/, 1608420054
+- https://zeke.sikelianos.com/css-from-the-future/, 1462975063
+- https://twitter.github.io/effectivescala/, 1464545819
+- https://databricks.gitbooks.io/databricks-spark-knowledge-base/, 1527162067
+- https://heather.miller.am/blog/launching-a-spark-cluster-part-2.html, 1537132861
+- https://scalac.io/scala-spark-ml-machine-learning-introduction/, 1563904336
+- https://www.coursera.org/learn/scala-spark-big-data, 1492589408
+- https://guides.gradle.org/building-scala-libraries/, 1547572006
+- https://kottke.org/18/06/dancing-in-movies, 1533279207
+- https://kottke.org/18/06/the-14-habits-of-highly-miserable-people, 1533279190
+- https://kottke.org/18/06/the-beauty-of-constraints-in-engineering, 1533279020
+- https://kottke.org/18/06/the-blind-skateboarder, 1533279197
+- https://kottke.org/18/07/film-and-furniture-a-site-about-the-decor-in-movies, 1533279034
+- https://kottke.org/18/07/what-made-darth-vader-such-a-visually-iconic-character, 1533279189
+- https://kottke.org/18/11/how-fascism-works, 1543866920
+- https://kottke.org/18/11/watch-it-live-nasas-insight-probe-lands-on-mars-today, 1545998184
+- https://kottke.org/18/12/computer-simulations-of-black-hole-mergers-observed-by-ligo, 1545145267
+- https://kottke.org/18/12/hear-the-first-sounds-ever-recorded-on-mars, 1545303645
+- https://kottke.org/18/12/how-to-spot-a-fake-jackson-pollock-painting, 1545143850
+- https://kottke.org/18/12/optician-sans, 1545142967
+- https://kottke.org/18/12/the-last-chess-shop-in-nyc, 1545144461
+- https://kottke.org/19/03/everything-is-just-a-happening, 1554763047
+- https://kottke.org/19/03/hiking-interactions, 1554763050
+- https://kottke.org/19/03/monica-lewinsky-on-public-shaming, 1554738366
+- https://kottke.org/19/04/alex-honnold-breaks-down-iconic-rock-climbing-scenes, 1554289928
+- https://kottke.org/19/04/how-does-venice-work, 1556988454
+- https://kottke.org/19/05/grace-hopper-explains-a-nanosecond, 1556968784
+- https://kottke.org/19/05/tactical-driving-looks-fun-but-dont-try-this-at-home, 1557647560
+- https://kottke.org/19/07/how-the-shawshank-redemption-humanized-prisoners, 1562069610
+- https://kottke.org/19/07/sir-duke-deconstructed-stevie-wonders-ode-to-jazz, 1562767657
+- https://kottke.org/19/07/sonys-proto-walkman-that-went-to-the-moon, 1564346728
+- https://kottke.org/20/06/alicia-keys-tiny-desk-concert, 1593250114
+- https://kottke.org/20/10/is-the-mcdonalds-ice-cream-machine-broken, 1603702465
+- https://kottke.org/20/11/how-are-you-doing, 1607414297
+
 #### 2016
 [back to TOC](#table-of-contents)
 
