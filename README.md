@@ -35,6 +35,8 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
   - [Security](#security)
 - [Quotes](#quotes)
 
+------------------------------
+
 ### About Me
 
 [About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](resume.2021.pdf).
@@ -203,11 +205,16 @@ Their long-term goal is to become an open platform for machine learning research
 
 ##### December 
 - [Kevin van Zonneveld - Bash best practices](https://kvz.io/bash-best-practices.html)
+- Paulo Coelho [advices for entrepreneurs](https://paulocoelhoblog.com/2016/11/30/10-success-lessons-from-paulo-coelho-the-alchemist-for-entrepreneurs/)
 
 ##### June
 
 - [Vincent Driessen - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Peter Cottle - Learn git branching](https://learngitbranching.js.org)
+
+##### March
+
+- [Scala Exercises](https://www.scala-exercises.org/) is a good website to learn Scala interactively.
 
 ##### January
 
@@ -220,6 +227,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Twitter Bootstrap](http://getbootstrap.com/)
 - Drawing diagrams with [ASCII Flow](http://asciiflow.com/) and [Web Sequence Diagrams](https://www.websequencediagrams.com/)
 - French blog post with all [the passenger information designs](http://sncfunepassionquisepartage.weebly.com/reacuteseau-sncf.html), very cool
+- David Graeber [post on "bullshit jobs"](https://www.strikemag.org/bullshit-jobs/)
 - [AWS Architecture center](https://aws.amazon.com/architecture/)
 - [Firebase](https://www.firebase.com/docs/)
 - [10 Things Paul Irish learned from the jQuery source](https://vimeo.com/12529436)
@@ -275,6 +283,11 @@ Their long-term goal is to become an open platform for machine learning research
 ###### June
 
 - On Richard Stallman, [lifestyle](https://framablog.org/2013/06/03/stallman-style-de-vie/), [reasons not to use Google](https://stallman.org/google.html)
+
+##### April
+
+- Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book. Julie Zhuo (Facebook) post [was also a must see](https://medium.com/the-year-of-the-looking-glass/the-future-of-design-in-technology-fe1697e5826).
+- [Hack Design](https://hackdesign.org/) also follows the newsletter format
 
 ##### February
 
@@ -418,41 +431,53 @@ Their long-term goal is to become an open platform for machine learning research
 #### Following
 [back to TOC](#table-of-contents)
 
-- [Scott Hanselman](https://www.hanselman.com/blog/)
-- [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
-- [Uber Engineering](https://eng.uber.com/)
-- [Duolingo](http://making.duolingo.com/)
-- [GitHub Engineering](https://githubengineering.com/)
-- [Google Web Team](https://developers.google.com/web/updates/)
-- [Datadog](https://www.datadoghq.com/blog/)
+##### Entrepreuneurship
+
 - [Andreessen Horowitz](https://a16z.com/)
-- [Yann Le Tilly](https://transid.blogspot.com/)
 - [Rude Baguette](http://www.rudebaguette.com/)
 - [Usine Digitale](https://www.usine-digitale.fr/)
-- https://erikbern.com/
+- http://www.techinasia.com/
+- http://www.kottke.org/
 - https://www.lemondeinformatique.fr/
+
+##### Research
+
 - http://images.math.cnrs.fr/
 - https://interstices.info
-- http://www.kottke.org/
-- https://developers.google.com/web/
-- https://www.etalab.gouv.fr
-- https://blog.datawrapper.de
-- http://blog.google
-- http://a16z.com/
-- http://eng.uber.com/
-- http://www.rudebaguette.com/
-- https://aws.amazon.com/blogs/big-data/
-- https://code.fb.com/
-- https://githubengineering.com/
-- https://engineering.linkedin.com/
-- https://medium.com/@Pinterest_Engineering
-- https://scalac.io/
-- http://cloudblog.withgoogle.com/products/data-analytics
-- https://engineering.atspotify.com/
-- http://www.techinasia.com/
+
+##### Civil Engineering
+
 - http://transid.blogspot.com/
 - http://transports.blog.lemonde.fr/
-- http://uninvitedredesigns.com
+- [Yann Le Tilly](https://transid.blogspot.com/)
+
+##### Software engineering
+
+- [Scott Hanselman](https://www.hanselman.com/blog/)
+- [Uber Engineering](https://eng.uber.com/)
+- https://engineering.atspotify.com/
+- https://code.fb.com/
+- [GitHub Engineering](https://githubengineering.com/)
+- https://engineering.linkedin.com/
+- https://medium.com/@Pinterest_Engineering
+- https://blog.google
+- https://www.etalab.gouv.fr
+- https://blog.datawrapper.de
+- https://erikbern.com/
+
+##### Data engineering
+
+- [Duolingo](http://making.duolingo.com/)
+- https://scalac.io/
+- http://cloudblog.withgoogle.com/products/data-analytics
+- [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
+- [Datadog](https://www.datadoghq.com/blog/)
+
+##### Web design
+
+- http://uninvitedredesigns.com/
+- [Google Web Team](https://developers.google.com/web/updates/)
+- https://developers.google.com/web/
 
 #### General News
 [back to TOC](#table-of-contents)
@@ -464,27 +489,28 @@ Their long-term goal is to become an open platform for machine learning research
 #### Archive
 [back to TOC](#table-of-contents)
 
+- https://hackernoon.com/
 - https://threatpost.com
 - https://calnewport.com/blog/
 - https://alistapart.com/
 - https://www.smashingmagazine.com/articles/
 - https://www.brainpickings.org/
 - https://www.ted.com/talks/
-- https://techcrunch.com/
 - https://www.theverge.com
 - https://www.forbes.com/sites/dailymuse/
 - https://lifehacker.com/
 - https://blog.simplyhired.com
-- https://michaelfeathers.typepad.com
-- https://99u.com
 - https://betterexplained.com
 
 ##### Entrepreneurship
-- https://www.fastcompany.com
-- http://www.paulgraham.com
 
-##### Research labs
-- http://images.math.cnrs.fr/
+- https://www.fastcompany.com
+- https://www.paulgraham.com
+- https://tim.blog/
+- https://techcrunch.com/
+
+##### Research
+
 - https://www.ibm.com/blogs/research/
 - http://smai.emath.fr/
 - https://www.roadef.org/
@@ -498,11 +524,13 @@ Their long-term goal is to become an open platform for machine learning research
 - http://through-the-interface.typepad.com/through_the_interface/
 - http://structurebim.typepad.com/blog/
 - http://blog.bouygues-construction.com
-- http://blogs.solidworks.com/solidworksblog
+- https://blogs.autodesk.com/bim-and-beam/
+- https://blogs.solidworks.com/solidworksblog
 - https://www.audeladeslignes.com/
-- http://bimandbeam.typepad.com/bim_beam/
+- https://www.mobilettre.com/
 
 ##### Software engineering
+
 - http://www.codinghorror.com/blog/
 - http://www.industrie.com/it/
 - http://www.nouvellefabrique.fr/blog
@@ -511,19 +539,21 @@ Their long-term goal is to become an open platform for machine learning research
 - [Joel Spolsky](https://www.joelonsoftware.com/)
 - http://martinfowler.com/
 - https://developers.facebook.com/blog/
-- https://eng.uber.com
 - https://engineeringblog.yelp.com
-- https://githubengineering.com
-- https://blog.google
+- https://michaelfeathers.typepad.com
 
 ##### Programming languages
+
 - http://cpptruths.blogspot.com/
 - http://love-python.blogspot.com/
 - https://medium.com/javascript-scene
+- https://milessabin.com/blog/
 
 ##### PropTech
+
 - http://all-about-airbnb.com/
 - http://joegebbia.com/blog
+- https://zenhabits.net/
 - [Airbnb News](https://blog.atairbnb.com/)
 - [Airbnb Engineering](https://medium.com/airbnb-engineering)
 - [Meilleurs Agents News](https://www.meilleursagents.com/actualite-immobilier/)
@@ -533,11 +563,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [Immobilier Danger](https://www.immobilier-danger.com/)
 
 ##### Data engineering
+
 - [Maxime Beauchemin](https://medium.com/@maximebeauchemin)
 - [Li Haoyi](http://www.lihaoyi.com/)
 - [IntelliJ Scala Plugin](https://blog.jetbrains.com/scala/)
+- https://towardsdatascience.com/
 
 ##### Web design
+
+- https://99u.com
 - https://thenextweb.com/
 - https://webdesign.tutsplus.com/
 
@@ -548,6 +582,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Webops Weekly](https://webopsweekly.com/)
 - [Scala Times](https://scalatimes.com)
+- [Golang Weekly](https://golangweekly.com/)
 
 ### Online courses
 [back to TOC](#table-of-contents)
@@ -568,7 +603,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`jgthms/bulma`](https://github.com/jgthms/bulma)
 - [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 
-#### Old NPM and GitHub links I used at SNCF
+#### SORT-ME - Old JS Links
 
 - https://www.npmjs.com/package/david
 - https://www.npmjs.com/package/express-jwt
@@ -613,7 +648,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`actions-on-google/apiai-facts-about-google-nodejs`](https://github.com/actions-on-google/apiai-facts-about-google-nodejs)
 - [`actions-on-google/apiai-number-genie-nodejs`](https://github.com/actions-on-google/apiai-number-genie-nodejs)
 - [`actions/example-services`](https://github.com/actions/example-services)
-- [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
 - [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`agershun/alasql`](https://github.com/agershun/alasql)
 - [`airbnb/javascript`](https://github.com/airbnb/javascript)
@@ -629,16 +663,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [`arslanbilal/git-cheat-sheet`](https://github.com/arslanbilal/git-cheat-sheet)
 - [`arturovm/min`](https://github.com/arturovm/min)
 - [`asrivas/work-less-do-more`](https://github.com/asrivas/work-less-do-more)
-- [`astralapp/astral`](https://github.com/astralapp/astral)
 - [`austingebauer/go-leetcode`](https://github.com/austingebauer/go-leetcode)
 - [`Automattic/expect.js`](https://github.com/Automattic/expect.js)
 - [`aws-samples/amazon-ecs-java-microservices`](https://github.com/aws-samples/amazon-ecs-java-microservices)
 - [`aws-samples/aws-containers-task-definitions`](https://github.com/aws-samples/aws-containers-task-definitions)
-- [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
 - [`aws-samples/reactive-refarch-cloudformation`](https://github.com/aws-samples/reactive-refarch-cloudformation)
 - [`awslabs/ecs-nginx-reverse-proxy`](https://github.com/awslabs/ecs-nginx-reverse-proxy)
 - [`babel/babelify`](https://github.com/babel/babelify)
-- [`BafS/Java8-CheatSheet`](https://github.com/BafS/Java8-CheatSheet)
 - [`blog/1135-the-making-of-octicons`](https://github.com/blog/1135-the-making-of-octicons)
 - [`blog/530-how-we-made-github-fast`](https://github.com/blog/530-how-we-made-github-fast)
 - [`bndr/node-read`](https://github.com/bndr/node-read)
@@ -647,8 +678,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`brandonbloom/jseg`](https://github.com/brandonbloom/jseg)
 - [`browserstate/history.js`](https://github.com/browserstate/history.js)
 - [`btford/angular-markdown-directive`](https://github.com/btford/angular-markdown-directive)
-- [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
-- [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [`CanalTP/navitia`](https://github.com/CanalTP/navitia)
 - [`caolan/async`](https://github.com/caolan/async)
 - [`cchantep/acolyte`](https://github.com/cchantep/acolyte)
@@ -658,7 +687,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`cjb/GitTorrent`](https://github.com/cjb/GitTorrent)
 - [`cloudinary/cloudinary_angular`](https://github.com/cloudinary/cloudinary_angular)
 - [`cmpolis/Pagify`](https://github.com/cmpolis/Pagify)
-- [`connorferster/handcalcs`](https://github.com/connorferster/handcalcs)
 - [`cpbotha/nvpy`](https://github.com/cpbotha/nvpy)
 - [`creationix/js-git`](https://github.com/creationix/js-git)
 - [`crockpotveggies/tinderbox`](https://github.com/crockpotveggies/tinderbox)
@@ -669,23 +697,17 @@ Their long-term goal is to become an open platform for machine learning research
 - [`databricks/spark-sklearn`](https://github.com/databricks/spark-sklearn)
 - [`derikon/awesome-human-motion`](https://github.com/derikon/awesome-human-motion)
 - [`derimagia/awesome-alfred-workflows`](https://github.com/derimagia/awesome-alfred-workflows)
-- [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
 - [`DimitarPetrov/stegify`](https://github.com/DimitarPetrov/stegify)
 - [`dispatch/reboot`](https://github.com/dispatch/reboot)
 - [`dmajda/pegjs`](https://github.com/dmajda/pegjs)
 - [`dominictarr/excel-stream`](https://github.com/dominictarr/excel-stream)
-- [`dominictarr/JSONStream`](https://github.com/dominictarr/JSONStream)
 - [`dominictarr/split`](https://github.com/dominictarr/split)
 - [`doug-martin/nools`](https://github.com/doug-martin/nools)
-- [`dreamingechoes/awesome-mental-health`](https://github.com/dreamingechoes/awesome-mental-health)
 - [`dtrebbien/gedit-trim-trailing-whitespace-before-saving-plugin`](https://github.com/dtrebbien/gedit-trim-trailing-whitespace-before-saving-plugin)
-- [`dylanrees/citizen-science`](https://github.com/dylanrees/citizen-science)
 - [`elastic/elasticsearch`](https://github.com/elastic/elasticsearch)
-- [`ericchiang/pup`](https://github.com/ericchiang/pup)
 - [`eschaefer/PageRank-Checking-Script`](https://github.com/eschaefer/PageRank-Checking-Script)
 - [`eush77/object-pairs`](https://github.com/eush77/object-pairs)
 - [`facebookincubator/dhcplb`](https://github.com/facebookincubator/dhcplb)
-- [`facebookresearch/fastText`](https://github.com/facebookresearch/fastText)
 - [`fcambus/nginx-resources`](https://github.com/fcambus/nginx-resources)
 - [`firebase/angularfire`](https://github.com/firebase/angularfire)
 - [`firebase/examples`](https://github.com/firebase/examples)
@@ -702,24 +724,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`git-tips/tips`](https://github.com/git-tips/tips)
 - [`gjtorikian/isBinaryFile`](https://github.com/gjtorikian/isBinaryFile)
 - [`go-resty/resty`](https://github.com/go-resty/resty)
-- [`google-research/bert`](https://github.com/google-research/bert)
-- [`google/python-fire`](https://github.com/google/python-fire)
-- [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
-- [`GoogleCloudPlatform/dataflow-opinion-analysis`](https://github.com/GoogleCloudPlatform/dataflow-opinion-analysis)
 - [`GoogleCloudPlatform/functions-framework-nodejs`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
-- [`GoogleCloudPlatform/tensorflow-without-a-phd`](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)
-- [`GoogleCloudPlatform/training-data-analyst`](https://github.com/GoogleCloudPlatform/training-data-analyst)
 - [`graysky2/xscreensaver-aerial/`](https://github.com/graysky2/xscreensaver-aerial/)
 - [`gulpjs`](https://github.com/gulpjs)
 - [`guptarohit/asciigraph`](https://github.com/guptarohit/asciigraph)
-- [`hackerkid/Mind-Expanding-Books`](https://github.com/hackerkid/Mind-Expanding-Books)
 - [`hapijs/joi`](https://github.com/hapijs/joi)
-- [`hortonworks-gallery/zeppelin-notebooks`](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 - [`huggingface/transformers#Quick-tour-TF-20-training-and-PyTorch-interoperability`](https://github.com/huggingface/transformers#Quick-tour-TF-20-training-and-PyTorch-interoperability)
 - [`humanwhocodes/computer-science-in-javascript`](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [`ibaaj/awesome-OpenSourcePhotography`](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [`igorbarinov/awesome-data-engineering`](https://github.com/igorbarinov/awesome-data-engineering)
-- [`indutny/elliptic`](https://github.com/indutny/elliptic)
 - [`InseeFr/Meleze`](https://github.com/InseeFr/Meleze)
 - [`jgthms/juketube`](https://github.com/jgthms/juketube)
 - [`jonathandion/awesome-emails`](https://github.com/jonathandion/awesome-emails)
@@ -743,8 +756,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`krakenjs/lusca`](https://github.com/krakenjs/lusca)
 - [`kripken/emscripten`](https://github.com/kripken/emscripten)
 - [`kriskowal/q`](https://github.com/kriskowal/q)
-- [`kymatio/kymatio`](https://github.com/kymatio/kymatio)
-- [`LappleApple/awesome-leading-and-managing`](https://github.com/LappleApple/awesome-leading-and-managing)
 - [`lauris/awesome-scala`](https://github.com/lauris/awesome-scala)
 - [`leonardomso/33-js-concepts`](https://github.com/leonardomso/33-js-concepts)
 - [`ligurio/free-software-testing-books`](https://github.com/ligurio/free-software-testing-books)
@@ -753,7 +764,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`logicalparadox/matcha`](https://github.com/logicalparadox/matcha)
 - [`lukeed/sockette`](https://github.com/lukeed/sockette)
 - [`madrobby/keymaster`](https://github.com/madrobby/keymaster)
-- [`mafintosh/csv-parser`](https://github.com/mafintosh/csv-parser)
 - [`mafintosh/peercast`](https://github.com/mafintosh/peercast)
 - [`mafintosh/peerflix`](https://github.com/mafintosh/peerflix)
 - [`mapbox/ecs-watchbot`](https://github.com/mapbox/ecs-watchbot)
@@ -772,9 +782,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`MfgLabs/warner-challenges-backend`](https://github.com/MfgLabs/warner-challenges-backend)
 - [`MfgLabs/wb.fr`](https://github.com/MfgLabs/wb.fr)
 - [`mgechev/angularjs-in-patterns`](https://github.com/mgechev/angularjs-in-patterns)
-- [`mhinz/vim-galore`](https://github.com/mhinz/vim-galore)
 - [`micromata/awesome-javascript-learning`](https://github.com/micromata/awesome-javascript-learning)
-- [`mikeal/r2`](https://github.com/mikeal/r2)
 - [`milessabin/shapeless`](https://github.com/milessabin/shapeless)
 - [`minimaxir/big-list-of-naughty-strings`](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [`mmcgrana/services-engineering`](https://github.com/mmcgrana/services-engineering)
@@ -782,10 +790,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`montanaflynn/stats`](https://github.com/montanaflynn/stats)
 - [`motdotla/node-lambda`](https://github.com/motdotla/node-lambda)
 - [`mvdan/sh`](https://github.com/mvdan/sh)
-- [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
-- [`nektos/act`](https://github.com/nektos/act)
 - [`neoziro/push-notify`](https://github.com/neoziro/push-notify)
-- [`neutraltone/awesome-stock-resources`](https://github.com/neutraltone/awesome-stock-resources)
 - [`nicolasdao/google-graphql-functions`](https://github.com/nicolasdao/google-graphql-functions)
 - [`noffle/art-of-readme`](https://github.com/noffle/art-of-readme)
 - [`oortcloud/meteorite`](https://github.com/oortcloud/meteorite)
@@ -795,7 +800,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`paldepind/flyd`](https://github.com/paldepind/flyd)
 - [`Pent/generator-meteor`](https://github.com/Pent/generator-meteor)
 - [`pharzan/promiseRunner`](https://github.com/pharzan/promiseRunner)
-- [`PiercingDan/spark-Jupyter-AWS`](https://github.com/PiercingDan/spark-Jupyter-AWS)
 - [`pinojs/pino`](https://github.com/pinojs/pino)
 - [`prismagraphql/prisma`](https://github.com/prismagraphql/prisma)
 - [`prnicolas/ScalaMl`](https://github.com/prnicolas/ScalaMl)
@@ -814,12 +818,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`samu/angular-table`](https://github.com/samu/angular-table)
 - [`sanity-io/litter`](https://github.com/sanity-io/litter)
 - [`schematics/schematics`](https://github.com/schematics/schematics)
-- [`Schmavery/facebook-chat-api`](https://github.com/Schmavery/facebook-chat-api)
 - [`schollz/progressbar`](https://github.com/schollz/progressbar)
 - [`sdras/awesome-actions`](https://github.com/sdras/awesome-actions)
 - [`seanhaufler/banned-bluebook`](https://github.com/seanhaufler/banned-bluebook)
 - [`senchalabs/connect`](https://github.com/senchalabs/connect)
-- [`serverless/serverless`](https://github.com/serverless/serverless)
 - [`sfischer13/awesome-ledger`](https://github.com/sfischer13/awesome-ledger)
 - [`sger/ElixirBooks`](https://github.com/sger/ElixirBooks)
 - [`shift-js/shift-js`](https://github.com/shift-js/shift-js)
@@ -842,23 +844,17 @@ Their long-term goal is to become an open platform for machine learning research
 - [`smallwins/spacetime`](https://github.com/smallwins/spacetime)
 - [`softwaremill/codebrag`](https://github.com/softwaremill/codebrag)
 - [`softwaremill/recursion-training`](https://github.com/softwaremill/recursion-training)
-- [`softwaremill/retry`](https://github.com/softwaremill/retry)
 - [`softwaremill/sbt-softwaremill`](https://github.com/softwaremill/sbt-softwaremill)
 - [`spikebrehm/isomorphic-tutorial`](https://github.com/spikebrehm/isomorphic-tutorial)
-- [`spring-projects/spring-boot`](https://github.com/spring-projects/spring-boot)
 - [`squaremo/amqp.node`](https://github.com/squaremo/amqp.node)
 - [`sryza/spark-timeseries`](https://github.com/sryza/spark-timeseries)
-- [`stefanbuck/awesome-browser-extensions-for-github`](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 - [`stevemao/awesome-git-addons`](https://github.com/stevemao/awesome-git-addons)
 - [`streamproc/MediaStreamRecorder`](https://github.com/streamproc/MediaStreamRecorder)
 - [`substance/data`](https://github.com/substance/data)
 - [`superscriptjs/superscript`](https://github.com/superscriptjs/superscript)
 - [`surveyjs/surveyjs`](https://github.com/surveyjs/surveyjs)
-- [`swagger-api/swagger-codegen`](https://github.com/swagger-api/swagger-codegen)
 - [`syntaqx/serve`](https://github.com/syntaqx/serve)
-- [`takezoe/picocli-scala-example`](https://github.com/takezoe/picocli-scala-example)
 - [`TalAter/awesome-book-authoring`](https://github.com/TalAter/awesome-book-authoring)
-- [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`thoughtbot/design-sprint`](https://github.com/thoughtbot/design-sprint)
 - [`timisbusy/node-amqp-stats`](https://github.com/timisbusy/node-amqp-stats)
 - [`tjanczuk/iisnode`](https://github.com/tjanczuk/iisnode)
@@ -873,7 +869,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`upper/db`](https://github.com/upper/db)
 - [`urish/angular-moment`](https://github.com/urish/angular-moment)
 - [`variety/variety`](https://github.com/variety/variety)
-- [`vegas-viz/Vegas`](https://github.com/vegas-viz/Vegas)
 - [`vinta/awesome-python`](https://github.com/vinta/awesome-python)
 - [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
 - [`Vizzuality/cartodb-nodejs`](https://github.com/Vizzuality/cartodb-nodejs)
@@ -1056,7 +1051,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
-- [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
 - [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
 - [`google/mediapipe`](https://github.com/google/mediapipe)
 - [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
