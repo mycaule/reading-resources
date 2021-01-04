@@ -55,6 +55,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Update my blog with interesting contents based on what is here and my gists
 - Write a small project in Go language using one of [the libraries below]((#go-and-other-hot-languages))
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
+- Most exciting things of 2020: https://mediapipe.dev, https://idyll-lang.org/
 
 #### 2020
 [back to TOC](#table-of-contents)
