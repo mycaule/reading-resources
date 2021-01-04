@@ -676,7 +676,6 @@ Their long-term goal is to become an open platform for machine learning research
 - https://www.npmjs.com/package/aws-sdk
 - https://www.npmjs.com/package/broadway
 - https://www.npmjs.com/package/couchbase
-- https://www.npmjs.com/package/express-view-cache
 - https://www.npmjs.com/package/fasttext-node
 - https://www.npmjs.com/package/firebase
 - https://www.npmjs.com/package/hexo
@@ -686,12 +685,10 @@ Their long-term goal is to become an open platform for machine learning research
 - https://www.npmjs.com/package/postcss
 - https://www.npmjs.com/package/rewire
 - https://www.npmjs.com/package/slack
-- https://www.npmjs.org/package/mongo-express
 - https://www.npmjs.org/package/nodemon
 - https://www.npmjs.org/package/nvm
 - https://www.npmjs.org/package/stream-adventure
 - [`actions/example-services`](https://github.com/actions/example-services)
-- [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`agershun/alasql`](https://github.com/agershun/alasql)
 - [`alanbsmith/react-router-example`](https://github.com/alanbsmith/react-router-example)
 - [`algolia/atom-autocomplete-module-import`](https://github.com/algolia/atom-autocomplete-module-import)
@@ -882,7 +879,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`timisbusy/node-amqp-stats`](https://github.com/timisbusy/node-amqp-stats)
 - [`tjanczuk/iisnode`](https://github.com/tjanczuk/iisnode)
 - [`tobiasbueschel/awesome-pokemon`](https://github.com/tobiasbueschel/awesome-pokemon)
-- [`TravelingTechGuy/express4-passport-template`](https://github.com/TravelingTechGuy/express4-passport-template)
 - [`tryolabs/fetch-it`](https://github.com/tryolabs/fetch-it)
 - [`twobucks/zapsnap`](https://github.com/twobucks/zapsnap)
 - [`uflare/smtp2http`](https://github.com/uflare/smtp2http)
@@ -911,7 +907,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`ant-design/ant-design`](https://github.com/ant-design/ant-design)
 - [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
 - [`appbaseio/reactivesearch`](https://github.com/appbaseio/reactivesearch)
-- [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
 - [`Baremetrics/calendar`](https://github.com/Baremetrics/calendar)
 - [`caiogondim/fast-memoize.js`](https://github.com/caiogondim/fast-memoize.js)
 - [`bdickason/node-goodreads`](https://github.com/bdickason/node-goodreads)
@@ -997,7 +992,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`mljs/savitzky-golay`](https://github.com/mljs/savitzky-golay)
 - [`mobxjs/mobx`](https://github.com/mobxjs/mobx)
 - [`mourner/flatbush`](https://github.com/mourner/flatbush)
-- [`mrvautin/expressCart`](https://github.com/mrvautin/expressCart)
 - [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
 - [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
 - [`neherlab/covid19_scenarios`](https://github.com/neherlab/covid19_scenarios)
@@ -1017,7 +1011,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`peterbraden/node-opencv`](https://github.com/peterbraden/node-opencv)
 - [`phoboslab/underrun`](https://github.com/phoboslab/underrun)
 - [`picturepan2/spectre`](https://github.com/picturepan2/spectre)
-- [`pilwon/node-google-finance`](https://github.com/pilwon/node-google-finance)
 - [`ProseMirror/prosemirror`](https://github.com/ProseMirror/prosemirror)
 - [`przemyslawpluta/node-youtube-dl`](https://github.com/przemyslawpluta/node-youtube-dl)
 - [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
@@ -1050,34 +1043,45 @@ Their long-term goal is to become an open platform for machine learning research
 - [`tj/node-prune`](https://github.com/tj/node-prune)
 - [`tombaranowicz/AmazonPricesMonitoring`](https://github.com/tombaranowicz/AmazonPricesMonitoring)
 - [`typicode/json-server`](https://github.com/typicode/json-server)
-- [`tupleblog/face-classification-js`](https://github.com/tupleblog/face-classification-js)
-- [`Turfjs/turf`](https://github.com/Turfjs/turf)
 - [`Unitech/pm2`](https://github.com/Unitech/pm2)
-- [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
 - [`trufflesuite/truffle`](https://github.com/trufflesuite/truffle)
 - [`validatorjs/validator.js`](https://github.com/validatorjs/validator.js)
 - [`vega/vega-lite`](https://github.com/vega/vega-lite)
-- [`vercel/micro`](https://github.com/vercel/micro)
 - [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
 - [`xtermjs/xterm.js`](https://github.com/xtermjs/xterm.js)
 - [`Yomguithereal/mnemonist`](https://github.com/Yomguithereal/mnemonist)
-- [`you-dont-need/You-Dont-Need-Momentjs`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
-- [`z-pattern-matching/z`](https://github.com/z-pattern-matching/z)
 - [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
-- [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
-- [`google/mediapipe`](https://github.com/google/mediapipe)
 - [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
 - [`microsoft/playwright`](https://github.com/microsoft/playwright)
-- [`RussCoder/djvujs`](https://github.com/RussCoder/djvujs)
 - [`PrismJS/prism`](https://github.com/PrismJS/prism)
+
+###### Frontend
+
+- [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
+
+###### Backend
+
+- [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
+- [`mongo-express/mongo-express`](https://github.com/mongo-express/mongo-express)
+- [`mrvautin/expressCart`](https://github.com/mrvautin/expressCart)
+- [`pnxtech/hydra`](https://github.com/pnxtech/hydra)
+- [`TravelingTechGuy/express4-passport-template`](https://github.com/TravelingTechGuy/express4-passport-template)
+- [`vercel/micro`](https://github.com/vercel/micro)
+
+###### Data engineering
+
+- [`alibaba/pipcook`](https://github.com/alibaba/pipcook)
+- [`pilwon/node-google-finance`](https://github.com/pilwon/node-google-finance)
+- [`Turfjs/turf`](https://github.com/Turfjs/turf)
 
 ###### Safer JS
 
+- [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`airbnb/javascript`](https://github.com/airbnb/javascript)
 - [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
 - [`facebook/flow`](https://github.com/facebook/flow)
@@ -1087,12 +1091,17 @@ Their long-term goal is to become an open platform for machine learning research
 - [`microsoft/TypeScript-Node-Starter`](https://github.com/microsoft/TypeScript-Node-Starter)
 - [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
 - [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
+- [`you-dont-need/You-Dont-Need-Momentjs`](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- [`z-pattern-matching/z`](https://github.com/z-pattern-matching/z)
 
 ###### Tensorflow.js
+
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
+- [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
+- [`google/mediapipe`](https://github.com/google/mediapipe)
 - [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
 - [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
@@ -1101,14 +1110,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
 - [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
+- [`tupleblog/face-classification-js`](https://github.com/tupleblog/face-classification-js)
 - [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
-- [`alibaba/pipcook`](https://github.com/alibaba/pipcook)
 - [`yemount/pose-animator`](https://github.com/yemount/pose-animator)
 
 ##### File formats
 
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
 - [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
+- [`RussCoder/djvujs`](https://github.com/RussCoder/djvujs)
 
 ##### Multimedia
 
@@ -1286,7 +1296,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`emilwallner/Coloring-greyscale-images`](https://github.com/emilwallner/Coloring-greyscale-images)
 - [`explosion/spaCy`](https://github.com/explosion/spaCy)
 - [`facebook/prophet`](https://github.com/facebook/prophet)
-- [`facebookresearch/hydra`](https://github.com/facebookresearch/hydra)
 - [`facebookresearch/semi-supervised-ImageNet1K-models`](https://github.com/facebookresearch/semi-supervised-ImageNet1K-models)
 - [`facebookresearch/VideoPose3D`](https://github.com/facebookresearch/VideoPose3D)
 - [`fastai/fastai`](https://github.com/fastai/fastai)
@@ -1382,9 +1391,9 @@ Their long-term goal is to become an open platform for machine learning research
 ##### Safer Python
 
 - [`benoitc/gunicorn`](https://github.com/benoitc/gunicorn)
+- [`facebookresearch/hydra`](https://github.com/facebookresearch/hydra)
 - [`google/python-fire`](https://github.com/google/python-fire)
 - [`google/yapf`](https://github.com/google/yapf)
-- [`pnxtech/hydra`](https://github.com/pnxtech/hydra)
 - [`psf/black`](https://github.com/psf/black)
 - [`PyCQA/bandit`](https://github.com/PyCQA/bandit)
 
