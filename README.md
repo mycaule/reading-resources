@@ -75,7 +75,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 ##### October
 
-- [BigQuery book](https://www.goodreads.com/book/show/50204627-google-bigquery)
+- [BigQuery book](https://www.goodreads.com/book/show/50204627-google-bigquery), [cheatsheet for window functions](https://datarunsdeep.com.au/blog/cool-things-you-can-do-using-window-functions-bigquery)
 - [dbt](https://www.getdbt.com) is a cool modern tool to manage datawarehouse pipelines saving nights of headaches
 - a16z [emerging data architectures](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 
@@ -207,44 +207,32 @@ Their long-term goal is to become an open platform for machine learning research
 - https://addyosmani.com/, 1515411727
 - https://apiary.io/, 1466527945
 - https://datajournalismhandbook.net/, 1556267576
-- https://datarunsdeep.com.au/blog/cool-things-you-can-do-using-window-functions-bigquery
 - https://dilbert.com/, 1422055620
 - https://ec.haxx.se/cmdline/cmdline-options, 1586613010
 - https://flywaydb.org/, 1479899469
 - https://goaccess.io/, 1535403666
 - https://hellohappy.org/beautiful-web-type/, 1361310352
-- https://nerds.airbnb.com/tech-talks/, 1387394971
 - https://informationisbeautiful.net/, 1575477795
 - https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes, 1538384020
-- https://www.concept2.com/files/pdf/us/training/Training_Guide.pdf, 1455485706
 - https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie, 1605364802
 - https://longuevieauxobjets.gouv.fr/, 1607788874
 - https://learnpythonthehardway.org/book/, 1376248036
 - https://learnvimscriptthehardway.stevelosh.com/, 1391873875
-- https://london2cape.com/adventure-travel/the-hardest-part-of-travelling/, 1467724567
 - https://aosabook.org/en/index.html, 1508154432
 - https://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel, 1558787254
 - https://idf.direccte.gouv.fr/sites/idf.direccte.gouv.fr/IMG/pdf/une_aide_au_questionnement_rps_v2a_2_.pdf
 - https://math.stackexchange.com/questions/1308054/oberwolfach-problem-30-people-at-dinner-on-3-tables-of-10-seats-each
 - https://math.stackexchange.com/questions/947442/what-makes-a-theorem-fundamental/947466, 1474566482
-- https://movement.uber.com/, 1578163952
-- https://nerds.airbnb.com/, 1467039612
 - https://parquet.apache.org/presentations/, 1527541600
 - https://passwordless.net/, 1416071470
 - https://programmers.stackexchange.com/questions/134118/why-are-shortcuts-like-x-y-considered-good-practice, 1432316401
 - https://programmers.stackexchange.com/questions/74913/what-stressors-do-programmers-encounter-on-the-job-and-how-do-you-deal-with-the, 1468256841
-- https://qz.com/527652/parents-let-your-kids-fail-youll-be-doing-them-a-favor/, 1483014479
 - https://qz.com/698943/whatever-you-do-dont-quit-your-job-to-pursue-your-passion/, 1465889092
-- https://qz.com/704723/to-be-more-self-reliant-children-need-boring-summers/, 1466141379
 - https://superuser.com/questions/315202/terminal-in-os-x-lion-cant-write-%C3%A5%C3%A4%C3%B6-on-remote-machine
 - https://taskwarrior.org/, 1507910361
-- https://tasvideos.org/Movies-SNES.html, 1347052443
 - https://tuhin.co/great-designers.html, 1388483567
-- https://welcometocanalsaintmartin.tumblr.com/, 1440885881
-- https://weslash.co/, 1457000675
-- https://wvlet.org/airframe/, 1547656006
 - https://www.blackboard.com/teaching-learning/collaboration-web-conferencing/blackboard-collaborate
-- https://www.colorlisa.com/, 1608420054
+- http://www.colorlisa.com/, 1608420054
 - https://zeke.sikelianos.com/css-from-the-future/, 1462975063
 - https://twitter.github.io/effectivescala/, 1464545819
 - https://databricks.gitbooks.io/databricks-spark-knowledge-base/, 1527162067
@@ -252,32 +240,9 @@ Their long-term goal is to become an open platform for machine learning research
 - https://scalac.io/scala-spark-ml-machine-learning-introduction/, 1563904336
 - https://www.coursera.org/learn/scala-spark-big-data, 1492589408
 - https://guides.gradle.org/building-scala-libraries/, 1547572006
-- https://kottke.org/18/06/dancing-in-movies, 1533279207
-- https://kottke.org/18/06/the-14-habits-of-highly-miserable-people, 1533279190
 - https://kottke.org/18/06/the-beauty-of-constraints-in-engineering, 1533279020
-- https://kottke.org/18/06/the-blind-skateboarder, 1533279197
-- https://kottke.org/18/07/film-and-furniture-a-site-about-the-decor-in-movies, 1533279034
-- https://kottke.org/18/07/what-made-darth-vader-such-a-visually-iconic-character, 1533279189
-- https://kottke.org/18/11/how-fascism-works, 1543866920
-- https://kottke.org/18/11/watch-it-live-nasas-insight-probe-lands-on-mars-today, 1545998184
 - https://kottke.org/18/12/computer-simulations-of-black-hole-mergers-observed-by-ligo, 1545145267
-- https://kottke.org/18/12/hear-the-first-sounds-ever-recorded-on-mars, 1545303645
-- https://kottke.org/18/12/how-to-spot-a-fake-jackson-pollock-painting, 1545143850
-- https://kottke.org/18/12/optician-sans, 1545142967
-- https://kottke.org/18/12/the-last-chess-shop-in-nyc, 1545144461
-- https://kottke.org/19/03/everything-is-just-a-happening, 1554763047
-- https://kottke.org/19/03/hiking-interactions, 1554763050
-- https://kottke.org/19/03/monica-lewinsky-on-public-shaming, 1554738366
-- https://kottke.org/19/04/alex-honnold-breaks-down-iconic-rock-climbing-scenes, 1554289928
-- https://kottke.org/19/04/how-does-venice-work, 1556988454
-- https://kottke.org/19/05/grace-hopper-explains-a-nanosecond, 1556968784
-- https://kottke.org/19/05/tactical-driving-looks-fun-but-dont-try-this-at-home, 1557647560
-- https://kottke.org/19/07/how-the-shawshank-redemption-humanized-prisoners, 1562069610
-- https://kottke.org/19/07/sir-duke-deconstructed-stevie-wonders-ode-to-jazz, 1562767657
-- https://kottke.org/19/07/sonys-proto-walkman-that-went-to-the-moon, 1564346728
-- https://kottke.org/20/06/alicia-keys-tiny-desk-concert, 1593250114
 - https://kottke.org/20/10/is-the-mcdonalds-ice-cream-machine-broken, 1603702465
-- https://kottke.org/20/11/how-are-you-doing, 1607414297
 
 #### 2016
 [back to TOC](#table-of-contents)
@@ -375,7 +340,6 @@ Their long-term goal is to become an open platform for machine learning research
 #### SORT-ME 2010 - 2015
 
 - https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, 1425291426, How we built the new BBC Homepage
-- https://poetsandquants.com/2013/07/24/10-unpredictable-questions-harvard-asks/, 1374841799, 10 Unpredictable Questions HBS Asks
 - https://online.wsj.com/article/SB10000872396390443537404577579033271214626.html, 1346240357, How to Be a Better Procrastinator
 - https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/, 1397733636, Amazon and Google are in an epic battle to dominate the cloud
 - https://www.kaikkonendesign.fi/typography/, 1363453594, Interactive Guide to Blog Typography
@@ -407,13 +371,11 @@ Their long-term goal is to become an open platform for machine learning research
 - https://navitia.io/, 1452181365, navitia.io
 - https://projecteuler.net/, 1382361642, Project Euler
 - https://sikuli.org/, 1332407580, Project SIKULI
-- https://www.billboard.com/articles/columns/pop-shop/6605833/2015-10-best-music-videos-taylor-swift-maroon-5-sia, 1436475843, The 10 Best Music Videos of 2015
-- https://www.boston.com/bigpicture/, 1325493226, The Big Picture - Boston.com
 - https://www.bpmn.org/, 1415964583, BPMN Specification
 - https://www.browsersync.io/, 1430204677, BrowserSync
 - https://www.developpez.net/forums/d1332555/debats-developpement-best-of/freins-externalisation-du-developpement-logiciel/, 1369982863, Les freins de l'externalisation du développement logiciel
 - https://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html, 1439671953, What's the Go language really good for
-- https://www.justinaguilar.com/animations/, 1378765122, Justin Aguilar
+- http://www.justinaguilar.com/animations/, 1378765122, Justin Aguilar
 - https://www.nngroup.com/articles/which-ux-research-methods/, 1365749005, When to Use Which User Experience Research Methods
 
 
@@ -684,22 +646,29 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### SORT-ME - Old JS Links
 
+- [`actions-on-google/apiai-facts-about-google-nodejs`](https://github.com/actions-on-google/apiai-facts-about-google-nodejs)
+- [`actions-on-google/apiai-number-genie-nodejs`](https://github.com/actions-on-google/apiai-number-genie-nodejs)
+- [`angular/angular.js`](https://github.com/angular/angular.js)
+- [`Automattic/expect.js`](https://github.com/Automattic/expect.js)
+- [`bolshchikov/js-must-watch`](https://github.com/bolshchikov/js-must-watch)
+- [`browserstate/history.js`](https://github.com/browserstate/history.js)
+- [`creationix/js-git`](https://github.com/creationix/js-git)
+- [`cucumber/cucumber-js`](https://github.com/cucumber/cucumber-js)
+- [`dmajda/pegjs`](https://github.com/dmajda/pegjs)
+- [`GoogleCloudPlatform/functions-framework-nodejs`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
+- [`gulpjs`](https://github.com/gulpjs)
+- [`hapijs/joi`](https://github.com/hapijs/joi)
+- [`jshint/jshint`](https://github.com/jshint/jshint)
+- [`zemirco/lockit`](https://github.com/zemirco/lockit)
 - https://www.npmjs.com/package/david
-- https://www.npmjs.com/package/express-jwt
-- https://www.npmjs.com/package/gulp-apidocjs
-- https://www.npmjs.com/package/gulp-uncss
 - https://www.npmjs.com/package/jscpd
-- https://www.npmjs.com/package/jscs
 - https://www.npmjs.com/package/json-markup
 - https://www.npmjs.com/package/node-windows
-- https://www.npmjs.com/package/nsp
-- https://www.npmjs.com/package/plato
 - https://www.npmjs.com/package/supertest
 - https://www.npmjs.org/package/browserify
 - https://www.npmjs.org/package/checkdns
 - https://www.npmjs.org/package/forever-monitor
 - https://www.npmjs.org/package/ghost
-- https://www.npmjs.org/package/istanbul
 - https://www.npmjs.org/package/node-pushserver
 - https://www.npmjs.org/package/plato
 - https://www.npmjs.org/package/ssml
@@ -713,37 +682,28 @@ Their long-term goal is to become an open platform for machine learning research
 - https://www.npmjs.com/package/hexo
 - https://www.npmjs.com/package/johnny-five
 - https://www.npmjs.com/package/kue
-- https://www.npmjs.com/package/loopback-fixtures
 - https://www.npmjs.com/package/openweather
 - https://www.npmjs.com/package/postcss
 - https://www.npmjs.com/package/rewire
 - https://www.npmjs.com/package/slack
 - https://www.npmjs.org/package/mongo-express
-- https://www.npmjs.org/package/node-inspector
 - https://www.npmjs.org/package/nodemon
 - https://www.npmjs.org/package/nvm
 - https://www.npmjs.org/package/stream-adventure
-- https://www.npmjs.org/package/strong-cli
-- [`actions-on-google/apiai-facts-about-google-nodejs`](https://github.com/actions-on-google/apiai-facts-about-google-nodejs)
-- [`actions-on-google/apiai-number-genie-nodejs`](https://github.com/actions-on-google/apiai-number-genie-nodejs)
 - [`actions/example-services`](https://github.com/actions/example-services)
 - [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`agershun/alasql`](https://github.com/agershun/alasql)
-- [`airbnb/javascript`](https://github.com/airbnb/javascript)
 - [`alanbsmith/react-router-example`](https://github.com/alanbsmith/react-router-example)
 - [`algolia/atom-autocomplete-module-import`](https://github.com/algolia/atom-autocomplete-module-import)
 - [`andris9/Nodemailer`](https://github.com/andris9/Nodemailer)
 - [`angular-google-chart/angular-google-chart`](https://github.com/angular-google-chart/angular-google-chart)
 - [`angular-ui/ui-ace`](https://github.com/angular-ui/ui-ace)
 - [`angular-ui/ui-router`](https://github.com/angular-ui/ui-router)
-- [`angular/angular.js`](https://github.com/angular/angular.js)
 - [`apiaryio/dredd`](https://github.com/apiaryio/dredd)
 - [`apsdehal/awesome-ctf`](https://github.com/apsdehal/awesome-ctf)
 - [`arslanbilal/git-cheat-sheet`](https://github.com/arslanbilal/git-cheat-sheet)
 - [`arturovm/min`](https://github.com/arturovm/min)
 - [`asrivas/work-less-do-more`](https://github.com/asrivas/work-less-do-more)
-- [`austingebauer/go-leetcode`](https://github.com/austingebauer/go-leetcode)
-- [`Automattic/expect.js`](https://github.com/Automattic/expect.js)
 - [`aws-samples/amazon-ecs-java-microservices`](https://github.com/aws-samples/amazon-ecs-java-microservices)
 - [`aws-samples/aws-containers-task-definitions`](https://github.com/aws-samples/aws-containers-task-definitions)
 - [`aws-samples/reactive-refarch-cloudformation`](https://github.com/aws-samples/reactive-refarch-cloudformation)
@@ -753,23 +713,18 @@ Their long-term goal is to become an open platform for machine learning research
 - [`blog/530-how-we-made-github-fast`](https://github.com/blog/530-how-we-made-github-fast)
 - [`bndr/node-read`](https://github.com/bndr/node-read)
 - [`bnoguchi/everyauth`](https://github.com/bnoguchi/everyauth)
-- [`bolshchikov/js-must-watch`](https://github.com/bolshchikov/js-must-watch)
 - [`brandonbloom/jseg`](https://github.com/brandonbloom/jseg)
-- [`browserstate/history.js`](https://github.com/browserstate/history.js)
 - [`btford/angular-markdown-directive`](https://github.com/btford/angular-markdown-directive)
 - [`CanalTP/navitia`](https://github.com/CanalTP/navitia)
 - [`caolan/async`](https://github.com/caolan/async)
 - [`cchantep/acolyte`](https://github.com/cchantep/acolyte)
 - [`chen-ye/hubot-fb`](https://github.com/chen-ye/hubot-fb)
 - [`chrstphrknwtn/grid-clock/`](https://github.com/chrstphrknwtn/grid-clock/)
-- [`circleci/go-ecs-ecr`](https://github.com/circleci/go-ecs-ecr)
 - [`cjb/GitTorrent`](https://github.com/cjb/GitTorrent)
 - [`cloudinary/cloudinary_angular`](https://github.com/cloudinary/cloudinary_angular)
 - [`cmpolis/Pagify`](https://github.com/cmpolis/Pagify)
 - [`cpbotha/nvpy`](https://github.com/cpbotha/nvpy)
-- [`creationix/js-git`](https://github.com/creationix/js-git)
 - [`crockpotveggies/tinderbox`](https://github.com/crockpotveggies/tinderbox)
-- [`cucumber/cucumber-js`](https://github.com/cucumber/cucumber-js)
 - [`cyberglot/awesome-answers`](https://github.com/cyberglot/awesome-answers)
 - [`danielgtaylor/aglio`](https://github.com/danielgtaylor/aglio)
 - [`databricks/mlflow`](https://github.com/databricks/mlflow)
@@ -778,7 +733,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`derimagia/awesome-alfred-workflows`](https://github.com/derimagia/awesome-alfred-workflows)
 - [`DimitarPetrov/stegify`](https://github.com/DimitarPetrov/stegify)
 - [`dispatch/reboot`](https://github.com/dispatch/reboot)
-- [`dmajda/pegjs`](https://github.com/dmajda/pegjs)
 - [`dominictarr/excel-stream`](https://github.com/dominictarr/excel-stream)
 - [`dominictarr/split`](https://github.com/dominictarr/split)
 - [`doug-martin/nools`](https://github.com/doug-martin/nools)
@@ -799,15 +753,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`firebase/geoFire`](https://github.com/firebase/geoFire)
 - [`ftpgrab/ftpgrab`](https://github.com/ftpgrab/ftpgrab)
 - [`gabrielpoca/browser-pcm-stream`](https://github.com/gabrielpoca/browser-pcm-stream)
-- [`getify/You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS)
 - [`git-tips/tips`](https://github.com/git-tips/tips)
 - [`gjtorikian/isBinaryFile`](https://github.com/gjtorikian/isBinaryFile)
-- [`go-resty/resty`](https://github.com/go-resty/resty)
-- [`GoogleCloudPlatform/functions-framework-nodejs`](https://github.com/GoogleCloudPlatform/functions-framework-nodejs)
+- [`MariaLetta/free-gophers-pack`](https://github.com/MariaLetta/free-gophers-pack)
 - [`graysky2/xscreensaver-aerial/`](https://github.com/graysky2/xscreensaver-aerial/)
-- [`gulpjs`](https://github.com/gulpjs)
 - [`guptarohit/asciigraph`](https://github.com/guptarohit/asciigraph)
-- [`hapijs/joi`](https://github.com/hapijs/joi)
 - [`huggingface/transformers#Quick-tour-TF-20-training-and-PyTorch-interoperability`](https://github.com/huggingface/transformers#Quick-tour-TF-20-training-and-PyTorch-interoperability)
 - [`humanwhocodes/computer-science-in-javascript`](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [`ibaaj/awesome-OpenSourcePhotography`](https://github.com/ibaaj/awesome-OpenSourcePhotography)
@@ -815,12 +765,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`InseeFr/Meleze`](https://github.com/InseeFr/Meleze)
 - [`jgthms/juketube`](https://github.com/jgthms/juketube)
 - [`jonathandion/awesome-emails`](https://github.com/jonathandion/awesome-emails)
-- [`jondot/goweight`](https://github.com/jondot/goweight)
 - [`jonschlinkert/get-value`](https://github.com/jonschlinkert/get-value)
 - [`JorgeBucaran/awesome-fish`](https://github.com/JorgeBucaran/awesome-fish)
 - [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 - [`jrnewell/spotify-ripper`](https://github.com/jrnewell/spotify-ripper)
-- [`jshint/jshint`](https://github.com/jshint/jshint)
 - [`JustServerless/awesome-serverless`](https://github.com/JustServerless/awesome-serverless)
 - [`jwaterfaucett/awesome-foss-apps`](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [`kakoni/awesome-healthcare`](https://github.com/kakoni/awesome-healthcare)
@@ -831,12 +779,9 @@ Their long-term goal is to become an open platform for machine learning research
 - [`kirbs-/hide_code`](https://github.com/kirbs-/hide_code)
 - [`koekeishiya/chunkwm`](https://github.com/koekeishiya/chunkwm)
 - [`kovidgoyal/kitty`](https://github.com/kovidgoyal/kitty)
-- [`kpdecker/jsdiff`](https://github.com/kpdecker/jsdiff)
-- [`krakenjs/lusca`](https://github.com/krakenjs/lusca)
 - [`kripken/emscripten`](https://github.com/kripken/emscripten)
 - [`kriskowal/q`](https://github.com/kriskowal/q)
 - [`lauris/awesome-scala`](https://github.com/lauris/awesome-scala)
-- [`leonardomso/33-js-concepts`](https://github.com/leonardomso/33-js-concepts)
 - [`ligurio/free-software-testing-books`](https://github.com/ligurio/free-software-testing-books)
 - [`lihaoyi/cask`](https://github.com/lihaoyi/cask)
 - [`likeastore/ngDialog`](https://github.com/likeastore/ngDialog)
@@ -846,26 +791,34 @@ Their long-term goal is to become an open platform for machine learning research
 - [`mafintosh/peercast`](https://github.com/mafintosh/peercast)
 - [`mafintosh/peerflix`](https://github.com/mafintosh/peerflix)
 - [`mapbox/ecs-watchbot`](https://github.com/mapbox/ecs-watchbot)
-- [`MariaLetta/free-gophers-pack`](https://github.com/MariaLetta/free-gophers-pack)
 - [`mariano-fiorentino/amid`](https://github.com/mariano-fiorentino/amid)
 - [`marijnh/tern_for_sublime`](https://github.com/marijnh/tern_for_sublime)
 - [`mattinsler/longjohn`](https://github.com/mattinsler/longjohn)
 - [`MaximAbramchuck/awesome-interview-questions`](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [`maxogden/cool-ascii-faces`](https://github.com/maxogden/cool-ascii-faces)
+- [`kpdecker/jsdiff`](https://github.com/kpdecker/jsdiff)
+- [`krakenjs/lusca`](https://github.com/krakenjs/lusca)
+- [`leonardomso/33-js-concepts`](https://github.com/leonardomso/33-js-concepts)
 - [`mbeaudru/modern-js-cheatsheet`](https://github.com/mbeaudru/modern-js-cheatsheet)
-- [`meitar/awesome-lockpicking`](https://github.com/meitar/awesome-lockpicking)
-- [`MeoMix`](https://github.com/MeoMix)
 - [`metafloor/bwip-js`](https://github.com/metafloor/bwip-js)
-- [`MfgLabs/my-warner-login`](https://github.com/MfgLabs/my-warner-login)
-- [`MfgLabs/precepte`](https://github.com/MfgLabs/precepte)
-- [`MfgLabs/warner-challenges-backend`](https://github.com/MfgLabs/warner-challenges-backend)
-- [`MfgLabs/wb.fr`](https://github.com/MfgLabs/wb.fr)
 - [`mgechev/angularjs-in-patterns`](https://github.com/mgechev/angularjs-in-patterns)
+- [`mochajs/mocha/wiki`](https://github.com/mochajs/mocha/wiki)
+- [`pinojs/pino`](https://github.com/pinojs/pino)
+- [`rmurphey/js-assessment`](https://github.com/rmurphey/js-assessment)
+- [`rwaldron/idiomatic.js`](https://github.com/rwaldron/idiomatic.js)
+- [`shift-js/shift-js`](https://github.com/shift-js/shift-js)
+- [`shipitjs/shipit`](https://github.com/shipitjs/shipit)
+- [`sindresorhus/awesome-nodejs`](https://github.com/sindresorhus/awesome-nodejs)
+- [`superscriptjs/superscript`](https://github.com/superscriptjs/superscript)
+- [`surveyjs/surveyjs`](https://github.com/surveyjs/surveyjs)
+- [`umdjs/umd`](https://github.com/umdjs/umd)
+- [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
+- [`Vizzuality/cartodb-nodejs`](https://github.com/Vizzuality/cartodb-nodejs)
+- [`MeoMix`](https://github.com/MeoMix)
 - [`micromata/awesome-javascript-learning`](https://github.com/micromata/awesome-javascript-learning)
 - [`milessabin/shapeless`](https://github.com/milessabin/shapeless)
 - [`minimaxir/big-list-of-naughty-strings`](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [`mmcgrana/services-engineering`](https://github.com/mmcgrana/services-engineering)
-- [`mochajs/mocha/wiki`](https://github.com/mochajs/mocha/wiki)
 - [`montanaflynn/stats`](https://github.com/montanaflynn/stats)
 - [`motdotla/node-lambda`](https://github.com/motdotla/node-lambda)
 - [`mvdan/sh`](https://github.com/mvdan/sh)
@@ -879,7 +832,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`paldepind/flyd`](https://github.com/paldepind/flyd)
 - [`Pent/generator-meteor`](https://github.com/Pent/generator-meteor)
 - [`pharzan/promiseRunner`](https://github.com/pharzan/promiseRunner)
-- [`pinojs/pino`](https://github.com/pinojs/pino)
 - [`prismagraphql/prisma`](https://github.com/prismagraphql/prisma)
 - [`prnicolas/ScalaMl`](https://github.com/prnicolas/ScalaMl)
 - [`pyeve/cerberus`](https://github.com/pyeve/cerberus)
@@ -887,10 +839,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`qinwf/awesome-R`](https://github.com/qinwf/awesome-R)
 - [`Quixotix/gedit-source-code-browser`](https://github.com/Quixotix/gedit-source-code-browser)
 - [`ricardobeat/flatkeys`](https://github.com/ricardobeat/flatkeys)
-- [`rmurphey/js-assessment`](https://github.com/rmurphey/js-assessment)
 - [`rogerpadilla/angular2-minimalist-starter`](https://github.com/rogerpadilla/angular2-minimalist-starter)
 - [`roperzh/jroff`](https://github.com/roperzh/jroff)
-- [`rwaldron/idiomatic.js`](https://github.com/rwaldron/idiomatic.js)
 - [`ryanaghdam/has-key-deep`](https://github.com/ryanaghdam/has-key-deep)
 - [`samg/timetrap`](https://github.com/samg/timetrap)
 - [`SamRagusa/Checkers-Reinforcement-Learning`](https://github.com/SamRagusa/Checkers-Reinforcement-Learning)
@@ -903,14 +853,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`senchalabs/connect`](https://github.com/senchalabs/connect)
 - [`sfischer13/awesome-ledger`](https://github.com/sfischer13/awesome-ledger)
 - [`sger/ElixirBooks`](https://github.com/sger/ElixirBooks)
-- [`shift-js/shift-js`](https://github.com/shift-js/shift-js)
-- [`shipitjs/shipit`](https://github.com/shipitjs/shipit)
 - [`shk3/edx-downloader`](https://github.com/shk3/edx-downloader)
 - [`shobrook/BitVision`](https://github.com/shobrook/BitVision)
 - [`showcases/data-visualization`](https://github.com/showcases/data-visualization)
 - [`showcases/open-journalism`](https://github.com/showcases/open-journalism)
-- [`sindresorhus/awesome-nodejs`](https://github.com/sindresorhus/awesome-nodejs)
-- [`sindresorhus/awesome`](https://github.com/sindresorhus/awesome)
 - [`sindresorhus/filter-obj`](https://github.com/sindresorhus/filter-obj)
 - [`sindresorhus/get-port`](https://github.com/sindresorhus/get-port)
 - [`sindresorhus/map-obj`](https://github.com/sindresorhus/map-obj)
@@ -930,8 +876,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`stevemao/awesome-git-addons`](https://github.com/stevemao/awesome-git-addons)
 - [`streamproc/MediaStreamRecorder`](https://github.com/streamproc/MediaStreamRecorder)
 - [`substance/data`](https://github.com/substance/data)
-- [`superscriptjs/superscript`](https://github.com/superscriptjs/superscript)
-- [`surveyjs/surveyjs`](https://github.com/surveyjs/surveyjs)
 - [`syntaqx/serve`](https://github.com/syntaqx/serve)
 - [`TalAter/awesome-book-authoring`](https://github.com/TalAter/awesome-book-authoring)
 - [`thoughtbot/design-sprint`](https://github.com/thoughtbot/design-sprint)
@@ -944,20 +888,15 @@ Their long-term goal is to become an open platform for machine learning research
 - [`uflare/smtp2http`](https://github.com/uflare/smtp2http)
 - [`ukayani/ecs-service`](https://github.com/ukayani/ecs-service)
 - [`ukayani/kms-env`](https://github.com/ukayani/kms-env)
-- [`umdjs/umd`](https://github.com/umdjs/umd)
 - [`upper/db`](https://github.com/upper/db)
 - [`urish/angular-moment`](https://github.com/urish/angular-moment)
 - [`variety/variety`](https://github.com/variety/variety)
 - [`vinta/awesome-python`](https://github.com/vinta/awesome-python)
-- [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
-- [`Vizzuality/cartodb-nodejs`](https://github.com/Vizzuality/cartodb-nodejs)
 - [`vpavkin/i-have-money`](https://github.com/vpavkin/i-have-money)
 - [`vredniy/awesome-newsletters`](https://github.com/vredniy/awesome-newsletters)
 - [`wfhio/awesome-job-boards`](https://github.com/wfhio/awesome-job-boards)
 - [`wooorm/retext`](https://github.com/wooorm/retext)
 - [`Yelp/bravado`](https://github.com/Yelp/bravado)
-- [`yeoman/stringify-object`](https://github.com/yeoman/stringify-object)
-- [`zemirco/lockit`](https://github.com/zemirco/lockit)
 - [`zshamrock/dynocsv`](https://github.com/zshamrock/dynocsv)
 
 #### JavaScript
@@ -1139,13 +1078,15 @@ Their long-term goal is to become an open platform for machine learning research
 
 ###### Safer JS
 
+- [`airbnb/javascript`](https://github.com/airbnb/javascript)
 - [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
-- [`goldbergyoni/nodebestpractices`](https://github.com/goldbergyoni/nodebestpractices)
 - [`facebook/flow`](https://github.com/facebook/flow)
+- [`getify/You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS)
+- [`goldbergyoni/nodebestpractices`](https://github.com/goldbergyoni/nodebestpractices)
+- [`immutable-js/immutable-js`](https://github.com/immutable-js/immutable-js)
 - [`microsoft/TypeScript-Node-Starter`](https://github.com/microsoft/TypeScript-Node-Starter)
 - [`ryanmcdermott/clean-code-javascript`](https://github.com/ryanmcdermott/clean-code-javascript)
 - [`sindresorhus/eslint-plugin-unicorn`](https://github.com/sindresorhus/eslint-plugin-unicorn)
-- [`immutable-js/immutable-js`](https://github.com/immutable-js/immutable-js)
 
 ###### Tensorflow.js
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
@@ -1497,15 +1438,18 @@ Their long-term goal is to become an open platform for machine learning research
 - [`arschles/go-in-5-minutes`](https://github.com/arschles/go-in-5-minutes)
 - [`astaxie/beego`](https://github.com/astaxie/beego)
 - [`atom-archive/xray`](https://github.com/atom-archive/xray)
+- [`austingebauer/go-leetcode`](https://github.com/austingebauer/go-leetcode)
 - [`avelino/awesome-go`](https://github.com/avelino/awesome-go)
 - [`aws/aws-sdk-go`](https://github.com/aws/aws-sdk-go)
 - [`bitly/go-simplejson`](https://github.com/bitly/go-simplejson)
 - [`bjorng/wings`](https://github.com/bjorng/wings)
 - [`chrislusf/gleam`](https://github.com/chrislusf/gleam)
+- [`circleci/go-ecs-ecr`](https://github.com/circleci/go-ecs-ecr)
 - [`cstate/cstate`](https://github.com/cstate/cstate)
 - [`ethereum/go-ethereum`](https://github.com/ethereum/go-ethereum)
 - [`go-jira/jira`](https://github.com/go-jira/jira)
 - [`go-redis/redis`](https://github.com/go-redis/redis)
+- [`go-resty/resty`](https://github.com/go-resty/resty)
 - [`gobuffalo/buffalo`](https://github.com/gobuffalo/buffalo)
 - [`gobuffalo/pop`](https://github.com/gobuffalo/pop)
 - [`gohugoio/hugo`](https://github.com/gohugoio/hugo)
@@ -1513,7 +1457,10 @@ Their long-term goal is to become an open platform for machine learning research
 - [`googleforgames/open-match`](https://github.com/googleforgames/open-match)
 - [`hybridgroup/gocv`](https://github.com/hybridgroup/gocv)
 - [`harlow/kinesis-consumer`](https://github.com/harlow/kinesis-consumer)
+- [`jf-tech/omniparser`](https://github.com/jf-tech/omniparser)
+- [`jondot/goweight`](https://github.com/jondot/goweight)
 - [`kasvith/kache`](https://github.com/kasvith/kache)
+- [`keycastr/keycastr`](https://github.com/keycastr/keycastr)
 - [`labstack/echo`](https://github.com/labstack/echo)
 - [`MontFerret/ferret`](https://github.com/MontFerret/ferret)
 - [`nsqio/nsq`](https://github.com/nsqio/nsq)
@@ -1526,8 +1473,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`valyala/fasthttp`](https://github.com/valyala/fasthttp)
 - [`zenazn/goji`](https://github.com/zenazn/goji)
 - [`Y2Z/monolith`](https://github.com/Y2Z/monolith)
-- [`jf-tech/omniparser`](https://github.com/jf-tech/omniparser)
-- [`keycastr/keycastr`](https://github.com/keycastr/keycastr)
 
 #### Java
 [back to TOC](#table-of-contents)
@@ -1848,17 +1793,18 @@ Their long-term goal is to become an open platform for machine learning research
 #### Security
 [back to TOC](#table-of-contents)
 
-- [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
+- [`clario-tech/s3-inspector`](https://github.com/clario-tech/s3-inspector)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
+- [`FishermansEnemy/bucket_finder`](https://github.com/FishermansEnemy/bucket_finder)
+- [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
 - [`lastpass/lastpass-cli`](https://github.com/lastpass/lastpass-cli)
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
-- [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
-- [`traviscross/mtr`](https://github.com/traviscross/mtr)
-- [`clario-tech/s3-inspector`](https://github.com/clario-tech/s3-inspector)
-- [`FishermansEnemy/bucket_finder`](https://github.com/FishermansEnemy/bucket_finder)
-- [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
+- [`meitar/awesome-lockpicking`](https://github.com/meitar/awesome-lockpicking)
 - [`OpenCTI-Platform/opencti`](https://github.com/OpenCTI-Platform/opencti)
+- [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 - [`sa7mon/S3Scanner`](https://github.com/sa7mon/S3Scanner)
+- [`traviscross/mtr`](https://github.com/traviscross/mtr)
+- [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
 ### Quotes
 [back to TOC](#table-of-contents)
