@@ -420,6 +420,7 @@ Their long-term goal is to become an open platform for machine learning research
 </div>
 
 <div align="center">
+  <a href="https://www.goodreads.com/book/show/22967424-data-science-at-the-command-line"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411919491l/22967424.jpg" width=100 alt="Janssens"/></a>
   <a href="https://www.goodreads.com/book/show/8520610-quiet"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610.jpg" width=100 alt="Cain"/></a>
   <a href="https://www.goodreads.com/book/show/44936.Refactoring"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg" width=100 alt="Fowler"/></a>
   <a href="https://www.goodreads.com/book/show/4845.Code_Complete"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845.jpg" width=100 alt="McConnell"/></a>
