@@ -57,6 +57,13 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Most exciting things of 2020: https://mediapipe.dev, https://idyll-lang.org/
 
+#### 2021
+[back to TOC](#table-of-contents)
+
+##### January
+
+- CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
+
 #### 2020
 [back to TOC](#table-of-contents)
 
