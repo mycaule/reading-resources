@@ -800,7 +800,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`mbeaudru/modern-js-cheatsheet`](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [`metafloor/bwip-js`](https://github.com/metafloor/bwip-js)
 - [`mgechev/angularjs-in-patterns`](https://github.com/mgechev/angularjs-in-patterns)
-- [`mochajs/mocha/wiki`](https://github.com/mochajs/mocha/wiki)
 - [`pinojs/pino`](https://github.com/pinojs/pino)
 - [`rmurphey/js-assessment`](https://github.com/rmurphey/js-assessment)
 - [`rwaldron/idiomatic.js`](https://github.com/rwaldron/idiomatic.js)
@@ -812,9 +811,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [`umdjs/umd`](https://github.com/umdjs/umd)
 - [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
 - [`Vizzuality/cartodb-nodejs`](https://github.com/Vizzuality/cartodb-nodejs)
-- [`MeoMix`](https://github.com/MeoMix)
 - [`micromata/awesome-javascript-learning`](https://github.com/micromata/awesome-javascript-learning)
-- [`milessabin/shapeless`](https://github.com/milessabin/shapeless)
 - [`minimaxir/big-list-of-naughty-strings`](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [`mmcgrana/services-engineering`](https://github.com/mmcgrana/services-engineering)
 - [`montanaflynn/stats`](https://github.com/montanaflynn/stats)
@@ -1056,13 +1053,14 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
 - [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
-- [`microsoft/playwright`](https://github.com/microsoft/playwright)
 - [`PrismJS/prism`](https://github.com/PrismJS/prism)
 
 ###### Testing
 
 - [`facebook/jest`](https://github.com/facebook/jest)
 - [`getgauge/taiko`](https://github.com/getgauge/taiko)
+- [`microsoft/playwright`](https://github.com/microsoft/playwright)
+- [`mochajs/mocha`](https://github.com/mochajs/mocha)
 - [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
 
 ###### Frontend
