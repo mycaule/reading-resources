@@ -942,7 +942,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`firebase/functions-samples`](https://github.com/firebase/functions-samples)
 - [`formium/formik`](https://github.com/formium/formik)
 - [`gatsbyjs/gatsby`](https://github.com/gatsbyjs/gatsby)
-- [`getgauge/taiko`](https://github.com/getgauge/taiko)
 - [`github/hotkey`](https://github.com/github/hotkey)
 - [`gnab/remark`](https://github.com/gnab/remark)
 - [`googleapis/nodejs-translate`](https://github.com/googleapis/nodejs-translate)
@@ -1014,7 +1013,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [`picturepan2/spectre`](https://github.com/picturepan2/spectre)
 - [`ProseMirror/prosemirror`](https://github.com/ProseMirror/prosemirror)
 - [`przemyslawpluta/node-youtube-dl`](https://github.com/przemyslawpluta/node-youtube-dl)
-- [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
 - [`rough-stuff/wired-elements`](https://github.com/rough-stuff/wired-elements)
 - [`salsita/node-pg-migrate`](https://github.com/salsita/node-pg-migrate)
 - [`sindresorhus/awesome-electron`](https://github.com/sindresorhus/awesome-electron)
@@ -1060,6 +1058,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
 - [`microsoft/playwright`](https://github.com/microsoft/playwright)
 - [`PrismJS/prism`](https://github.com/PrismJS/prism)
+
+###### Testing
+
+- [`facebook/jest`](https://github.com/facebook/jest)
+- [`getgauge/taiko`](https://github.com/getgauge/taiko)
+- [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
 
 ###### Frontend
 
