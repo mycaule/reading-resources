@@ -79,6 +79,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [BigQuery book](https://www.goodreads.com/book/show/50204627-google-bigquery), [cheatsheet for window functions](https://datarunsdeep.com.au/blog/cool-things-you-can-do-using-window-functions-bigquery)
 - [dbt](https://www.getdbt.com) is a cool modern tool to manage datawarehouse pipelines saving nights of headaches
 - a16z [emerging data architectures](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+- Hacking an API to check if [the McDonald's ice cream machine broken?](https://kottke.org/20/10/is-the-mcdonalds-ice-cream-machine-broken)
 
 ##### July
 
@@ -171,10 +172,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Google Research - Seedbank](https://research.google.com/seedbank/)
 - Useful notes for Spark: [Tips to Debug Apache Spark](https://databricks.com/blog/2016/10/18/7-tips-to-debug-apache-spark-code-faster-with-databricks.html), [Apache Spark Visualization](https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html), [Submitting User Applications with `spark-submit`](https://aws.amazon.com/fr/blogs/big-data/submitting-user-applications-with-spark-submit/), [Managing memory for Apache Spark](https://aws.amazon.com/fr/blogs/big-data/best-practices-for-successfully-managing-memory-for-apache-spark-applications-on-amazon-emr/), [`ammonite-spark` EMR tutorial](https://gist.github.com/alexarchambault/8e1eec124f00b1c5576a29899ae39569)
+- [Black hole computer simulations](https://kottke.org/18/12/computer-simulations-of-black-hole-mergers-observed-by-ligo)
 
 ##### August
 - Spotify Engineering Culture ([part1](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part2](https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/))
 - [EC2 Instances](https://www.ec2instances.info/)
+- [The beauty of constraints in engineering](https://kottke.org/18/06/the-beauty-of-constraints-in-engineering)
 
 ##### March
 - [John Bates, Anthony Joseph - Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
@@ -241,9 +244,6 @@ Their long-term goal is to become an open platform for machine learning research
 - https://scalac.io/scala-spark-ml-machine-learning-introduction/, 1563904336
 - https://www.coursera.org/learn/scala-spark-big-data, 1492589408
 - https://guides.gradle.org/building-scala-libraries/, 1547572006
-- https://kottke.org/18/06/the-beauty-of-constraints-in-engineering, 1533279020
-- https://kottke.org/18/12/computer-simulations-of-black-hole-mergers-observed-by-ligo, 1545145267
-- https://kottke.org/20/10/is-the-mcdonalds-ice-cream-machine-broken, 1603702465
 
 #### 2016
 [back to TOC](#table-of-contents)
@@ -1713,88 +1713,111 @@ Their long-term goal is to become an open platform for machine learning research
 [back to TOC](#table-of-contents)
 
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
-- [`akavel/up`](https://github.com/akavel/up)
-- [`AlDanial/cloc`](https://github.com/AlDanial/cloc)
 - [`alebcay/awesome-shell`](https://github.com/alebcay/awesome-shell)
-- [`alex000kim/nsfw_data_scraper`](https://github.com/alex000kim/nsfw_data_scraper)
+- [`herrbischoff/awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
+- [`jeroenjanssens/data-science-at-the-command-line`](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 - [`alexellis/mine-with-docker`](https://github.com/alexellis/mine-with-docker)
-- [`andmarti1424/sc-im`](https://github.com/andmarti1424/sc-im)
-- [`aria2/aria2`](https://github.com/aria2/aria2)
-- [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
-- [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
-- [`benibela/xidel`](https://github.com/benibela/xidel)
-- [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
-- [`BurntSushi/xsv`](https://github.com/BurntSushi/xsv)
-- [`bzg/org-mode`](https://github.com/bzg/org-mode)
-- [`cli/cli`](https://github.com/cli/cli)
 - [`clibs/entr`](https://github.com/clibs/entr)
 - [`clvv/fasd`](https://github.com/clvv/fasd)
-- [`cmatsuoka/figlet`](https://github.com/cmatsuoka/figlet)
-- [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
-- [`dbcli/mssql-cli`](https://github.com/dbcli/mssql-cli)
-- [`dbcli/pgcli`](https://github.com/dbcli/pgcli)
-- [`dbohdan/structured-text-tools`](https://github.com/dbohdan/structured-text-tools)
 - [`dflemstr/rq`](https://github.com/dflemstr/rq)
-- [`ericchiang/pup`](https://github.com/ericchiang/pup)
-- [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
-- [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
-- [`github/semantic`](https://github.com/github/semantic)
 - [`HazyResearch/pdftotree`](https://github.com/HazyResearch/pdftotree)
-- [`herrbischoff/awesome-command-line-apps`](https://github.com/herrbischoff/awesome-command-line-apps)
-- [`holman/spark`](https://github.com/holman/spark)
-- [`idank/explainshell`](https://github.com/idank/explainshell)
-- [`iterative/dvc`](https://github.com/iterative/dvc)
-- [`jamesramsay/hercule`](https://github.com/jamesramsay/hercule)
-- [`jarun/ddgr`](https://github.com/jarun/ddgr)
-- [`jarun/googler`](https://github.com/jarun/googler)
-- [`jasperes/bash-yaml`](https://github.com/jasperes/bash-yaml)
 - [`jeffbski/wait-on`](https://github.com/jeffbski/wait-on)
-- [`jehiah/json2csv`](https://github.com/jehiah/json2csv)
-- [`jeroenjanssens/data-science-at-the-command-line`](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 - [`jiahaog/nativefier`](https://github.com/jiahaog/nativefier)
-- [`kamranahmedse/git-standup`](https://github.com/kamranahmedse/git-standup)
-- [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck)
-- [`lesnitsky/git-tutor`](https://github.com/lesnitsky/git-tutor)
-- [`kfei/slack-cleaner`](https://github.com/kfei/slack-cleaner)
 - [`klaussinani/taskbook`](https://github.com/klaussinani/taskbook)
 - [`ledger/ledger`](https://github.com/ledger/ledger)
-- [`mermaid-js/mermaid`](https://github.com/mermaid-js/mermaid)
-- [`metakirby5/codi.vim`](https://github.com/metakirby5/codi.vim)
-- [`mhinz/vim-galore`](https://github.com/mhinz/vim-galore)
 - [`mholt/archiver`](https://github.com/mholt/archiver)
-- [`mikefarah/yq`](https://github.com/mikefarah/yq)
-- [`mithrandie/csvq`](https://github.com/mithrandie/csvq)
 - [`mptre/yank`](https://github.com/mptre/yank)
-- [`neovim/neovim`](https://github.com/neovim/neovim)
+- [`pstadler/ticker.sh`](https://github.com/pstadler/ticker.sh)
+- [`sapegin/shipit`](https://github.com/sapegin/shipit)
+- [`wtfutil/wtf`](https://github.com/wtfutil/wtf)
+- [`wting/autojump`](https://github.com/wting/autojump)
+- [`yudai/gotty`](https://github.com/yudai/gotty)
+
+##### Markdown
+
+- [`jamesramsay/hercule`](https://github.com/jamesramsay/hercule)
+- [`mermaid-js/mermaid`](https://github.com/mermaid-js/mermaid)
+
+##### Data Browser
+
+- [`andmarti1424/sc-im`](https://github.com/andmarti1424/sc-im)
+- [`dbcli/mssql-cli`](https://github.com/dbcli/mssql-cli)
+- [`dbcli/pgcli`](https://github.com/dbcli/pgcli)
+- [`jarun/ddgr`](https://github.com/jarun/ddgr)
+- [`jarun/googler`](https://github.com/jarun/googler)
+- [`pimutils/khal`](https://github.com/pimutils/khal)
+- [`santinic/how2`](https://github.com/santinic/how2)
+- [`tats/w3m`](https://github.com/tats/w3m)
+- [`tstack/lnav`](https://github.com/tstack/lnav)
+
+##### Scripting
+
+- [`akavel/up`](https://github.com/akavel/up)
+- [`awslabs/aws-shell`](https://github.com/awslabs/aws-shell)
+- [`cmatsuoka/figlet`](https://github.com/cmatsuoka/figlet)
+- [`holman/spark`](https://github.com/holman/spark)
+- [`idank/explainshell`](https://github.com/idank/explainshell)
+- [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck)
 - [`nk412/optparse`](https://github.com/nk412/optparse)
 - [`oclif/oclif`](https://github.com/oclif/oclif)
 - [`ohmyzsh/ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh)
-- [`philc/vimium`](https://github.com/philc/vimium)
-- [`pimutils/khal`](https://github.com/pimutils/khal)
-- [`pstadler/ticker.sh`](https://github.com/pstadler/ticker.sh)
-- [`santinic/how2`](https://github.com/santinic/how2)
-- [`sapegin/shipit`](https://github.com/sapegin/shipit)
-- [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
-- [`sharkdp/bat`](https://github.com/sharkdp/bat)
 - [`sharkdp/fd`](https://github.com/sharkdp/fd)
-- [`simeji/jid`](https://github.com/simeji/jid)
 - [`sstephenson/bats`](https://github.com/sstephenson/bats)
-- [`stedolan/jq`](https://github.com/stedolan/jq)
-- [`tats/w3m`](https://github.com/tats/w3m)
 - [`tldr-pages/tldr`](https://github.com/tldr-pages/tldr)
-- [`tomnomnom/gron`](https://github.com/tomnomnom/gron)
-- [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
-- [`tsenart/vegeta`](https://github.com/tsenart/vegeta)
-- [`tstack/lnav`](https://github.com/tstack/lnav)
-- [`vim-syntastic/syntastic`](https://github.com/vim-syntastic/syntastic)
 - [`wallix/awless`](https://github.com/wallix/awless)
-- [`watsonbox/exportify`](https://github.com/watsonbox/exportify)
-- [`wtfutil/wtf`](https://github.com/wtfutil/wtf)
-- [`wting/autojump`](https://github.com/wting/autojump)
-- [`wg/wrk`](https://github.com/wg/wrk)
-- [`yudai/gotty`](https://github.com/yudai/gotty)
 
-##### Filesytem
+##### Code management
+
+- [`AlDanial/cloc`](https://github.com/AlDanial/cloc)
+- [`cli/cli`](https://github.com/cli/cli)
+- [`ggreer/the_silver_searcher`](https://github.com/ggreer/the_silver_searcher)
+- [`github/semantic`](https://github.com/github/semantic)
+- [`lesnitsky/git-tutor`](https://github.com/lesnitsky/git-tutor)
+- [`iterative/dvc`](https://github.com/iterative/dvc)
+- [`kamranahmedse/git-standup`](https://github.com/kamranahmedse/git-standup)
+
+##### Vim
+
+- [`bzg/org-mode`](https://github.com/bzg/org-mode)
+- [`metakirby5/codi.vim`](https://github.com/metakirby5/codi.vim)
+- [`mhinz/vim-galore`](https://github.com/mhinz/vim-galore)
+- [`neovim/neovim`](https://github.com/neovim/neovim)
+- [`philc/vimium`](https://github.com/philc/vimium)
+- [`vim-syntastic/syntastic`](https://github.com/vim-syntastic/syntastic)
+
+##### Scrapping
+
+- [`alex000kim/nsfw_data_scraper`](https://github.com/alex000kim/nsfw_data_scraper)
+- [`aria2/aria2`](https://github.com/aria2/aria2)
+- [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
+- [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
+- [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
+- [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
+- [`watsonbox/exportify`](https://github.com/watsonbox/exportify)
+- [`ytdl-org/youtube-dl`](https://github.com/ytdl-org/youtube-dl)
+
+##### Structured text
+
+- [`benibela/xidel`](https://github.com/benibela/xidel)
+- [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
+- [`BurntSushi/xsv`](https://github.com/BurntSushi/xsv)
+- [`dbohdan/structured-text-tools`](https://github.com/dbohdan/structured-text-tools)
+- [`ericchiang/pup`](https://github.com/ericchiang/pup)
+- [`jasperes/bash-yaml`](https://github.com/jasperes/bash-yaml)
+- [`jehiah/json2csv`](https://github.com/jehiah/json2csv)
+- [`mikefarah/yq`](https://github.com/mikefarah/yq)
+- [`mithrandie/csvq`](https://github.com/mithrandie/csvq)
+- [`sharkdp/bat`](https://github.com/sharkdp/bat)
+- [`simeji/jid`](https://github.com/simeji/jid)
+- [`stedolan/jq`](https://github.com/stedolan/jq)
+- [`tomnomnom/gron`](https://github.com/tomnomnom/gron)
+
+##### Load testing
+
+- [`tsenart/vegeta`](https://github.com/tsenart/vegeta)
+- [`wg/wrk`](https://github.com/wg/wrk)
+
+##### Filesystem
 
 - [`ranger/ranger`](https://github.com/ranger/ranger)
 - [`rofl0r/ncdu`](https://github.com/rofl0r/ncdu)
@@ -1805,10 +1828,12 @@ Their long-term goal is to become an open platform for machine learning research
 #### Security
 [back to TOC](#table-of-contents)
 
+- [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
 - [`clario-tech/s3-inspector`](https://github.com/clario-tech/s3-inspector)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
 - [`FishermansEnemy/bucket_finder`](https://github.com/FishermansEnemy/bucket_finder)
 - [`hak5/bashbunny-payloads`](https://github.com/hak5/bashbunny-payloads)
+- [`kfei/slack-cleaner`](https://github.com/kfei/slack-cleaner)
 - [`lastpass/lastpass-cli`](https://github.com/lastpass/lastpass-cli)
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`meitar/awesome-lockpicking`](https://github.com/meitar/awesome-lockpicking)
