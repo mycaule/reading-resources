@@ -211,11 +211,8 @@ Their long-term goal is to become an open platform for machine learning research
 - https://addyosmani.com/, 1515411727
 - https://apiary.io/, 1466527945
 - https://datajournalismhandbook.net/, 1556267576
-- https://dilbert.com/, 1422055620
 - https://ec.haxx.se/cmdline/cmdline-options, 1586613010
 - https://flywaydb.org/, 1479899469
-- https://goaccess.io/, 1535403666
-- https://hellohappy.org/beautiful-web-type/, 1361310352
 - https://informationisbeautiful.net/, 1575477795
 - https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes, 1538384020
 - https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie, 1605364802
@@ -225,17 +222,15 @@ Their long-term goal is to become an open platform for machine learning research
 - https://aosabook.org/en/index.html, 1508154432
 - https://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel, 1558787254
 - https://idf.direccte.gouv.fr/sites/idf.direccte.gouv.fr/IMG/pdf/une_aide_au_questionnement_rps_v2a_2_.pdf
-- https://math.stackexchange.com/questions/1308054/oberwolfach-problem-30-people-at-dinner-on-3-tables-of-10-seats-each
-- https://math.stackexchange.com/questions/947442/what-makes-a-theorem-fundamental/947466, 1474566482
+- https://math.stackexchange.com/questions/1308054
+- https://math.stackexchange.com/questions/947442, 1474566482
 - https://parquet.apache.org/presentations/, 1527541600
 - https://passwordless.net/, 1416071470
 - https://programmers.stackexchange.com/questions/134118/why-are-shortcuts-like-x-y-considered-good-practice, 1432316401
 - https://programmers.stackexchange.com/questions/74913/what-stressors-do-programmers-encounter-on-the-job-and-how-do-you-deal-with-the, 1468256841
 - https://qz.com/698943/whatever-you-do-dont-quit-your-job-to-pursue-your-passion/, 1465889092
-- https://superuser.com/questions/315202/terminal-in-os-x-lion-cant-write-%C3%A5%C3%A4%C3%B6-on-remote-machine
 - https://taskwarrior.org/, 1507910361
-- https://tuhin.co/great-designers.html, 1388483567
-- https://www.blackboard.com/teaching-learning/collaboration-web-conferencing/blackboard-collaborate
+- https://www.blackboard.com/
 - http://www.colorlisa.com/, 1608420054
 - https://zeke.sikelianos.com/css-from-the-future/, 1462975063
 - https://twitter.github.io/effectivescala/, 1464545819
