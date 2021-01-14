@@ -13,7 +13,7 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
 
 ### Table of Contents
 
-- [Posts](#posts-and-webapps) 
+- [Posts](#posts-and-webapps)
   - [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
@@ -39,7 +39,7 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
 
 ### About Me
 
-[About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](resume.2021.pdf).
+[About me](https://gist.github.com/mycaule/636203b3f8f4a9c5eb91f397a63b3e22), [Curriculum vitae](https://www.linkedin.com/in/michelhua/).
 
 Some talks I have done recently, mostly in French: [A short history of the software industry](https://gist.github.com/mycaule/39356443c267c0743253282044da16c0), [Productivity tips and decluttering](https://gist.github.com/mycaule/d2f3bc69747aef7f550d2bcc80ec4e63), [Deep learning for programmers](https://gist.github.com/mycaule/1776ed63d059eee92d86976e8f399f69)
 
@@ -99,6 +99,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Corey Schafer video tutorials on Python subjects [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 - [James Powell talks at PyData](https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL) highlights some of the powerful specifics of Python 3, decorators, context managers etc.
 - French research labs INRIA also have interesting courses on techniques they use in biostatistics [Recherche reproductible](https://www.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/info), [Python 3](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/info) emphases research versus software engineering
+- [Covid datapack by InformationIsBeautiful](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
 
 ##### March
 
@@ -107,7 +108,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 ##### February
 
-- [`photoprism/photoprism`](https://github.com/photoprism/photoprism): Photo Management app powered by Go and TensorFlow. 
+- [`photoprism/photoprism`](https://github.com/photoprism/photoprism): Photo Management app powered by Go and TensorFlow.
 Their long-term goal is to become an open platform for machine learning research based on real-world photo collections.
 
 ##### January
@@ -178,6 +179,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Spotify Engineering Culture ([part1](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/), [part2](https://engineering.atspotify.com/2014/09/20/spotify-engineering-culture-part-2/))
 - [EC2 Instances](https://www.ec2instances.info/)
 - [The beauty of constraints in engineering](https://kottke.org/18/06/the-beauty-of-constraints-in-engineering)
+- Learning Spark with [Coursera](https://www.coursera.org/learn/scala-spark-big-data) and [Heather Miller](https://heather.miller.am/blog/launching-a-spark-cluster-part-2.html)
 
 ##### March
 - [John Bates, Anthony Joseph - Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
@@ -207,43 +209,87 @@ Their long-term goal is to become an open platform for machine learning research
 
 #### SORT-ME
 
-- https://students.brown.edu/seeing-theory/, 1489506001
-- https://addyosmani.com/, 1515411727
-- https://apiary.io/, 1466527945
-- https://datajournalismhandbook.net/, 1556267576
-- https://ec.haxx.se/cmdline/cmdline-options, 1586613010
-- https://flywaydb.org/, 1479899469
-- https://informationisbeautiful.net/, 1575477795
-- https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes, 1538384020
-- https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie, 1605364802
-- https://longuevieauxobjets.gouv.fr/, 1607788874
-- https://learnpythonthehardway.org/book/, 1376248036
-- https://learnvimscriptthehardway.stevelosh.com/, 1391873875
-- https://aosabook.org/en/index.html, 1508154432
-- https://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel, 1558787254
-- https://idf.direccte.gouv.fr/sites/idf.direccte.gouv.fr/IMG/pdf/une_aide_au_questionnement_rps_v2a_2_.pdf
-- https://math.stackexchange.com/questions/1308054
-- https://math.stackexchange.com/questions/947442, 1474566482
-- https://parquet.apache.org/presentations/, 1527541600
-- https://passwordless.net/, 1416071470
-- https://programmers.stackexchange.com/questions/134118/why-are-shortcuts-like-x-y-considered-good-practice, 1432316401
-- https://programmers.stackexchange.com/questions/74913/what-stressors-do-programmers-encounter-on-the-job-and-how-do-you-deal-with-the, 1468256841
-- https://qz.com/698943/whatever-you-do-dont-quit-your-job-to-pursue-your-passion/, 1465889092
-- https://taskwarrior.org/, 1507910361
-- https://www.blackboard.com/
-- http://www.colorlisa.com/, 1608420054
-- https://zeke.sikelianos.com/css-from-the-future/, 1462975063
-- https://twitter.github.io/effectivescala/, 1464545819
-- https://databricks.gitbooks.io/databricks-spark-knowledge-base/, 1527162067
-- https://heather.miller.am/blog/launching-a-spark-cluster-part-2.html, 1537132861
-- https://scalac.io/scala-spark-ml-machine-learning-introduction/, 1563904336
-- https://www.coursera.org/learn/scala-spark-big-data, 1492589408
-- https://guides.gradle.org/building-scala-libraries/, 1547572006
+<details>
+
+Old bookmarks
+
+##### 2020
+- http://www.colorlisa.com/, December 2020
+- https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie, November 2020
+
+##### 2019
+- https://datajournalismhandbook.net/, April 2019
+- https://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel, May 2019
+- https://guides.gradle.org/building-scala-libraries/, January 2019
+
+##### 2018
+- https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes, October 2018
+- https://databricks.gitbooks.io/databricks-spark-knowledge-base/, May 2018
+
+##### 2017
+- https://aosabook.org/en/, October 2017
+- https://taskwarrior.org/, October 2017
+- https://students.brown.edu/seeing-theory/, March 2017
+
+##### 2016
+
+- https://math.stackexchange.com/questions/947442, September 2016
+- https://zeke.sikelianos.com/css-from-the-future/, May 2016
+- https://twitter.github.io/effectivescala/, May 2016
+- https://tails.boum.org/, March 2016
+- https://navitia.io/, January 2016
+- https://heliumhq.com/, January 2016
+
+##### 2015
+- https://marvelapp.com/, September 2015
+- https://www.invisionapp.com/, August 2015
+- https://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html, August 2015
+- https://www.synthesiagame.com/, August 2015
+- https://programmers.stackexchange.com/questions/134118, May 2015
+- https://www.browsersync.io/, April 2015
+- https://www.cop21.gouv.fr/, April 2015
+- https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, March 2015
+- https://play.elevatorsaga.com/, February 2015
+
+##### 2014
+- https://webcomponents.org/, December 2014
+- https://www.bpmn.org/, November 2014
+- https://cordova.apache.org/, November 2014
+- https://socket.io/, October 2014
+- https://cookbook.mongodb.org/, September 2014
+- https://datatables.net/, August 2014
+- https://floating-point-gui.de/errors/comparison/, July 2014
+- https://aurelienb.pagesperso-orange.fr/HTML/transports/obli_UIC.htm, June 2014
+- https://university.mongodb.com/, May 2014
+- https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/, April 2014
+- https://learnvimscriptthehardway.stevelosh.com/, February 2014
+
+##### 2013
+- https://37signals.com/svn/posts/2666-the-story-of-polaroid-inventor-edwin-land-one-of-steve-jobs-biggest-heroes, December 2013
+- https://learnpythonthehardway.org/book/, August 2013
+- http://www.justinaguilar.com/animations/, September 2013
+- https://gitolite.com/gcs/, October 2013
+- https://projecteuler.net/, October 2013
+- https://www.sessions.edu/color-calculator, June 2013
+- https://www.theperfectpalette.com/, June 2013
+- https://www.freepascal.org/, May 2013
+- https://dribbble.com/, May 2013
+- https://www.nngroup.com/articles/which-ux-research-methods/, April 2013
+- https://www.kaikkonendesign.fi/typography/, March 2013
+- https://www.imagemagick.org/Usage/, March 2013
+- https://bradfrost.github.com/this-is-responsive/patterns.html, March 2013
+- https://www.balsamiq.com/products/mockups, February 2013
+
+##### 2012
+- https://sikuli.org/, March 2012
+
+</details>
+
 
 #### 2016
 [back to TOC](#table-of-contents)
 
-##### December 
+##### December
 - [Kevin van Zonneveld - Bash best practices](https://kvz.io/bash-best-practices.html)
 - Paulo Coelho [advices for entrepreneurs](https://paulocoelhoblog.com/2016/11/30/10-success-lessons-from-paulo-coelho-the-alchemist-for-entrepreneurs/)
 
@@ -333,48 +379,6 @@ Their long-term goal is to become an open platform for machine learning research
 
 - [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks.
 
-#### SORT-ME 2010 - 2015
-
-- https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, 1425291426, How we built the new BBC Homepage
-- https://online.wsj.com/article/SB10000872396390443537404577579033271214626.html, 1346240357, How to Be a Better Procrastinator
-- https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/, 1397733636, Amazon and Google are in an epic battle to dominate the cloud
-- https://www.kaikkonendesign.fi/typography/, 1363453594, Interactive Guide to Blog Typography
-- https://bradfrost.github.com/this-is-responsive/patterns.html, 1362326917
-- https://www.sessions.edu/color-calculator, 1370328386, Color Wheel
-- https://www.synthesiagame.com/, 1441017098, Synthesia, Piano for Everyone
-- https://www.theperfectpalette.com/, 1370342365, The Perfect Palette
-- https://www.imagemagick.org/Usage/, 1364216408, ImageMagick v6 Examples
-- https://www.freepascal.org/, 1368433302, Free Pascal - Advanced open source Pascal compiler for Pascal
-- https://university.mongodb.com/, 1399966314, MongoDB University
-- https://cookbook.mongodb.org/index.html, 1411113549, The MongoDB Cookbook
-- https://cordova.apache.org/, 1416324964, Apache Cordova
-- https://livereload.com/, 1433166612, LiveReload
-- https://datatables.net/, 1407916289, Restore state of selected rows
-- https://socket.io/, 1412452264, Socket.IO — Docs
-- https://heliumhq.com/, 1453299136, Web Testing and Automation
-- https://www.invisionapp.com/, 1441016660, In Vision
-- https://marvelapp.com/, 1441101173, Marvel App
-- https://www.cop21.gouv.fr/, 1430138222, COP21 - Conférence des Nations unies sur les changements climatiques
-- https://37signals.com/svn/posts/2666-the-story-of-polaroid-inventor-edwin-land-one-of-steve-jobs-biggest-heroes, 1386687789, The story of Polaroid inventor Edwin Land
-- https://aurelienb.pagesperso-orange.fr/HTML/transports/obli_UIC.htm, 1403972277, SECTION TRANSPORTS FRANCILIENS
-- https://play.elevatorsaga.com/, 1422959391, Elevator Saga
-- https://webcomponents.org/, 1418979397, WebComponents.org
-- https://tails.boum.org/, 1456902924, Tails - Confidentialité et anonymat, pour tous et partout
-- https://www.balsamiq.com/products/mockups, 1361520643, Balsamiq Mockups | Balsamiq
-- https://dribbble.com/, 1368783717, Dribbble
-- https://floating-point-gui.de/errors/comparison/, 1405428046, The Floating-Point Guide - Comparison
-- https://gitolite.com/gcs/index.html, 1382516944, git concepts simplified
-- https://navitia.io/, 1452181365, navitia.io
-- https://projecteuler.net/, 1382361642, Project Euler
-- https://sikuli.org/, 1332407580, Project SIKULI
-- https://www.bpmn.org/, 1415964583, BPMN Specification
-- https://www.browsersync.io/, 1430204677, BrowserSync
-- https://www.developpez.net/forums/d1332555/debats-developpement-best-of/freins-externalisation-du-developpement-logiciel/, 1369982863, Les freins de l'externalisation du développement logiciel
-- https://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html, 1439671953, What's the Go language really good for
-- http://www.justinaguilar.com/animations/, 1378765122, Justin Aguilar
-- https://www.nngroup.com/articles/which-ux-research-methods/, 1365749005, When to Use Which User Experience Research Methods
-
-
 #### 2012
 [back to TOC](#table-of-contents)
 
@@ -411,7 +415,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/22404360-the-pragmatic-programmer"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431877962l/22404360._SX318_.jpg" width=100 alt="Hunt"/></a>
   <a href="https://www.goodreads.com/book/show/955406.Exceptional_C_"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348375990l/955406.jpg" width=100 alt="Sutter"/></a>
   <a href="https://www.goodreads.com/book/show/2028395.Applied_Geometry_for_Computer_Graphics_and_CAD"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348778346l/2028395.jpg" width=100 alt="Marsh"/></a>
-  <a href="https://www.goodreads.com/book/show/8910666-eloquent-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308260856l/8910666.jpg" width=100 alt="Haverbeke"/></a> 
+  <a href="https://www.goodreads.com/book/show/8910666-eloquent-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308260856l/8910666.jpg" width=100 alt="Haverbeke"/></a>
 </div>
 
 <div align="center">
@@ -419,7 +423,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/44936.Refactoring"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg" width=100 alt="Fowler"/></a>
   <a href="https://www.goodreads.com/book/show/4845.Code_Complete"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845.jpg" width=100 alt="McConnell"/></a>
   <a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442460745l/840._SY475_.jpg" width=100 alt="Norman"/></a>
-  <a href="https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294497489l/6593810.jpg" width=100 alt="Lipovaca"/></a> 
+  <a href="https://www.goodreads.com/book/show/6593810-learn-you-a-haskell-for-great-good"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294497489l/6593810.jpg" width=100 alt="Lipovaca"/></a>
 </div>
 
 <div align="center">
@@ -427,7 +431,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/28129434-les-coulisses-de-la-cr-ation"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449559205l/28129434._SY475_.jpg" width=100 alt="Villani"/></a>
   <a href="https://www.goodreads.com/book/show/36654771-th-or-me-vivant"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511553346l/36654771._SX318_.jpg" width=100 alt="Villani"/></a>
   <a href="https://www.goodreads.com/book/show/814670.On_Painting"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327302825l/814670.jpg" width=100 alt="Alberti"/></a>
-  <a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348133732l/627206.jpg" width=100 alt="Edwards"/></a> 
+  <a href="https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348133732l/627206.jpg" width=100 alt="Edwards"/></a>
 </div>
 
 <div align="center">
@@ -435,7 +439,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/1784809.L_il_et_l_Esprit"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356109828l/1784809.jpg" width=100 alt="Merleau-Ponty"/></a>
   <a href="https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415816873l/23463279.jpg" width=100 alt="Kleppman"/></a>
   <a href="https://www.goodreads.com/book/show/17623632-functional-javascript"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369869527l/17623632.jpg" width=100 alt="Fogus"/></a>
-  <a href="https://www.goodreads.com/book/show/36264010-l-art"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766677l/36264010._SX318_.jpg" width=100 alt="Rodin"/></a> 
+  <a href="https://www.goodreads.com/book/show/36264010-l-art"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766677l/36264010._SX318_.jpg" width=100 alt="Rodin"/></a>
 </div>
 
 <div align="center">
@@ -443,7 +447,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/27968891-site-reliability-engineering"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459115220l/27968891.jpg" width=100 alt="Beyer"/></a>
   <a href="https://www.goodreads.com/book/show/11095533-lost-in-management"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330373890l/11095533.jpg" width=100 alt="Dupuy"/></a>
   <a href="https://www.goodreads.com/book/show/8913542-23-things-they-don-t-tell-you-about-capitalism"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316738602l/8913542.jpg" width=100 alt="Chang"/></a>
-  <a href="https://www.goodreads.com/book/show/36502238-le-ons-de-danse-le-ons-de-vie"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509357303l/36502238._SY475_.jpg" width=100 alt="Byars"/></a> 
+  <a href="https://www.goodreads.com/book/show/36502238-le-ons-de-danse-le-ons-de-vie"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509357303l/36502238._SY475_.jpg" width=100 alt="Byars"/></a>
 </div>
 
 <div align="center">
@@ -451,7 +455,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/32296102-advanced-analytics-with-spark"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489056291l/32296102.jpg" width=100 alt="Ryza"/></a>
   <a href="https://www.goodreads.com/book/show/29094511-amazon-web-services-in-action"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455470628l/29094511._SX318_.jpg" width=100 alt="Wittig"/></a>
   <a href="https://www.goodreads.com/book/show/17573570-java-se8-for-the-really-impatient"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387767521l/17573570.jpg" width=100 alt="Horstmann"/></a>
-  <a href="https://www.goodreads.com/book/show/36647421-learning-how-to-learn"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511443712l/36647421._SY475_.jpg" width=100 alt="Oakley"/></a> 
+  <a href="https://www.goodreads.com/book/show/36647421-learning-how-to-learn"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511443712l/36647421._SY475_.jpg" width=100 alt="Oakley"/></a>
 </div>
 
 <div align="center">
@@ -459,7 +463,7 @@ Their long-term goal is to become an open platform for machine learning research
   <a href="https://www.goodreads.com/book/show/32899495-hands-on-machine-learning-with-scikit-learn-and-tensorflow"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478536137l/32899495._SX318_.jpg" width=100 alt="Geron"/></a>
   <a href="https://www.goodreads.com/book/show/42832585-graph-algorithms"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553103782l/42832585.jpg" width=100 alt="Hodler"/></a>
   <a href="https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387741681l/108986.jpg" width=100 alt="Cormen"/></a>
-  <a href="https://www.goodreads.com/book/show/9744812-flourish"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435373984l/9744812._SX318_.jpg" width=100 alt="Seligman"/></a> 
+  <a href="https://www.goodreads.com/book/show/9744812-flourish"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435373984l/9744812._SX318_.jpg" width=100 alt="Seligman"/></a>
 </div>
 
 ### Blogs and Podcasts
@@ -578,6 +582,7 @@ Their long-term goal is to become an open platform for machine learning research
 - https://developers.facebook.com/blog/
 - https://engineeringblog.yelp.com
 - https://michaelfeathers.typepad.com
+- https://addyosmani.com/
 
 ##### Programming languages
 
@@ -640,7 +645,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [`jgthms/bulma`](https://github.com/jgthms/bulma)
 - [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 
-#### SORT-ME - Old JS Links
+#### SORT-ME
+
+<details>
+
+Old JS links
 
 - [`actions-on-google/apiai-facts-about-google-nodejs`](https://github.com/actions-on-google/apiai-facts-about-google-nodejs)
 - [`actions-on-google/apiai-number-genie-nodejs`](https://github.com/actions-on-google/apiai-number-genie-nodejs)
@@ -887,6 +896,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [`wooorm/retext`](https://github.com/wooorm/retext)
 - [`Yelp/bravado`](https://github.com/Yelp/bravado)
 - [`zshamrock/dynocsv`](https://github.com/zshamrock/dynocsv)
+
+</details>
 
 #### JavaScript
 [back to TOC](#table-of-contents)
