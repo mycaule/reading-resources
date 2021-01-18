@@ -55,7 +55,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Update my blog with interesting contents based on what is here and my gists
 - Write a small project in Go language using one of [the libraries below]((#go-and-other-hot-languages))
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
-- Most exciting things of 2020: https://mediapipe.dev, https://idyll-lang.org/
+- Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
 #### 2020
 [back to TOC](#table-of-contents)
@@ -65,14 +65,16 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [Google Analytics academy](https://analytics.google.com/analytics/academy/) online course to keep on track with Google Analytics
 - [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - [Slack Deletron](https://slackdeletron.com)
-- [Tips on how to secure](https://github.com/forter/security-101-for-saas-startups/blob/english/security.md) your company quickly
+- [Tips on how to secure](https://github.com/forter/security-101-for-saas-startups/blob/english/security.md) your company quickly and the [MITRE Attack](https://attack.mitre.org) framework
 - Great post on how to do [code reviews the right way](https://mtlynch.io/code-review-love/)
 - [Financial Times - Visual Vocabulary](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
+- [Color Lisa](http://www.colorlisa.com/) has palettes from great designers
 
 ##### November
 
 - [Open Fisca](https://openfisca.org/fr), [Etalab repository](https://github.com/etalab) and [Github for governments](https://government.github.com/community/) has plenty of resources for checking open source governmental algorithms
 - Deepmind : one documentary on [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y), Lex Fridman about the advances of [Alphafold2](https://www.youtube.com/watch?v=W7wJDJ56c88)
+- [French government typography](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie)
 
 ##### October
 
@@ -142,12 +144,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [Tencent ML Images / Dictionary and semantic hierarchy](https://github.com/Tencent/tencent-ml-images/blob/master/data/dictionary_and_semantic_hierarchy.txt)
 - [Tensorflow / TensorFlow Serving with Docker](https://www.tensorflow.org/tfx/serving/docker) and [AWS Deep Learning AMI / Tensorflow Serving](https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-tfserving.html) to have alternatives ways to run Tensorflow serving locally or on AWS
 - [TensorBoard.dev](https://tensorboard.dev/) to share experiments results with stakeholders and project managers.
-- [Chrome Extension - URL Rewriter](https://chrome.google.com/webstore/detail/url-rewriter/gpbblpbcnjdnnjdcdclojoonfmpoionh)
+- [Chrome Extension - URL Rewriter](https://chrome.google.com/webstore/detail/url-rewriter/gpbblpbcnjdnnjdcdclojoonfmpoionh) lets you rewirte `^(http[s]?\:\/\/)(en\.)(wikipedia\.org.*)$` to replace group number 2 by `en.m.`
 - Inspiring open source initiatives: [Deezer](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e), [Google Jigsaw](https://medium.com/the-false-positive/creating-labeled-datasets-and-exploring-the-role-of-human-raters-56367b6db298)
 
 ##### September
 - [Pierre Courtiol @ Collège de France - S'attaquer à une compétition de machine learning](https://www.college-de-france.fr/site/stephane-mallat/seminar-2018-02-21-11h15.htm) about tricks to make models perform better and win Kaggle competitions
 - [NHK World - 10 Years with Hayao Miyazaki](https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/10yearshayaomiyazaki/)
+- [Data journalism handbook](https://datajournalismhandbook.net/)
 
 ##### March
 
@@ -164,6 +167,7 @@ Their long-term goal is to become an open platform for machine learning research
 - How to secure your [AWS insfrastructure](https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf)
 - Some survival CLI tools for Hadoop on AWS: [awslogs](https://github.com/jorgebastida/awslogs), [hdfs dfs](https://hadoop.apache.org/docs/r2.4.1/hadoop-project-dist/hadoop-common/FileSystemShell.html), [htop](https://github.com/hishamhm/htop)
 - Doing data engineering on Microsoft environment: [glances](https://github.com/nicolargo/glances), [mssql-scripter](https://github.com/Microsoft/mssql-scripter), [mssql-tools](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view%3Dsql-server-2017), [visidata](https://github.com/saulpw/visidata/), [Azure Data Studio](https://github.com/Microsoft/azuredatastudio), [DBeaver](https://dbeaver.io/)
+- [Building Scala libraries](https://guides.gradle.org/building-scala-libraries/) with Gradle
 
 #### 2018
 [back to TOC](#table-of-contents)
@@ -180,6 +184,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [EC2 Instances](https://www.ec2instances.info/)
 - [The beauty of constraints in engineering](https://kottke.org/18/06/the-beauty-of-constraints-in-engineering)
 - Learning Spark with [Coursera](https://www.coursera.org/learn/scala-spark-big-data) and [Heather Miller](https://heather.miller.am/blog/launching-a-spark-cluster-part-2.html)
+- [Command line fu](https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes)
 
 ##### March
 - [John Bates, Anthony Joseph - Data Science and Engineering with Spark](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
@@ -200,36 +205,19 @@ Their long-term goal is to become an open platform for machine learning research
 - [OWASP Foundation - OWASP Top 10](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%2528en%2529.pdf.pdf)
 - [Andrew Ng - Machine learning](https://www.coursera.org/learn/machine-learning)
 - [Jerome Friedman - The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [Amy Brown - The architecture of open source applications](https://aosabook.org/en/)
 
 ##### March
 - [AWS Whitepapers](https://aws.amazon.com/fr/whitepapers/)
 - [Franz](https://meetfranz.com/)
 - [Postman](https://www.getpostman.com/)
-
+- https://students.brown.edu/seeing-theory/, March 2017
 
 #### SORT-ME
 
 <details>
 
 Old bookmarks
-
-##### 2020
-- http://www.colorlisa.com/, December 2020
-- https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie, November 2020
-
-##### 2019
-- https://datajournalismhandbook.net/, April 2019
-- https://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel, May 2019
-- https://guides.gradle.org/building-scala-libraries/, January 2019
-
-##### 2018
-- https://www.commandlinefu.com/commands/matching/aws/YXdz/sort-by-votes, October 2018
-- https://databricks.gitbooks.io/databricks-spark-knowledge-base/, May 2018
-
-##### 2017
-- https://aosabook.org/en/, October 2017
-- https://taskwarrior.org/, October 2017
-- https://students.brown.edu/seeing-theory/, March 2017
 
 ##### 2016
 
@@ -263,25 +251,6 @@ Old bookmarks
 - https://university.mongodb.com/, May 2014
 - https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/, April 2014
 - https://learnvimscriptthehardway.stevelosh.com/, February 2014
-
-##### 2013
-- https://37signals.com/svn/posts/2666-the-story-of-polaroid-inventor-edwin-land-one-of-steve-jobs-biggest-heroes, December 2013
-- https://learnpythonthehardway.org/book/, August 2013
-- http://www.justinaguilar.com/animations/, September 2013
-- https://gitolite.com/gcs/, October 2013
-- https://projecteuler.net/, October 2013
-- https://www.sessions.edu/color-calculator, June 2013
-- https://www.theperfectpalette.com/, June 2013
-- https://www.freepascal.org/, May 2013
-- https://dribbble.com/, May 2013
-- https://www.nngroup.com/articles/which-ux-research-methods/, April 2013
-- https://www.kaikkonendesign.fi/typography/, March 2013
-- https://www.imagemagick.org/Usage/, March 2013
-- https://bradfrost.github.com/this-is-responsive/patterns.html, March 2013
-- https://www.balsamiq.com/products/mockups, February 2013
-
-##### 2012
-- https://sikuli.org/, March 2012
 
 </details>
 
@@ -365,6 +334,7 @@ Old bookmarks
 
 ###### September
 - Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
+- [CSS animations cheatsheet](http://www.justinaguilar.com/animations/), [Git concepts simplified](https://gitolite.com/gcs), [Project Euler](https://projecteuler.net/)
 
 ###### June
 
@@ -373,11 +343,7 @@ Old bookmarks
 ##### April
 
 - Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book. Julie Zhuo (Facebook) post [was also a must see](https://medium.com/the-year-of-the-looking-glass/the-future-of-design-in-technology-fe1697e5826).
-- [Hack Design](https://hackdesign.org/) also follows the newsletter format
-
-##### February
-
-- [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks.
+- [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks, [Balsamiq](https://www.balsamiq.com/) for wireframes, [Dribble](https://dribbble.com/).
 
 #### 2012
 [back to TOC](#table-of-contents)
@@ -665,34 +631,12 @@ Old JS links
 - [`hapijs/joi`](https://github.com/hapijs/joi)
 - [`jshint/jshint`](https://github.com/jshint/jshint)
 - [`zemirco/lockit`](https://github.com/zemirco/lockit)
-- https://www.npmjs.com/package/david
-- https://www.npmjs.com/package/jscpd
-- https://www.npmjs.com/package/json-markup
-- https://www.npmjs.com/package/node-windows
-- https://www.npmjs.com/package/supertest
-- https://www.npmjs.org/package/browserify
-- https://www.npmjs.org/package/checkdns
-- https://www.npmjs.org/package/forever-monitor
-- https://www.npmjs.org/package/ghost
-- https://www.npmjs.org/package/node-pushserver
-- https://www.npmjs.org/package/plato
-- https://www.npmjs.org/package/ssml
-- https://www.npmjs.org/package/urban-airship
-- https://www.npmjs.com/package/aws-sdk
-- https://www.npmjs.com/package/broadway
-- https://www.npmjs.com/package/couchbase
-- https://www.npmjs.com/package/fasttext-node
-- https://www.npmjs.com/package/firebase
-- https://www.npmjs.com/package/hexo
-- https://www.npmjs.com/package/johnny-five
-- https://www.npmjs.com/package/kue
-- https://www.npmjs.com/package/openweather
-- https://www.npmjs.com/package/postcss
-- https://www.npmjs.com/package/rewire
-- https://www.npmjs.com/package/slack
-- https://www.npmjs.org/package/nodemon
-- https://www.npmjs.org/package/nvm
-- https://www.npmjs.org/package/stream-adventure
+- [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost)
+- [`hexojs/hexo`](https://github.com/hexojs/hexo)
+- [`rwaldron/johnny-five`](https://github.com/rwaldron/johnny-five)
+- [`Automattic/kue`](https://github.com/Automattic/kue)
+- [`postcss/postcss`](https://github.com/postcss/postcss)
+- [`nvm-sh/nvm`](https://github.com/nvm-sh/nvm)
 - [`actions/example-services`](https://github.com/actions/example-services)
 - [`agershun/alasql`](https://github.com/agershun/alasql)
 - [`alanbsmith/react-router-example`](https://github.com/alanbsmith/react-router-example)
@@ -760,7 +704,6 @@ Old JS links
 - [`MariaLetta/free-gophers-pack`](https://github.com/MariaLetta/free-gophers-pack)
 - [`graysky2/xscreensaver-aerial/`](https://github.com/graysky2/xscreensaver-aerial/)
 - [`guptarohit/asciigraph`](https://github.com/guptarohit/asciigraph)
-- [`huggingface/transformers#Quick-tour-TF-20-training-and-PyTorch-interoperability`](https://github.com/huggingface/transformers#Quick-tour-TF-20-training-and-PyTorch-interoperability)
 - [`humanwhocodes/computer-science-in-javascript`](https://github.com/humanwhocodes/computer-science-in-javascript)
 - [`ibaaj/awesome-OpenSourcePhotography`](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [`igorbarinov/awesome-data-engineering`](https://github.com/igorbarinov/awesome-data-engineering)
@@ -866,9 +809,6 @@ Old JS links
 - [`skale-me/skale-engine`](https://github.com/skale-me/skale-engine)
 - [`Slava/tern-meteor`](https://github.com/Slava/tern-meteor)
 - [`smallwins/spacetime`](https://github.com/smallwins/spacetime)
-- [`softwaremill/codebrag`](https://github.com/softwaremill/codebrag)
-- [`softwaremill/recursion-training`](https://github.com/softwaremill/recursion-training)
-- [`softwaremill/sbt-softwaremill`](https://github.com/softwaremill/sbt-softwaremill)
 - [`spikebrehm/isomorphic-tutorial`](https://github.com/spikebrehm/isomorphic-tutorial)
 - [`squaremo/amqp.node`](https://github.com/squaremo/amqp.node)
 - [`sryza/spark-timeseries`](https://github.com/sryza/spark-timeseries)
@@ -1200,6 +1140,9 @@ Old JS links
 - [`scalacenter/scastie`](https://github.com/scalacenter/scastie)
 - [`scalanlp/breeze`](https://github.com/scalanlp/breeze)
 - [`scalatra/scalatra-in-action`](https://github.com/scalatra/scalatra-in-action)
+- [`softwaremill/codebrag`](https://github.com/softwaremill/codebrag)
+- [`softwaremill/recursion-training`](https://github.com/softwaremill/recursion-training)
+- [`softwaremill/sbt-softwaremill`](https://github.com/softwaremill/sbt-softwaremill)
 - [`spotify/big-data-rosetta-code`](https://github.com/spotify/big-data-rosetta-code)
 - [`spotify/featran`](https://github.com/spotify/featran)
 - [`ScorexFoundation/Scorex`](https://github.com/ScorexFoundation/Scorex)
