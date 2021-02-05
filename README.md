@@ -64,6 +64,13 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [Using BigTable with Dataflow at Spotify](https://www.youtube.com/watch?v=807uHC0Ia10)
 - [Full stack Deep learning](https://course.fullstackdeeplearning.com) course, includes a full lab on [handwritten text recognition](https://www.youtube.com/playlist?list=PL1T8fO7ArWlfx84Kc1Ke4a3DTGAzwnApV)
 
+#### 2021
+[back to TOC](#table-of-contents)
+
+##### January
+
+- CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
+
 #### 2020
 [back to TOC](#table-of-contents)
 
@@ -361,6 +368,7 @@ Their long-term goal is to become an open platform for machine learning research
 </div>
 
 <div align="center">
+  <a href="https://www.goodreads.com/book/show/22967424-data-science-at-the-command-line"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411919491l/22967424.jpg" width=100 alt="Janssens"/></a>
   <a href="https://www.goodreads.com/book/show/8520610-quiet"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610.jpg" width=100 alt="Cain"/></a>
   <a href="https://www.goodreads.com/book/show/44936.Refactoring"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925632l/44936.jpg" width=100 alt="Fowler"/></a>
   <a href="https://www.goodreads.com/book/show/4845.Code_Complete"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845.jpg" width=100 alt="McConnell"/></a>
