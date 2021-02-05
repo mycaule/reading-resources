@@ -57,6 +57,13 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
+##### January
+
+- [Google research](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html) review of 2020.
+- https://www.theguardian.com/data
+- [Using BigTable with Dataflow at Spotify](https://www.youtube.com/watch?v=807uHC0Ia10)
+- [Full stack Deep learning](https://course.fullstackdeeplearning.com) course, includes a full lab on [handwritten text recognition](https://www.youtube.com/playlist?list=PL1T8fO7ArWlfx84Kc1Ke4a3DTGAzwnApV)
+
 #### 2020
 [back to TOC](#table-of-contents)
 
@@ -213,48 +220,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [Postman](https://www.getpostman.com/)
 - https://students.brown.edu/seeing-theory/, March 2017
 
-#### SORT-ME
-
-<details>
-
-Old bookmarks
-
-##### 2016
-
-- https://math.stackexchange.com/questions/947442, September 2016
-- https://zeke.sikelianos.com/css-from-the-future/, May 2016
-- https://twitter.github.io/effectivescala/, May 2016
-- https://tails.boum.org/, March 2016
-- https://navitia.io/, January 2016
-- https://heliumhq.com/, January 2016
-
-##### 2015
-- https://marvelapp.com/, September 2015
-- https://www.invisionapp.com/, August 2015
-- https://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html, August 2015
-- https://www.synthesiagame.com/, August 2015
-- https://programmers.stackexchange.com/questions/134118, May 2015
-- https://www.browsersync.io/, April 2015
-- https://www.cop21.gouv.fr/, April 2015
-- https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, March 2015
-- https://play.elevatorsaga.com/, February 2015
-
-##### 2014
-- https://webcomponents.org/, December 2014
-- https://www.bpmn.org/, November 2014
-- https://cordova.apache.org/, November 2014
-- https://socket.io/, October 2014
-- https://cookbook.mongodb.org/, September 2014
-- https://datatables.net/, August 2014
-- https://floating-point-gui.de/errors/comparison/, July 2014
-- https://aurelienb.pagesperso-orange.fr/HTML/transports/obli_UIC.htm, June 2014
-- https://university.mongodb.com/, May 2014
-- https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/, April 2014
-- https://learnvimscriptthehardway.stevelosh.com/, February 2014
-
-</details>
-
-
 #### 2016
 [back to TOC](#table-of-contents)
 
@@ -263,17 +228,18 @@ Old bookmarks
 - Paulo Coelho [advices for entrepreneurs](https://paulocoelhoblog.com/2016/11/30/10-success-lessons-from-paulo-coelho-the-alchemist-for-entrepreneurs/)
 
 ##### June
-
 - [Vincent Driessen - A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Peter Cottle - Learn git branching](https://learngitbranching.js.org)
+- [CSS from the future](https://zeke.sikelianos.com/css-from-the-future/)
+- [Twitter's effective Scala](https://twitter.github.io/effectivescala/) guidelines
 
 ##### March
-
 - [Scala Exercises](https://www.scala-exercises.org/) is a good website to learn Scala interactively.
+- [Tails](https://tails.boum.org/) is a USB operating system to preserve privacy.
 
 ##### January
-
 - [Jonathan Boyer - Comprendre Git](https://www.grafikart.fr/formations/git)
+- https://navitia.io/
 
 #### 2015
 [back to TOC](#table-of-contents)
@@ -292,9 +258,14 @@ Old bookmarks
 - [Achemine](https://brunobernard.com/work/achemine/), SNCF font in train stations
 - According to CNRS, [Maths are doping the French economy](https://lejournal.cnrs.fr/articles/les-maths-dopent-leconomie-francaise)
 
-##### January
+##### September
+- [Marvel](https://marvelapp.com/), [Invision](https://www.invisionapp.com/)
+- [What's the Go language really good for](https://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html)
 
+##### March
 - [The Twelve-Factor App](https://12factor.net/)
+- https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, March 2015
+- [Elevator Saga](https://play.elevatorsaga.com/) for learning JavaScript
 
 #### 2014
 [back to TOC](#table-of-contents)
@@ -317,6 +288,11 @@ Old bookmarks
 - [Learn you a Haskell](http://learnyouahaskell.com/modules), one colleague told me about Haskell, "it is like maths you will like it".
 - [enable cross-origin resource sharing](https://enable-cors.org/)
 - [Inside DuckDuckGo](https://www.fastcompany.com/3026698/inside-duckduckgo-googles-tiniest-fiercest-competitor)
+- Resources for learning MongoDB: https://university.mongodb.com/, https://cookbook.mongodb.org/
+- https://datatables.net/
+- [AWS vs GCP](https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/)
+- https://learnvimscriptthehardway.stevelosh.com/
+
 
 #### 2013
 [back to TOC](#table-of-contents)
@@ -479,6 +455,7 @@ Old bookmarks
 - http://cloudblog.withgoogle.com/products/data-analytics
 - [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
 - [Datadog](https://www.datadoghq.com/blog/)
+- [The Guardian](https://www.theguardian.com/data)
 
 ##### Web design
 
@@ -994,7 +971,7 @@ Old JS links
 - [`PrismJS/prism`](https://github.com/PrismJS/prism)
 
 ###### Testing
-
+- [`Browsersync/browser-sync`](https://github.com/Browsersync/browser-sync)
 - [`facebook/jest`](https://github.com/facebook/jest)
 - [`getgauge/taiko`](https://github.com/getgauge/taiko)
 - [`microsoft/playwright`](https://github.com/microsoft/playwright)
@@ -1002,26 +979,24 @@ Old JS links
 - [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
 
 ###### Frontend
-
 - [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
 
 ###### Backend
-
 - [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
 - [`mongo-express/mongo-express`](https://github.com/mongo-express/mongo-express)
 - [`mrvautin/expressCart`](https://github.com/mrvautin/expressCart)
 - [`pnxtech/hydra`](https://github.com/pnxtech/hydra)
+- [`prisma-labs/graphql-prisma-typescript`](https://github.com/prisma-labs/graphql-prisma-typescript)
 - [`TravelingTechGuy/express4-passport-template`](https://github.com/TravelingTechGuy/express4-passport-template)
 - [`vercel/micro`](https://github.com/vercel/micro)
 
 ###### Data engineering
-
 - [`alibaba/pipcook`](https://github.com/alibaba/pipcook)
 - [`pilwon/node-google-finance`](https://github.com/pilwon/node-google-finance)
+- [`proj4js/proj4js`](https://github.com/proj4js/proj4js)
 - [`Turfjs/turf`](https://github.com/Turfjs/turf)
 
 ###### Safer JS
-
 - [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`airbnb/javascript`](https://github.com/airbnb/javascript)
 - [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
@@ -1036,7 +1011,6 @@ Old JS links
 - [`z-pattern-matching/z`](https://github.com/z-pattern-matching/z)
 
 ###### Tensorflow.js
-
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
@@ -1056,13 +1030,11 @@ Old JS links
 - [`yemount/pose-animator`](https://github.com/yemount/pose-animator)
 
 ##### File formats
-
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
 - [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
 - [`RussCoder/djvujs`](https://github.com/RussCoder/djvujs)
 
 ##### Multimedia
-
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
 
@@ -1197,42 +1169,24 @@ Old JS links
 #### Python
 [Bbck to TOC](#table-of-contents)
 
+##### Machine Learning
+
 - [`8080labs/pyforest`](https://github.com/8080labs/pyforest)
-- [`addok/addok`](https://github.com/addok/addok)
-- [`alegrand/SMPE`](https://github.com/alegrand/SMPE)
 - [`alexjc/neural-enhance`](https://github.com/alexjc/neural-enhance)
 - [`ankush-me/SynthText`](https://github.com/ankush-me/SynthText)
-- [`apache/airflow`](https://github.com/apache/airflow)
 - [`apache/incubator-mxnet`](https://github.com/apache/incubator-mxnet)
-- [`apache/incubator-superset`](https://github.com/apache/incubator-superset)
 - [`argman/EAST`](https://github.com/argman/EAST)
-- [`astronomer/airflow-guides`](https://github.com/astronomer/airflow-guides)
-- [`austin-taylor/code-vault`](https://github.com/austin-taylor/code-vault)
-- [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
 - [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
-- [`aws/chalice`](https://github.com/aws/chalice)
 - [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- [`BasPH/data-pipelines-with-apache-airflow`](https://github.com/BasPH/data-pipelines-with-apache-airflow)
-- [`berdario/pew`](https://github.com/berdario/pew)
 - [`biubug6/Face-Detector-1MB-with-landmark`](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
-- [`bokeh/bokeh`](https://github.com/bokeh/bokeh)
-- [`celery/celery`](https://github.com/celery/celery)
 - [`clovaai/CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch)
 - [`clovaai/deep-text-recognition-benchmark`](https://github.com/clovaai/deep-text-recognition-benchmark)
-- [`codelucas/newspaper`](https://github.com/codelucas/newspaper)
-- [`connorferster/handcalcs`](https://github.com/connorferster/handcalcs)
-- [`CoreyMSchafer/code_snippets`](https://github.com/CoreyMSchafer/code_snippets)
-- [`cquest/dvf_as_api`](https://github.com/cquest/dvf_as_api)
 - [`dask/dask-tutorial`](https://github.com/dask/dask-tutorial)
 - [`dask/dask`](https://github.com/dask/dask)
-- [`DaveParr/snakes_and_lambdas`](https://github.com/DaveParr/snakes_and_lambdas)
 - [`davidsandberg/facenet`](https://github.com/davidsandberg/facenet)
-- [`dbader/schedule`](https://github.com/dbader/schedule)
 - [`deepmind/kinetics-i3d`](https://github.com/deepmind/kinetics-i3d)
 - [`deezer/spleeter`](https://github.com/deezer/spleeter)
-- [`Delgan/loguru`](https://github.com/Delgan/loguru)
 - [`dennybritz/nn-from-scratch`](https://github.com/dennybritz/nn-from-scratch)
-- [`devitrylouis/imaging_time_series`](https://github.com/devitrylouis/imaging_time_series)
 - [`dmlc/gluon-cv`](https://github.com/dmlc/gluon-cv)
 - [`dmlc/treelite`](https://github.com/dmlc/treelite)
 - [`dmlc/xgboost`](https://github.com/dmlc/xgboost)
@@ -1244,21 +1198,14 @@ Old JS links
 - [`facebookresearch/VideoPose3D`](https://github.com/facebookresearch/VideoPose3D)
 - [`fastai/fastai`](https://github.com/fastai/fastai)
 - [`fastai/fastpages`](https://github.com/fastai/fastpages)
-- [`fivethirtyeight/data`](https://github.com/fivethirtyeight/data)
 - [`flairNLP/flair`](https://github.com/flairNLP/flair)
-- [`flotpython/course`](https://github.com/flotpython/course)
 - [`GoogleCloudPlatform/ai-platform-samples`](https://github.com/GoogleCloudPlatform/ai-platform-samples)
 - [`GoogleCloudPlatform/data-science-on-gcp`](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
-- [`GoogleCloudPlatform/getting-started-python`](https://github.com/GoogleCloudPlatform/getting-started-python)
 - [`GoogleCloudPlatform/ml-design-patterns`](https://github.com/GoogleCloudPlatform/ml-design-patterns)
-- [`GoogleCloudPlatform/python-docs-samples`](https://github.com/GoogleCloudPlatform/python-docs-samples)
 - [`GoogleCloudPlatform/realtime-embeddings-matching`](https://github.com/GoogleCloudPlatform/realtime-embeddings-matching)
-- [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations)
-- [`grycap/scar`](https://github.com/grycap/scar)
 - [`hill-a/stable-baselines`](https://github.com/hill-a/stable-baselines)
 - [`idealo/image-super-resolution`](https://github.com/idealo/image-super-resolution)
 - [`idealo/imagededup`](https://github.com/idealo/imagededup)
-- [`irmen/Pyrolite`](https://github.com/irmen/Pyrolite)
 - [`ismir/mir-datasets`](https://github.com/ismir/mir-datasets)
 - [`jakevdp/PythonDataScienceHandbook`](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [`karpathy/neuraltalk2`](https://github.com/karpathy/neuraltalk2)
@@ -1267,8 +1214,6 @@ Old JS links
 - [`kymatio/kymatio`](https://github.com/kymatio/kymatio)
 - [`laurenshareshian/home_price_estimator`](https://github.com/laurenshareshian/home_price_estimator)
 - [`MBKraus/Predicting_real_estate_prices_using_scikit-learn`](https://github.com/MBKraus/Predicting_real_estate_prices_using_scikit-learn)
-- [`m2dsupsdlclass/lectures-labs`](https://github.com/m2dsupsdlclass/lectures-labs)
-- [`MarcSkovMadsen/awesome-streamlit`](https://github.com/MarcSkovMadsen/awesome-streamlit)
 - [`MhLiao/TextBoxes_plusplus`](https://github.com/MhLiao/TextBoxes_plusplus)
 - [`microsoft/CNTK`](https://github.com/microsoft/CNTK)
 - [`microsoft/DMTK`](https://github.com/microsoft/DMTK)
@@ -1276,24 +1221,8 @@ Old JS links
 - [`microsoft/LightGBM`](https://github.com/microsoft/LightGBM)
 - [`microsoft/recommenders`](https://github.com/microsoft/recommenders)
 - [`mittagessen/kraken`](https://github.com/mittagessen/kraken)
-- [`mlflow/mlflow`](https://github.com/mlflow/mlflow)
-- [`Netflix/metaflow`](https://github.com/Netflix/metaflow)
-- [`norvig/pytudes`](https://github.com/norvig/pytudes)
 - [`nok/sklearn-porter`](https://github.com/nok/sklearn-porter)
-- [`nteract/hydrogen`](https://github.com/nteract/hydrogen)
-- [`nteract/nteract`](https://github.com/nteract/nteract)
-- [`postmanlabs/postman-code-generators`](https://github.com/postmanlabs/postman-code-generators)
-- [`powdahound/ec2instances.info`](https://github.com/powdahound/ec2instances.info)
-- [`prisma-labs/graphql-prisma-typescript`](https://github.com/prisma-labs/graphql-prisma-typescript)
-- [`probmods/webppl`](https://github.com/probmods/webppl)
-- [`probot/probot`](https://github.com/probot/probot)
-- [`proj4js/proj4js`](https://github.com/proj4js/proj4js)
-- [`openfisca/openfisca-france`](https://github.com/openfisca/openfisca-france)
-- [`openfisca/openfisca-paris`](https://github.com/openfisca/openfisca-paris)
 - [`optimizely/hyperloglog`](https://github.com/optimizely/hyperloglog)
-- [`postmanlabs/httpbin`](https://github.com/postmanlabs/httpbin)
-- [`PrefectHQ/prefect`](https://github.com/PrefectHQ/prefect)
-- [`pypa/pipenv`](https://github.com/pypa/pipenv)
 - [`pytorch/fairseq`](https://github.com/pytorch/fairseq)
 - [`pytorch/serve`](https://github.com/pytorch/serve)
 - [`random-forests/tutorials`](https://github.com/random-forests/tutorials)
@@ -1301,32 +1230,62 @@ Old JS links
 - [`rohitrango/automatic-watermark-detection`](https://github.com/rohitrango/automatic-watermark-detection)
 - [`Rudrabha/Lip2Wav`](https://github.com/Rudrabha/Lip2Wav)
 - [`ryansmcgee/seirsplus`](https://github.com/ryansmcgee/seirsplus)
-- [`saulpw/visidata`](https://github.com/saulpw/visidata)
-- [`sgratzl/slack_cleaner2`](https://github.com/sgratzl/slack_cleaner2)
-- [`simonw/datasette`](https://github.com/simonw/datasette)
 - [`spotify/annoy`](https://github.com/spotify/annoy)
 - [`statsmodels/statsmodels`](https://github.com/statsmodels/statsmodels)
-- [`STIXProject/python-stix`](https://github.com/STIXProject/python-stix)
-- [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
-- [`taoufik07/responder`](https://github.com/taoufik07/responder)
 - [`terryum/awesome-deep-learning-papers`](https://github.com/terryum/awesome-deep-learning-papers)
 - [`thekevinscott/ml-classifier-ui`](https://github.com/thekevinscott/ml-classifier-ui)
 - [`ThilinaRajapakse/simpletransformers`](https://github.com/ThilinaRajapakse/simpletransformers)
-- [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
 - [`tzutalin/labelImg`](https://github.com/tzutalin/labelImg)
 - [`zalandoresearch/fashion-mnist`](https://github.com/zalandoresearch/fashion-mnist)
 - [`yahoo/open_nsfw`](https://github.com/yahoo/open_nsfw)
 - [`wangzheallen/awesome-human-pose-estimation`](https://github.com/wangzheallen/awesome-human-pose-estimation)
-- [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
-- [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
 - [`vijishmadhavan/ArtLine`](https://github.com/vijishmadhavan/ArtLine)
 - [`ray-project/ray`](https://github.com/ray-project/ray)
+
+##### Visualization
+
+- [`bokeh/bokeh`](https://github.com/bokeh/bokeh)
+- [`connorferster/handcalcs`](https://github.com/connorferster/handcalcs)
+
+##### Automation
+
+- [`apache/airflow`](https://github.com/apache/airflow)
+- [`astronomer/airflow-guides`](https://github.com/astronomer/airflow-guides)
+- [`BasPH/data-pipelines-with-apache-airflow`](https://github.com/BasPH/data-pipelines-with-apache-airflow)
+- [`celery/celery`](https://github.com/celery/celery)
+- [`CoreyMSchafer/code_snippets`](https://github.com/CoreyMSchafer/code_snippets)
+- [`dbader/schedule`](https://github.com/dbader/schedule)
+- [`flotpython/course`](https://github.com/flotpython/course)
+- [`GoogleCloudPlatform/getting-started-python`](https://github.com/GoogleCloudPlatform/getting-started-python)
+- [`GoogleCloudPlatform/python-docs-samples`](https://github.com/GoogleCloudPlatform/python-docs-samples)
+- [`mherrmann/selenium-python-helium`](https://github.com/mherrmann/selenium-python-helium)
+- [`mlflow/mlflow`](https://github.com/mlflow/mlflow)
+- [`Netflix/metaflow`](https://github.com/Netflix/metaflow)
+- [`norvig/pytudes`](https://github.com/norvig/pytudes)
+- [`postmanlabs/httpbin`](https://github.com/postmanlabs/httpbin)
+- [`postmanlabs/postman-code-generators`](https://github.com/postmanlabs/postman-code-generators)
+- [`PrefectHQ/prefect`](https://github.com/PrefectHQ/prefect)
+- [`probot/probot`](https://github.com/probot/probot)
+- [`sgratzl/slack_cleaner2`](https://github.com/sgratzl/slack_cleaner2)
+- [`STIXProject/python-stix`](https://github.com/STIXProject/python-stix)
+- [`wavexx/screenkey`](https://github.com/wavexx/screenkey)
+- [`wilfredinni/python-cheatsheet`](https://github.com/wilfredinni/python-cheatsheet)
+
+##### Environment
+
+- [`berdario/pew`](https://github.com/berdario/pew)
+- [`pypa/pipenv`](https://github.com/pypa/pipenv)
 
 ##### Notebooks
 
 - [`airbnb/knowledge-repo`](https://github.com/airbnb/knowledge-repo)
+- [`austin-taylor/code-vault`](https://github.com/austin-taylor/code-vault)
 - [`jupyterlab/jupyterlab`](https://github.com/jupyterlab/jupyterlab)
 - [`donnemartin/data-science-ipython-notebooks`](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [`m2dsupsdlclass/lectures-labs`](https://github.com/m2dsupsdlclass/lectures-labs)
+- [`MarcSkovMadsen/awesome-streamlit`](https://github.com/MarcSkovMadsen/awesome-streamlit)
+- [`nteract/hydrogen`](https://github.com/nteract/hydrogen)
+- [`nteract/nteract`](https://github.com/nteract/nteract)
 - [`riddhishb/ipython-notebooks`](https://github.com/riddhishb/ipython-notebooks)
 - [`streamlit/streamlit`](https://github.com/streamlit/streamlit)
 - [`WillKoehrsen/Bokeh-Python-Visualization`](https://github.com/WillKoehrsen/Bokeh-Python-Visualization)
@@ -1339,6 +1298,32 @@ Old JS links
 - [`google/yapf`](https://github.com/google/yapf)
 - [`psf/black`](https://github.com/psf/black)
 - [`PyCQA/bandit`](https://github.com/PyCQA/bandit)
+
+##### Databases
+
+- [`apache/incubator-superset`](https://github.com/apache/incubator-superset)
+- [`AustinReese/UsedVehicleSearch`](https://github.com/AustinReese/UsedVehicleSearch)
+- [`codelucas/newspaper`](https://github.com/codelucas/newspaper)
+- [`fivethirtyeight/data`](https://github.com/fivethirtyeight/data)
+- [`great-expectations/great_expectations`](https://github.com/great-expectations/great_expectations)
+- [`openfisca/openfisca-france`](https://github.com/openfisca/openfisca-france)
+- [`openfisca/openfisca-paris`](https://github.com/openfisca/openfisca-paris)
+- [`saulpw/visidata`](https://github.com/saulpw/visidata)
+- [`simonw/datasette`](https://github.com/simonw/datasette)
+
+##### Microservices
+
+- [`addok/addok`](https://github.com/addok/addok)
+- [`aws/chalice`](https://github.com/aws/chalice)
+- [`cquest/dvf_as_api`](https://github.com/cquest/dvf_as_api)
+- [`DaveParr/snakes_and_lambdas`](https://github.com/DaveParr/snakes_and_lambdas)
+- [`Delgan/loguru`](https://github.com/Delgan/loguru)
+- [`grycap/scar`](https://github.com/grycap/scar)
+- [`irmen/Pyrolite`](https://github.com/irmen/Pyrolite)
+- [`powdahound/ec2instances.info`](https://github.com/powdahound/ec2instances.info)
+- [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
+- [`taoufik07/responder`](https://github.com/taoufik07/responder)
+- [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
 
 ##### Tensorflow
 
@@ -1486,6 +1471,7 @@ Old JS links
 [back to TOC](#table-of-contents)
 
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
+- [`alegrand/SMPE`](https://github.com/alegrand/SMPE)
 - [`AnthonyCalandra/modern-cpp-features`](https://github.com/AnthonyCalandra/modern-cpp-features)
 - [`astralapp/astral`](https://github.com/astralapp/astral)
 - [`chronoxor/FastBinaryEncoding`](https://github.com/chronoxor/FastBinaryEncoding)
