@@ -18,21 +18,12 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
 - [Blogs](#blogs-and-podcasts)
-  - [Following](#following)
-  - [General news](#general-news)
-  - [Archive](#archive)
+  - [Following](#following) | [General news](#general-news) | [Archive](#archive)
 - [Newsletters](#newsletters)
 - [Online courses](#online-courses)
 - [Repositories](#repos-toolbox-for-work-related-problems)
-  - [CSS](#css)
-  - [Node.js](#javascript)
-  - [Scala](#scala)
-  - [Java](#java)
-  - [Python](#python)
-  - [Go](#go-and-native-languages)
-  - [CLI](#cli)
-  - [DevOps](#devops)
-  - [Security](#security)
+  - [CSS](#css) | [Node.js](#javascript) | [Scala](#scala) | [Java](#java)
+  - [Python](#python) | [Go](#go-and-native-languages) | [CLI](#cli) | [DevOps](#devops) | [Security](#security)
 - [Quotes](#quotes)
 
 ------------------------------
@@ -48,9 +39,11 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 ### Posts and Webapps
 [back to TOC](#table-of-contents)
 
-#### 2021 Objectives
+#### 2021
+[back to TOC](#table-of-contents)
 
-- Follow Lex Fridman Annual state of the art talk, [Full stack Deep learning](https://course.fullstackdeeplearning.com) course
+##### Objectives
+- Follow Lex Fridman Annual state of the art talk
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
 - Write a small project in Go language using one of [the libraries below]((#go-and-other-hot-languages))
@@ -58,24 +51,16 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
 ##### January
-
+- CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
 - [Google research](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html) review of 2020.
 - https://www.theguardian.com/data
 - [Using BigTable with Dataflow at Spotify](https://www.youtube.com/watch?v=807uHC0Ia10)
 - [Full stack Deep learning](https://course.fullstackdeeplearning.com) course, includes a full lab on [handwritten text recognition](https://www.youtube.com/playlist?list=PL1T8fO7ArWlfx84Kc1Ke4a3DTGAzwnApV)
 
-#### 2021
-[back to TOC](#table-of-contents)
-
-##### January
-
-- CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
-
 #### 2020
 [back to TOC](#table-of-contents)
 
 ##### December
-
 - [Google Analytics academy](https://analytics.google.com/analytics/academy/) online course to keep on track with Google Analytics
 - [PlantUML](https://plantuml.com) uses good old UML, I use it at my company [for documentation](https://github.com/mycaule/shape-up-plant-uml/), it also provides a nice [plugin for VSCode](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - [Slack Deletron](https://slackdeletron.com)
@@ -85,50 +70,33 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [Color Lisa](http://www.colorlisa.com/) has palettes from great designers
 
 ##### November
-
 - [Open Fisca](https://openfisca.org/fr), [Etalab repository](https://github.com/etalab) and [Github for governments](https://government.github.com/community/) has plenty of resources for checking open source governmental algorithms
 - Deepmind : one documentary on [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y), Lex Fridman about the advances of [Alphafold2](https://www.youtube.com/watch?v=W7wJDJ56c88)
 - [French government typography](https://www.gouvernement.fr/charte/charte-graphique-les-fondamentaux/la-typographie)
-
-##### October
-
 - [BigQuery book](https://www.goodreads.com/book/show/50204627-google-bigquery), [cheatsheet for window functions](https://datarunsdeep.com.au/blog/cool-things-you-can-do-using-window-functions-bigquery)
 - [dbt](https://www.getdbt.com) is a cool modern tool to manage datawarehouse pipelines saving nights of headaches
 - a16z [emerging data architectures](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - Hacking an API to check if [the McDonald's ice cream machine broken?](https://kottke.org/20/10/is-the-mcdonalds-ice-cream-machine-broken)
 
 ##### July
-
 - [`GoogleCloudPlatform/mlops-on-gcp/`](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/workshops/) has sample bootstrap project of using Kubeflow Pipelines and Argo Workflow. See also [YouTube cast](https://www.youtube.com/watch?v=qx7MLcbCo5g) and the [Pipelines SDK](https://www.kubeflow.org/docs/pipelines/sdk/sdk-overview/)
-
-##### June
-
 - [Srini Devadas and Erik Demaine @ MIT 2011 - Introduction to algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) focuses in general ideas rather than the details. One can refer to [Thomas Cormen et al. book](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) for a comprehensive list of modern algorithms.
 - [Github actions documentation](https://help.github.com/en/actions): is now very mature can help automate some of the things I collected on GitHub and replace old CI systems. Especially it can be used for [ML operations](https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/) see [YouTube cast](https://www.youtube.com/watch?v=Ll50l3fsoYs) and [`actions-ml-cicd`](https://github.com/machine-learning-apps/actions-ml-cicd)
-
-##### May
-
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) covers all the aspects of using Kubernetes in a professional context, has plenty of hands-on labs and code samples to practice.
 
 ##### April
-
 - Corey Schafer video tutorials on Python subjects [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 - [James Powell talks at PyData](https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL) highlights some of the powerful specifics of Python 3, decorators, context managers etc.
 - French research labs INRIA also have interesting courses on techniques they use in biostatistics [Recherche reproductible](https://www.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/info), [Python 3](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/info) emphases research versus software engineering
 - [Covid datapack by InformationIsBeautiful](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)
 
 ##### March
-
 - [Stéphane Mallat @ Collège de France - Modèles multi-échelles et réseaux de neurones convolutifs](https://www.college-de-france.fr/site/stephane-mallat/course-2019-2020.htm): third consecutive year of expert class to be held weekly about Deep Learning
 - [Deep Learning courses @ MIT 2020](https://deeplearning.mit.edu/), the introduction course State of the Art is the most interesting one every year
-
-##### February
-
 - [`photoprism/photoprism`](https://github.com/photoprism/photoprism): Photo Management app powered by Go and TensorFlow.
 Their long-term goal is to become an open platform for machine learning research based on real-world photo collections.
 
 ##### January
-
 - [Laurence Moroney @ Google - Serverless Machine Learning with Tensorflow (course 4 of Data Engineering specialization)](https://www.coursera.org/learn/serverless-machine-learning-gcp?specialization=gcp-data-machine-learning). [Course 3 about Dataflow](https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp?specialization=gcp-data-machine-learning) is also interesting, _ie._ from _Apache Spark_ to _Apache Beam_ like [Spotify did](https://github.com/spotify/scio).
 - [Jeff Dean @ Spark Submit - Large Scale Deep Learning with TensorFlow](https://www.youtube.com/watch?v=XYwIDn00PAo) about convincing the Spark community to use Tensorflow
 - [Laurence Moroney @ Google - Recommendation Systems with TensorFlow on GCP (course 5 of Tensorflow specialization)](https://www.coursera.org/learn/recommendation-models-gcp)
