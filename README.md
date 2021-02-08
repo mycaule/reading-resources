@@ -57,6 +57,8 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [Using BigTable with Dataflow at Spotify](https://www.youtube.com/watch?v=807uHC0Ia10)
 - [Full stack Deep learning](https://course.fullstackdeeplearning.com) course, includes a full lab on [handwritten text recognition](https://www.youtube.com/playlist?list=PL1T8fO7ArWlfx84Kc1Ke4a3DTGAzwnApV)
 
+------------------------------
+
 #### 2020
 [back to TOC](#table-of-contents)
 
@@ -111,6 +113,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [Rakuten multi-model classifier](http://www.college-de-france.fr/video/stephane-mallat/2020/05-sem-mallat-challenge-rakuten-20200122.mp4)
 - [Vox - AI can help find illegal opioid sellers online](https://www.vox.com/recode/2020/1/21/21060680/opioids-artificial-intelligence-illegal-online-pharmacies)
 
+------------------------------
+
 #### 2019
 [back to TOC](#table-of-contents)
 
@@ -151,6 +155,8 @@ Their long-term goal is to become an open platform for machine learning research
 - Doing data engineering on Microsoft environment: [glances](https://github.com/nicolargo/glances), [mssql-scripter](https://github.com/Microsoft/mssql-scripter), [mssql-tools](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-tools?view%3Dsql-server-2017), [visidata](https://github.com/saulpw/visidata/), [Azure Data Studio](https://github.com/Microsoft/azuredatastudio), [DBeaver](https://dbeaver.io/)
 - [Building Scala libraries](https://guides.gradle.org/building-scala-libraries/) with Gradle
 
+------------------------------
+
 #### 2018
 [back to TOC](#table-of-contents)
 
@@ -179,6 +185,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [Kelsey Hightower, Carter Morgan - Scalable microservices](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 - Resources for using Nginx: [Diego Plentz - Nginx configuration for improved security and performance](https://gist.github.com/plentz/6737338), [awesome Nginx](https://github.com/agile6v/awesome-nginx)
 
+------------------------------
+
 #### 2017
 [back to TOC](#table-of-contents)
 
@@ -194,6 +202,8 @@ Their long-term goal is to become an open platform for machine learning research
 - [Franz](https://meetfranz.com/)
 - [Postman](https://www.getpostman.com/)
 - https://students.brown.edu/seeing-theory/, March 2017
+
+------------------------------
 
 #### 2016
 [back to TOC](#table-of-contents)
@@ -215,6 +225,8 @@ Their long-term goal is to become an open platform for machine learning research
 ##### January
 - [Jonathan Boyer - Comprendre Git](https://www.grafikart.fr/formations/git)
 - https://navitia.io/
+
+------------------------------
 
 #### 2015
 [back to TOC](#table-of-contents)
@@ -242,6 +254,8 @@ Their long-term goal is to become an open platform for machine learning research
 - https://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d, March 2015
 - [Elevator Saga](https://play.elevatorsaga.com/) for learning JavaScript
 
+------------------------------
+
 #### 2014
 [back to TOC](#table-of-contents)
 
@@ -268,12 +282,12 @@ Their long-term goal is to become an open platform for machine learning research
 - [AWS vs GCP](https://qz.com/196819/how-amazon-beat-google-attempt-to-dominate-the-cloud-before-it-even-got-started/)
 - https://learnvimscriptthehardway.stevelosh.com/
 
+------------------------------
 
 #### 2013
 [back to TOC](#table-of-contents)
 
 ##### December
-
 - Two articles on the difficulty on being a software engineer, at that time I didn't really want to choose a software career path. [Patrick McKenzie - Don't Call Yourself A Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), [Jeff Atwood - So You Don't Want to be a Programmer After All](http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html).
 - Some Delphi links for the museum, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
@@ -288,13 +302,13 @@ Their long-term goal is to become an open platform for machine learning research
 - [CSS animations cheatsheet](http://www.justinaguilar.com/animations/), [Git concepts simplified](https://gitolite.com/gcs), [Project Euler](https://projecteuler.net/)
 
 ###### June
-
 - On Richard Stallman, [lifestyle](https://framablog.org/2013/06/03/stallman-style-de-vie/), [reasons not to use Google](https://stallman.org/google.html)
 
 ##### April
-
 - Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book. Julie Zhuo (Facebook) post [was also a must see](https://medium.com/the-year-of-the-looking-glass/the-future-of-design-in-technology-fe1697e5826).
 - [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks, [Balsamiq](https://www.balsamiq.com/) for wireframes, [Dribble](https://dribbble.com/).
+
+------------------------------
 
 #### 2012
 [back to TOC](#table-of-contents)
@@ -305,10 +319,10 @@ Their long-term goal is to become an open platform for machine learning research
 - Mechanics courses : [Laurent Champaney](https://savoir.ensam.eu/moodle/course/view.php?id=1555), [Ecoles des Mines](http://mms2.ensmp.fr/ressources/ens_polycopies.php)
 - Two HBR articles annoucing the trend of Big Data that made me change careers [Big Data revolution](https://hbr.org/2012/10/big-data-the-management-revolution), [The sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), [The Economist - The data deluge](https://www.economist.com/node/15579717)
 
+------------------------------
+
 #### 2011
 [back to TOC](#table-of-contents)
-
-##### September
 
 - Steve McConnell - Code complete
 - Herb Sutter - Exceptional C++
@@ -317,6 +331,8 @@ Their long-term goal is to become an open platform for machine learning research
 - Coming from a mechanical engineering background, I also enjoyed _formulaires_-style cheatsheets, [Matthew Miller's for Code Complete](https://www.matthewjmiller.net/files/cc2e_checklists.pdf), [Dave Child on Regular expressions](https://cheatography.com/davechild/cheat-sheets/regular-expressions/), [Design patterns](http://www.webdeveloperjuice.com/demos/cheatsheets/design_pattern_cheatsheet_v1.pdf), [Allen Holub on UML](https://holub.com/uml/). I could also print them in one single piece of paper, which was handy.
 - [Microsoft online documentation](https://msdn.microsoft.com/en-us/library/) for learning about Windows subjects such as MFC, DLL, COM, XML etc. [Excel documentation](https://support.microsoft.com/en-us/excel) was also helpful for quick prototyping.
 - Travelling with train in Europe : [Railteam search engine](http://www.railteam.fr/).
+
+------------------------------
 
 #### 2010
 
@@ -569,35 +585,6 @@ Their long-term goal is to become an open platform for machine learning research
 <details>
 
 Old JS links
-
-- [`actions/example-services`](https://github.com/actions/example-services)
-- [`agershun/alasql`](https://github.com/agershun/alasql)
-- [`alanbsmith/react-router-example`](https://github.com/alanbsmith/react-router-example)
-- [`algolia/atom-autocomplete-module-import`](https://github.com/algolia/atom-autocomplete-module-import)
-- [`andris9/Nodemailer`](https://github.com/andris9/Nodemailer)
-- [`angular-google-chart/angular-google-chart`](https://github.com/angular-google-chart/angular-google-chart)
-- [`angular-ui/ui-ace`](https://github.com/angular-ui/ui-ace)
-- [`angular-ui/ui-router`](https://github.com/angular-ui/ui-router)
-- [`angular/angular.js`](https://github.com/angular/angular.js)
-- [`apiaryio/dredd`](https://github.com/apiaryio/dredd)
-- [`apsdehal/awesome-ctf`](https://github.com/apsdehal/awesome-ctf)
-- [`arturovm/min`](https://github.com/arturovm/min)
-- [`asrivas/work-less-do-more`](https://github.com/asrivas/work-less-do-more)
-- [`Automattic/expect.js`](https://github.com/Automattic/expect.js)
-- [`Automattic/kue`](https://github.com/Automattic/kue)
-- [`aws-samples/amazon-ecs-java-microservices`](https://github.com/aws-samples/amazon-ecs-java-microservices)
-- [`aws-samples/aws-containers-task-definitions`](https://github.com/aws-samples/aws-containers-task-definitions)
-- [`aws-samples/reactive-refarch-cloudformation`](https://github.com/aws-samples/reactive-refarch-cloudformation)
-- [`awslabs/ecs-nginx-reverse-proxy`](https://github.com/awslabs/ecs-nginx-reverse-proxy)
-- [`babel/babelify`](https://github.com/babel/babelify)
-- [`blog/1135-the-making-of-octicons`](https://github.com/blog/1135-the-making-of-octicons)
-- [`blog/530-how-we-made-github-fast`](https://github.com/blog/530-how-we-made-github-fast)
-- [`bndr/node-read`](https://github.com/bndr/node-read)
-- [`bnoguchi/everyauth`](https://github.com/bnoguchi/everyauth)
-- [`bolshchikov/js-must-watch`](https://github.com/bolshchikov/js-must-watch)
-- [`brandonbloom/jseg`](https://github.com/brandonbloom/jseg)
-- [`browserstate/history.js`](https://github.com/browserstate/history.js)
-- [`btford/angular-markdown-directive`](https://github.com/btford/angular-markdown-directive)
 - [`CanalTP/navitia`](https://github.com/CanalTP/navitia)
 - [`caolan/async`](https://github.com/caolan/async)
 - [`cchantep/acolyte`](https://github.com/cchantep/acolyte)
@@ -617,7 +604,6 @@ Old JS links
 - [`derikon/awesome-human-motion`](https://github.com/derikon/awesome-human-motion)
 - [`derimagia/awesome-alfred-workflows`](https://github.com/derimagia/awesome-alfred-workflows)
 - [`DimitarPetrov/stegify`](https://github.com/DimitarPetrov/stegify)
-- [`dispatch/reboot`](https://github.com/dispatch/reboot)
 - [`dmajda/pegjs`](https://github.com/dmajda/pegjs)
 - [`dominictarr/excel-stream`](https://github.com/dominictarr/excel-stream)
 - [`dominictarr/split`](https://github.com/dominictarr/split)
@@ -655,7 +641,6 @@ Old JS links
 - [`jonschlinkert/get-value`](https://github.com/jonschlinkert/get-value)
 - [`JorgeBucaran/awesome-fish`](https://github.com/JorgeBucaran/awesome-fish)
 - [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
-- [`jrnewell/spotify-ripper`](https://github.com/jrnewell/spotify-ripper)
 - [`jshint/jshint`](https://github.com/jshint/jshint)
 - [`JustServerless/awesome-serverless`](https://github.com/JustServerless/awesome-serverless)
 - [`jwaterfaucett/awesome-foss-apps`](https://github.com/jwaterfaucett/awesome-foss-apps)
@@ -671,7 +656,6 @@ Old JS links
 - [`krakenjs/lusca`](https://github.com/krakenjs/lusca)
 - [`kripken/emscripten`](https://github.com/kripken/emscripten)
 - [`kriskowal/q`](https://github.com/kriskowal/q)
-- [`lauris/awesome-scala`](https://github.com/lauris/awesome-scala)
 - [`leonardomso/33-js-concepts`](https://github.com/leonardomso/33-js-concepts)
 - [`ligurio/free-software-testing-books`](https://github.com/ligurio/free-software-testing-books)
 - [`lihaoyi/cask`](https://github.com/lihaoyi/cask)
@@ -759,7 +743,6 @@ Old JS links
 - [`superscriptjs/superscript`](https://github.com/superscriptjs/superscript)
 - [`surveyjs/surveyjs`](https://github.com/surveyjs/surveyjs)
 - [`syntaqx/serve`](https://github.com/syntaqx/serve)
-- [`TalAter/awesome-book-authoring`](https://github.com/TalAter/awesome-book-authoring)
 - [`thoughtbot/design-sprint`](https://github.com/thoughtbot/design-sprint)
 - [`timisbusy/node-amqp-stats`](https://github.com/timisbusy/node-amqp-stats)
 - [`tjanczuk/iisnode`](https://github.com/tjanczuk/iisnode)
@@ -767,20 +750,6 @@ Old JS links
 - [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost)
 - [`tryolabs/fetch-it`](https://github.com/tryolabs/fetch-it)
 - [`twobucks/zapsnap`](https://github.com/twobucks/zapsnap)
-- [`uflare/smtp2http`](https://github.com/uflare/smtp2http)
-- [`ukayani/ecs-service`](https://github.com/ukayani/ecs-service)
-- [`ukayani/kms-env`](https://github.com/ukayani/kms-env)
-- [`umdjs/umd`](https://github.com/umdjs/umd)
-- [`upper/db`](https://github.com/upper/db)
-- [`urish/angular-moment`](https://github.com/urish/angular-moment)
-- [`variety/variety`](https://github.com/variety/variety)
-- [`vinta/awesome-python`](https://github.com/vinta/awesome-python)
-- [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
-- [`Vizzuality/cartodb-nodejs`](https://github.com/Vizzuality/cartodb-nodejs)
-- [`vredniy/awesome-newsletters`](https://github.com/vredniy/awesome-newsletters)
-- [`wooorm/retext`](https://github.com/wooorm/retext)
-- [`Yelp/bravado`](https://github.com/Yelp/bravado)
-- [`zemirco/lockit`](https://github.com/zemirco/lockit)
 
 </details>
 
@@ -793,8 +762,6 @@ Old JS links
 - [`algolia/places`](https://github.com/algolia/places)
 - [`AmirTugi/tea-school`](https://github.com/AmirTugi/tea-school)
 - [`ampproject/amphtml`](https://github.com/ampproject/amphtml)
-- [`ant-design/ant-design`](https://github.com/ant-design/ant-design)
-- [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
 - [`appbaseio/reactivesearch`](https://github.com/appbaseio/reactivesearch)
 - [`Baremetrics/calendar`](https://github.com/Baremetrics/calendar)
 - [`caiogondim/fast-memoize.js`](https://github.com/caiogondim/fast-memoize.js)
@@ -809,7 +776,6 @@ Old JS links
 - [`cmseaton42/task-easy`](https://github.com/cmseaton42/task-easy)
 - [`copy/v86`](https://github.com/copy/v86)
 - [`CUTR-at-USF/awesome-transit`](https://github.com/CUTR-at-USF/awesome-transit)
-- [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 - [`date-fns/date-fns`](https://github.com/date-fns/date-fns)
 - [`denoland/deno`](https://github.com/denoland/deno)
 - [`dinerojs/dinero.js`](https://github.com/dinerojs/dinero.js)
@@ -828,7 +794,6 @@ Old JS links
 - [`expo/expo`](https://github.com/expo/expo)
 - [`facebook/create-react-app`](https://github.com/facebook/create-react-app)
 - [`firebase/functions-samples`](https://github.com/firebase/functions-samples)
-- [`formium/formik`](https://github.com/formium/formik)
 - [`gatsbyjs/gatsby`](https://github.com/gatsbyjs/gatsby)
 - [`github/hotkey`](https://github.com/github/hotkey)
 - [`gnab/remark`](https://github.com/gnab/remark)
@@ -841,7 +806,6 @@ Old JS links
 - [`googleworkspace/apps-script-samples`](https://github.com/googleworkspace/apps-script-samples)
 - [`h2non/videoshow`](https://github.com/h2non/videoshow)
 - [`hasura/graphqurl`](https://github.com/hasura/graphqurl)
-- [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
 - [`hodgef/simple-keyboard`](https://github.com/hodgef/simple-keyboard)
 - [`hql287/Manta`](https://github.com/hql287/Manta)
 - [`imbrn/v8n`](https://github.com/imbrn/v8n)
@@ -855,7 +819,6 @@ Old JS links
 - [`lokesh/color-thief`](https://github.com/lokesh/color-thief)
 - [`lovell/sharp`](https://github.com/lovell/sharp)
 - [`karpathy/convnetjs`](https://github.com/karpathy/convnetjs)
-- [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
 - [`khaosdoctor/gotql`](https://github.com/khaosdoctor/gotql)
 - [`klaussinani/signale`](https://github.com/klaussinani/signale)
 - [`kwhitley/treeize`](https://github.com/kwhitley/treeize)
@@ -880,8 +843,6 @@ Old JS links
 - [`mljs/savitzky-golay`](https://github.com/mljs/savitzky-golay)
 - [`mobxjs/mobx`](https://github.com/mobxjs/mobx)
 - [`mourner/flatbush`](https://github.com/mourner/flatbush)
-- [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
-- [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
 - [`neherlab/covid19_scenarios`](https://github.com/neherlab/covid19_scenarios)
 - [`nemtsov/json-mask`](https://github.com/nemtsov/json-mask)
 - [`Netflix/falcor`](https://github.com/Netflix/falcor)
@@ -901,6 +862,7 @@ Old JS links
 - [`picturepan2/spectre`](https://github.com/picturepan2/spectre)
 - [`ProseMirror/prosemirror`](https://github.com/ProseMirror/prosemirror)
 - [`przemyslawpluta/node-youtube-dl`](https://github.com/przemyslawpluta/node-youtube-dl)
+- [`PrismJS/prism`](https://github.com/PrismJS/prism)
 - [`rough-stuff/wired-elements`](https://github.com/rough-stuff/wired-elements)
 - [`salsita/node-pg-migrate`](https://github.com/salsita/node-pg-migrate)
 - [`sindresorhus/awesome-electron`](https://github.com/sindresorhus/awesome-electron)
@@ -909,21 +871,16 @@ Old JS links
 - [`sindresorhus/on-change`](https://github.com/sindresorhus/on-change)
 - [`sindresorhus/pageres`](https://github.com/sindresorhus/pageres)
 - [`sindresorhus/Plash`](https://github.com/sindresorhus/Plash)
-- [`sindresorhus/refined-github`](https://github.com/sindresorhus/refined-github)
 - [`SamVerschueren/listr`](https://github.com/SamVerschueren/listr)
 - [`SBoudrias/Inquirer.js`](https://github.com/SBoudrias/Inquirer.js)
 - [`Schmavery/facebook-chat-api`](https://github.com/Schmavery/facebook-chat-api)
 - [`serialport/node-serialport`](https://github.com/serialport/node-serialport)
 - [`segmentio/nightmare`](https://github.com/segmentio/nightmare)
 - [`shelljs/shelljs`](https://github.com/shelljs/shelljs)
-- [`space10-community/conversational-form`](https://github.com/space10-community/conversational-form)
-- [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
 - [`spencermountain/spacetime`](https://github.com/spencermountain/spacetime)
 - [`sql-js/sql.js`](https://github.com/sql-js/sql.js)
 - [`sqreen/awesome-nodejs-projects`](https://github.com/sqreen/awesome-nodejs-projects)
 - [`statsd/statsd`](https://github.com/statsd/statsd)
-- [`stefanbuck/awesome-browser-extensions-for-github`](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-- [`stimulusjs/stimulus`](https://github.com/stimulusjs/stimulus)
 - [`substack/stream-handbook`](https://github.com/substack/stream-handbook)
 - [`surveyjs/survey-library`](https://github.com/surveyjs/survey-library)
 - [`thedevs-network/kutt`](https://github.com/thedevs-network/kutt)
@@ -937,16 +894,21 @@ Old JS links
 - [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
 - [`xtermjs/xterm.js`](https://github.com/xtermjs/xterm.js)
 - [`Yomguithereal/mnemonist`](https://github.com/Yomguithereal/mnemonist)
-- [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`williamngan/pts`](https://github.com/williamngan/pts)
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
-- [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
-- [`PrismJS/prism`](https://github.com/PrismJS/prism)
+
+###### Visualization
+- [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
+- [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
+- [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
+- [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
+- [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
 
 ###### Testing
+- [`Automattic/expect.js`](https://github.com/Automattic/expect.js)
 - [`Browsersync/browser-sync`](https://github.com/Browsersync/browser-sync)
 - [`facebook/jest`](https://github.com/facebook/jest)
 - [`getgauge/taiko`](https://github.com/getgauge/taiko)
@@ -955,9 +917,17 @@ Old JS links
 - [`puppeteer/puppeteer`](https://github.com/puppeteer/puppeteer)
 
 ###### Frontend
+- [`angular/angular.js`](https://github.com/angular/angular.js)
+- [`ant-design/ant-design`](https://github.com/ant-design/ant-design)
+- [`formium/formik`](https://github.com/formium/formik)
+- [`space10-community/conversational-form`](https://github.com/space10-community/conversational-form)
+- [`stimulusjs/stimulus`](https://github.com/stimulusjs/stimulus)
 - [`uNmAnNeR/imaskjs`](https://github.com/uNmAnNeR/imaskjs)
+- [`visionmedia/page.js`](https://github.com/visionmedia/page.js)
 
 ###### Backend
+- [`agershun/alasql`](https://github.com/agershun/alasql)
+- [`andris9/Nodemailer`](https://github.com/andris9/Nodemailer)
 - [`azat-co/http2-express`](https://github.com/azat-co/http2-express)
 - [`mongo-express/mongo-express`](https://github.com/mongo-express/mongo-express)
 - [`mrvautin/expressCart`](https://github.com/mrvautin/expressCart)
@@ -975,6 +945,7 @@ Old JS links
 ###### Safer JS
 - [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`airbnb/javascript`](https://github.com/airbnb/javascript)
+- [`bolshchikov/js-must-watch`](https://github.com/bolshchikov/js-must-watch)
 - [`elsewhencode/project-guidelines`](https://github.com/elsewhencode/project-guidelines)
 - [`facebook/flow`](https://github.com/facebook/flow)
 - [`getify/You-Dont-Know-JS`](https://github.com/getify/You-Dont-Know-JS)
@@ -1013,6 +984,11 @@ Old JS links
 ##### Multimedia
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
+- [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
+- [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
+- [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
+- [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
+- [`wooorm/retext`](https://github.com/wooorm/retext)
 
 #### Scala
 [back to TOC](#table-of-contents)
@@ -1300,6 +1276,7 @@ Old JS links
 - [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
 - [`taoufik07/responder`](https://github.com/taoufik07/responder)
 - [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
+- [`Yelp/bravado`](https://github.com/Yelp/bravado)
 
 ##### Tensorflow
 
@@ -1501,6 +1478,8 @@ Old JS links
 - [`aws/aws-sam-cli`](https://github.com/aws/aws-sam-cli)
 - [`awsdocs/aws-doc-sdk-examples`](https://github.com/awsdocs/aws-doc-sdk-examples)
 - [`awslabs/ec2-spot-labs`](https://github.com/awslabs/ec2-spot-labs)
+- [`awslabs/ecs-nginx-reverse-proxy`](https://github.com/awslabs/ecs-nginx-reverse-proxy)
+- [`aws-samples/amazon-ecs-java-microservices`](https://github.com/aws-samples/amazon-ecs-java-microservices)
 - [`balena-io/etcher`](https://github.com/balena-io/etcher)
 - [`brotandgames/ciao`](https://github.com/brotandgames/ciao)
 - [`devspace/awesome-github-templates`](https://github.com/devspace/awesome-github-templates)
@@ -1524,14 +1503,13 @@ Old JS links
 - [`swanson/stringer`](https://github.com/swanson/stringer)
 
 ##### Monitoring
-
 - [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
 - [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
 - [`monitoringartist/grafana-aws-cloudwatch-dashboards`](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
 - [`jorgebastida/awslogs`](https://github.com/jorgebastida/awslogs)
 
 ##### Continuous Integration
-
+- [`actions/example-services`](https://github.com/actions/example-services)
 - [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
 - [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
 - [`awslabs/aws-cloudformation-templates`](https://github.com/awslabs/aws-cloudformation-templates)
@@ -1540,9 +1518,10 @@ Old JS links
 - [`MonsantoCo/cloudformation-template-generator`](https://github.com/MonsantoCo/cloudformation-template-generator)
 - [`nathanpeck/awesome-ecs`](https://github.com/nathanpeck/awesome-ecs)
 - [`runatlantis/atlantis`](https://github.com/runatlantis/atlantis)
+- [`sindresorhus/refined-github`](https://github.com/sindresorhus/refined-github)
+- [`stefanbuck/awesome-browser-extensions-for-github`](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 ###### Docker and Kubernetes
-
 - [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
 - [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
 - [`dokku/dokku`](https://github.com/dokku/dokku)
@@ -1551,11 +1530,10 @@ Old JS links
 - [`wagoodman/dive`](https://github.com/wagoodman/dive)
 
 ###### Site Reliability
-
 - [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
 
 ###### Functions
-
+- [`asrivas/work-less-do-more`](https://github.com/asrivas/work-less-do-more)
 - [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
 - [`GoogleCloudPlatform/functions-framework-ruby`](https://github.com/GoogleCloudPlatform/functions-framework-ruby)
 - [`openfaas/faas`](https://github.com/openfaas/faas)
@@ -1566,7 +1544,6 @@ Old JS links
 - [`minio/minio`](https://github.com/minio/minio)
 
 ##### MLOps
-
 - [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
 - [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
 - [`full-stack-deep-learning/course-gitbook`](https://github.com/full-stack-deep-learning/course-gitbook)
@@ -1734,6 +1711,7 @@ Old JS links
 #### Security
 [back to TOC](#table-of-contents)
 
+- [`apsdehal/awesome-ctf`](https://github.com/apsdehal/awesome-ctf)
 - [`awslabs/git-secrets`](https://github.com/awslabs/git-secrets)
 - [`clario-tech/s3-inspector`](https://github.com/clario-tech/s3-inspector)
 - [`brannondorsey/wifi-cracking`](https://github.com/brannondorsey/wifi-cracking)
