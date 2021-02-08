@@ -18,7 +18,7 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
 - [Blogs](#blogs-and-podcasts)
-  - [Following](#following) | [General news](#general-news) | [Archive](#archive)
+  - [Following](#following) | [Archive](#archive)
 - [Newsletters](#newsletters)
 - [Online courses](#online-courses)
 - [Repositories](#repos-toolbox-for-work-related-problems)
@@ -406,61 +406,13 @@ Their long-term goal is to become an open platform for machine learning research
 #### Following
 [back to TOC](#table-of-contents)
 
-##### Entrepreuneurship
-
-- [Andreessen Horowitz](https://a16z.com/)
-- [Rude Baguette](http://www.rudebaguette.com/)
-- [Usine Digitale](https://www.usine-digitale.fr/)
-- http://www.techinasia.com/
-- http://www.kottke.org/
-- https://www.lemondeinformatique.fr/
-
-##### Research
-
-- http://images.math.cnrs.fr/
-- https://interstices.info
-
-##### Civil Engineering
-
-- http://transid.blogspot.com/
-- http://transports.blog.lemonde.fr/
-- [Yann Le Tilly](https://transid.blogspot.com/)
-
-##### Software engineering
-
-- [Scott Hanselman](https://www.hanselman.com/blog/)
-- [Uber Engineering](https://eng.uber.com/)
-- https://engineering.atspotify.com/
-- https://code.fb.com/
-- [GitHub Engineering](https://githubengineering.com/)
-- https://engineering.linkedin.com/
-- https://medium.com/@Pinterest_Engineering
-- https://blog.google
-- https://www.etalab.gouv.fr
-- https://blog.datawrapper.de
-- https://erikbern.com/
-
-##### Data engineering
-
-- [Duolingo](http://making.duolingo.com/)
-- https://scalac.io/
-- http://cloudblog.withgoogle.com/products/data-analytics
-- [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/)
-- [Datadog](https://www.datadoghq.com/blog/)
-- [The Guardian](https://www.theguardian.com/data)
-
-##### Web design
-
-- http://uninvitedredesigns.com/
-- [Google Web Team](https://developers.google.com/web/updates/)
-- https://developers.google.com/web/
-
-#### General News
-[back to TOC](#table-of-contents)
-
-- https://www.courrierinternational.com
-- https://www.lemonde.fr/videos
-- http://www.lemonde.fr/big-browser
+- Entrepreuneurship: [Andreessen Horowitz](https://a16z.com/), [Rude Baguette](http://www.rudebaguette.com/), [Usine Digitale](https://www.usine-digitale.fr/), [Tech In Asia](http://www.techinasia.com/), [Jason Kottke](http://www.kottke.org/), [Le Monde Informatique](https://www.lemondeinformatique.fr/)
+- Research: [Image des mathématiques](http://images.math.cnrs.fr/), [INRIA Interstices](https://interstices.info)
+- Civil Engineering: [Yann Le Tilly](https://transid.blogspot.com/)
+- Software engineering: [Scott Hanselman](https://www.hanselman.com/blog/), [Uber Engineering](https://eng.uber.com/), [Spotify Engineering](https://engineering.atspotify.com/), [Facebook Engineering](https://code.fb.com/), [GitHub Engineering](https://githubengineering.com/), [Pinterest Engineering](https://medium.com/@Pinterest_Engineering), [Google](https://blog.google), [Etalab](https://www.etalab.gouv.fr), [Datawrapper](https://blog.datawrapper.de), [Erik Bernstein](https://erikbern.com/)
+- Data engineering: [Duolingo](http://making.duolingo.com/), [Scalac](https://scalac.io/), [Google Data Analytics](http://cloudblog.withgoogle.com/products/data-analytics), [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/), [Datadog](https://www.datadoghq.com/blog/), [The Guardian](https://www.theguardian.com/data)
+- Web design: [Uninvited Redesign](http://uninvitedredesigns.com/), [Google Web Team](https://developers.google.com/web/updates/)
+- General News: [Courrier International](https://www.courrierinternational.com), [Le Monde Videos](https://www.lemonde.fr/videos), [Le Monde Big Browser]http://www.lemonde.fr/big-browser)
 
 #### Archive
 [back to TOC](#table-of-contents)
@@ -504,6 +456,8 @@ Their long-term goal is to become an open platform for machine learning research
 - https://blogs.solidworks.com/solidworksblog
 - https://www.audeladeslignes.com/
 - https://www.mobilettre.com/
+- http://transid.blogspot.com/
+- http://transports.blog.lemonde.fr/
 
 ##### Software engineering
 
@@ -518,6 +472,7 @@ Their long-term goal is to become an open platform for machine learning research
 - https://engineeringblog.yelp.com
 - https://michaelfeathers.typepad.com
 - https://addyosmani.com/
+- [LinkedIn Engineering](https://engineering.linkedin.com/)
 
 ##### Programming languages
 
@@ -1733,6 +1688,8 @@ Old JS links
 > "_Thus, I thought dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities_" Richard Bellman
 
 > "_A mathematician is a device for turning coffee into theorems._" Paul Erdos
+
+> "_Games are won by players who focus on the playing field, not by those whose eyes are glued to the scoreboard._" Warren Buffet
 
 ### References
 [back to TOC](#table-of-contents)
