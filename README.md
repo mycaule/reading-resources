@@ -46,9 +46,11 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Follow Lex Fridman Annual state of the art talk
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
-- Write a small project in Go language using one of [the libraries below]((#go-and-other-hot-languages))
+- Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
+
+##### February
 
 ##### January
 - CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
@@ -412,7 +414,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Software engineering: [Scott Hanselman](https://www.hanselman.com/blog/), [Uber Engineering](https://eng.uber.com/), [Spotify Engineering](https://engineering.atspotify.com/), [Facebook Engineering](https://code.fb.com/), [GitHub Engineering](https://githubengineering.com/), [Pinterest Engineering](https://medium.com/@Pinterest_Engineering), [Google](https://blog.google), [Etalab](https://www.etalab.gouv.fr), [Datawrapper](https://blog.datawrapper.de), [Erik Bernstein](https://erikbern.com/)
 - Data engineering: [Duolingo](http://making.duolingo.com/), [Scalac](https://scalac.io/), [Google Data Analytics](http://cloudblog.withgoogle.com/products/data-analytics), [AWS Big Data](https://aws.amazon.com/fr/blogs/big-data/), [Datadog](https://www.datadoghq.com/blog/), [The Guardian](https://www.theguardian.com/data)
 - Web design: [Uninvited Redesign](http://uninvitedredesigns.com/), [Google Web Team](https://developers.google.com/web/updates/)
-- General News: [Courrier International](https://www.courrierinternational.com), [Le Monde Videos](https://www.lemonde.fr/videos), [Le Monde Big Browser]http://www.lemonde.fr/big-browser)
+- General News: [Courrier International](https://www.courrierinternational.com), [Le Monde Videos](https://www.lemonde.fr/videos), [Le Monde Big Browser](http://www.lemonde.fr/big-browser)
 
 #### Archive
 [back to TOC](#table-of-contents)
@@ -852,7 +854,6 @@ Old JS links
 - [`ziishaned/dumper.js`](https://github.com/ziishaned/dumper.js)
 - [`zotero/zotero`](https://github.com/zotero/zotero)
 - [`williamngan/pts`](https://github.com/williamngan/pts)
-- [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
 
 ###### Visualization
@@ -918,7 +919,6 @@ Old JS links
 - [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
 - [`cstefanache/tfjs-model-view`](https://github.com/cstefanache/tfjs-model-view)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
-- [`google/mediapipe`](https://github.com/google/mediapipe)
 - [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
 - [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
@@ -939,10 +939,12 @@ Old JS links
 ##### Multimedia
 - [`0xfe/vexchords`](https://github.com/0xfe/vexchords)
 - [`actions-on-google/actions-on-google-nodejs`](https://github.com/actions-on-google/actions-on-google-nodejs)
+- [`google/mediapipe`](https://github.com/google/mediapipe)
 - [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
 - [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
 - [`nlp-compromise/fr-compromise`](https://github.com/nlp-compromise/fr-compromise)
 - [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
+- [`wooorm/franc`](https://github.com/wooorm/franc)
 - [`wooorm/retext`](https://github.com/wooorm/retext)
 
 #### Scala
@@ -1690,6 +1692,8 @@ Old JS links
 > "_A mathematician is a device for turning coffee into theorems._" Paul Erdos
 
 > "_Games are won by players who focus on the playing field, not by those whose eyes are glued to the scoreboard._" Warren Buffet
+
+> "_The single most important thing in life is to believe in yourself regardless of what everyone else says._” Hikaru Nakamura
 
 ### References
 [back to TOC](#table-of-contents)
