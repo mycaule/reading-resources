@@ -57,7 +57,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 ##### January
 - CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
 - [Google research](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html) review of 2020.
-- https://www.theguardian.com/data
+- [The Guardian's data science blog](https://www.theguardian.com/data)
 - [Using BigTable with Dataflow at Spotify](https://www.youtube.com/watch?v=807uHC0Ia10)
 - [Full stack Deep learning](https://course.fullstackdeeplearning.com) course, includes a full lab on [handwritten text recognition](https://www.youtube.com/playlist?list=PL1T8fO7ArWlfx84Kc1Ke4a3DTGAzwnApV)
 
