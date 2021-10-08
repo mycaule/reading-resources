@@ -43,19 +43,18 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 [back to TOC](#table-of-contents)
 
 ##### Objectives
-- Follow Lex Fridman Annual [state of the art talks](https://deeplearning.mit.edu/)
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
 - Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
-### June
+#### June
 
 - [Data Cloud Summit - How CDC Can Improve Your Life](https://www.youtube.com/watch?v=3txIn-XYPGY)
 - [Use SRE principles to monitor pipelines with Cloud Monitoring dashboards](https://cloud.google.com/blog/products/management-tools/the-right-metrics-to-monitor-cloud-data-pipelines)
 
-### May
+#### May
 
 - [How to replay time series data from BigQuery to Pub/Sub](https://medium.com/google-cloud/how-to-replay-time-series-data-from-google-bigquery-to-pub-sub-c0a80095124b)
 - [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
@@ -63,12 +62,12 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [Oracle to BigQuery migration guide](https://cloud.google.com/architecture/dw2bq/oracle/oracle-bq-migration-guide), chapter on data migration has interesting information on CDC with Oracle
 - [CDC with Datastream](https://cloud.google.com/blog/products/databases/new-cloud-based-cdc-replication-across-databases), [Datastream to BigQuery code samples](https://github.com/GoogleCloudPlatform/DataflowTemplates/tree/master/v2/datastream-to-bigquery)
 
-### April
+#### April
 
 - [Incremental models on BigQuery with dbt](https://youtu.be/UUuvMvPD9iA?t=1950)
 - [Dataform incremental datasets](https://docs.dataform.co/guides/datasets/incremental#a-merge-example)
 
-### March
+#### March
 
 - [Performing ETL from a relational database into BigQuery using Dataflow](https://cloud.google.com/solutions/performing-etl-from-relational-database-into-bigquery)
 - [Change Data Capture from MySQL to BigQuery using Debezium and Pub/Sub (Stream)](https://cloud.google.com/dataflow/docs/guides/templates/provided-streaming#change-data-capture)
