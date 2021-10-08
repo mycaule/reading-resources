@@ -43,19 +43,21 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 [back to TOC](#table-of-contents)
 
 ##### Objectives
-- Follow Lex Fridman Annual state of the art talk
+- Follow Lex Fridman Annual [state of the art talks](https://deeplearning.mit.edu/)
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
 - Update my blog with interesting contents based on what is here and my gists
 - Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
-##### February
+##### April
+
+...
 
 ##### January
 - CNIL resources: [Opt-out design patterns](https://design.cnil.fr/concepts/), [GDPR for developers](https://lincnil.github.io/Guide-RGPD-du-developpeur/), [remote working tips](https://lincnil.github.io/Recommandations-pour-le-teletravail/) this one also provides some interesting links of ANSSI and Minister of Interior best practices
 - [Google research](https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html) review of 2020.
-- https://www.theguardian.com/data
+- [The Guardian's data science blog](https://www.theguardian.com/data)
 - [Using BigTable with Dataflow at Spotify](https://www.youtube.com/watch?v=807uHC0Ia10)
 - [Full stack Deep learning](https://course.fullstackdeeplearning.com) course, includes a full lab on [handwritten text recognition](https://www.youtube.com/playlist?list=PL1T8fO7ArWlfx84Kc1Ke4a3DTGAzwnApV)
 
