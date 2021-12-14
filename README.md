@@ -49,6 +49,10 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
+#### December
+
+- https://www.lihaoyi.com/post/HowISelfPublishedMyFirstTechnicalBook.html
+
 #### June
 
 - [Data Cloud Summit - How CDC Can Improve Your Life](https://www.youtube.com/watch?v=3txIn-XYPGY)
