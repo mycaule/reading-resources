@@ -42,18 +42,34 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 #### 2022
 
+##### Objectives
+- Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns)
+- Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
+- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
+- Exciting things: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
+
+##### June
+
+- DVC released a new [ML extension](https://dvc.org/blog/DVC-VS-Code-extension) to track both experiments and datasets directly with Git and VS Code, check out this [demo](https://www.youtube.com/watch?v=Eq3100S3aHw) on YouTube. 
+- Amazon recently released code with a [minimalistic infrastructure](https://aws-quickstart.github.io/quickstart-amazon-marketing-cloud/) to process its Marketing Cloud API. 
+- Google broke the world record for computing the Pi number digits, they provided a small [API](https://pi.delivery/) for developers to try out and [discussed the infrastructure](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud) they used for this classical HPC workload.
+
+##### May
+
+- How Spotify performs similarity search for their podcasts, using [Tensorflow, Vertex AI and Vespa](https://engineering.atspotify.com/2022/03/introducing-natural-language-search-for-podcast-episodes/)
+- Twitter following Spotify to move more of its data infrastructure to [managed services on GCP](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/scaling-data-access-by-moving-an-exabyte-of-data-to-google-cloud)
+
+##### March
+
+- dbt's article about [analytics enginering](https://www.getdbt.com/what-is-analytics-engineering/) and [new courses](https://blog.getdbt.com/new-learn-courses/)
+- The challenges of serving neural networks in production, how [small businesses can reuse pre-trained models or APIs](https://future.a16z.com/ai-ml-foundation-models-for-the-rest-of-us/)
+
 ##### January
-- https://www.getdbt.com/what-is-analytics-engineering/
+
+- Avocode [templates](https://www.notion.so/Shape-Up-template-by-Avocode-9478361c11c64a5ebe83abe74e39f9b8) to apply the Shape Up method
 
 #### 2021
 [back to TOC](#table-of-contents)
-
-##### Objectives
-- Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns), pass the [GCP certification](https://cloud.google.com/certification/data-engineer)
-- Update my blog with interesting contents based on what is here and my gists
-- Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
-- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
-- Most exciting things of 2020: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/)
 
 ##### December
 
