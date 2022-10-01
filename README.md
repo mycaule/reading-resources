@@ -73,7 +73,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 ##### December
 
-- https://www.lihaoyi.com/post/HowISelfPublishedMyFirstTechnicalBook.html
+- Li Haoyi's [tips on publishing a technical book](https://www.lihaoyi.com/post/HowISelfPublishedMyFirstTechnicalBook.html)
 
 ##### June
 
