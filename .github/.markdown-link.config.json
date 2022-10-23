@@ -2,6 +2,12 @@
     "ignorePatterns": [
       {
         "pattern": "^https://docs.google.com/presentation/"
+      },
+      {
+        "pattern": "^https://www.goodreads.com/review/import"
+      },
+      {
+        "pattern": "^https://github.com/"
       }
     ],
     "replacementPatterns": [{
