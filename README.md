@@ -7,6 +7,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - To keep track of helpful resources I have referred to during my career
 - To help my fellow young colleagues learn quickly
 
+<center><img src="images/elephant.png" width=250/></center>
+
 Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com), [Leo Babauta](https://leobabauta.com)
 
 ------------------------------
@@ -14,7 +16,7 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
 ### Table of Contents
 
 - [Posts](#posts-and-webapps)
-  - [2022](#2022) | [2021](#2021)
+  - [2023](#2023) | [2022](#2022) | [2021](#2021)
   - [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
@@ -52,6 +54,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 ##### October
 
+- https://github.com/openai/whisper
 - https://snyk.io/blog/best-practices-create-modern-npm-package
 - https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html
 - https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella
@@ -59,8 +62,8 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 ##### June
 
-- DVC released a new [ML extension](https://dvc.org/blog/DVC-VS-Code-extension) to track both experiments and datasets directly with Git and VS Code, check out this [demo](https://www.youtube.com/watch?v=Eq3100S3aHw) on YouTube. 
-- Amazon recently released code with a [minimalistic infrastructure](https://aws-quickstart.github.io/quickstart-amazon-marketing-cloud/) to process its Marketing Cloud API. 
+- DVC released a new [ML extension](https://dvc.org/blog/DVC-VS-Code-extension) to track both experiments and datasets directly with Git and VS Code, check out this [demo](https://www.youtube.com/watch?v=Eq3100S3aHw) on YouTube.
+- Amazon recently released code with a [minimalistic infrastructure](https://aws-quickstart.github.io/quickstart-amazon-marketing-cloud/) to process its Marketing Cloud API.
 - Google broke the world record for computing the Pi number digits, they provided a small [API](https://pi.delivery/) for developers to try out and [discussed the infrastructure](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud) they used for this classical HPC workload.
 
 ##### May

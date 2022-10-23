@@ -2,9 +2,12 @@ name: CI
 
 on:
   push:
-    branches: [ master ]
+    branches:
+      - master
+
   pull_request:
-    branches: [ master ]
+    branches:
+      - master
 
   workflow_dispatch:
 
@@ -13,10 +16,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Looking for duplicates
         run: |
           sort README.md | uniq -d \
             | grep -v "###" | grep -v "div" \
             | grep -v "table-of-contents" | grep -v -e '^$'
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Check Markdown
+        run: |
+            npm install -g markdown-link-check markdownlint-cli
+            find . -path ./node_modules -prune -false -o -name "*.md" \
+              -exec markdown-link-check --verbose --config .github/.markdown-link.config.json {} \;
+            markdownlint '**/*.md' --ignore node_modules --disable MD013 MD033 MD025

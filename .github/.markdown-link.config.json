@@ -1,0 +1,11 @@
+{
+    "ignorePatterns": [
+      {
+        "pattern": "^https://docs.google.com/presentation/"
+      }
+    ],
+    "replacementPatterns": [{
+      "pattern": "^\/img\/",
+      "replacement": "../assets/img/"
+    }]
+}
