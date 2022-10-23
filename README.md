@@ -48,6 +48,12 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
 - Exciting things: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
 
+
+##### October
+
+- https://snyk.io/blog/best-practices-create-modern-npm-package/
+- https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html
+
 ##### June
 
 - DVC released a new [ML extension](https://dvc.org/blog/DVC-VS-Code-extension) to track both experiments and datasets directly with Git and VS Code, check out this [demo](https://www.youtube.com/watch?v=Eq3100S3aHw) on YouTube. 
