@@ -43,6 +43,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 #### 2022
 
 ##### Objectives
+
 - Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns)
 - Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
@@ -51,8 +52,10 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 ##### October
 
-- https://snyk.io/blog/best-practices-create-modern-npm-package/
+- https://snyk.io/blog/best-practices-create-modern-npm-package
 - https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html
+- https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella
+- https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor
 
 ##### June
 
