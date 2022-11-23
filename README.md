@@ -366,7 +366,7 @@ Their long-term goal is to become an open platform for machine learning research
 
 ###### September
 
-- Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
+- Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Overflow, Martin Fowler's Refactoring book
 - [CSS animations cheatsheet](http://www.justinaguilar.com/animations/), [Git concepts simplified](https://gitolite.com/gcs), [Project Euler](https://projecteuler.net/)
 
 ###### June
