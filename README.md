@@ -59,7 +59,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - YOLOv8 was [released in January 2023](https://blog.roboflow.com/whats-new-in-yolov8/), this short tutorial video explains how to easily train a object detection system using popular service [Roboflow](https://www.youtube.com/watch?v=wuZtUMEiKWY), which supports multiple deployment platform, web or on even edge devices from Nvidia and Luxonis.
 - Inside [Zillow's propensity model](http://www.zillow.com/tech/identifying-high-intent-buyers). Authors explain how the real estate platform identify potential buyers and serve them the appropriate contents.
 - A walkthough on how to build a [embeddings based similar products](https://redis.com/blog/real-time-product-recommendation-docarray/) recommendation system using Redis and Docarray.
-- Choosing between [Snowflake, Databricks, BigQuery or Redshift or EMR](https://lakshmanok.medium.com/snowflake-or-databricks-bigquery-or-dataproc-redshift-or-emr-e40190c97ef8) from Lak Lakshmanan.
+- Choosing between [Snowflake, Databricks, BigQuery or Redshift or EMR](https://lakshmanok.medium.com/snowflake-or-databricks-bigquery-or-dataproc-redshift-or-emr-e40190c97ef8) from Lak Lakshmanan, using [Apache Iceberg from your data lakehouse](https://overcast.fm/+H1YNxomXg/29:24?utm_source=pocket_saves)
 
 
 ##### January
