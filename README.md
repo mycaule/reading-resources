@@ -43,15 +43,37 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 
 [back to TOC](#table-of-contents)
 
-#### 2022
+#### 2023
 
 ##### Objectives
 
-- Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns)
 - Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
-- Exciting things: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
+- Exciting things: [Mediapipe](https://mediapipe.dev), [Roboflow](https://www.roboflow.com), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
 
+##### January
+
+- A primer from PagerDuty for dealing with technical incidents. The [Postmortem document](https://postmortems.pagerduty.com/meeting/) is at the core of the SRE culture, making sure the process is clear will make engineering teams succeed, when facing critical applications and busy stakeholders. PagerDuty is a [SaaS service](https://www.pagerduty.com/) to provide engineer tools to manage on-calls effectively.
+- Guido van Rossum, creator of Python language, was invited at the Lex Fridman Podcast for the second time. He shared his opinions about [the language evolution](https://www.youtube.com/watch?v=-DVyjdw4t9I), [programmer careers](https://www.youtube.com/watch?v=-DVyjdw4t9I&t=10571s), but also new things like GitHub Copilot which he says [he uses personally](https://www.youtube.com/watch?v=-DVyjdw4t9I&t=10963s).
+- 10 years after the [foundational article](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) from Harvard Business Review, the [original authors talk about the evolutions](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) of opportunity in data science related careers. They discuss how this new area played a big role in maintaining companies stability and growth, highlight the challenges to train or find skillful people, and also the new trends of MLOps.
+- GCP provides a [40 points checklist](https://cloud.google.com/blog/products/data-analytics/optimize-cloud-composer-via-better-airflow-dags/) to maintain a well-organized Airflow code base.
+- Following a recent refactoring, LinkedIn wrote a [comprehensive architecture note](https://engineering.linkedin.com/blog/2023/unifying-messaging-experiences-across-linkedin) about how their central instant messaging component works, enabling its 900 million members to communicate in real time.
+- Snowflake [released new features](https://www.snowflake.com/blog/category/product-and-technology/release-notes/) possibility with some security enhancements and the possibility to run query from VSCode.
+
+#### 2022
+
+##### December
+
+- [GitHub tips to level up your CI/CD](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/)
+- With new GPT-3 type models capable of generating human like contents and even [winning arts competition](https://www.washingtonpost.com/technology/2022/09/02/midjourney-artificial-intelligence-state-fair-colorado/), [a16z is considering how](https://future.com/how-to-build-gpt-3-for-science/) it can extend to other area such as science, and potentially change how researchers work.
+- In research conducted end of 2021, McKinsey identified major AI opportunities for China. Key sectors of automotive, manufacturing and enterprise software could [bring up to $600 billion](https://www.mckinsey.com/business-functions/quantumblack/our-insights/the-next-frontier-for-ai-in-china-could-add-600-billion-to-its-economy) to using AI technologies.
+- In mind sports and online games, [professional have been using AI](https://www.washingtonpost.com/business/magnus-carlsens-strongest-chess-opponentis-ai/2022/09/13/0c43cd10-3379-11ed-a0d6-415299bfebd5_story.html) to cheat and win prizes. A controversy has been going on in September involving top players for the game of chess. The columnist also prospects that people in the future will be using AI wearables for everyday decisions.
+- AWS [unveiled a report](https://pages.awscloud.com/rs/112-TZM-766/images/Etude_de_l_impact_economique_d_AWS.pdf) on the economic impact of AWS in France. The group plans to invest 5 billion between 2022 and 2031. It also highlights that France is lagging behind in the training of data profiles. AWS will also adopt a sustainability approach through the use of less energy consuming ARM chips.
+- AlphaTensor, an AI developed by based on previous work AlphaZero, has solved an old numerical analysis problem. The system was trained to [search efficient matrix multiplication algorithms](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor) and outperformed Strassen algorithm.
+- During this year's Ignite event ([day1](https://www.linkedin.com/video/event/urn:li:ugcPost:6978828296645980160/), [day2](https://www.linkedin.com/video/event/urn:li:ugcPost:6980293452466982912/)). Microsoft announced changes on the server side, like ARM-based instances, AI assistance for developers, but also for corporate meetings, and an upgrade of Azure OpenAI. On the desktop side, Windows 11 updates and Microsoft Teams updates should improve the quality of the calls. [TLDR note from Satya Nadella](https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella/)
+- Laptops and desktop computers are more powerful than ever. [Now with DuckDB](https://duckdb.org/why_duckdb), a new in-memory OLAP tool, developers can take use their own compute power. Horizontal scaling is no longer necessary for simple analyses.
+- Different types of senior level engineers are depicted in this article with [their typical weekly schedule](https://staffeng.com/guides/staff-archetypes). Interesting ideas of how developers can organize their time to be more focused and productive.
+- Meta recently opened an API to write [chatbots for the WhatsApp messaging platform](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/). With a backend server in Python, [Flask](https://github.com/pallets/flask) or [FastAPI](https://github.com/tiangolo/fastapi) for example, businesses can now trigger text events enriched with ML or API calls, or retrieve knowledge from an external source. With chatbots, brands can engage their users in a direct and personalized way, using a simple text interface, and [Facebook has been one of the first platforms](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/) to enable business and developers to do it.
 
 ##### October
 
