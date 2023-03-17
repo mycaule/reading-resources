@@ -48,11 +48,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 ##### Objectives
 
 - Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
-<<<<<<< HEAD
-- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
-=======
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [mdBook](https://github.com/rust-lang/mdBook)
->>>>>>> feat/october
 - Exciting things: [Mediapipe](https://mediapipe.dev), [Roboflow](https://www.roboflow.com), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
 
 ##### January
@@ -637,15 +633,6 @@ Their long-term goal is to become an open platform for machine learning research
 - [The science of well being](https://www.coursera.org/learn/the-science-of-well-being)
 
 ### Repos, toolbox for work-related problems
-<<<<<<< HEAD
-
-[back to TOC](#table-of-contents)
-
-#### CSS
-
-=======
-
->>>>>>> feat/october
 [back to TOC](#table-of-contents)
 
 #### SORT-ME
@@ -1947,10 +1934,6 @@ Old JS links
 
 [back to TOC](#table-of-contents)
 
-<<<<<<< HEAD
 - [Last repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
-=======
-- [Latest repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
->>>>>>> feat/october
 - [Goodreads Data Export](https://www.goodreads.com/review/import)
 - [Pocket Data Export](https://getpocket.com/export)
