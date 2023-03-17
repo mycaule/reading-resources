@@ -7,6 +7,8 @@ Some useful pointers for Software engineers. Collected over 10 years in the soft
 - To keep track of helpful resources I have referred to during my career
 - To help my fellow young colleagues learn quickly
 
+<center><img src="images/elephant.png" width=250/></center>
+
 Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://www.kottke.org), [Sindre Sohrus](https://sindresorhus.com), [Stephen Wolfram](https://www.wired.com/2012/03/opinion-wolfram-life-analytics/), [Mari Kondo](https://konmari.com), [Leo Babauta](https://leobabauta.com)
 
 ------------------------------
@@ -14,7 +16,7 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
 ### Table of Contents
 
 - [Posts](#posts-and-webapps)
-  - [2022](#2022) | [2021](#2021)
+  - [2023](#2023) | [2022](#2022) | [2021](#2021)
   - [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [2016](#2016)
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
@@ -38,20 +40,53 @@ Some talks I have done recently, mostly in French: [A short history of the softw
 Subjects I am researching about: [3D Pose applications](https://gist.github.com/mycaule/070965966d39d3ae5cd1b2fb86fe92ff), [Data journalism](https://gist.github.com/mycaule/883f01c67cb6be5112fe25408016517a), technical writing and editing. My past [micro-entrepreurial ideas](https://gist.github.com/mycaule/886aa10c08d68e4f85bfa49e5456f92e).
 
 ### Posts and Webapps
+
 [back to TOC](#table-of-contents)
+
+#### 2023
+
+##### Objectives
+
+- Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
+- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
+- Exciting things: [Mediapipe](https://mediapipe.dev), [Roboflow](https://www.roboflow.com), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
+
+##### January
+
+- A primer from PagerDuty for dealing with technical incidents. The [Postmortem document](https://postmortems.pagerduty.com/meeting/) is at the core of the SRE culture, making sure the process is clear will make engineering teams succeed, when facing critical applications and busy stakeholders. PagerDuty is a [SaaS service](https://www.pagerduty.com/) to provide engineer tools to manage on-calls effectively.
+- Guido van Rossum, creator of Python language, was invited at the Lex Fridman Podcast for the second time. He shared his opinions about [the language evolution](https://www.youtube.com/watch?v=-DVyjdw4t9I), [programmer careers](https://www.youtube.com/watch?v=-DVyjdw4t9I&t=10571s), but also new things like GitHub Copilot which he says [he uses personally](https://www.youtube.com/watch?v=-DVyjdw4t9I&t=10963s).
+- 10 years after the [foundational article](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) from Harvard Business Review, the [original authors talk about the evolutions](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) of opportunity in data science related careers. They discuss how this new area played a big role in maintaining companies stability and growth, highlight the challenges to train or find skillful people, and also the new trends of MLOps.
+- GCP provides a [40 points checklist](https://cloud.google.com/blog/products/data-analytics/optimize-cloud-composer-via-better-airflow-dags/) to maintain a well-organized Airflow code base.
+- Following a recent refactoring, LinkedIn wrote a [comprehensive architecture note](https://engineering.linkedin.com/blog/2023/unifying-messaging-experiences-across-linkedin) about how their central instant messaging component works, enabling its 900 million members to communicate in real time.
+- Snowflake [released new features](https://www.snowflake.com/blog/category/product-and-technology/release-notes/) possibility with some security enhancements and the possibility to run query from VSCode.
 
 #### 2022
 
-##### Objectives
-- Read [Machine Learning Design Patterns](https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns)
-- Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
-- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
-- Exciting things: [Mediapipe](https://mediapipe.dev), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
+##### December
+
+- [GitHub tips to level up your CI/CD](https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/)
+- With new GPT-3 type models capable of generating human like contents and even [winning arts competition](https://www.washingtonpost.com/technology/2022/09/02/midjourney-artificial-intelligence-state-fair-colorado/), [a16z is considering how](https://future.com/how-to-build-gpt-3-for-science/) it can extend to other area such as science, and potentially change how researchers work.
+- In research conducted end of 2021, McKinsey identified major AI opportunities for China. Key sectors of automotive, manufacturing and enterprise software could [bring up to $600 billion](https://www.mckinsey.com/business-functions/quantumblack/our-insights/the-next-frontier-for-ai-in-china-could-add-600-billion-to-its-economy) to using AI technologies.
+- In mind sports and online games, [professional have been using AI](https://www.washingtonpost.com/business/magnus-carlsens-strongest-chess-opponentis-ai/2022/09/13/0c43cd10-3379-11ed-a0d6-415299bfebd5_story.html) to cheat and win prizes. A controversy has been going on in September involving top players for the game of chess. The columnist also prospects that people in the future will be using AI wearables for everyday decisions.
+- AWS [unveiled a report](https://pages.awscloud.com/rs/112-TZM-766/images/Etude_de_l_impact_economique_d_AWS.pdf) on the economic impact of AWS in France. The group plans to invest 5 billion between 2022 and 2031. It also highlights that France is lagging behind in the training of data profiles. AWS will also adopt a sustainability approach through the use of less energy consuming ARM chips.
+- AlphaTensor, an AI developed by based on previous work AlphaZero, has solved an old numerical analysis problem. The system was trained to [search efficient matrix multiplication algorithms](https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor) and outperformed Strassen algorithm.
+- During this year's Ignite event ([day1](https://www.linkedin.com/video/event/urn:li:ugcPost:6978828296645980160/), [day2](https://www.linkedin.com/video/event/urn:li:ugcPost:6980293452466982912/)). Microsoft announced changes on the server side, like ARM-based instances, AI assistance for developers, but also for corporate meetings, and an upgrade of Azure OpenAI. On the desktop side, Windows 11 updates and Microsoft Teams updates should improve the quality of the calls. [TLDR note from Satya Nadella](https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella/)
+- Laptops and desktop computers are more powerful than ever. [Now with DuckDB](https://duckdb.org/why_duckdb), a new in-memory OLAP tool, developers can take use their own compute power. Horizontal scaling is no longer necessary for simple analyses.
+- Different types of senior level engineers are depicted in this article with [their typical weekly schedule](https://staffeng.com/guides/staff-archetypes). Interesting ideas of how developers can organize their time to be more focused and productive.
+- Meta recently opened an API to write [chatbots for the WhatsApp messaging platform](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/). With a backend server in Python, [Flask](https://github.com/pallets/flask) or [FastAPI](https://github.com/tiangolo/fastapi) for example, businesses can now trigger text events enriched with ML or API calls, or retrieve knowledge from an external source. With chatbots, brands can engage their users in a direct and personalized way, using a simple text interface, and [Facebook has been one of the first platforms](https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/) to enable business and developers to do it.
+
+##### October
+
+- https://github.com/openai/whisper
+- https://snyk.io/blog/best-practices-create-modern-npm-package
+- https://duckdb.org/2022/10/12/modern-data-stack-in-a-box.html
+- https://www.linkedin.com/pulse/doing-more-less-microsoft-cloud-satya-nadella
+- https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor
 
 ##### June
 
-- DVC released a new [ML extension](https://dvc.org/blog/DVC-VS-Code-extension) to track both experiments and datasets directly with Git and VS Code, check out this [demo](https://www.youtube.com/watch?v=Eq3100S3aHw) on YouTube. 
-- Amazon recently released code with a [minimalistic infrastructure](https://aws-quickstart.github.io/quickstart-amazon-marketing-cloud/) to process its Marketing Cloud API. 
+- DVC released a new [ML extension](https://dvc.org/blog/DVC-VS-Code-extension) to track both experiments and datasets directly with Git and VS Code, check out this [demo](https://www.youtube.com/watch?v=Eq3100S3aHw) on YouTube.
+- Amazon recently released code with a [minimalistic infrastructure](https://aws-quickstart.github.io/quickstart-amazon-marketing-cloud/) to process its Marketing Cloud API.
 - Google broke the world record for computing the Pi number digits, they provided a small [API](https://pi.delivery/) for developers to try out and [discussed the infrastructure](https://cloud.google.com/blog/products/compute/calculating-100-trillion-digits-of-pi-on-google-cloud) they used for this classical HPC workload.
 
 ##### May
@@ -336,32 +371,39 @@ Their long-term goal is to become an open platform for machine learning research
 ------------------------------
 
 #### 2013
+
 [back to TOC](#table-of-contents)
 
 ##### December
+
 - Two articles on the difficulty on being a software engineer, at that time I didn't really want to choose a software career path. [Patrick McKenzie - Don't Call Yourself A Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), [Jeff Atwood - So You Don't Want to be a Programmer After All](http://www.codinghorror.com/blog/2013/04/so-you-dont-want-to-be-a-programmer-after-all.html).
 - Some Delphi links for the museum, [Delphi basics](http://www.delphibasics.co.uk/) was the best online resource to find help for Delphi, [using C++ objects in Delphi](http://rvelthuis.de/articles/articles-cppobjs.html), yes I had to use this dinosaur!
 - [Armando Fox, David Patterson - Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-on-rails-the-basics) where I learned that software wasn't only about Delphi and C++
 - Blake Masters notes on Peter Thiel course [Zero to One](https://blakemasters.com/peter-thiels-cs183-startup)
 
 ###### October
+
 - [C++ FAQ](https://isocpp.org/faq), [Bjarne Stroustrup](https://www.stroustrup.com) FAQs
 - [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/)
 
 ###### September
-- Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Otherflow, Martin Fowler's Refactoring book
+
+- Dealing with legacy code: [I've inherited 200k of spaghetti code](https://programmers.stackexchange.com/questions/155488/ive-inherited-200k-lines-of-spaghetti-code-what-now) from Stack Overflow, Martin Fowler's Refactoring book
 - [CSS animations cheatsheet](http://www.justinaguilar.com/animations/), [Git concepts simplified](https://gitolite.com/gcs), [Project Euler](https://projecteuler.net/)
 
 ###### June
+
 - On Richard Stallman, [lifestyle](https://framablog.org/2013/06/03/stallman-style-de-vie/), [reasons not to use Google](https://stallman.org/google.html)
 
 ##### April
+
 - Learning about UX, [52 week of UX](https://52weeksofux.com/tagged/week_1) and Don Norman's book. Julie Zhuo (Facebook) post [was also a must see](https://medium.com/the-year-of-the-looking-glass/the-future-of-design-in-technology-fe1697e5826).
 - [Hack Design](https://hackdesign.org/) is a newsletter for learning web design in 52 weeks, [Balsamiq](https://www.balsamiq.com/) for wireframes, [Dribble](https://dribbble.com/).
 
 ------------------------------
 
 #### 2012
+
 [back to TOC](#table-of-contents)
 
 - Andrew Hunt - The Pragmatic Programmer
@@ -373,6 +415,7 @@ Their long-term goal is to become an open platform for machine learning research
 ------------------------------
 
 #### 2011
+
 [back to TOC](#table-of-contents)
 
 - Steve McConnell - Code complete
@@ -390,6 +433,7 @@ Their long-term goal is to become an open platform for machine learning research
 - Enjoyed reading Laurent Champaney books on mechanics, [Méthodes d’approximation de Solution pour les problèmes de la physique](https://savoir.ensam.eu/moodle/pluginfile.php/15240/mod_resource/content/1/ApproxSolut-Champaney.pdf) and [Méthodes numériques pour la mécanique](https://savoir.ensam.eu/moodle/pluginfile.php/15241/mod_resource/content/2/MEF_Champaney.pdf), and Olivier Gagliardini's "Cours de béton armé" on [reinforced concrete](http://pp.ige-grenoble.fr/pageperso/gagliaro/enseignement/polyBA_IUP3.pdf). I used these book at my last year internship and my first full-time job
 
 ### Books
+
 [back to TOC](#table-of-contents)
 
 <div align="center">
@@ -452,9 +496,11 @@ Their long-term goal is to become an open platform for machine learning research
 </div>
 
 ### Blogs and Podcasts
+
 [back to TOC](#table-of-contents)
 
 #### Following
+
 [back to TOC](#table-of-contents)
 
 - Entrepreuneurship: [Andreessen Horowitz](https://a16z.com/), [Rude Baguette](http://www.rudebaguette.com/), [Usine Digitale](https://www.usine-digitale.fr/), [Tech In Asia](http://www.techinasia.com/), [Jason Kottke](http://www.kottke.org/), [Le Monde Informatique](https://www.lemondeinformatique.fr/)
@@ -466,6 +512,7 @@ Their long-term goal is to become an open platform for machine learning research
 - General News: [Courrier International](https://www.courrierinternational.com), [Le Monde Videos](https://www.lemonde.fr/videos), [Le Monde Big Browser](http://www.lemonde.fr/big-browser)
 
 #### Archive
+
 [back to TOC](#table-of-contents)
 
 - https://hackernoon.com/
@@ -559,6 +606,7 @@ Their long-term goal is to become an open platform for machine learning research
 - https://webdesign.tutsplus.com/
 
 ##### Newsletters
+
 [back to TOC](#table-of-contents)
 
 - [Database Weekly](https://dbweekly.com/)
@@ -568,6 +616,7 @@ Their long-term goal is to become an open platform for machine learning research
 - [Golang Weekly](https://golangweekly.com/)
 
 ### Online courses
+
 [back to TOC](#table-of-contents)
 
 - [Pixar in a box](https://www.khanacademy.org/computing/pixar)
@@ -575,9 +624,11 @@ Their long-term goal is to become an open platform for machine learning research
 - [The science of well being](https://www.coursera.org/learn/the-science-of-well-being)
 
 ### Repos, toolbox for work-related problems
+
 [back to TOC](#table-of-contents)
 
 #### CSS
+
 [back to TOC](#table-of-contents)
 
 - [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
@@ -760,6 +811,7 @@ Old JS links
 </details>
 
 #### JavaScript
+
 [back to TOC](#table-of-contents)
 
 - [`aerogear/create-graphql`](https://github.com/aerogear/create-graphql)
@@ -906,6 +958,7 @@ Old JS links
 - [`AaronCQL/katex-github-chrome-extension`](https://github.com/AaronCQL/katex-github-chrome-extension)
 
 ###### Visualization
+
 - [`apache/incubator-echarts`](https://github.com/apache/incubator-echarts)
 - [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 - [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
@@ -913,6 +966,7 @@ Old JS links
 - [`zalando/tech-radar`](https://github.com/zalando/tech-radar)
 
 ###### Testing
+
 - [`Automattic/expect.js`](https://github.com/Automattic/expect.js)
 - [`Browsersync/browser-sync`](https://github.com/Browsersync/browser-sync)
 - [`facebook/jest`](https://github.com/facebook/jest)
@@ -1325,6 +1379,7 @@ Old JS links
 - [`tensorflow/tfx`](https://github.com/tensorflow/tfx)
 
 #### Go and native languages
+
 [back to TOC](#table-of-contents)
 
 - [`360EntSecGroup-Skylar/excelize`](https://github.com/360EntSecGroup-Skylar/excelize)
@@ -1371,6 +1426,7 @@ Old JS links
 - [`Y2Z/monolith`](https://github.com/Y2Z/monolith)
 
 #### Java
+
 [back to TOC](#table-of-contents)
 
 - [`addthis/stream-lib`](https://github.com/addthis/stream-lib)
@@ -1406,12 +1462,14 @@ Old JS links
 - [`takari/maven-wrapper`](https://github.com/takari/maven-wrapper)
 
 ##### Apache Beam
+
 - [`GoogleCloudPlatform/dataflow-contact-center-speech-analysis`](https://github.com/GoogleCloudPlatform/dataflow-contact-center-speech-analysis)
 - [`GoogleCloudPlatform/dataflow-opinion-analysis`](https://github.com/GoogleCloudPlatform/dataflow-opinion-analysis)
 - [`GoogleCloudPlatform/DataflowTemplates`](https://github.com/GoogleCloudPlatform/DataflowTemplates)
 - [`GoogleCloudPlatform/df-ml-anomaly-detection`](https://github.com/GoogleCloudPlatform/df-ml-anomaly-detection)
 
 #### Self-development
+
 [back to TOC](#table-of-contents)
 
 - [`996icu/996.ICU`](https://github.com/996icu/996.ICU)
@@ -1427,6 +1485,7 @@ Old JS links
 - [`rstudio/tufte`](https://github.com/rstudio/tufte)
 
 #### Museum
+
 [back to TOC](#table-of-contents)
 
 - [`a-nikolaev/curseofwar`](https://github.com/a-nikolaev/curseofwar)
@@ -1478,6 +1537,7 @@ Old JS links
 - [`xbpeng/DeepMimic`](https://github.com/xbpeng/DeepMimic)
 
 #### DevOps
+
 [back to TOC](#table-of-contents)
 
 - [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted)
@@ -1509,12 +1569,14 @@ Old JS links
 - [`swanson/stringer`](https://github.com/swanson/stringer)
 
 ##### Monitoring
+
 - [`allinurl/goaccess`](https://github.com/allinurl/goaccess)
 - [`healthchecks/healthchecks`](https://github.com/healthchecks/healthchecks)
 - [`monitoringartist/grafana-aws-cloudwatch-dashboards`](https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards)
 - [`jorgebastida/awslogs`](https://github.com/jorgebastida/awslogs)
 
 ##### Continuous Integration
+
 - [`actions/example-services`](https://github.com/actions/example-services)
 - [`actions/starter-workflows`](https://github.com/actions/starter-workflows)
 - [`awsdocs/aws-cloudformation-user-guide`](https://github.com/awsdocs/aws-cloudformation-user-guide)
@@ -1528,6 +1590,7 @@ Old JS links
 - [`stefanbuck/awesome-browser-extensions-for-github`](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 ###### Docker and Kubernetes
+
 - [`cablespaghetti/kubeadm-aws`](https://github.com/cablespaghetti/kubeadm-aws)
 - [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim)
 - [`dokku/dokku`](https://github.com/dokku/dokku)
@@ -1536,9 +1599,11 @@ Old JS links
 - [`wagoodman/dive`](https://github.com/wagoodman/dive)
 
 ###### Site Reliability
+
 - [`binhnguyennus/awesome-scalability`](https://github.com/binhnguyennus/awesome-scalability)
 
 ###### Functions
+
 - [`asrivas/work-less-do-more`](https://github.com/asrivas/work-less-do-more)
 - [`aws-samples/lambda-refarch-image-moderation-chatbot`](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot)
 - [`GoogleCloudPlatform/functions-framework-ruby`](https://github.com/GoogleCloudPlatform/functions-framework-ruby)
@@ -1550,6 +1615,7 @@ Old JS links
 - [`minio/minio`](https://github.com/minio/minio)
 
 ##### MLOps
+
 - [`aws-samples/lambda-refarch-imagerecognition`](https://github.com/aws-samples/lambda-refarch-imagerecognition)
 - [`axa-group/Parsr`](https://github.com/axa-group/Parsr)
 - [`full-stack-deep-learning/course-gitbook`](https://github.com/full-stack-deep-learning/course-gitbook)
@@ -1564,6 +1630,7 @@ Old JS links
 - [`uber/ludwig`](https://github.com/uber/ludwig)
 
 #### Databases
+
 [back to TOC](#table-of-contents)
 
 - [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
@@ -1595,6 +1662,7 @@ Old JS links
 - [`GoogleCloudPlatform/bigquery-geo-viz`](https://github.com/GoogleCloudPlatform/bigquery-geo-viz)
 
 #### CLI
+
 [back to TOC](#table-of-contents)
 
 - [`agarrharr/awesome-cli-apps`](https://github.com/agarrharr/awesome-cli-apps)
@@ -1715,6 +1783,7 @@ Old JS links
 - [`libfuse/sshfs`](https://github.com/libfuse/sshfs)
 
 #### Security
+
 [back to TOC](#table-of-contents)
 
 - [`apsdehal/awesome-ctf`](https://github.com/apsdehal/awesome-ctf)
@@ -1734,6 +1803,7 @@ Old JS links
 - [`zricethezav/gitleaks`](https://github.com/zricethezav/gitleaks)
 
 ### Quotes
+
 [back to TOC](#table-of-contents)
 
 > "_Thus, I thought dynamic programming was a good name. It was something not even a Congressman could object to. So I used it as an umbrella for my activities_" Richard Bellman
@@ -1745,8 +1815,9 @@ Old JS links
 > "_The single most important thing in life is to believe in yourself regardless of what everyone else says._” Hikaru Nakamura
 
 ### References
+
 [back to TOC](#table-of-contents)
 
-- https://api.github.com/users/mycaule/starred?page=1&per_page=100
-- https://www.goodreads.com/review/import
-- https://getpocket.com/export
+- [Latest repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
+- [Goodreads Data Export](https://www.goodreads.com/review/import)
+- [Pocket Data Export](https://getpocket.com/export)
