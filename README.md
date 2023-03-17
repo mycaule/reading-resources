@@ -1818,6 +1818,6 @@ Old JS links
 
 [back to TOC](#table-of-contents)
 
-- [Latest repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
+- [Last repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
 - [Goodreads Data Export](https://www.goodreads.com/review/import)
 - [Pocket Data Export](https://getpocket.com/export)
