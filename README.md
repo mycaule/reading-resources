@@ -21,11 +21,11 @@ Inspiration: [Richard Stallman](https://stallman.org), [Jason Kottke](https://ww
   - [2015](#2015) | [2014](#2014) | [2013](#2013) | [2012](#2012) | [2011](#2011)
 - [Books](#books)
 - [Blogs](#blogs-and-podcasts)
-  - [Following](#following) | [Archive](#archive)
+  - [Following](#following) | [Social Networks](#social-networks) | [Archive](#archive)
 - [Newsletters](#newsletters)
 - [Online courses](#online-courses)
 - [Repositories](#repos-toolbox-for-work-related-problems)
-  - [CSS](#css) | [Node.js](#javascript) | [Scala](#scala) | [Java](#java)
+  - [CSS](#css) | [Prompt](#prompt) | [Node.js](#javascript) | [Scala](#scala) | [Java](#java)
   - [Python](#python) | [Go](#go-and-native-languages) | [CLI](#cli) | [DevOps](#devops) | [Security](#security)
 - [Quotes](#quotes)
 
@@ -48,7 +48,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 ##### Objectives
 
 - Write a small project in Go language using one of [the libraries below](#go-and-other-hot-languages)
-- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [MDoc](https://github.com/scalameta/mdoc)
+- Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [mdBook](https://github.com/rust-lang/mdBook)
 - Exciting things: [Mediapipe](https://mediapipe.dev), [Roboflow](https://www.roboflow.com), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
 
 ##### January
@@ -173,6 +173,7 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine) covers all the aspects of using Kubernetes in a professional context, has plenty of hands-on labs and code samples to practice.
 
 ##### April
+
 - Corey Schafer video tutorials on Python subjects [Pandas](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS), [Matplotlib](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 - [James Powell talks at PyData](https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL) highlights some of the powerful specifics of Python 3, decorators, context managers etc.
 - French research labs INRIA also have interesting courses on techniques they use in biostatistics [Recherche reproductible](https://www.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/info), [Python 3](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/info) emphases research versus software engineering
@@ -511,6 +512,14 @@ Their long-term goal is to become an open platform for machine learning research
 - Web design: [Uninvited Redesign](http://uninvitedredesigns.com/), [Google Web Team](https://developers.google.com/web/updates/)
 - General News: [Courrier International](https://www.courrierinternational.com), [Le Monde Videos](https://www.lemonde.fr/videos), [Le Monde Big Browser](http://www.lemonde.fr/big-browser)
 
+#### Social Networks
+
+- Big Data: [Heather Miller](https://www.linkedin.com/in/heather-miller-b7311a5/), [Jacek Laskowski](https://www.linkedin.com/in/jaceklaskowski/), [James Powell](https://www.linkedin.com/in/dontusethiscode/)
+- Coding: [Sergei Winitzki](https://www.linkedin.com/in/sergei-winitzki-11a6431/), [Suhan Wijaya](https://www.linkedin.com/in/suhanwijaya/)
+- AI: [Jason Mayes](https://www.linkedin.com/in/creativetech/), [Gilles Wainrib](https://www.linkedin.com/in/gilles-wainrib-028a622/), [Lex Fridman](https://www.linkedin.com/in/lexfridman/), [Meghan Zhao](https://www.linkedin.com/in/meghanzhao/)
+- Microsoft: [Satya Nadella](https://www.linkedin.com/in/satyanadella/), [Xavier Perret](https://www.linkedin.com/in/xavier-perret/)
+- Economics and Leadership: [Bill Aulet](https://www.linkedin.com/in/billaulet/), [Emily Chang](https://www.linkedin.com/in/emilychangbloomberg/), [Jean-Marc Sylvestre](https://www.linkedin.com/in/jean-marc-sylvestre/), [Jean Massiet](https://www.linkedin.com/in/jean-massiet-123a5191/), [Justin Kan](https://www.linkedin.com/in/justinkan/), [Stephen Engle](https://www.linkedin.com/in/stephen-engle-9968ab22/), [Virginie Guyot](https://www.linkedin.com/in/virginieguyot/), [Xinmei Shen](https://www.linkedin.com/in/xinmei-shen-02013b138/)
+
 #### Archive
 
 [back to TOC](#table-of-contents)
@@ -624,24 +633,70 @@ Their long-term goal is to become an open platform for machine learning research
 - [The science of well being](https://www.coursera.org/learn/the-science-of-well-being)
 
 ### Repos, toolbox for work-related problems
-
 [back to TOC](#table-of-contents)
-
-#### CSS
-
-[back to TOC](#table-of-contents)
-
-- [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
-- [`edwardtufte/tufte-css`](https://github.com/edwardtufte/tufte-css)
-- [`ft-interactive/chart-doctor`](https://github.com/ft-interactive/chart-doctor)
-- [`jgthms/bulma`](https://github.com/jgthms/bulma)
-- [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 
 #### SORT-ME
 
+New links
+
 <details>
 
+- [`GoogleCloudPlatform/microservices-demo`](https://github.com/GoogleCloudPlatform/microservices-demo)
+- [`envoyproxy/envoy`](https://github.com/envoyproxy/envoy)
+- [`GoogleCloudPlatform/data-analytics-golden-demo`](https://github.com/GoogleCloudPlatform/data-analytics-golden-demo)
+- [`cloudspannerecosystem/harbourbridge`](https://github.com/cloudspannerecosystem/harbourbridge)
+- [`powerline/fonts`](https://github.com/powerline/fonts)
+- [`ydataai/ydata-profiling`](https://github.com/ydataai/ydata-profiling)
+- [`mastodon/mastodon`](https://github.com/mastodon/mastodon)
+- [`fredgis/GPS-Data-AI`](https://github.com/fredgis/GPS-Data-AI)
+- [`feast-dev/feast`](https://github.com/feast-dev/feast)
+- [`deepset-ai/haystack`](https://github.com/deepset-ai/haystack)
+- [`pythonprofilers/memory_profiler`](https://github.com/pythonprofilers/memory_profiler)
+- [`alexlenail/NN-SVG`](https://github.com/alexlenail/NN-SVG)
+- [`brainix/pottery`](https://github.com/brainix/pottery)
+- [`tugstugi/dl-colab-notebooks`](https://github.com/tugstugi/dl-colab-notebooks)
+- [`docarray/docarray`](https://github.com/docarray/docarray)
+- [`holtzy/The-Python-Graph-Gallery`](https://github.com/holtzy/The-Python-Graph-Gallery)
+- [`TheAlgorithms/Python`](https://github.com/TheAlgorithms/Python)
+- [`mintlify/writer`](https://github.com/mintlify/writer)
+- [`glinscott/fishtest`](https://github.com/glinscott/fishtest)
+- [`unit8co/darts`](https://github.com/unit8co/darts)
+- [`vespa-engine/vespa`](https://github.com/vespa-engine/vespa)
+- [`tldraw/tldraw`](https://github.com/tldraw/tldraw)
+- [`aws-samples/amazon-sagemaker-integration-with-snowflake`](https://github.com/aws-samples/amazon-sagemaker-integration-with-snowflake)
+- [`languagetool-org/languagetool`](https://github.com/languagetool-org/languagetool)
+- [`datastaxdevs/bootcamp-fullstack-apps-with-cassandra`](https://github.com/datastaxdevs/bootcamp-fullstack-apps-with-cassandra)
+- [`justinfagnani/chessboard-element`](https://github.com/justinfagnani/chessboard-element)
+- [`deepchecks/deepchecks`](https://github.com/deepchecks/deepchecks)
+- [`node-formidable/formidable`](https://github.com/node-formidable/formidable)
+- [`apollos/opencv-practice`](https://github.com/apollos/opencv-practice)
+- [`marcusbuffett/command-line-chess`](https://github.com/marcusbuffett/command-line-chess)
+- [`aws-samples/aws-cdk-examples`](https://github.com/aws-samples/aws-cdk-examples)
+- [`handsonscala/handsonscala`](https://github.com/handsonscala/handsonscala)
+- [`tonsky/FiraCode`](https://github.com/tonsky/FiraCode)
+- [`google/go-containerregistry`](https://github.com/google/go-containerregistry)
+- [`LaurenceRawlings/savify`](https://github.com/LaurenceRawlings/savify)
+- [`kdeldycke/awesome-engineering-team-management`](https://github.com/kdeldycke/awesome-engineering-team-management)
+- [`rbw/pysnow`](https://github.com/rbw/pysnow)
+- [`chimpler/postgres-aws-s3`](https://github.com/chimpler/postgres-aws-s3)
+- [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models)
+- [`CSSLab/maia-chess`](https://github.com/CSSLab/maia-chess)
+- [`ydavidchen/gcp-mle-outline`](https://github.com/ydavidchen/gcp-mle-outline)
+- [`PAIR-code/what-if-tool`](https://github.com/PAIR-code/what-if-tool)
+- [`MichalHecko/SSLPoke`](https://github.com/MichalHecko/SSLPoke)
+- [`geogebra/geogebra`](https://github.com/geogebra/geogebra)
+- [`TeamNewPipe/NewPipe`](https://github.com/TeamNewPipe/NewPipe)
+- [`amundsen-io/amundsen`](https://github.com/amundsen-io/amundsen)
+- [`datahub-project/datahub`](https://github.com/datahub-project/datahub)
+- [`sleuthkit/scalpel`](https://github.com/sleuthkit/scalpel)
+- [`numerai/example-scripts`](https://github.com/numerai/example-scripts)
+
+</details>
+
 Old JS links
+
+<details>
+
 - [`CanalTP/navitia`](https://github.com/CanalTP/navitia)
 - [`caolan/async`](https://github.com/caolan/async)
 - [`cchantep/acolyte`](https://github.com/cchantep/acolyte)
@@ -657,7 +712,6 @@ Old JS links
 - [`cyberglot/awesome-answers`](https://github.com/cyberglot/awesome-answers)
 - [`danielgtaylor/aglio`](https://github.com/danielgtaylor/aglio)
 - [`databricks/mlflow`](https://github.com/databricks/mlflow)
-- [`databricks/spark-sklearn`](https://github.com/databricks/spark-sklearn)
 - [`derikon/awesome-human-motion`](https://github.com/derikon/awesome-human-motion)
 - [`derimagia/awesome-alfred-workflows`](https://github.com/derimagia/awesome-alfred-workflows)
 - [`DimitarPetrov/stegify`](https://github.com/DimitarPetrov/stegify)
@@ -809,6 +863,25 @@ Old JS links
 - [`twobucks/zapsnap`](https://github.com/twobucks/zapsnap)
 
 </details>
+
+#### Prompt
+
+[back to TOC](#table-of-contents)
+
+- [`acheong08/ChatGPT`](https://github.com/acheong08/ChatGPT)
+- [`dair-ai/Prompt-Engineering-Guide`](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [`transitive-bullshit/bing-chat`](https://github.com/transitive-bullshit/bing-chat)
+- [`transitive-bullshit/chatgpt-api`](https://github.com/transitive-bullshit/chatgpt-api)
+
+#### CSS
+
+[back to TOC](#table-of-contents)
+
+- [`agarrharr/awesome-static-website-services`](https://github.com/agarrharr/awesome-static-website-services)
+- [`edwardtufte/tufte-css`](https://github.com/edwardtufte/tufte-css)
+- [`ft-interactive/chart-doctor`](https://github.com/ft-interactive/chart-doctor)
+- [`jgthms/bulma`](https://github.com/jgthms/bulma)
+- [`Siddharth11/Colorful`](https://github.com/Siddharth11/Colorful)
 
 #### JavaScript
 
@@ -1002,6 +1075,7 @@ Old JS links
 - [`Turfjs/turf`](https://github.com/Turfjs/turf)
 
 ###### Safer JS
+
 - [`addyosmani/es6-tools`](https://github.com/addyosmani/es6-tools)
 - [`airbnb/javascript`](https://github.com/airbnb/javascript)
 - [`bolshchikov/js-must-watch`](https://github.com/bolshchikov/js-must-watch)
@@ -1017,6 +1091,7 @@ Old JS links
 - [`z-pattern-matching/z`](https://github.com/z-pattern-matching/z)
 
 ###### Tensorflow.js
+
 - [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`bensonruan/Face-Mask`](https://github.com/bensonruan/Face-Mask)
@@ -1035,6 +1110,7 @@ Old JS links
 - [`yemount/pose-animator`](https://github.com/yemount/pose-animator)
 
 ##### File formats
+
 - [`11ways/json-dry`](https://github.com/11ways/json-dry)
 - [`adrai/flowchart.js`](https://github.com/adrai/flowchart.js)
 - [`RussCoder/djvujs`](https://github.com/RussCoder/djvujs)
@@ -1155,6 +1231,7 @@ Old JS links
 - [`scalameta/mdoc`](https://github.com/scalameta/mdoc)
 
 ##### Spark and Hadoop
+
 - [`51zero/eel-sdk`](https://github.com/51zero/eel-sdk)
 - [`adornes/spark_scala_ml_examples`](https://github.com/adornes/spark_scala_ml_examples)
 - [`alexarchambault/ammonite-spark`](https://github.com/alexarchambault/ammonite-spark)
@@ -1165,10 +1242,16 @@ Old JS links
 - [`awesome-spark/spark-gotchas`](https://github.com/awesome-spark/spark-gotchas)
 - [`awslabs/deequ`](https://github.com/awslabs/deequ)
 - [`Azure/mmlspark`](https://github.com/Azure/mmlspark)
+- [`databricks-academy/scalable-machine-learning-with-apache-spark-english`](https://github.com/scalable-machine-learning-with-apache-spark-english)
+- [`databricks-academy/data-engineering-with-databricks-english`](https://github.com/databricks-academy/data-engineering-with-databricks-english)
+- [`databricks-demos/dbdemos`](https://github.com/databricks-demos/dbdemos)
 - [`databricks/learning-spark`](https://github.com/databricks/learning-spark)
+- [`databricks/spark-sklearn`](https://github.com/databricks/spark-sklearn)
 - [`databricks/tensorframes`](https://github.com/databricks/tensorframes)
+- [`databrickslabs/dbx`](https://github.com/databrickslabs/dbx)
 - [`delta-io/delta`](https://github.com/delta-io/delta)
 - [`GoogleCloudDataproc/initialization-actions`](https://github.com/GoogleCloudDataproc/initialization-actions)
+- [`hadoopecosystemtable/hadoopecosystemtable.github.io`](https://github.com/hadoopecosystemtable/hadoopecosystemtable.github.io)
 - [`holdenk/spark-testing-base`](https://github.com/holdenk/spark-testing-base)
 - [`hortonworks-gallery/zeppelin-notebooks`](https://github.com/hortonworks-gallery/zeppelin-notebooks)
 - [`KKBOX/spark-deployer`](https://github.com/KKBOX/spark-deployer)
@@ -1179,7 +1262,8 @@ Old JS links
 - [`sryza/aas`](https://github.com/sryza/aas)
 
 #### Python
-[Bbck to TOC](#table-of-contents)
+
+[Back to TOC](#table-of-contents)
 
 ##### Machine Learning
 
@@ -1189,6 +1273,7 @@ Old JS links
 - [`apache/incubator-mxnet`](https://github.com/apache/incubator-mxnet)
 - [`argman/EAST`](https://github.com/argman/EAST)
 - [`aws/amazon-sagemaker-examples`](https://github.com/aws/amazon-sagemaker-examples)
+- [`Azure-Samples/cognitive-services-speech-sdk`](https://github.com/Azure-Samples/cognitive-services-speech-sdk)
 - [`CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers`](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [`biubug6/Face-Detector-1MB-with-landmark`](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 - [`clovaai/CRAFT-pytorch`](https://github.com/clovaai/CRAFT-pytorch)
@@ -1211,17 +1296,22 @@ Old JS links
 - [`fastai/fastai`](https://github.com/fastai/fastai)
 - [`fastai/fastpages`](https://github.com/fastai/fastpages)
 - [`flairNLP/flair`](https://github.com/flairNLP/flair)
+- [`google/making_with_ml`](https://github.com/google/making_with_ml)
+- [`googleapis/python-aiplatform`](https://github.com/googleapis/python-aiplatform)
 - [`GoogleCloudPlatform/ai-platform-samples`](https://github.com/GoogleCloudPlatform/ai-platform-samples)
 - [`GoogleCloudPlatform/data-science-on-gcp`](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 - [`GoogleCloudPlatform/ml-design-patterns`](https://github.com/GoogleCloudPlatform/ml-design-patterns)
+- [`GoogleCloudPlatform/mlops-with-vertex-ai`](https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai)
 - [`GoogleCloudPlatform/realtime-embeddings-matching`](https://github.com/GoogleCloudPlatform/realtime-embeddings-matching)
 - [`hill-a/stable-baselines`](https://github.com/hill-a/stable-baselines)
+- [`hundredblocks/ml-powered-applications`](https://github.com/hundredblocks/ml-powered-applications)
 - [`idealo/image-super-resolution`](https://github.com/idealo/image-super-resolution)
 - [`idealo/imagededup`](https://github.com/idealo/imagededup)
 - [`ismir/mir-datasets`](https://github.com/ismir/mir-datasets)
 - [`jakevdp/PythonDataScienceHandbook`](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [`karpathy/neuraltalk2`](https://github.com/karpathy/neuraltalk2)
 - [`krishnaik06/Kaggle-Competitions`](https://github.com/krishnaik06/Kaggle-Competitions)
+- [`kubeflow/pipelines`](https://github.com/kubeflow/pipelines)
 - [`kvfrans/deepcolor`](https://github.com/kvfrans/deepcolor)
 - [`kymatio/kymatio`](https://github.com/kymatio/kymatio)
 - [`laurenshareshian/home_price_estimator`](https://github.com/laurenshareshian/home_price_estimator)
@@ -1231,7 +1321,9 @@ Old JS links
 - [`microsoft/DMTK`](https://github.com/microsoft/DMTK)
 - [`microsoft/forecasting`](https://github.com/microsoft/forecasting)
 - [`microsoft/LightGBM`](https://github.com/microsoft/LightGBM)
+- [`microsoft/MLOpsPython`](https://github.com/microsoft/MLOpsPython)
 - [`microsoft/recommenders`](https://github.com/microsoft/recommenders)
+- [`microsoft/SynapseML`](https://github.com/microsoft/SynapseML)
 - [`mittagessen/kraken`](https://github.com/mittagessen/kraken)
 - [`nok/sklearn-porter`](https://github.com/nok/sklearn-porter)
 - [`optimizely/hyperloglog`](https://github.com/optimizely/hyperloglog)
@@ -1305,11 +1397,15 @@ Old JS links
 ##### Safer Python
 
 - [`benoitc/gunicorn`](https://github.com/benoitc/gunicorn)
+- [`cosmicpython/code`](https://github.com/cosmicpython/code)
+- [`ethanfurman/aenum`](https://github.com/ethanfurman/aenum)
 - [`facebookresearch/hydra`](https://github.com/facebookresearch/hydra)
 - [`google/python-fire`](https://github.com/google/python-fire)
 - [`google/yapf`](https://github.com/google/yapf)
+- [`jendrikseipp/vulture`](https://github.com/jendrikseipp/vulture)
 - [`psf/black`](https://github.com/psf/black)
 - [`PyCQA/bandit`](https://github.com/PyCQA/bandit)
+- [`python-poetry/poetry`](https://github.com/python-poetry/poetry)
 
 ##### Databases
 
@@ -1322,6 +1418,13 @@ Old JS links
 - [`openfisca/openfisca-paris`](https://github.com/openfisca/openfisca-paris)
 - [`saulpw/visidata`](https://github.com/saulpw/visidata)
 - [`simonw/datasette`](https://github.com/simonw/datasette)
+- [`TomAugspurger/effective-pandas`](https://github.com/TomAugspurger/effective-pandas)
+
+##### SQL
+
+- [`sqlfluff/sqlfluff`](https://github.com/sqlfluff/sqlfluff)
+- [`sripathikrishnan/jinjasql`](https://github.com/sripathikrishnan/jinjasql)
+- [`tobymao/sqlglot`](https://github.com/tobymao/sqlglot)
 
 ##### Microservices
 
@@ -1333,6 +1436,7 @@ Old JS links
 - [`grycap/scar`](https://github.com/grycap/scar)
 - [`irmen/Pyrolite`](https://github.com/irmen/Pyrolite)
 - [`powdahound/ec2instances.info`](https://github.com/powdahound/ec2instances.info)
+- [`pynecone-io/pynecone`](https://github.com/pynecone-io/pynecone)
 - [`tadhgfitzgerald/fifa_ranking`](https://github.com/tadhgfitzgerald/fifa_ranking)
 - [`taoufik07/responder`](https://github.com/taoufik07/responder)
 - [`tiangolo/fastapi`](https://github.com/tiangolo/fastapi)
@@ -1633,9 +1737,13 @@ Old JS links
 
 [back to TOC](#table-of-contents)
 
+- [`calogica/dbt-expectations`](https://github.com/calogica/dbt-expectations)
 - [`citusdata/postgresql-hll`](https://github.com/citusdata/postgresql-hll)
 - [`citusdata/postgresql-topn`](https://github.com/citusdata/postgresql-topn)
+- [`duckdb/duckdb`](https://github.com/duckdb/duckdb)
 - [`dgraph-io/dgraph`](https://github.com/dgraph-io/dgraph)
+- [`dbt-labs/dbt-audit-helper`](https://github.com/dbt-labs/dbt-audit-helper)
+- [`dbt-labs/dbt-external-tables`](https://github.com/dbt-labs/dbt-external-tables)
 - [`ept/ddia-references`](https://github.com/ept/ddia-references)
 - [`fastogt/fastonosql`](https://github.com/fastogt/fastonosql)
 - [`fishtown-analytics/dbt`](https://github.com/fishtown-analytics/dbt)
@@ -1643,9 +1751,11 @@ Old JS links
 - [`GoogleCloudPlatform/bigquery-oreilly-book`](https://github.com/GoogleCloudPlatform/bigquery-oreilly-book)
 - [`GoogleCloudPlatform/bigquery-utils`](https://github.com/GoogleCloudPlatform/bigquery-utils)
 - [`heathermiller/dist-prog-book`](https://github.com/heathermiller/dist-prog-book)
+- [`Hiflylabs/awesome-dbt`](https://github.com/Hiflylabs/awesome-dbt)
 - [`HTTPArchive/bigquery`](https://github.com/HTTPArchive/bigquery)
 - [`HTTPArchive/httparchive.org`](https://github.com/HTTPArchive/httparchive.org)
 - [`influxdata/influxdb`](https://github.com/influxdata/influxdb)
+- [`jwills/dbt-duckdb`](https://github.com/jwills/dbt-duckdb)
 - [`LINCnil/pia-back`](https://github.com/LINCnil/pia-back)
 - [`lesovsky/pgcenter`](https://github.com/lesovsky/pgcenter)
 - [`metabase/metabase`](https://github.com/metabase/metabase)
@@ -1673,6 +1783,7 @@ Old JS links
 - [`clibs/entr`](https://github.com/clibs/entr)
 - [`clvv/fasd`](https://github.com/clvv/fasd)
 - [`dflemstr/rq`](https://github.com/dflemstr/rq)
+- [`google/zx`](https://github.com/google/zx)
 - [`HazyResearch/pdftotree`](https://github.com/HazyResearch/pdftotree)
 - [`jeffbski/wait-on`](https://github.com/jeffbski/wait-on)
 - [`jiahaog/nativefier`](https://github.com/jiahaog/nativefier)
@@ -1690,6 +1801,7 @@ Old JS links
 
 - [`jamesramsay/hercule`](https://github.com/jamesramsay/hercule)
 - [`mermaid-js/mermaid`](https://github.com/mermaid-js/mermaid)
+- [`rust-lang/mdBook`](https://github.com/rust-lang/mdBook)
 
 ##### Data Browser
 
@@ -1748,9 +1860,15 @@ Old JS links
 - [`aria2/aria2`](https://github.com/aria2/aria2)
 - [`coursera-dl/edx-dl`](https://github.com/coursera-dl/edx-dl)
 - [`exiftool/exiftool`](https://github.com/exiftool/exiftool)
+- [`Ebazhanov/linkedin-skill-assessments-quizzes`](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+- [`iv-org/invidious`](https://github.com/iv-org/invidious)
+- [`numfocus/YouTubeVideoTimestamps`](https://github.com/numfocus/YouTubeVideoTimestamps)
+- [`rosen-score/lichess-youtube-timestamper`](https://github.com/rosen-score/lichess-youtube-timestamper)
 - [`SwapnilSoni1999/spotify-dl`](https://github.com/SwapnilSoni1999/spotify-dl)
+- [`tomquirk/linkedin-api`](https://github.com/tomquirk/linkedin-api)
 - [`transitive-bullshit/awesome-ffmpeg`](https://github.com/transitive-bullshit/awesome-ffmpeg)
 - [`watsonbox/exportify`](https://github.com/watsonbox/exportify)
+- [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp)
 - [`ytdl-org/youtube-dl`](https://github.com/ytdl-org/youtube-dl)
 
 ##### Structured text
@@ -1796,6 +1914,7 @@ Old JS links
 - [`lastpass/lastpass-cli`](https://github.com/lastpass/lastpass-cli)
 - [`maxchehab/CSS-Keylogging`](https://github.com/maxchehab/CSS-Keylogging)
 - [`meitar/awesome-lockpicking`](https://github.com/meitar/awesome-lockpicking)
+- [`openbullet/OpenBullet2`](https://github.com/openbullet/OpenBullet2)
 - [`OpenCTI-Platform/opencti`](https://github.com/OpenCTI-Platform/opencti)
 - [`projectdiscovery/naabu`](https://github.com/projectdiscovery/naabu)
 - [`sa7mon/S3Scanner`](https://github.com/sa7mon/S3Scanner)
@@ -1818,6 +1937,6 @@ Old JS links
 
 [back to TOC](#table-of-contents)
 
-- [Latest repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
+- [Last repos I starred from GitHub API](https://api.github.com/users/mycaule/starred?page=1&per_page=100)
 - [Goodreads Data Export](https://www.goodreads.com/review/import)
 - [Pocket Data Export](https://getpocket.com/export)
