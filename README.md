@@ -51,6 +51,17 @@ Subjects I am researching about: [3D Pose applications](https://gist.github.com/
 - Write part of a book using [RMarkdown](https://bookdown.org/yihui/rmarkdown/tufte-handouts.html) or [mdBook](https://github.com/rust-lang/mdBook)
 - Exciting things: [Mediapipe](https://mediapipe.dev), [Roboflow](https://www.roboflow.com), [Idyll](https://idyll-lang.org/), [Julia](https://julialang.org)
 
+##### March
+
+- Microsoft [continues investing in OpenAI](https://www.bloomberg.com/news/articles/2023-03-13/microsoft-built-an-expensive-supercomputer-to-power-openai-s-chatgpt) promising to innovate using transformers in the [enterprise applications](https://news.microsoft.com/source/features/ai/how-microsofts-bet-on-azure-unlocked-an-ai-revolution/). Developers can already try to build their own apps using GPT-3, Codex, and with [Spark plugins](https://github.com/microsoft/SynapseML/blob/master/notebooks/features/cognitive_services/CognitiveServices%20-%20OpenAI.ipynb) already available. On the desktop side, Microsoft Teams already integrates with ChatGPT.
+- In [GPT-3 and Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk), Christopher Potts explains how algorithms are outperforming humans in classic NLP problems with the dimensionality explosion of large language models (LLM).
+- In a [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide), authors from `dair.ai` dissect how prompt works in LLM. Ironically, the term "prompt engineer" also begins to pop up as a newly demanded skill on LinkedIn promising to change the way we work.
+- YOLOv8 was [released in January 2023](https://blog.roboflow.com/whats-new-in-yolov8/), this short tutorial video explains how to easily train a object detection system using popular service [Roboflow](https://www.youtube.com/watch?v=wuZtUMEiKWY), which supports multiple deployment platform, web or on even edge devices from Nvidia and Luxonis.
+- Inside [Zillow's propensity model](http://www.zillow.com/tech/identifying-high-intent-buyers). Authors explain how the real estate platform identify potential buyers and serve them the appropriate contents.
+- A walkthough on how to build a [embeddings based similar products](https://redis.com/blog/real-time-product-recommendation-docarray/) recommendation system using Redis and Docarray.
+- Choosing between [Snowflake, Databricks, BigQuery or Redshift or EMR](https://lakshmanok.medium.com/snowflake-or-databricks-bigquery-or-dataproc-redshift-or-emr-e40190c97ef8) from Lak Lakshmanan.
+
+
 ##### January
 
 - A primer from PagerDuty for dealing with technical incidents. The [Postmortem document](https://postmortems.pagerduty.com/meeting/) is at the core of the SRE culture, making sure the process is clear will make engineering teams succeed, when facing critical applications and busy stakeholders. PagerDuty is a [SaaS service](https://www.pagerduty.com/) to provide engineer tools to manage on-calls effectively.
